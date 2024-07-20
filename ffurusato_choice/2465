@@ -1,0 +1,3320 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/2465" />
+
+<title>小坂鉄道の貴重な車両や施設を未来に！【小坂鉄道レールパークの営業を応援しよう！！】｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="小坂鉄道の貴重な車両や施設を未来に！【小坂鉄道レールパークの営業を応援しよう！！】｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/2465" />
+<meta property="og:description" content="◆寄附受付期間が終了しました多くの皆さまからのあたたかいご支援のおかげで11月13日（月）に目標金額を達成しました。その後も12月31日（日）まで寄附受付を継続させていただき、さらに多くのご支援をいただき心より感謝申し上げます。ブルートレインあけぼのは、2024（令和6）年春の営業再開を目指し、塗装工事を終えて準備を進めております。小坂鉄道レールパークの園内には、かつての旅客列車キハ2100形をはじめ、修繕を必要としている車両や施設はまだあり、皆さまからいただいたご支援を活用させていただきながら、できるところから整備保全を進めてまいります。◆当プロジェクトについて明治時代に鉱山の町として栄えた小坂町には、多くの産業遺産が今も現存しています。そのひとつに2009（平成21）年に惜しまれながら廃線となった「小坂鉄道」があります。この「小坂鉄道」の貴重な車両や施設を活用し、2014（平成26）年に「小坂鉄道レールパーク」がオープンしました。かつて首都圏と東北地方を結んだ寝台特急「ブルートレインあけぼの」を園内の宿泊施設として迎え入れ、観て・学んで・体験できるレール遊びの複合施設として、大人から子どもまで多くの人たちに親しまれてきました。しかし、新型コロナウイルスの影響により、2020（令和2）年より「ブルートレインあけぼの」は営業休止となりました。それから営業再開を目指し準備を進めるも、営業休止した数年の間に塗装の劣化や電気関係の設備不良など次から次へと不良箇所が出ており、現在も営業再開できていません。これは「ブルートレインあけぼの」だけに限らず、園内にある貴重な車両や設備にも同様のことがいえ、それらを維持するためは多くの費用、そして人手や技術が必要なため、「小坂鉄道レールパーク」は厳しい営業環境にさらされています。小坂町では町全体の活性化につながるものとして「小坂鉄道レールパーク」は欠かせない存在です。園内の顔でもあり、宿泊施設としての役割も担う「ブルートレインあけぼの」の復活はもちろん、小坂鉄道の産業遺産を未来へ残し、多くの人たちに愛され続けていくために、みなさまからの応援をお願いいたします。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20231115/d_f828d77c293929fceb4b03645f20494fbca56064.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20231115/d_f828d77c293929fceb4b03645f20494fbca56064.jpg" />
+<meta property="twitter:title" content="小坂鉄道の貴重な車両や施設を未来に！【小坂鉄道レールパークの営業を応援しよう！！】｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="◆寄附受付期間が終了しました多くの皆さまからのあたたかいご支援のおかげで11月13日（月）に目標金額を達成しました。その後も12月31日（日）まで寄附受付を継続させていただき、さらに多くのご支援をいただき心より感謝申し上げます。ブルートレインあけぼのは、2024（令和6）年春の営業再開を目指し、塗装工事を終えて準備を進めております。小坂鉄道レールパークの園内には、かつての旅客列車キハ2100形をはじめ、修繕を必要としている車両や施設はまだあり、皆さまからいただいたご支援を活用させていただきながら、できるところから整備保全を進めてまいります。◆当プロジェクトについて明治時代に鉱山の町として栄えた小坂町には、多くの産業遺産が今も現存しています。そのひとつに2009（平成21）年に惜しまれながら廃線となった「小坂鉄道」があります。この「小坂鉄道」の貴重な車両や施設を活用し、2014（平成26）年に「小坂鉄道レールパーク」がオープンしました。かつて首都圏と東北地方を結んだ寝台特急「ブルートレインあけぼの」を園内の宿泊施設として迎え入れ、観て・学んで・体験できるレール遊びの複合施設として、大人から子どもまで多くの人たちに親しまれてきました。しかし、新型コロナウイルスの影響により、2020（令和2）年より「ブルートレインあけぼの」は営業休止となりました。それから営業再開を目指し準備を進めるも、営業休止した数年の間に塗装の劣化や電気関係の設備不良など次から次へと不良箇所が出ており、現在も営業再開できていません。これは「ブルートレインあけぼの」だけに限らず、園内にある貴重な車両や設備にも同様のことがいえ、それらを維持するためは多くの費用、そして人手や技術が必要なため、「小坂鉄道レールパーク」は厳しい営業環境にさらされています。小坂町では町全体の活性化につながるものとして「小坂鉄道レールパーク」は欠かせない存在です。園内の顔でもあり、宿泊施設としての役割も担う「ブルートレインあけぼの」の復活はもちろん、小坂鉄道の産業遺産を未来へ残し、多くの人たちに愛され続けていくために、みなさまからの応援をお願いいたします。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,618,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="2465" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">小坂鉄道の貴重な車両や施設を未来に！【小坂鉄道レールパークの営業を応援しよう！！】</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">小坂鉄道の貴重な車両や施設を未来に！【小坂鉄道レールパークの営業を応援しよう！！】</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1020">観光・PR&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20231115/d_f828d77c293929fceb4b03645f20494fbca56064.jpg" alt="main_img" decoding="async" />
+<img class="gcf-lyt-detail__complete" src="/gcf/images_cf/icon_goal_brown.png" alt="達成" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E5%B0%8F%E5%9D%82%E9%89%84%E9%81%93%E3%81%AE%E8%B2%B4%E9%87%8D%E3%81%AA%E8%BB%8A%E4%B8%A1%E3%82%84%E6%96%BD%E8%A8%AD%E3%82%92%E6%9C%AA%E6%9D%A5%E3%81%AB%EF%BC%81%E3%80%90%E5%B0%8F%E5%9D%82%E9%89%84%E9%81%93%E3%83%AC%E3%83%BC%E3%83%AB%E3%83%91%E3%83%BC%E3%82%AF%E3%81%AE%E5%96%B6%E6%A5%AD%E3%82%92%E5%BF%9C%E6%8F%B4%E3%81%97%E3%82%88%E3%81%86%EF%BC%81%EF%BC%81%E3%80%91&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F2465">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">6,079,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph2" style="width: 173.6%;"></div>
+<p class="gcf-cht-detail-bar__number">173.6%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">3,500,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">173.6</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">305</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>秋田県小坂町（あきたけん こさかまち）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="2465" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2023年10月3日～2023年12月31日（90日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1028" class="sorting-list__item">まちづくり・コミュニティ</a></li><li><a href="/gcf/project/tag/1038" class="sorting-list__item">観光・PR</a></li><li><a href="/gcf/project/tag/1046" class="sorting-list__item">経済</a></li><li><a href="/gcf/project/tag/1053" class="sorting-list__item">歴史</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1096" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_17.png 1x, /gcf/images_cf/sdg/sdg_icon_17@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_17.png" alt="SDGアイコン" decoding="async" />17.パートナーシップで目標を達成しよう</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="2465" class="gcf-nv-tab__button js-tab">進捗情報
+<span class="gcf-nv-tab__button-progress-number">20</span>
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">秋田県小坂町</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230906/o_09a82e1ff10b35f02d1d04fb32c02ed06e969576.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">◆寄附受付期間が終了しました<br/>
+多くの皆さまからのあたたかいご支援のおかげで11月13日（月）に目標金額を達成しました。<br/>
+その後も12月31日（日）まで寄附受付を継続させていただき、さらに多くのご支援をいただき心より感謝申し上げます。<br/>
+<br/>
+ブルートレインあけぼのは、2024（令和6）年春の営業再開を目指し、塗装工事を終えて準備を進めております。<br/>
+小坂鉄道レールパークの園内には、かつての旅客列車キハ2100形をはじめ、修繕を必要としている車両や施設はまだあり、<br/>
+皆さまからいただいたご支援を活用させていただきながら、できるところから整備保全を進めてまいります。<br/>
+<br/>
+<br/>
+◆当プロジェクトについて<br/>
+明治時代に鉱山の町として栄えた小坂町には、多くの産業遺産が今も現存しています。<br/>
+そのひとつに2009（平成21）年に惜しまれながら廃線となった「小坂鉄道」があります。<br/>
+<br/>
+この「小坂鉄道」の貴重な車両や施設を活用し、2014（平成26）年に「小坂鉄道レールパーク」がオープンしました。<br/>
+かつて首都圏と東北地方を結んだ寝台特急「ブルートレインあけぼの」を園内の宿泊施設として迎え入れ、観て・学んで・体験できるレール遊びの複合施設として、大人から子どもまで多くの人たちに親しまれてきました。<br/>
+<br/>
+しかし、新型コロナウイルスの影響により、2020（令和2）年より「ブルートレインあけぼの」は営業休止となりました。<br/>
+それから営業再開を目指し準備を進めるも、営業休止した数年の間に塗装の劣化や電気関係の設備不良など次から次へと不良箇所が出ており、現在も営業再開できていません。<br/>
+これは「ブルートレインあけぼの」だけに限らず、園内にある貴重な車両や設備にも同様のことがいえ、それらを維持するためは多くの費用、そして人手や技術が必要なため、「小坂鉄道レールパーク」は厳しい営業環境にさらされています。<br/>
+<br/>
+小坂町では町全体の活性化につながるものとして「小坂鉄道レールパーク」は欠かせない存在です。<br/>
+園内の顔でもあり、宿泊施設としての役割も担う「ブルートレインあけぼの」の復活はもちろん、小坂鉄道の産業遺産を未来へ残し、多くの人たちに愛され続けていくために、みなさまからの応援をお願いいたします。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">多くの皆さまからのご支援に関係者一同心より感謝申し上げます</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">「ブルートレインあけぼの」の状況</span></h3>
+<h4 class="gcf-ttl-h4">来春の営業再開に向けて整備を進めています</h4>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20231113/gpfd_85e70ad9cdaf930e378ebd4b339fc2fd2554f341.jpg" />
+<figcaption class="lyt-image__caption">塗装工事が行われている「ブルートレインあけぼの」</figcaption>
+</figure>
+<p class="gcf-txt-article">おかげさまで11月13日（月）に当初の目標金額を達成しました。<br/>
+「ブルートレインあけぼの」は外装の塗装工事を終え、来春の営業再開に向けて大きく前進しています。<br/>
+これも多くの皆さまよりあたたかいご支援をいただいたおかげであり、関係者一同心より感謝申し上げます。<br/>
+<br/>
+その一方で小坂鉄道レールパークには、整備を待つ車両や施設が他にも多く存在しており、当プロジェクトによる寄附受付は当初予定としていた12月31日（日）まで継続させていただきました。<br/>
+最終的には目標金額を大きく上回る600万円以上の寄附を300名を超える多くの皆さまからいただき、本当にありがとうございました。</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">他にもある整備を待つ小坂鉄道の貴重な車両</span></h3>
+<h4 class="gcf-ttl-h4">旅客列車として活躍した「キハ2100形」の復活も目指しています</h4>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20231113/gpfd_99c92716c35403a0eadb8d0cf8bb3f188323447f.jpg" />
+<figcaption class="lyt-image__caption">日々劣化との戦いが強いられています</figcaption>
+</figure>
+<p class="gcf-txt-article">小坂鉄道レールパークには、「ブルートレインあけぼの」の他にも整備を待つ車両や施設は多く存在しており、その中にはかつて小坂鉄道の旅客列車として活躍した「キハ2100形」という車両があります。<br/>
+「キハ2100形」も風雨にさらされかなり傷みが激しく、外部・内部ともに塗装等の修繕が必要な状態となっています。<br/>
+この「キハ2100形」の姿を取り戻し、小坂鉄道レールパーク内で活用できる状態にするためには、1両あたり約400万円の修繕費用が必要とされています。<br/>
+<br/>
+・外部の修繕（塗装、外れた窓ガラスなど）約250万円<br/>
+・内部の修繕（座席・天井や壁など）約150万円<br/>
+※金額はいずれも1両あたりの参考金額であり、キハ2100形は小坂鉄道レールパークに現在2両あります。<br/>
+<br/>
+皆さまよりいただいたご支援をどのように「キハ2100形」をはじめ、園内にある車両や施設の整備保全に活用してか、詳細は決まり次第当サイトの「進捗状況」などでお知らせいたします。</p>
+<h3 class="gcf-ttl-h3">▼▼▼当プロジェクトについてはここからご覧ください▼▼▼</h3>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">小坂鉄道の貴重な車両や施設を未来に！</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">小坂町の繁栄とともに走り続けた小坂鉄道</span></h3>
+<h4 class="gcf-ttl-h4">秋田県第二の都市へと成長した象徴のひとつ</h4>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230910/gpfd_7ece77e0288caaf2ef282861ccdd189e6222372d.jpg" />
+<figcaption class="lyt-image__caption">お召列車（右上）も小坂町にやって来ました</figcaption>
+</figure>
+<p class="gcf-txt-article">小坂町は明治時代に小坂鉱山を中心に繁栄し、1907（明治40）年には鉱産額が日本一となり、日本三大銅山のひとつとして国の産業発展に貢献しました。<br/>
+同じ年、小坂鉱山専用鉄道として小坂～大館間に開通し、翌年旅客営業が開始されたのが、東北最初の私鉄である「小坂鉄道」です。<br/>
+この頃の小坂町は秋田県第二の人口を誇るまでに成長し、多くの人や貨物を運んだ「小坂鉄道」はその象徴のひとつともいえます。<br/>
+それから「小坂鉄道」は約100年もの長い間、鉱山に関連する貨物や旅客を運び、小坂町の重要な交通機関として活躍するも、惜しまれながら2009（平成21）年に営業が廃止されました。</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">小坂鉄道レールパークの誕生</span></h3>
+<h4 class="gcf-ttl-h4">駅構内がまるごと鉄道のテーマパーク</h4>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230910/gpfd_2c21f111f5181d690ebaa0598452753dc59383db.jpg" />
+<figcaption class="lyt-image__caption">貴重な車両や施設の数々、廃線跡をレールバイクやトロッコで乗車体験も</figcaption>
+</figure>
+<p class="gcf-txt-article">廃線となった小坂鉄道を小坂町では新たなにぎわい創出の場として活用しようと動き出しました。<br/>
+小坂駅舎や車両、駅構内のさまざまな施設を活用し、観て・学んで・体験できるレール遊びの複合施設として2014（平成26）年「小坂鉄道レールパーク」がオープンしました。<br/>
+また、かつて首都圏と東北地方を結んだ寝台特急「ブルートレインあけぼの」が宿泊施設として往年活躍していた姿のまま小坂鉄道レールパークで新たな道を歩みはじめました。<br/>
+DD130形ディーゼル機関車によって構内をけん引した全国でも珍しい「動くブルートレイン」を体験でき、多くの方々に親しまれています。</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">注目を集める小坂鉄道レールパーク</span></h3>
+<h4 class="gcf-ttl-h4">交通系YouTuberスーツさんの動画にも登場</h4>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Chuu9jKI5k?si=yBU1r_gEVb98BHUe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+<p class="gcf-txt-article">小坂鉄道レールパークにある貴重な車両や施設は希少価値が高く、さまざまな場面で注目を集めることになります。<br/>
+2019（令和元）年には、交通系YouTuber「スーツさん」が来園し「ブルートレインあけぼの」を取り上げていただき、65万を超える視聴数からも注目の高さが分かります。<br/>
+他にもテレビ番組や関連雑誌など多くのメディア、業界から取り上げられています。<br/>
+<br/>
+※動画掲載については、株式会社AS様より許可をいただいております</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">車両や施設へ押し寄せる老朽化の波</span></h3>
+<h4 class="gcf-ttl-h4">厳しい営業環境との戦い</h4>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230910/gpfd_d1449f0ee700026cb426e66963f0634fd3bec711.jpg" />
+<figcaption class="lyt-image__caption">補修できずにいる車両や枕木、レールといった構内の設備</figcaption>
+</figure>
+<p class="gcf-txt-article">そんな「小坂鉄道レールパーク」の顔として新たな歩みをはじめた「ブルートレインあけぼの」ですが、塗装の劣化や電気関係の設備不良など老朽化の波が押し寄せます。<br/>
+そこへ新型コロナウイルスによる外出自粛や旅行控えが重なり、2020（令和2）年より宿泊営業を休止せざるを得ない状況となりました。<br/>
+現在、「小坂鉄道レールパーク」は「ブルートレインあけぼの」が休止しているものの、他の車両や施設を活用し、観光客や関係者の皆さんに支えられながら営業を続けています。<br/>
+しかし、「ブルートレインあけぼの」をはじめ、園内の貴重な車両や設備の老朽化も激しく進んでおり、それらを保全維持するためには多くの費用、そして人手や技術が必要となるため、厳しい営業環境に立たされています。</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">小坂鉄道レールパークの営業を応援しよう！！</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">寄附金の使い道</span></h3>
+<h4 class="gcf-ttl-h4">園内の車両や施設の保全維持に活用いたします</h4>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230910/gpfd_87d0abb3ca71c9c333dc6b8e8ad33aef968a45d8.jpg" />
+<figcaption class="lyt-image__caption">保全作業は大半の工程が手作業で行われ手間がかけられている</figcaption>
+</figure>
+<p class="gcf-txt-article">皆様から頂いたご支援は、小坂鉄道レールパークにある車両や施設の保全（塗装や補修など）に活用させていただきます。<br/>
+<br/>
+おかげさまで11月13日（月）に当初の目標金額を達成し、「ブルートレインあけぼの」は来年春の影響再開に向けて、整備を進めることができておりますが、寄附受付を継続させていただきます。<br/>
+小坂鉄道レールパークには、整備を待つ車両や施設は多く存在しており、その中にはかつて旅客列車として活躍した「キハ2100形」という車両があります。<br/>
+「キハ2100形」も傷みが激しく、外部の塗装等による修繕および内部の修繕が必要な状態であり、その姿を取り戻し活用するためには1両あたり約400万円が必要とされています。<br/>
+<br/>
+・外部の塗装等修繕　約250万円<br/>
+・内部の修繕　約150万円<br/>
+（いずれも1両あたりの金額・小坂鉄道レールパークには現在2両あります）<br/>
+<br/>
+今後の寄付金額に応じて可能な範囲から修繕を行うことを目標としています。</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">プロジェクトのスケジュール</span></h3>
+<h4 class="gcf-ttl-h4">「ブルートレインあけぼの」の営業再開を目指し、施設の保全を図ります</h4>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230911/gpfd_7d331b8a451993f1e9fcff936c8bcfe7fec9b7c4.jpg" />
+<figcaption class="lyt-image__caption">貴重な車両を守るためには多くの費用、人手、技術を要します</figcaption>
+</figure>
+<p class="gcf-txt-article">11月13日（月）に目標金額を達成しました。「ブルートレインあけぼの」は来春の営業再開に向けて整備を進めていますが、小坂鉄道レールパーク内には他にも整備が必要な車両や施設が多く存在しています。<br/>
+そこで寄附受付を12月31日（日）まで継続させていただき、「キハ2100形」をはじめとする車両の整備にも活用をさせていただく予定です。</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">寄附者のみなさまへ</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">小坂町長・細越満よりメッセージ</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230910/gpfd_b5a736c50a5681edbab7402a00e2356705ab7804.jpg" />
+<figcaption class="lyt-image__caption">胸には「あけぼの」のバッジがキラリと輝く</figcaption>
+</figure>
+<p class="gcf-txt-article">小坂町では、廃線となった小坂鉄道の新たな活用策を模索し、 国重要文化財である康楽館や小坂鉱山事務所をはじめ、小坂鉱山に関連した近代化産業遺産が集まる明治百年通りのにぎわい創出事業に着手し、「小坂鉄道レールパーク」をオープンしました。<br/>
+「活用なくして保存なし」をテーマに掲げている小坂町にとって、園内にある貴重な車両や施設を活用しながら、未来にどう残して伝えていくのかがカギとなります。<br/>
+<br/>
+小坂鉄道は私自身も学生時代から関わりが深く、小坂町の自宅から大館の高校に通う私は、毎朝毎晩、 車輪の軋む大きな音が車内に響き渡る小坂鉄道の客車の中にいました。<br/>
+春には新緑で膨らむ山々、初夏には山々を覆うニセアカシアの白い花、秋には長木渓谷の色鮮やかな紅葉、 そして冬は一面の雪景色など四季折々の風景が今でも目に浮かんできます。今でも「小坂鉄道レールパーク」を訪れるたびに、私の頭の中にはその時の小坂鉄道の様々な思い出がよみがえります。<br/>
+<br/>
+現在「小坂鉄道レールパーク」は、「ブルートレインあけぼの」の営業休止や園内にある貴重な車両・施設の老朽化と大きな課題に直面しています。<br/>
+これらを活用して往時の小坂鉄道の賑わいを戻すこと、未来に守り続けていくことが私の夢です。<br/>
+皆様からのご支援よろしくお願いいたします。</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">小坂鉄道レールパーク園長・鈴木二朗よりメッセージ</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230911/gpfd_763ab19594254805ee05b9bb929fb1b0d42414cb.jpg" />
+<figcaption class="lyt-image__caption">今日も楽しく安全にみなさまをお迎えします</figcaption>
+</figure>
+<p class="gcf-txt-article">2014（平成26）年のオープンから、「小坂鉄道鉄道レールパーク」に勤務し、これまでたくさんのお客様をご案内してきました。<br/>
+来場いただく多くのお客様からのあたたかい励ましの言葉やオープンから二人三脚で運営に協力いただいている小坂鉄道保存会をはじめ、関係者の皆様に支えられ、来年にはオープン10周年という節目を迎えます。<br/>
+<br/>
+新型コロナの影響に加え、園内の車両や施設の老朽化の影響により厳しい営業環境ではありますが、これからも来場いただいた多くの方々に楽しんでいただくため、スタッフ一同頑張ってまいります。<br/>
+今回のプロジェクトへのご支援よろしくお願いいたします。<br/>
+<br/>
+そして「小坂鉄道レールパーク」で皆様へお会いできることを心よりお待ちしております。<br/>
+ぜひご来園ください。</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">このプロジェクトを応援します</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">「ブルートレインあけぼの」宿泊者のみなさまの声</span></h3>
+<h4 class="gcf-ttl-h4">たくさんの声が私たちの励みになります</h4>
+<p class="gcf-txt-article">小坂鉄道レールパーク内に置かれた自由帳「小坂鉄道レールパーク・あけぼの号宿泊者の足跡」には、2016（平成28）年から2019（令和元）年にかけて、4年間で371件と大変多くの方からコメントが寄せられました。その一部をここではご紹介します。<br/>
+<br/>
+※お客様の声は可能な限り原文を転記していますが、個人情報など必要に応じて保護編集しています。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230910/gpfd_7fec57daa973e8343c15bcf6f639d1241ce16e8f.jpg" />
+<figcaption class="lyt-image__caption">およそ1年に1冊のペースで多くの声が寄せられています</figcaption>
+</figure>
+<h4 class="gcf-ttl-h4">これからも残してほしいという声</h4>
+<p class="gcf-txt-article">◆あけぼの号現役時代Ａ個室のチケットを取れなく乗れずにいましたが、こんな形でＡ個室に乗れるなんて感動です。これからもそのままの形で残してください。<br/>
+<br/>
+◆東京から来ました。現役時代に何度も乗ったあけぼの号に、またこんな形で泊まることができ、とてもうれしくなりました。ぜひまた来たいです。末永く続いてほしいと思います。<br/>
+<br/>
+◆はじめて1人で乗ったブルートレインがあけぼのでした。ラストラン前日も乗りました。レールパークで令和になっても泊まることができ、至福なことこの上ないです。維持大変だと思いますが、末永く体験できるのであって頂きたいです。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230910/gpfd_2569de26db7c02b6258b84f278f93212b97da9d4.jpg" />
+<figcaption class="lyt-image__caption">コメントの分だけいろいろな人たちの想いが詰まっています</figcaption>
+</figure>
+<h4 class="gcf-ttl-h4">数多くいただいている応援や感謝の声</h4>
+<p class="gcf-txt-article">◆あけぼのがこんなに大切にされ、皆に愛されていると改めて認識しました。これからも末永く保存活用されますように。録音の列車音、案内放送を聞いていると、寝台列車での旅が目に浮かび、よみがえってきます。ブルートレイン、すばらしい！！保存に尽力されている方々に御礼申し上げます。<br/>
+<br/>
+◆ブルートレインが絶滅してしまった今、動いている「ハネ」に乗車できるのはココだけ！在りし日を今に伝える貴重な場所だと思います。保存に携わる皆さん、ありがとうございました。またこれからも応援しています。<br/>
+<br/>
+◆もっと早く鉄道を好きになっていればよかった。好きになった時には、もうブルートレインはすべて過去のものになっていました。それをふまえて、このブルートレインあけぼのは最後の希望です。また来るぞ！</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230910/gpfd_2f387f1251090abfb44b786273eb4e98dd83a229.jpg" />
+<figcaption class="lyt-image__caption">子どもから大人までみんなが楽しめる施設を目指しています</figcaption>
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">小坂鉄道保存会・会長　千葉裕之さんからのメッセージ</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230910/gpfd_36a742cf41f48fcd5e76348ee82c075af0d99e3a.jpg" />
+<figcaption class="lyt-image__caption">「ブルートレインあけぼの」の営業再開を願う千葉裕之さん</figcaption>
+</figure>
+<p class="gcf-txt-article">小坂鉄道保存会は、旧小坂鉄道の車両や設備の保存とそれらを活用した小坂鉄道レールパーク体験観光プログラムの企画運営に協力するボランティア団体です。<br/>
+構内に現存する旧小坂駅舎や旧機関車庫は、国登録有形文化財に指定されているほか、貴重な車両が現存しており、当会ではそれらの整備や保存、補修・復元作業を行っています。<br/>
+今年は長年にわたり貨物列車を牽引した機関車DD132 の痛んだ箇所を補修する塗装整備を半年がかりで行いました。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230911/gpfd_3d6b726459a0fd31b6e821c90ce9a38963d32b0e.jpg" />
+<figcaption class="lyt-image__caption">車両等の保全維持は全国から集まる保存会会員によって支えられています</figcaption>
+</figure>
+<p class="gcf-txt-article">他にもイベントや乗車体験などの観光体験プログラム企画運営への協力も行っており、その目玉となっているのが、「ブルートレインあけぼの」号への宿泊体験です。貴重な客車に宿泊するだけでなく、列車ホテルでは全国唯一の動態保存である特徴も活かしながら、当会では“魅せ鉄”によるおもてなしも行っています。<br/>
+現在は休止となっている「ブルートレインあけぼの」号ですが、廃線とは思えない小坂鉄道レールパークの情景を活かし、かつて他の交通機関では体験し得ない、夜行列車での濃密な時間を過ごした記憶の再生と、小坂鉄道レールパークで体験する非日常の新鮮な感覚を得た感動が憧れとなる、ブルートレインの思い出を多くの人たちに体験いただけるよう、これからも活動していきたいと思います。<br/>
+今回は返礼品の一つとして、夢の乗客専務車掌体験もご用意させていただきました。本物のブルートレインで、実際に車掌乗務するようなタイムスケジュールでの体験を私たちが全面的にサポートさせていただきます。</p>
+<h4 class="gcf-ttl-h4">小坂鉄道保存会では新規会員を募集しています</h4>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="http://kosaka-rp.com/publics/index/82/">小坂鉄道保存会の紹介（小坂鉄道レールパークホームページ）</a></p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.facebook.com/KosakaRailroadPS/">小坂鉄道保存会Facebook</a></p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">小坂町の担当者より（小坂町総務課・木村卓泰）</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230913/gpfd_8c276219aef55ffe0c861777f3eeb702949dfb7a.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">小坂鉄道の旅客営業が廃止された中学生の時、同じ部活の友人たちと「お別れ乗車」ということで大館へ遊びに出かけたこと。<br/>
+毎朝定時に「おはよう」と言っているかのように、耳に響く音をたてる重連機関車に引かれ、元気良く坂を上っていく貨物を中学校の教室の窓から眺めていたこと。<br/>
+高校を卒業し、大学進学のために小坂町を離れる際に「ブルートレインあけぼの」のB寝台個室にはじめて乗車したこと。<br/>
+帰省した際に、桜の明治百年通り沿いで姪っ子たちを乗せて一緒に「レールバイク」をこいだこと。<br/>
+小坂鉄道レールパークを家族みんなで訪ねてくれた大学時代の友人が「小坂町ってすごいね」と言ってくれたこと。<br/>
+こうして今、自分の仕事に「小坂鉄道」が関わっていること。<br/>
+<br/>
+私だけでなく、小坂鉄道の現役の頃を知っている人もそうでない人も、いろいろな思いが「小坂鉄道レールパーク」には詰まっていると思います。<br/>
+小坂鉄道が未来へ語り継がれていくためにも、今回のプロジェクトをぜひ成功させたいと思っています。<br/>
+皆様からのご支援よろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">お礼の品について</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">感謝を込めてこのプロジェクトだけの特別なものもご用意しました</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230913/gpfd_8a1ace2f34892619f696e0a9d4734dadab8a756b.jpg" />
+</figure>
+<p class="gcf-txt-article">◆募集期間は終了しています<br/>
+<br/>
+今回のプロジェクトを応援いただいている「小坂鉄道保存会」監修による夢の乗客専務車掌体験をはじめ、当プロジェクト限定のお礼の品もご用意いたしました。<br/>
+お礼の品のなかには先着限定となっているものもありますので、ご希望の方はお早めにご寄附ください。<br/>
+また、小坂町ふるさと納税の通常のお礼の品もご用意しています。「アカシアはちみつ」や「十和田湖高原ポーク桃豚」、「小坂七滝ワイン」をはじめ、大自然の恵みいっぱいの小坂町が誇る特産品の数々もぜひどうぞ。</p>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/05303/5936947/32">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_5490a750accc9155a0262a615fded95d5285cb64.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【1組1名限定・5/25～5/26】憧れの24系寝台特急で、夢の乗客専務車掌体験</h4>
+<p class="goods-col_price inline">150,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、準備が出来次第の発送</p>
+</div>
+<p class="goods-col_textinfo pc">ブルートレイン・あけぼので、おもてなし活動を行う小坂鉄道保存会の臨時会員として車掌乗務チームに参加します。
+昭和50年代の上野発青森行き「あけぼの号」をイメージしたタイムスケジュールで、実際に一晩乗務していただきます。
+各駅発着や朝晩の案内放送、検札、お客さまおもてなし、青函連絡船乗船名簿配布など、本当に乗務しているような体験ができます。
+特典として、カニ24電源車の車内見学と、スタッフ関係者のみが利用する２段式Ｂ寝台での「仮眠」体験を提供いたします。
+◆特典
+ブルートレインあけぼの「小坂行き」方向幕（仮想行き先）、限定トートバッグ、限定バッジがもらえます。
+◆タイムスケジュール　※当日の状況により変更となる場合があります
+14:00　小坂鉄道レールパーク集合
+14:10　乗客専務車掌辞令交付～乗務準備（小坂鉄道保存会詰所にて）
+15:30　乗務点呼～出場～現車点検～お客様ご案内
+16:30　夕方の宿泊体験乗車列車発車・車内放送・お客様おもてなしなど
+19:30　車内等巡回など
+20:40～22:00　車内放送・寝台券検札・おやすみ放送など
+～B寝台車・オハネフ2412で仮眠～
+5:00　起床・乗務再開準備
+6:30　車内等巡回・清掃など
+7:00　おはよう放送など
+9:00　朝の宿泊者体験乗車列車発車・青森駅到着車内放送・お客様見送りなど
+9:30　乗務帰着点呼～乗務開放（終了）
+◆注意事項
+・寄附者と参加者が異なる場合、備考欄に参加者の「氏名」「住所」「生年月日」「電話番号」「メールアドレス」を必ず入力してください。
+・小坂鉄道レールパークおよび小坂鉄道保存会といった当プロジェクトの関係者より、参加者へ直接乗務に関する打ち合わせのためご連絡をさせていただきます。
+・制服（上着Lサイズ相当まで）や制帽等の貸し出しがあります。体験中の服装の詳細については打ち合わせ時にご確認ください。
+・接客を伴いますので体験中の飲酒は基本的に禁止となります。
+・現地までの交通費は各自負担となります。また、夕食および朝食は各自ご用意ください（買出しも可）。
+・その他不明点は、お礼の品に関する問い合わせ先へお尋ねください。
+・参加者の都合によらない理由により体験が中止・変更となる場合は、関係者よりご連絡させていただきます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/05303/5936948/32">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_5dd47d2f7f2bb2564470a24a429f9579f0c40b45.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【1組1名限定・6/15～6/16】憧れの24系寝台特急で、夢の乗客専務車掌体験 </h4>
+<p class="goods-col_price inline">150,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、準備が出来次第の発送</p>
+</div>
+<p class="goods-col_textinfo pc">ブルートレイン・あけぼので、おもてなし活動を行う小坂鉄道保存会の臨時会員として車掌乗務チームに参加します。
+昭和50年代の上野発青森行き「あけぼの号」をイメージしたタイムスケジュールで、実際に一晩乗務していただきます。
+各駅発着や朝晩の案内放送、検札、お客さまおもてなし、青函連絡船乗船名簿配布など、本当に乗務しているような体験ができます。
+特典として、カニ24電源車の車内見学と、スタッフ関係者のみが利用する２段式Ｂ寝台での「仮眠」体験を提供いたします。
+◆特典
+ブルートレインあけぼの「小坂行き」方向幕（仮想行き先）、限定トートバッグ、限定バッジがもらえます。
+◆タイムスケジュール　※当日の状況により変更となる場合があります
+14:00　小坂鉄道レールパーク集合
+14:10　乗客専務車掌辞令交付～乗務準備（小坂鉄道保存会詰所にて）
+15:30　乗務点呼～出場～現車点検～お客様ご案内
+16:30　夕方の宿泊体験乗車列車発車・車内放送・お客様おもてなしなど
+19:30　車内等巡回など
+20:40～22:00　車内放送・寝台券検札・おやすみ放送など
+～B寝台車・オハネフ2412で仮眠～
+5:00　起床・乗務再開準備
+6:30　車内等巡回・清掃など
+7:00　おはよう放送など
+9:00　朝の宿泊者体験乗車列車発車・青森駅到着車内放送・お客様見送りなど
+9:30　乗務帰着点呼～乗務開放（終了）
+◆注意事項
+・寄附者と参加者が異なる場合、備考欄に参加者の「氏名」「住所」「生年月日」「電話番号」「メールアドレス」を必ず入力してください。
+・小坂鉄道レールパークおよび小坂鉄道保存会といった当プロジェクトの関係者より、参加者へ直接乗務に関する打ち合わせのためご連絡をさせていただきます。
+・制服（上着Lサイズ相当まで）や制帽等の貸し出しがあります。体験中の服装の詳細については打ち合わせ時にご確認ください。
+・接客を伴いますので体験中の飲酒は基本的に禁止となります。
+・現地までの交通費は各自負担となります。また、夕食および朝食は各自ご用意ください（買出しも可）。
+・その他不明点は、お礼の品に関する問い合わせ先へお尋ねください。
+・参加者の都合によらない理由により体験が中止・変更となる場合は、関係者よりご連絡させていただきます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/05303/5936949/32">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_76a119b89bf116760f043ead6104b9e9c80ba6fb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【1組1名限定・6/29～6/30】憧れの24系寝台特急で、夢の乗客専務車掌体験</h4>
+<p class="goods-col_price inline">150,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、準備が出来次第の発送</p>
+</div>
+<p class="goods-col_textinfo pc">ブルートレイン・あけぼので、おもてなし活動を行う小坂鉄道保存会の臨時会員として車掌乗務チームに参加します。
+昭和50年代の上野発青森行き「あけぼの号」をイメージしたタイムスケジュールで、実際に一晩乗務していただきます。
+各駅発着や朝晩の案内放送、検札、お客さまおもてなし、青函連絡船乗船名簿配布など、本当に乗務しているような体験ができます。
+特典として、カニ24電源車の車内見学と、スタッフ関係者のみが利用する２段式Ｂ寝台での「仮眠」体験を提供いたします。
+◆特典
+ブルートレインあけぼの「小坂行き」方向幕（仮想行き先）、限定トートバッグ、限定バッジがもらえます。
+◆タイムスケジュール　※当日の状況により変更となる場合があります
+14:00　小坂鉄道レールパーク集合
+14:10　乗客専務車掌辞令交付～乗務準備（小坂鉄道保存会詰所にて）
+15:30　乗務点呼～出場～現車点検～お客様ご案内
+16:30　夕方の宿泊体験乗車列車発車・車内放送・お客様おもてなしなど
+19:30　車内等巡回など
+20:40～22:00　車内放送・寝台券検札・おやすみ放送など
+～B寝台車・オハネフ2412で仮眠～
+5:00　起床・乗務再開準備
+6:30　車内等巡回・清掃など
+7:00　おはよう放送など
+9:00　朝の宿泊者体験乗車列車発車・青森駅到着車内放送・お客様見送りなど
+9:30　乗務帰着点呼～乗務開放（終了）
+◆注意事項
+・寄附者と参加者が異なる場合、備考欄に参加者の「氏名」「住所」「生年月日」「電話番号」「メールアドレス」を必ず入力してください。
+・小坂鉄道レールパークおよび小坂鉄道保存会といった当プロジェクトの関係者より、参加者へ直接乗務に関する打ち合わせのためご連絡をさせていただきます。
+・制服（上着Lサイズ相当まで）や制帽等の貸し出しがあります。体験中の服装の詳細については打ち合わせ時にご確認ください。
+・接客を伴いますので体験中の飲酒は基本的に禁止となります。
+・現地までの交通費は各自負担となります。また、夕食および朝食は各自ご用意ください（買出しも可）。
+・その他不明点は、お礼の品に関する問い合わせ先へお尋ねください。
+・参加者の都合によらない理由により体験が中止・変更となる場合は、関係者よりご連絡させていただきます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/05303/5936950/32">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_7656a87a88358a7d2525e1f131419d7a348feec4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【1組1名限定・7/13～7/14】憧れの24系寝台特急で、夢の乗客専務車掌体験</h4>
+<p class="goods-col_price inline">150,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、準備が出来次第の発送</p>
+</div>
+<p class="goods-col_textinfo pc">ブルートレイン・あけぼので、おもてなし活動を行う小坂鉄道保存会の臨時会員として車掌乗務チームに参加します。
+昭和50年代の上野発青森行き「あけぼの号」をイメージしたタイムスケジュールで、実際に一晩乗務していただきます。
+各駅発着や朝晩の案内放送、検札、お客さまおもてなし、青函連絡船乗船名簿配布など、本当に乗務しているような体験ができます。
+特典として、カニ24電源車の車内見学と、スタッフ関係者のみが利用する２段式Ｂ寝台での「仮眠」体験を提供いたします。
+◆特典
+ブルートレインあけぼの「小坂行き」方向幕（仮想行き先）、限定トートバッグ、限定バッジがもらえます。
+◆タイムスケジュール　※当日の状況により変更となる場合があります
+14:00　小坂鉄道レールパーク集合
+14:10　乗客専務車掌辞令交付～乗務準備（小坂鉄道保存会詰所にて）
+15:30　乗務点呼～出場～現車点検～お客様ご案内
+16:30　夕方の宿泊体験乗車列車発車・車内放送・お客様おもてなしなど
+19:30　車内等巡回など
+20:40～22:00　車内放送・寝台券検札・おやすみ放送など
+～B寝台車・オハネフ2412で仮眠～
+5:00　起床・乗務再開準備
+6:30　車内等巡回・清掃など
+7:00　おはよう放送など
+9:00　朝の宿泊者体験乗車列車発車・青森駅到着車内放送・お客様見送りなど
+9:30　乗務帰着点呼～乗務開放（終了）
+◆注意事項
+・寄附者と参加者が異なる場合、備考欄に参加者の「氏名」「住所」「生年月日」「電話番号」「メールアドレス」を必ず入力してください。
+・小坂鉄道レールパークおよび小坂鉄道保存会といった当プロジェクトの関係者より、参加者へ直接乗務に関する打ち合わせのためご連絡をさせていただきます。
+・制服（上着Lサイズ相当まで）や制帽等の貸し出しがあります。体験中の服装の詳細については打ち合わせ時にご確認ください。
+・接客を伴いますので体験中の飲酒は基本的に禁止となります。
+・現地までの交通費は各自負担となります。また、夕食および朝食は各自ご用意ください（買出しも可）。
+・その他不明点は、お礼の品に関する問い合わせ先へお尋ねください。
+・参加者の都合によらない理由により体験が中止・変更となる場合は、関係者よりご連絡させていただきます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/05303/5936951/32">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_973fc678512dc3a92be9e038f7103fe9648e7f35.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【1組1名限定・7/27～7/28】憧れの24系寝台特急で、夢の乗客専務車掌体験</h4>
+<p class="goods-col_price inline">150,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、準備が出来次第の発送</p>
+</div>
+<p class="goods-col_textinfo pc">ブルートレイン・あけぼので、おもてなし活動を行う小坂鉄道保存会の臨時会員として車掌乗務チームに参加します。
+昭和50年代の上野発青森行き「あけぼの号」をイメージしたタイムスケジュールで、実際に一晩乗務していただきます。
+各駅発着や朝晩の案内放送、検札、お客さまおもてなし、青函連絡船乗船名簿配布など、本当に乗務しているような体験ができます。
+特典として、カニ24電源車の車内見学と、スタッフ関係者のみが利用する２段式Ｂ寝台での「仮眠」体験を提供いたします。
+◆特典
+ブルートレインあけぼの「小坂行き」方向幕（仮想行き先）、限定トートバッグ、限定バッジがもらえます。
+◆タイムスケジュール　※当日の状況により変更となる場合があります
+14:00　小坂鉄道レールパーク集合
+14:10　乗客専務車掌辞令交付～乗務準備（小坂鉄道保存会詰所にて）
+15:30　乗務点呼～出場～現車点検～お客様ご案内
+16:30　夕方の宿泊体験乗車列車発車・車内放送・お客様おもてなしなど
+19:30　車内等巡回など
+20:40～22:00　車内放送・寝台券検札・おやすみ放送など
+～B寝台車・オハネフ2412で仮眠～
+5:00　起床・乗務再開準備
+6:30　車内等巡回・清掃など
+7:00　おはよう放送など
+9:00　朝の宿泊者体験乗車列車発車・青森駅到着車内放送・お客様見送りなど
+9:30　乗務帰着点呼～乗務開放（終了）
+◆注意事項
+・寄附者と参加者が異なる場合、備考欄に参加者の「氏名」「住所」「生年月日」「電話番号」「メールアドレス」を必ず入力してください。
+・小坂鉄道レールパークおよび小坂鉄道保存会といった当プロジェクトの関係者より、参加者へ直接乗務に関する打ち合わせのためご連絡をさせていただきます。
+・制服（上着Lサイズ相当まで）や制帽等の貸し出しがあります。体験中の服装の詳細については打ち合わせ時にご確認ください。
+・接客を伴いますので体験中の飲酒は基本的に禁止となります。
+・現地までの交通費は各自負担となります。また、夕食および朝食は各自ご用意ください（買出しも可）。
+・その他不明点は、お礼の品に関する問い合わせ先へお尋ねください。
+・参加者の都合によらない理由により体験が中止・変更となる場合は、関係者よりご連絡させていただきます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/05303/5936952/32">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_2bfd5afd0f97221485bd72e0c90dee50d4942dff.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【1組1名限定・8/24～8/25】憧れの24系寝台特急で、夢の乗客専務車掌体験</h4>
+<p class="goods-col_price inline">150,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、準備が出来次第の発送</p>
+</div>
+<p class="goods-col_textinfo pc">ブルートレイン・あけぼので、おもてなし活動を行う小坂鉄道保存会の臨時会員として車掌乗務チームに参加します。
+昭和50年代の上野発青森行き「あけぼの号」をイメージしたタイムスケジュールで、実際に一晩乗務していただきます。
+各駅発着や朝晩の案内放送、検札、お客さまおもてなし、青函連絡船乗船名簿配布など、本当に乗務しているような体験ができます。
+特典として、カニ24電源車の車内見学と、スタッフ関係者のみが利用する２段式Ｂ寝台での「仮眠」体験を提供いたします。
+◆特典
+ブルートレインあけぼの「小坂行き」方向幕（仮想行き先）、限定トートバッグ、限定バッジがもらえます。
+◆タイムスケジュール　※当日の状況により変更となる場合があります
+14:00　小坂鉄道レールパーク集合
+14:10　乗客専務車掌辞令交付～乗務準備（小坂鉄道保存会詰所にて）
+15:30　乗務点呼～出場～現車点検～お客様ご案内
+16:30　夕方の宿泊体験乗車列車発車・車内放送・お客様おもてなしなど
+19:30　車内等巡回など
+20:40～22:00　車内放送・寝台券検札・おやすみ放送など
+～B寝台車・オハネフ2412で仮眠～
+5:00　起床・乗務再開準備
+6:30　車内等巡回・清掃など
+7:00　おはよう放送など
+9:00　朝の宿泊者体験乗車列車発車・青森駅到着車内放送・お客様見送りなど
+9:30　乗務帰着点呼～乗務開放（終了）
+◆注意事項
+・寄附者と参加者が異なる場合、備考欄に参加者の「氏名」「住所」「生年月日」「電話番号」「メールアドレス」を必ず入力してください。
+・小坂鉄道レールパークおよび小坂鉄道保存会といった当プロジェクトの関係者より、参加者へ直接乗務に関する打ち合わせのためご連絡をさせていただきます。
+・制服（上着Lサイズ相当まで）や制帽等の貸し出しがあります。体験中の服装の詳細については打ち合わせ時にご確認ください。
+・接客を伴いますので体験中の飲酒は基本的に禁止となります。
+・現地までの交通費は各自負担となります。また、夕食および朝食は各自ご用意ください（買出しも可）。
+・その他不明点は、お礼の品に関する問い合わせ先へお尋ねください。
+・参加者の都合によらない理由により体験が中止・変更となる場合は、関係者よりご連絡させていただきます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/05303/5936953/32">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_1c1e4365350a8fcc9ca2025a2464840f7fe9483e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【1組1名限定・9/7～9/8】憧れの24系寝台特急で、夢の乗客専務車掌体験</h4>
+<p class="goods-col_price inline">150,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、準備が出来次第の発送</p>
+</div>
+<p class="goods-col_textinfo pc">ブルートレイン・あけぼので、おもてなし活動を行う小坂鉄道保存会の臨時会員として車掌乗務チームに参加します。
+昭和50年代の上野発青森行き「あけぼの号」をイメージしたタイムスケジュールで、実際に一晩乗務していただきます。
+各駅発着や朝晩の案内放送、検札、お客さまおもてなし、青函連絡船乗船名簿配布など、本当に乗務しているような体験ができます。
+特典として、カニ24電源車の車内見学と、スタッフ関係者のみが利用する２段式Ｂ寝台での「仮眠」体験を提供いたします。
+◆特典
+ブルートレインあけぼの「小坂行き」方向幕（仮想行き先）、限定トートバッグ、限定バッジがもらえます。
+◆タイムスケジュール　※当日の状況により変更となる場合があります
+14:00　小坂鉄道レールパーク集合
+14:10　乗客専務車掌辞令交付～常務準備（小坂鉄道保存会詰所にて）
+15:30　常務点呼～出場～現車点検～お客様ご案内
+16:30　夕方の宿泊体験乗車列車発車・車内放送・お客様おもてなしなど
+19:30　車内等巡回など
+20:40～22:00　車内放送・寝台券検札・おやすみ放送など
+～B寝台車・オハネフ2412で仮眠～
+5:00　起床・乗務再開準備
+6:30　車内等巡回・清掃など
+7:00　おはよう放送など
+9:00　朝の宿泊者体験乗車列車発車・青森駅到着車内放送・お客様見送りなど
+9:30　乗務帰着点呼～乗務開放（終了）
+◆注意事項
+・寄附者と参加者が異なる場合、備考欄に参加者の「氏名」「住所」「生年月日」「電話番号」「メールアドレス」を必ず入力してください。
+・小坂鉄道レールパークおよび小坂鉄道保存会といった当プロジェクトの関係者より、参加者へ直接乗務に関する打ち合わせのためご連絡をさせていただきます。
+・制服（上着Lサイズ相当まで）や制帽等の貸し出しがあります。体験中の服装の詳細については打ち合わせ時にご確認ください。
+・接客を伴いますので体験中の飲酒は基本的に禁止となります。
+・現地までの交通費は各自負担となります。また、夕食および朝食は各自ご用意ください（買出しも可）。
+・その他不明点は、お礼の品に関する問い合わせ先へお尋ねください。
+・参加者の都合によらない理由により体験が中止・変更となる場合は、関係者よりご連絡させていただきます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/05303/5936954/32">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_b65321912124108be82597ee1160a0c4b201c5d2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【1組1名限定・9/21～9/22】憧れの24系寝台特急で、夢の乗客専務車掌体験</h4>
+<p class="goods-col_price inline">150,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、準備が出来次第の発送</p>
+</div>
+<p class="goods-col_textinfo pc">ブルートレイン・あけぼので、おもてなし活動を行う小坂鉄道保存会の臨時会員として車掌乗務チームに参加します。
+昭和50年代の上野発青森行き「あけぼの号」をイメージしたタイムスケジュールで、実際に一晩乗務していただきます。
+各駅発着や朝晩の案内放送、検札、お客さまおもてなし、青函連絡船乗船名簿配布など、本当に乗務しているような体験ができます。
+特典として、カニ24電源車の車内見学と、スタッフ関係者のみが利用する２段式Ｂ寝台での「仮眠」体験を提供いたします。
+◆特典
+ブルートレインあけぼの「小坂行き」方向幕（仮想行き先）、限定トートバッグ、限定バッジがもらえます。
+◆タイムスケジュール　※当日の状況により変更となる場合があります
+14:00　小坂鉄道レールパーク集合
+14:10　乗客専務車掌辞令交付～常務準備（小坂鉄道保存会詰所にて）
+15:30　常務点呼～出場～現車点検～お客様ご案内
+16:30　夕方の宿泊体験乗車列車発車・車内放送・お客様おもてなしなど
+19:30　車内等巡回など
+20:40～22:00　車内放送・寝台券検札・おやすみ放送など
+～B寝台車・オハネフ2412で仮眠～
+5:00　起床・乗務再開準備
+6:30　車内等巡回・清掃など
+7:00　おはよう放送など
+9:00　朝の宿泊者体験乗車列車発車・青森駅到着車内放送・お客様見送りなど
+9:30　乗務帰着点呼～乗務開放（終了）
+◆注意事項
+・寄附者と参加者が異なる場合、備考欄に参加者の「氏名」「住所」「生年月日」「電話番号」「メールアドレス」を必ず入力してください。
+・小坂鉄道レールパークおよび小坂鉄道保存会といった当プロジェクトの関係者より、参加者へ直接乗務に関する打ち合わせのためご連絡をさせていただきます。
+・制服（上着Lサイズ相当まで）や制帽等の貸し出しがあります。体験中の服装の詳細については打ち合わせ時にご確認ください。
+・接客を伴いますので体験中の飲酒は基本的に禁止となります。
+・現地までの交通費は各自負担となります。また、夕食および朝食は各自ご用意ください（買出しも可）。
+・その他不明点は、お礼の品に関する問い合わせ先へお尋ねください。
+・参加者の都合によらない理由により体験が中止・変更となる場合は、関係者よりご連絡させていただきます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/05303/5936955/32">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_99699625e1830f41668fdb7eb9c27ffb5ce73267.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">「ブルートレインあけぼの」A寝台個室宿泊券(素泊まり）1室1名</h4>
+<p class="goods-col_price inline">35,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、準備が出来次第の発送</p>
+</div>
+<p class="goods-col_textinfo pc">かつて首都圏と東北地方を結んだ「ブルートレインあけぼの」のA寝台個室（シングルデラックス）への宿泊券です。
+現役時代も切符の確保が困難ともいわれた憧れの個室で宿泊体験をお楽しみください。
+【特典】
+・当プロジェクト限定トートバッグ、限定バッジ がもらえます。
+【注意事項】
+・1室1名定員、素泊まり（夕食・朝食ともになし）プランとなります。現地までの交通費は各自負担となります。
+・通常の宿泊と同様に小坂鉄道レールパークへ個室の予約をしていただきます。宿泊数には限りがありますので空き状況はお問い合わせください。
+・宿泊券の宿泊利用期間は令和6年度シーズン（4月下旬～10月下旬予定）となります。
+・宿泊予約の受付は令和6年4月20日頃を予定しています。詳細は小坂鉄道レールパーク公式ホームページまたは直接お問い合わせください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/05303/5936956/32">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_3b5c54c4d115f33b25f407470226be2522363f2e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">「ブルートレインあけぼの」B寝台個室宿泊券(素泊まり）1室1名</h4>
+<p class="goods-col_price inline">22,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、準備が出来次第の発送</p>
+</div>
+<p class="goods-col_textinfo pc">かつて首都圏と東北地方を結んだ「ブルートレインあけぼの」のB寝台個室（ソロ）宿泊券です。
+コンパクトな空間ながら、プライベートが確保され現役時代も人気のあった個室での宿泊体験をお楽しみください。
+【特典】
+・当プロジェクト限定トートバッグ、限定バッジ がもらえます。
+【注意事項】
+・1室1名定員、素泊まり（夕食・朝食ともになし）プランとなります。現地までの交通費は各自負担となります。
+・通常の宿泊と同様に小坂鉄道レールパークへ個室の予約をしていただきます。宿泊数には限りがありますので空き状況はお問い合わせください。
+・B寝台個室は上段と下段があります。予約時にご希望をお伝えください。
+・宿泊券の宿泊利用期間は令和6年度シーズン（4月下旬～10月下旬予定）となります。
+・宿泊予約の受付は令和6年4月20日頃を予定しています。詳細は小坂鉄道レールパーク公式ホームページまたは直接お問い合わせください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/05303/5936957/32">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_3ba1b93d9d9874aabbdc96442bc6dd26148ecfd3.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ブルートレイン・あけぼの「小坂行き」方向幕（仮想行き先）225mm×725mm</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、準備が出来次第の発送</p>
+</div>
+<p class="goods-col_textinfo pc">クラウドファンディング専用に、実物サイズで特別制作した限定方向幕です。
+全国各地を結んだブルートレインは、もしかして本当に「小坂行き」があったかも？そんな「あったかもしれない」と、仮想物語に想いを馳せてみましょう。
+あなたのお部屋に掲示すれば、そこが寝台特急の旅情になります！</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/05303/5936958/32">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_cfcef8d78507cc7361e0fd29642fc63d7112257b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">小坂鉄道レールパーク まるごとエンジョイペアチケット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、準備が出来次第の発送</p>
+</div>
+<p class="goods-col_textinfo pc">小坂鉄道レールパークをまるごと体験できるペアチケットです。
+チケットには小坂鉄道レールパークの入園料（2名分）、レールバイク体験料（おひとり1回×2名）、観光トロッコ体験料（おひとり1回×2名）が含まれています。
+【特典】
+・当プロジェクト限定のバッジを差し上げます（現地にて）
+【注意事項】
+・利用期間は令和6年度シーズン（4月下旬～10月下旬）の利用とさせていただきます。
+・寄附者（参加者）のご都合により、1名で利用の場合や子どもの利用でも差額の返金はありません。あらかじめご了承ください。</p>
+</div>
+</a>
+</li>
+</ul><ul class="goods_list">
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<ul class="gcf-lst-bx" id="progress_list">
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2024年05月10日 11:35</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">「ブルートレインあけぼの」宿泊営業再開！</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20240510/t_c3c602a24a13c830cff14eb07020219b0ee185da.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">5月4日（土）に「ブルートレインあけぼの」の宿泊営業が再開され、宿泊者の皆さまや町の関係者、報道関係者など多くの皆さまにお集まりいただき再開を祝うセレモニーが行われました。<br/>
+<br/>
+昨年秋にガバメントクラウドファンディングを実施をし、多くの皆さまよりあたたかいご支援をいただき、「ブルートレインあけぼの」は修繕工事を経てよみがえり、こうしてこの日を迎えることができました。<br/>
+改めて関係者一同、心より感謝申し上げます。<br/>
+<br/>
+セレモニーでは、小坂名誉駅長の小坂町長・細越満よりあいさつのあと、宿泊者の皆さまが「ブルートレインあけぼの」へ乗車。<br/>
+発車ベルの後、出発進行の合図ともに列車はホームからゆっくりと動き出し、構内を走行しました。<br/>
+<br/>
+「ブルートレインあけぼの」の今年度の営業は主に土曜日となり、夏休み期間中は一部他の曜日でも営業を予定しています。<br/>
+予約受付はすでにはじまっていますが、おかげさまで多くのご予約をいただき、満室になっている日も多くございます。<br/>
+<br/>
+今回のプロジェクトのひとつの目標であった「ブルートレインあけぼの」の宿泊営業再開を実現することができました。<br/>
+しかし、これがゴールではありません。<br/>
+その後、ネクストゴールとして旅客列車「キハ2100形」の復活を掲げ、目標達成以降も多くの皆さまよりご支援をいただきました。<br/>
+今回の宿泊営業再開は、セレモニーの出発進行同様にこれからに向けたスタートであり、皆さまの期待に応えるため、そして今後も小坂鉄道レールパークを盛り上げていくために、具体的なアクションを起こしていかなければならないと考えます。<br/>
+引き続き応援のほど、よろしくお願いいたします。<br/>
+<br/>
+すでに宿泊をしたという方もいらっしゃるかと思いますが、ぜひよみがえった「ブルートレインあけぼの」への宿泊、そして小坂鉄道レールパークへの来園を心よりお待ちしております。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="3567" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="3567">41</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="3567">
+<div class="gcf-lyt-detail__divider"></div>
+
+
+<details class="js-accordion-content-detail">
+<summary>
+<div class="gcf-lyt-detail__comment-header">
+<div class="gcf-lyt-detail__comment-number">
+<i class="mf-opinion01"></i>
+<p>コメント 1件</p>
+</div>
+</div>
+
+<details class="gcf-lyt-detail__reply js-accordion-content" data-comments-id="199">
+<summary class="gcf-lyt-detail__detail-title">
+<div class="other-comment__wrapper" data-reply-id="243">
+<div class="other-comment__profile">
+<img src="/assets/images/gcf/pages/detail/comment-icon.png" alt decoding="async" />
+<p class="other-comment__profile-name-wrapper">
+<span class="other-comment__profile-name">村雨庵</span>
+<span class="other-comment__profile-honorific-title">さん</span>
+</p>
+</div>
+<div class="other-comment__content">
+<p class="other-comment__content-body">大成功ではないでしょうか！<br/>
+おめでとうございます。<br/>
+一鉄道ファンとしてとても嬉しいです。<br/>
+訪れた皆さんが良識を持って、<br/>
+滞在してくれることをお祈りします。<br/>
+6月末に1泊伺います。今から楽しみです！</p>
+<p class="other-comment__content-day">2024/5/10 12:31</p>
+</div>
+</div>
+<span class="toggle-controller js-accordion-trigger reply-display-others">1件の返信を表示</span>
+</summary>
+
+
+<div class="gcf-lyt-detail__reply-content js-comments">
+<div class="other-comment__wrapper other-comment-reply" data-reply-id>
+<div class="other-comment__profile-project-owner">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230906/o_09a82e1ff10b35f02d1d04fb32c02ed06e969576.jpg" width="137" alt="プロジェクトオーナー" decoding="async" />
+<p class="other-comment__profile-owner-name">秋田県小坂町</p>
+</div>
+<div class="other-comment__content">
+<p class="other-comment__content-body">コメントいただきありがとうございます。<br/>
+来月あけぼのへの宿泊お待ちしております！</p>
+<p class="other-comment__content-day">2024/5/16</p>
+</div>
+</div>
+</div>
+</details>
+</summary>
+
+<div class="js-comments-detail">
+<details class="js-accordion-content" data-comments-id="199">
+<summary class="gcf-lyt-detail__detail-title">
+<div class="other-comment__wrapper" data-reply-id="243">
+<div class="other-comment__profile">
+<img src="/assets/images/gcf/pages/detail/comment-icon.png" alt decoding="async" />
+<p class="other-comment__profile-name-wrapper">
+<span class="other-comment__profile-name">村雨庵</span>
+<span class="other-comment__profile-honorific-title">さん</span>
+</p>
+</div>
+<div class="other-comment__content">
+<p class="other-comment__content-body">大成功ではないでしょうか！<br/>
+おめでとうございます。<br/>
+一鉄道ファンとしてとても嬉しいです。<br/>
+訪れた皆さんが良識を持って、<br/>
+滞在してくれることをお祈りします。<br/>
+6月末に1泊伺います。今から楽しみです！</p>
+<p class="other-comment__content-day">2024/5/10 12:31</p>
+</div>
+</div>
+<span class="toggle-controller js-accordion-trigger reply-display-others">1件の返信を表示</span>
+</summary>
+<div class="gcf-lyt-detail__reply-content js-comments">
+<div class="other-comment__wrapper other-comment-reply" data-reply-id>
+<div class="other-comment__profile-project-owner">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230906/o_09a82e1ff10b35f02d1d04fb32c02ed06e969576.jpg" width="137" alt="プロジェクトオーナー" decoding="async" />
+<p class="other-comment__profile-owner-name">秋田県小坂町</p>
+</div>
+<div class="other-comment__content">
+<p class="other-comment__content-body">コメントいただきありがとうございます。<br/>
+来月あけぼのへの宿泊お待ちしております！</p>
+<p class="other-comment__content-day">2024/5/16</p>
+</div>
+</div>
+</div>
+</details>
+</div>
+</details>
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2465%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2024年03月18日 18:48</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">「ふるさとチョイスAWARD2023」チョイスルーキー部門大賞を受賞しました</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20240318/t_b94d4c4d41ef8483ed54502765d67813a4cf5c61.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">3月16日(土)に東京都内で開催された「ふるさとチョイスAWARD2023」に<br/>
+今回のプロジェクトをテーマに小坂町がノミネートされていましたが、<br/>
+このたびチョイスルーキー部門において大賞をいただくことができました。<br/>
+<br/>
+これもこのプロジェクトに賛同いただいた多くの皆さま、<br/>
+関係者の皆さまのおかげです。<br/>
+心より感謝申し上げます。<br/>
+<br/>
+発表でも述べさせていただきましたが、<br/>
+皆さまのご支援により、ゴールデンウィークの営業再開を控える<br/>
+「ブルートレインあけぼの」はもちろん、<br/>
+ネクストゴールとして掲げさせていただき、<br/>
+より多くの皆さまよりご支援いただくこととなった旅客列車「キハ2100形」を<br/>
+今後どのように進めていくのか、速やかに次の行動に移すことで<br/>
+皆さまへ良い報告ができるよう、引き続き関係者一同努めていく所存です。<br/>
+<br/>
+ふるさとチョイスAWARD2023特設サイトには<br/>
+近日中に当日の発表の様子（動画）がアップされる予定ですので<br/>
+ライブ配信をご覧いただけなかった方やもう一度内容を確認したいという方も<br/>
+ぜひご覧ください。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-info__image">
+<div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20240318/1_b126423c39b43b8633b080cfb24fd2911264926b.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20240318/1_b126423c39b43b8633b080cfb24fd2911264926b.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20240318/2_b8b83c396c7e8c69b2ad0d358f075b1ff0a64c56.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20240318/2_b8b83c396c7e8c69b2ad0d358f075b1ff0a64c56.jpg" /></a>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="https://award.furusato-tax.jp/" target="_blank">ふるさとチョイスAWARD2023特設サイトはこちら</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="3448" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="3448">30</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="3448">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2465%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2024年03月05日 16:43</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">「ブルートレインあけぼの」の営業概要が発表されました</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20240305/t_e331372c580bc1a93cb4fe7f7214a76c3ee8cbcd.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">小坂鉄道レールパークより「ブルートレインあけぼの」の今シーズンの営業概要が発表されました。<br/>
+塗装工事を終え、営業再開へ準備を進めていますが、開始は5月からとなり、ゴールデンウィーク後半にはあけぼのに明かりがともる姿を見ることができそうです。<br/>
+<br/>
+現在、小坂鉄道レールパークは冬季休業中です。<br/>
+受付開始など詳細は、営業がはじまる4月に入ってから小坂鉄道レールパークホームページなどで発表されますので、お礼の品で宿泊券をお持ちの方、宿泊を予定していただいている方はそちらで情報をご確認ください。<br/>
+<br/>
+ブルートレインあけぼのでの非日常体験をお楽しみいただける日まであと少し・・<br/>
+引き続きよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="http://kosaka-rp.com/publics/index/144/" target="_blank">ブルートレインあけぼのの営業概要はこちら</a></li>
+<li class="gcf-txt-link"><a href="http://kosaka-rp.com/" target="_blank">小坂鉄道レールパークホームページはこちら</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="3402" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="3402">40</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="3402">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2465%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2024年02月15日 14:13</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">「ふるさとチョイスAWARD2023」にノミネートされました！</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20240215/t_420845ffa5bda1e867ee1048ba518064e12f6a13.png" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">このたび今回のプロジェクトが、日本最大級のふるさと納税の優良事例を発表するイベント「ふるさとチョイスAWARD」へノミネートされることとなりました。<br/>
+秋田県内の自治体では初の大賞受賞を目指して、来月都内で開催されるイベントに担当者が登壇し、今回の取り組みについてプレゼンテーションを行います。<br/>
+<br/>
+当日はライブ配信も予定しているようですので、ぜひご覧ください。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="https://award.furusato-tax.jp/2023/entry/90" target="_blank">「ふるさとチョイスAWARD2023」小坂町のエントリー内容はこちら</a></li>
+<li class="gcf-txt-link"><a href="https://award.furusato-tax.jp/" target="_blank">「ふるさとチョイスAWARD2023」公式サイトトップページはこちら</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="3350" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="3350">37</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="3350">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2465%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2024年01月11日 18:44</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">町長の定例会見で報告をしました</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20240111/t_89126f94f6cf643b5b32aaee01401a93a2052c07.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">おととい1月9日毎月定例の会見において、小坂町長・細越満より今回のプロジェクトを報告させていただきました。<br/>
+胸にはこの日も「ブルトレインあけぼの」のバッジが輝いていました。<br/>
+改めて今回多くの皆さまからあたたかいご支援をいただいたことへの感謝をお伝えさせていただきました。<br/>
+すでに地元を中心にメディアの皆さまにも取り上げていただいており、こうして小坂鉄道レールパークのことはもちろん、小坂町のことを知っていただく機会を設けていただけていることにも関係者一同感謝をしているところです。<br/>
+<br/>
+しかしながら、肝心なのはまさにこれからであると思います。<br/>
+ご支援いただいた皆さまへ春以降に良いご報告ができるよう、関係者一同気を引き締めなおしてこれからも努める所存です。<br/>
+今後何か動きがあった際にはこちらの進捗状況で報告をさせていただきますので、引き続きよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="3225" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="3225">52</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="3225">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2465%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2024年01月04日 08:46</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">募集期間終了！多くの皆さまに心より感謝申し上げます</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20240104/t_dc134f2016cca79f90e5c1ec3847cfd22c02f451.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">新年のご挨拶が遅くなりましたが、本年も小坂鉄道レールパークならびに小坂町をよろしくお願いいたします。<br/>
+<br/>
+当プロジェクトは12月31日で3か月の募集期間が終了となりました。<br/>
+全国各地より多くの皆さまからのあたたかいご支援、そして心あたたまるメッセージをいただき、感謝申し上げます。<br/>
+<br/>
+目標金額であった350万円を大きく上回り、最終的に600万円を超える寄附を300名以上の皆さまよりいただく結果となりました。<br/>
+当初からお伝えしておりますとおり、皆さまよりいただいたご支援は小坂鉄道レールパークにある貴重な車両や施設の整備、保全に大切に活用させていただきます。<br/>
+<br/>
+すでに塗装工事を終えた「ブルートレインあけぼの」については、春から久々の宿泊営業再開を目指し、残り数か月準備を進めてまいります。<br/>
+なお、営業再開のスケジュール等については、小坂鉄道レールパークのホームページをはじめとしたツールで決まり次第ご案内をさせていただきます。<br/>
+返礼品で宿泊券を指定いただいた皆さまにつきましても同様にご案内をさせていただく予定ですので、今しばらくお待ちいただけますと幸いです。<br/>
+<br/>
+また、当プロジェクトにてお伝えしておりますとおり、他の様々な車両や施設についても老朽化が進み、整備を待っているものもまだたくさんあります。<br/>
+そのひとつとして、ネクストゴールにかつての旅客列車「キハ2100形」を掲げさせていただきました。<br/>
+整備のために必要な金額はどのくらいなのか、おおまかな金額の目安をすでにこのサイト上でもお伝えしておりましたが、<br/>
+実際にどのようにいただいたご支援を活用していくのか、詳細についてはこれからという段階のため、皆さまへ報告をさせていただける段階になりましたらこの進捗状況（当サイト）等でお知らせいたします。<br/>
+<br/>
+今年は小坂鉄道レールパーク開業10年、旅客列車の廃止から30年という節目を迎えます。<br/>
+今回のプロジェクトをきっかけに応援していただいた皆さまと共に関係者一同、小坂鉄道の貴重な車両や施設を未来へ伝え、活かしていくために、これからもひとつひとつの課題を乗り越えていきながら前に進んでいきたいと考えます。<br/>
+今後とも小坂鉄道レールパークならびに小坂町の応援をよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="3173" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="3173">59</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="3173">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2465%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年12月21日 16:57</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">小坂町も本格的な冬を迎えました</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20231221/t_15423624d245da357dac49e919b182b4ce04292f.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">当プロジェクトの募集期間も残り10日ほどとなりました。<br/>
+小坂鉄道レールパークはすでに冬期休業中ですが、構内にポツンと留置されている「キハ2100形」を本日撮影したものです。<br/>
+<br/>
+今年の小坂町は12月に入ってからも雪が少なかったのですが、<br/>
+先週より積雪がはじまっており、本日は久々に晴れ間はさしたものの、<br/>
+日中も氷点下で気温が上がらず本格的な冬を迎えたところです。<br/>
+<br/>
+「ブルートレインあけぼの」は塗装工事を終え、機関車庫にて春を待っていますが、<br/>
+「キハ2100形」は静かに構内で雪をかぶりつつ、じっと耐えながら春を待っています。<br/>
+<br/>
+小坂鉄道レールパークにあるさまざまな車両たちは<br/>
+機関車庫やホームの屋根の下で冬を越すものがほとんどですが、<br/>
+スペースの関係もあり、「キハ2100形」は構内で冬を越さざる得ない状況です。<br/>
+<br/>
+この「進捗情報」は、すでに寄附へ協力いただいた皆さまもご覧いただいているかと思います。<br/>
+残り10日ほどの募集期間となりましたが、皆さまのご家族やご友人、職場のお仲間などで<br/>
+まだ当プロジェクトについてご存じでない方も多いことと思います。<br/>
+ぜひ皆さまからもご紹介いただき、あたたかいご支援をいただきますと幸いです。<br/>
+<br/>
+最後までどうぞよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="3042" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="3042">50</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="3042">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2465%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年12月04日 16:49</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">「ブルートレインあけぼの」の塗装の様子を見ることができます</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20231204/t_d738c86e36d3ebf20c133ee2868ab3f981d5ad58.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">12月に入り、当プロジェクトも残り1ヶ月を切りました。<br/>
+プロジェクトと並行して行われていた「ブルートレインあけぼの」の塗装工事が終わり、外観はきれいに生まれ変わりました。<br/>
+塗装前と塗装後の様子は小坂鉄道レールパーク公式ホームページで見ることができます。<br/>
+<br/>
+小坂鉄道レールパークは冬季の休業期間に入りましたが、来春の「ブルートレインあけぼの」の営業再開を目指して、一歩ずつ前進を続けています。<br/>
+来春には生まれ変わった「ブルートレインあけぼの」で皆さまとお会いできるよう、関係者一同努めてまいります。<br/>
+<br/>
+引き続きあたたかいご支援をよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="http://kosaka-rp.com/publics/index/135/" target="_blank">ブルートレインあけぼの 塗装改修before・after（小坂鉄道レールパーク公式ホームページ）</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="2736" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="2736">50</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="2736">
+<div class="gcf-lyt-detail__divider"></div>
+
+
+<details class="js-accordion-content-detail">
+<summary>
+<div class="gcf-lyt-detail__comment-header">
+<div class="gcf-lyt-detail__comment-number">
+<i class="mf-opinion01"></i>
+<p>コメント 2件</p>
+</div>
+</div>
+
+<details class="gcf-lyt-detail__reply js-accordion-content" data-comments-id="104">
+<summary class="gcf-lyt-detail__detail-title">
+<div class="other-comment__wrapper" data-reply-id="156">
+<div class="other-comment__profile">
+<img src="/assets/images/gcf/pages/detail/comment-icon.png" alt decoding="async" />
+<p class="other-comment__profile-name-wrapper">
+<span class="other-comment__profile-name">ゲスト</span>
+<span class="other-comment__profile-honorific-title">さん</span>
+</p>
+</div>
+<div class="other-comment__content">
+<p class="other-comment__content-body">現役さながらの色ですね。来年会いに行くのを楽しみにしてます。</p>
+<p class="other-comment__content-day">2023/12/26 00:14</p>
+</div>
+</div>
+<span class="toggle-controller js-accordion-trigger reply-display-others">1件の返信を表示</span>
+</summary>
+
+
+<div class="gcf-lyt-detail__reply-content js-comments">
+<div class="other-comment__wrapper other-comment-reply" data-reply-id>
+<div class="other-comment__profile-project-owner">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230906/o_09a82e1ff10b35f02d1d04fb32c02ed06e969576.jpg" width="137" alt="プロジェクトオーナー" decoding="async" />
+<p class="other-comment__profile-owner-name">秋田県小坂町</p>
+</div>
+<div class="other-comment__content">
+<p class="other-comment__content-body">コメントいただきありがとうございます。<br/>
+「ブルートレイン」の名にふさわしい青色に塗装が無事に終了しました。<br/>
+<br/>
+来春からの再開を目指して準備を進めておりますので、再開後はぜひお会いできることを楽しみにしております。</p>
+<p class="other-comment__content-day">2023/12/28</p>
+</div>
+</div>
+</div>
+</details>
+<details class="gcf-lyt-detail__reply js-accordion-content" data-comments-id="134">
+<summary class="gcf-lyt-detail__detail-title">
+<div class="other-comment__wrapper" data-reply-id="195">
+<div class="other-comment__profile">
+<img src="/assets/images/gcf/pages/detail/comment-icon.png" alt decoding="async" />
+<p class="other-comment__profile-name-wrapper">
+<span class="other-comment__profile-name">ゲスト</span>
+<span class="other-comment__profile-honorific-title">さん</span>
+</p>
+</div>
+<div class="other-comment__content">
+<p class="other-comment__content-body">綺麗になりましたね。来年ＧＷにでも宿泊したいと思います。（すでに大館能代への飛行機は取っているので、そちらに宿泊するだけです）</p>
+<p class="other-comment__content-day">2023/12/29 21:03</p>
+</div>
+</div>
+<span class="toggle-controller js-accordion-trigger reply-display-others">1件の返信を表示</span>
+</summary>
+
+
+<div class="gcf-lyt-detail__reply-content js-comments">
+<div class="other-comment__wrapper other-comment-reply" data-reply-id>
+<div class="other-comment__profile-project-owner">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230906/o_09a82e1ff10b35f02d1d04fb32c02ed06e969576.jpg" width="137" alt="プロジェクトオーナー" decoding="async" />
+<p class="other-comment__profile-owner-name">秋田県小坂町</p>
+</div>
+<div class="other-comment__content">
+<p class="other-comment__content-body">コメントいただきありがとうございます。<br/>
+返信が遅くなってしまい大変申し訳ありません。<br/>
+春からの営業再開を目指して準備を進めておりますので、ぜひ宿泊お待ちしています！</p>
+<p class="other-comment__content-day">2024/1/10</p>
+</div>
+</div>
+</div>
+</details>
+</summary>
+
+<div class="js-comments-detail">
+<details class="js-accordion-content" data-comments-id="104">
+<summary class="gcf-lyt-detail__detail-title">
+<div class="other-comment__wrapper" data-reply-id="156">
+<div class="other-comment__profile">
+<img src="/assets/images/gcf/pages/detail/comment-icon.png" alt decoding="async" />
+<p class="other-comment__profile-name-wrapper">
+<span class="other-comment__profile-name">ゲスト</span>
+<span class="other-comment__profile-honorific-title">さん</span>
+</p>
+</div>
+<div class="other-comment__content">
+<p class="other-comment__content-body">現役さながらの色ですね。来年会いに行くのを楽しみにしてます。</p>
+<p class="other-comment__content-day">2023/12/26 00:14</p>
+</div>
+</div>
+<span class="toggle-controller js-accordion-trigger reply-display-others">1件の返信を表示</span>
+</summary>
+<div class="gcf-lyt-detail__reply-content js-comments">
+<div class="other-comment__wrapper other-comment-reply" data-reply-id>
+<div class="other-comment__profile-project-owner">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230906/o_09a82e1ff10b35f02d1d04fb32c02ed06e969576.jpg" width="137" alt="プロジェクトオーナー" decoding="async" />
+<p class="other-comment__profile-owner-name">秋田県小坂町</p>
+</div>
+<div class="other-comment__content">
+<p class="other-comment__content-body">コメントいただきありがとうございます。<br/>
+「ブルートレイン」の名にふさわしい青色に塗装が無事に終了しました。<br/>
+<br/>
+来春からの再開を目指して準備を進めておりますので、再開後はぜひお会いできることを楽しみにしております。</p>
+<p class="other-comment__content-day">2023/12/28</p>
+</div>
+</div>
+</div>
+</details>
+<details class="js-accordion-content" data-comments-id="134">
+<summary class="gcf-lyt-detail__detail-title">
+<div class="other-comment__wrapper" data-reply-id="195">
+<div class="other-comment__profile">
+<img src="/assets/images/gcf/pages/detail/comment-icon.png" alt decoding="async" />
+<p class="other-comment__profile-name-wrapper">
+<span class="other-comment__profile-name">ゲスト</span>
+<span class="other-comment__profile-honorific-title">さん</span>
+</p>
+</div>
+<div class="other-comment__content">
+<p class="other-comment__content-body">綺麗になりましたね。来年ＧＷにでも宿泊したいと思います。（すでに大館能代への飛行機は取っているので、そちらに宿泊するだけです）</p>
+<p class="other-comment__content-day">2023/12/29 21:03</p>
+</div>
+</div>
+<span class="toggle-controller js-accordion-trigger reply-display-others">1件の返信を表示</span>
+</summary>
+<div class="gcf-lyt-detail__reply-content js-comments">
+<div class="other-comment__wrapper other-comment-reply" data-reply-id>
+<div class="other-comment__profile-project-owner">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230906/o_09a82e1ff10b35f02d1d04fb32c02ed06e969576.jpg" width="137" alt="プロジェクトオーナー" decoding="async" />
+<p class="other-comment__profile-owner-name">秋田県小坂町</p>
+</div>
+<div class="other-comment__content">
+<p class="other-comment__content-body">コメントいただきありがとうございます。<br/>
+返信が遅くなってしまい大変申し訳ありません。<br/>
+春からの営業再開を目指して準備を進めておりますので、ぜひ宿泊お待ちしています！</p>
+<p class="other-comment__content-day">2024/1/10</p>
+</div>
+</div>
+</div>
+</details>
+</div>
+</details>
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2465%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年11月28日 16:56</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">「ふるさと小坂会」でPRをさせていただきました</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20231128/t_411cb23d2be65d5b07c8a2e96ca25f76dd246819.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">11月25日（土）に東京都千代田区にある「KKRホテル東京」にて行われた「ふるさと小坂会」の総会・親睦会で当プロジェクトのPRをさせていただきました。<br/>
+会場には、首都圏在住を中心とした小坂町出身または小坂町にゆかりのある会員の方、来賓、町の関係者など約100名が集まり、とても賑わいを見せていました。<br/>
+<br/>
+その中で小坂鉄道保存会会長の千葉裕之さんとふるさと小坂会事務局担当で当プロジェクト担当でもある小坂町総務課の木村より小坂鉄道レールパークへの支援を参加者の皆さまへお願いしました。<br/>
+車掌役として登場の千葉会長からは車内オルゴールを皮切りに参加者の皆さまを乗客に見立てながら心のこもったスピーチをいただきました。<br/>
+<br/>
+参加者の皆さまの中には、通学等で旅客列車「キハ2100形」を利用していた方や帰省等で「ブルートレインあけぼの」を利用したことがある方も多く、小坂町の大切な鉄道の遺産に興味を持っていただくことができました。<br/>
+引き続き多くの皆さまからのあたたかいご支援をよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="2702" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="2702">44</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="2702">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2465%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年11月13日 18:43</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">目標金額を達成しました！</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20231113/t_48c285cdabbc82ceae4a21ab09c02b38169d8914.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">本日先ほど目標金額の3,500,000円を達成することができました。<br/>
+重ねてのお礼となりますが、あたたかいご支援をいただきました多くの皆さまへ心より感謝申し上げます。<br/>
+<br/>
+小坂鉄道レールパーク内には今も整備を待つ貴重な車両や施設が数多くあります。<br/>
+そこで目標達成をすることができましたが、当初の予定どおり12月31日まで寄附受付を継続させていただきます。<br/>
+詳細については改めて配信、およびページの更新させていただきます。<br/>
+<br/>
+「これからどうしていくのか」が大切と前回の投稿でお伝えしましたが、「活用なくして保存なし」のテーマのもと、小坂鉄道レールパーク内にある貴重な車両や施設を守りながら活用していくこと、多くの皆さまに利用いただくことが使命であると考えます。<br/>
+これからも関係者一同、この思いを胸に努めてまいります。<br/>
+<br/>
+本当にありがとうございました。<br/>
+そして引き続きよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="2645" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="2645">74</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="2645">
+<div class="gcf-lyt-detail__divider"></div>
+
+
+<details class="js-accordion-content-detail">
+<summary>
+<div class="gcf-lyt-detail__comment-header">
+<div class="gcf-lyt-detail__comment-number">
+<i class="mf-opinion01"></i>
+<p>コメント 1件</p>
+</div>
+</div>
+
+<details class="gcf-lyt-detail__reply js-accordion-content" data-comments-id="56">
+<summary class="gcf-lyt-detail__detail-title">
+<div class="other-comment__wrapper" data-reply-id="71">
+<div class="other-comment__profile">
+<img src="/assets/images/gcf/pages/detail/comment-icon.png" alt decoding="async" />
+<p class="other-comment__profile-name-wrapper">
+<span class="other-comment__profile-name">村雨庵</span>
+<span class="other-comment__profile-honorific-title">さん</span>
+</p>
+</div>
+<div class="other-comment__content">
+<p class="other-comment__content-body">目標額、達成おめでとうございます！あまりに賛同者が増えて「あけぼの号」の寝台予約が取れなくなるのではないかと心配になってきました。（笑）引き続き頑張って下さい！</p>
+<p class="other-comment__content-day">2023/11/13 19:07</p>
+</div>
+</div>
+<span class="toggle-controller js-accordion-trigger reply-display-others">1件の返信を表示</span>
+</summary>
+
+
+<div class="gcf-lyt-detail__reply-content js-comments">
+<div class="other-comment__wrapper other-comment-reply" data-reply-id>
+<div class="other-comment__profile-project-owner">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230906/o_09a82e1ff10b35f02d1d04fb32c02ed06e969576.jpg" width="137" alt="プロジェクトオーナー" decoding="async" />
+<p class="other-comment__profile-owner-name">秋田県小坂町</p>
+</div>
+<div class="other-comment__content">
+<p class="other-comment__content-body">コメントいただきありがとうございます。<br/>
+返信が遅くなってしまい大変申し訳ありません。<br/>
+あけぼのは来春の再開を目指して準備しておりますので、村雨庵さんもぜひその際には宿泊予約お待ちしております。<br/>
+そして12月31日まで引き続き頑張ってまいりますので、よろしくお願いいたします。</p>
+<p class="other-comment__content-day">2023/11/22</p>
+</div>
+</div>
+</div>
+</details>
+</summary>
+
+<div class="js-comments-detail">
+<details class="js-accordion-content" data-comments-id="56">
+<summary class="gcf-lyt-detail__detail-title">
+<div class="other-comment__wrapper" data-reply-id="71">
+<div class="other-comment__profile">
+<img src="/assets/images/gcf/pages/detail/comment-icon.png" alt decoding="async" />
+<p class="other-comment__profile-name-wrapper">
+<span class="other-comment__profile-name">村雨庵</span>
+<span class="other-comment__profile-honorific-title">さん</span>
+</p>
+</div>
+<div class="other-comment__content">
+<p class="other-comment__content-body">目標額、達成おめでとうございます！あまりに賛同者が増えて「あけぼの号」の寝台予約が取れなくなるのではないかと心配になってきました。（笑）引き続き頑張って下さい！</p>
+<p class="other-comment__content-day">2023/11/13 19:07</p>
+</div>
+</div>
+<span class="toggle-controller js-accordion-trigger reply-display-others">1件の返信を表示</span>
+</summary>
+<div class="gcf-lyt-detail__reply-content js-comments">
+<div class="other-comment__wrapper other-comment-reply" data-reply-id>
+<div class="other-comment__profile-project-owner">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230906/o_09a82e1ff10b35f02d1d04fb32c02ed06e969576.jpg" width="137" alt="プロジェクトオーナー" decoding="async" />
+<p class="other-comment__profile-owner-name">秋田県小坂町</p>
+</div>
+<div class="other-comment__content">
+<p class="other-comment__content-body">コメントいただきありがとうございます。<br/>
+返信が遅くなってしまい大変申し訳ありません。<br/>
+あけぼのは来春の再開を目指して準備しておりますので、村雨庵さんもぜひその際には宿泊予約お待ちしております。<br/>
+そして12月31日まで引き続き頑張ってまいりますので、よろしくお願いいたします。</p>
+<p class="other-comment__content-day">2023/11/22</p>
+</div>
+</div>
+</div>
+</details>
+</div>
+</details>
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2465%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年11月09日 13:01</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">目標金額の90％を達成しました！</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20231109/t_b52b2f9742e2e9b07e92b39f231d7a2bbce41479.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">本日、当プロジェクトの目標金額の90％を達成しました。<br/>
+<br/>
+多くの皆さまからのあたたかいご支援に重ねてお礼申し上げます。<br/>
+目標達成まであと少しとなりましたが、そこがゴールというわけではなく、ご支援いただいた皆さまをはじめ、小坂鉄道レールパークや小坂町を応援して下さる皆さまのためにも「これからどうしていくのか」が重要です。<br/>
+関係者一同「これからどうしていくのか」ということも、目標達成と並行して考え、取り組んでまいります。<br/>
+<br/>
+引き続きよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="2622" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="2622">44</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="2622">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2465%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年10月31日 08:47</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">目標金額の80％を達成しました！</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20231031/t_fc44d1bd2c3eb2f3028f49454dfeb638e2c353cb.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">昨日、当プロジェクトの目標金額の80％を達成しました。<br/>
+<br/>
+これまでご支援いただいた多くの皆さまへ心より感謝申し上げます。<br/>
+目標達成が少しずつ近づいてきていますが、引き続き皆さまからのあたたかいご支援よろしくお願いいたします。<br/>
+<br/>
+また、来春の営業再開に向けて先行して整備を進めている「ブルートレインあけぼの」をはじめ、<br/>
+現在小坂鉄道レールパークにある貴重な車両や施設の状況を今後皆さまへこの場で発信をさせていただく予定です。<br/>
+ぜひお楽しみに！<br/>
+</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="2581" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="2581">49</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="2581">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2465%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年10月24日 09:02</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">目標金額の70％を達成しました！</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20231024/t_7f11af1e7969c1597970a3294046e9f05b36e068.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">昨日、当プロジェクトの目標金額の70％を達成しました。<br/>
+<br/>
+ご支援いただいた皆さまへ心より感謝申し上げます。<br/>
+目標達成に向けては、ご支援いただいた皆さまをはじめ、当プロジェクトをご存知の皆さまの家族や友人、知人の方々へもぜひこの取り組みをお知らせいただき、より一層大きな輪が広がれば幸いです。<br/>
+<br/>
+小坂町にある国立公園「十和田湖」の紅葉は見ごろを迎え、町内も朝晩ぐっと気温が下がり、秋真っ盛りとなりました。<br/>
+引き続き皆さまからのあたたかいご支援よろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="2553" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="2553">51</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="2553">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2465%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年10月18日 19:15</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">「ニュースこまち」の生中継が無事終了しました！</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20231018/t_0fa8b4a0d36b56f0c26c295afc077c8a253d735c.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">先ほどＮＨＫ秋田「ニュースこまち」にて、小坂鉄道レールパークからの生中継をご覧いただいた皆様ありがとうございました。<br/>
+放送では車内に潜入する部分も多かったですが、夜の機関車庫で整備を待つあけぼのの姿もまた印象的でした。<br/>
+<br/>
+放送でも担当者よりコメントしましたが、多くの皆さまからいただいている寄附への感謝の気持ちはもちろん、このプロジェクトを通じて小坂鉄道レールパークや小坂町を知らない、行ったことがないという方にもこれからにつながる良いきっかけになればと願っています。<br/>
+<br/>
+ＮＨＫプラスでは１週間無料で見逃し配信をご覧いただけます。<br/>
+放送受信契約のある世帯で利用申込が必要となりますので、詳しくは下記リンクよりサイトをご確認ください。<br/>
+リアルタイムでは秋田県内のみの放送となりましたが、秋田県外の皆さまもぜひご覧ください。<br/>
+<br/>
+「ブルートレインあけぼの」の宿泊営業が休止になって以降、夜の様子をご覧いただく機会は久々で貴重なものとなりました。<br/>
+来年春の営業再開を目指し、皆さまへその様子を直にご覧いただき、宿泊体験できるよう関係者一同頑張ってまいります！<br/>
+<br/>
+皆さまからのあたたかいご支援を引き続きよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="https://www.nhk.jp/p/ts/88NX9Y85X3/plus/" target="_blank">ニュースこまち見逃し配信はこちら</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="2538" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="2538">50</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="2538">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2465%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年10月17日 16:32</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">【10/18 18:10～秋田県内で放送】営業時間終了後の小坂鉄道レールパークより生中継</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20231017/t_443ca7e33843a2ce51cf3c1bd334660e2cc1119a.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">明日18日(水)小坂鉄道レールパークよりテレビの生中継があります。<br/>
+普段であれば営業時間が終了している時刻ですが、今回は特別に中継をつなぎ、あの車両の登場も・・。<br/>
+今回のプロジェクトについても紹介をさせていただく予定です。<br/>
+ぜひご覧ください。<br/>
+<br/>
+◆日時：10月18日（水）18:10～<br/>
+◆放送局：ＮＨＫ秋田<br/>
+◆番組名：ニュースこまち<br/>
+<br/>
+※リアルタイムでは秋田県内のみの放送となります<br/>
+※秋田県外の方は下記リンク内にあるＮＨＫプラス（見逃し配信）にて期間限定で視聴ができます<br/>
+　放送受信契約のある世帯で利用申込が必要となりますので、詳しくはサイトをご確認ください<br/>
+※番組内のコーナーでの中継となります<br/>
+※緊急時などの場合、放送内容が変更される場合があります</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="https://www.nhk.jp/p/ts/88NX9Y85X3/" target="_blank">ニュースこまち</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="2532" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="2532">43</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="2532">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2465%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年10月16日 11:08</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">目標金額の60％を達成しました！</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20231016/t_6cc9c5661f55641a157e983d2b52b532beaf1fd1.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">本日、当プロジェクトの目標金額の60％を達成しました！<br/>
+<br/>
+すでに100名を超える皆様よりあたたかいご支援をいただき、感謝申し上げます。<br/>
+小坂町はすっかり秋めいた陽気となっていますが、本日も小坂鉄道レールパークは元気に営業しています。<br/>
+<br/>
+目標金額の達成に向けて、引き続きよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="2527" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="2527">50</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="2527">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2465%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年10月12日 11:29</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">目標金額の50％を達成しました！</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20231012/t_dbd8dd0c74250139d8b0d64c7485ab0dce17b31a.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">本日、当プロジェクトの目標金額の50％を達成しました！<br/>
+<br/>
+多くの皆さまからのあたたかいご支援に関係者一同心より感謝申し上げます。<br/>
+目標金額の達成に向けて、引き続きよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="2513" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="2513">56</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="2513">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2465%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年10月10日 19:12</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">「小坂・鉄道祭り2023」への来場とあたたかい応援の声に感謝申し上げます</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20231010/t_57f09c77e34adf3eaa50623d48b7cc7f70719c94.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">10月8日（日）・9日（月・祝）の2日間、晴天にも恵まれ「小坂・鉄道祭り2023」は無事に終了しました。<br/>
+多くの皆さまのご来場により、小坂鉄道レールパークも大変賑わいを見せていました。<br/>
+貴重な車両の展示や実演イベントなど見どころ盛りだくさんの内容でしたが、いかがでしたでしょうか。<br/>
+<br/>
+ご来場いただいた皆さまから今回のプロジェクトへの励ましなど、あたたかい応援の声をいただきました。<br/>
+プロジェクトは12月31日まで続きますが、引き続きご支援のほどよろしくお願いいたします。<br/>
+<br/>
+※写真は大勢の方がカメラを構えて賑わいを見せた「ホキ909砕石模擬放出実演」の様子</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="https://twitter.com/kosakamachi/status/1711634829744431300" target="_blank">小坂町のX（旧Twitter）では「ホキ909砕石模擬放出実演」の動画も公開しています</a></li>
+<li class="gcf-txt-link"><a href="https://www.facebook.com/KosakaRailroadPS/?locale=ja_JP" target="_blank">小坂鉄道保存会のface bookでは2日間の様子を公開しています</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="2506" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="2506">42</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="2506">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2465%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年10月06日 16:50</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">「小坂・鉄道祭り2023」が開催されます</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20231006/t_f51e7c8fb0ef522552599ab428f54d9cb8c637a0.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">小坂鉄道レールパークを会場に「小坂・鉄道祭り2023」が10月8日（日）・9日（月・祝）に開催されます。<br/>
+<br/>
+ホキ909による疑似砕石（カラーボール）を使用した「砕石模擬放出」やキ115（ラッセル車）の「動作および実走行」といった貴重な車両による実演や小坂鉄道保存会の皆さんの手によって塗装が完工されたDD132機関車のお披露目会、先行して塗装を行ったオハネ24-555、オハネフ24-12のお披露目会（整備中のため車両の中へは入れません）などイベントならではのお楽しみも盛りだくさん！<br/>
+<br/>
+今回のプロジェクトはもちろん、イベントへの来園でもぜひ応援をお願いします！</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="http://kosaka-rp.com/publics/index/136/" target="_blank">小坂・鉄道祭り2023の詳細はこちら</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="2489" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="2489">54</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="2489">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2465%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年10月03日 15:23</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">小坂鉄道レールパークを応援するプロジェクトがいよいよスタートしました！</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20231003/t_92cd22aec7584049752791ee6abf6fc6136f9f7c.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">本日10月3日正午より小坂鉄道レールパークを応援するプロジェクトがいよいよスタートしました。<br/>
+プロジェクトスタートに先駆けて、小坂町役場では定例会見が行われ、小坂町長・細越満よりプロジェクトの紹介をさせていただきました。<br/>
+12月31日までの90日間、皆様からのあたたかいご支援をよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="2473" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="2473">79</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="2473">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2465%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+</ul>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">秋田県小坂町</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">小坂町は秋田県の最北東端に位置し、国立公園・十和田湖をはじめとする大自然に囲まれた小さな町です。<br/>
+近年はその大自然を恵みを活かしたヤマブドウ系品種の栽培とそれを原料とする日本ワインの醸造にも力を入れており、注目を集めています。<br/>
+明治の芝居小屋「康楽館」や豪壮華麗な建築美を誇る「小坂鉱山事務所」といった国重要文化財をはじめ、かつて日本三大銅山の一つとして繁栄した小坂鉱山による近代化産業遺産を活かした観光の町でもあります。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">これからも町の皆さん、観光客の皆さん、鉄道ファンの皆さん、小坂町を応援する皆さんにとって貴重な車両などが大切なものであり続けられるように応援しています！</p>
+<p class="gcf-bx-message__date">2023年12月31日 22:33</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">小坂鉄道レールパークを訪れた事をきっかけに、歴史と自然が共存する小坂町がお気に入りの場所の1つとなりました。微力ながら応援させて頂きます。</p>
+<p class="gcf-bx-message__date">2023年12月31日 20:33</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">高校生の時、毎日小坂鉄道で通学していました。<br/>
+寒い冬には待合室にストーブがあり、駅に入るとホッとしたのを覚えています。何より駅員さんの優しい対応に、今でも感謝しています。保存に少しでも力になれたらと思います。</p>
+<p class="gcf-bx-message__date">2023年12月31日 11:08</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">私は女子鉄です。ブルートレインあけぼのに乗りたいです。応援しています。</p>
+<p class="gcf-bx-message__date">2023年12月31日 0:48</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">子供が幼少のとき，小坂鉄道レールパークの「あけぼの」に家族で宿泊しました。実物の寝台列車に泊まれる貴重な施設です。これからも頑張ってください。</p>
+<p class="gcf-bx-message__date">2023年12月30日 22:38</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">憧れのあけぼの❗頑張ってください</p>
+<p class="gcf-bx-message__date">2023年12月30日 21:27</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">僕は東京に住んでいます。小さい頃に小坂レールパークに行き、あけぼのにも泊まりました。とても楽しかったので、必ず復活してほしいです。<br/>
+がんばれ！あけばの＆小坂町のみなさん</p>
+<p class="gcf-bx-message__date">2023年12月30日 12:45</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">小坂鉄道の現役時代を撮り続け、あけぼのを北と南に追い続けた者として微力ですが応援させて頂きます。まったりと訪問しますので、素晴らしい文化遺産の維持活用に期待します。</p>
+<p class="gcf-bx-message__date">2023年12月29日 23:30</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">寝台車での宿泊、楽しみにしております！</p>
+<p class="gcf-bx-message__date">2023年12月29日 12:08</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">小坂レールパークのさらなる発展を祈っております</p>
+<p class="gcf-bx-message__date">2023年12月29日 11:31</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">頑張って下さい。</p>
+<p class="gcf-bx-message__date">2023年12月28日 16:04</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">今回は小坂町(自治体)のふるさと納税で寄付を募っていますが、小坂鉄道レールパークの会社などでクラファンの寄付を募ると経費諸々分も少なくなり、純粋な寄附が増えると思いますし、より寄附者や興味関心のある方に響くと思います。まだまだ車両を復活させるだけの費用には足りないはずですので、引き続き頑張ってください！！</p>
+<p class="gcf-bx-message__date">2023年12月27日 21:04</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">たくさんの方々がふるさと納税の寄附に賛同されてても、地元にいる小坂町の関心は高まっているのでしょうか？？？<br/>
+これだけの方々が賛同してます。ぜひ町の関係者の方々や議員さんをはじめ、町民のみなさんも小坂鉄道レールパークに興味関心を高めていただき、末永く貴重な車両を活かしたまちづくりをしていただきたいです！！</p>
+<p class="gcf-bx-message__date">2023年12月27日 20:50</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">ブルートレインや小坂鉄道廃線跡を残して下さって有り難うございます。微力ですが応援させて下さい。</p>
+<p class="gcf-bx-message__date">2023年12月24日 23:34</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">小坂鉄道の車両や線路が末長く保存されることを応援しています！</p>
+<p class="gcf-bx-message__date">2023年12月24日 16:14</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">数年前に泊まりに行きました。<br/>
+再び泊まれる事を楽しみにしています<br/>
+花善の鶏めしも食べたいです</p>
+<p class="gcf-bx-message__date">2023年12月24日 13:24</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">以前小坂レールパークのブルートレインあけぼのを利用した鉄道ファンです。いつまでも綺麗な24系25型に会えるようにご協力いたしますので、頑張って下さい。</p>
+<p class="gcf-bx-message__date">2023年12月23日 21:14</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">キハ２１０１をこのまま朽ち果てさせてはなりません。私たちの想いを結集させて、来年は、あけぼのと共に小坂鉄道の主役たるキハ２１０１に命を吹き込もうではありませんか！そのために、私たちの熱い想いを今再び、小坂町に注ぎましょう！！</p>
+<p class="gcf-bx-message__date">2023年12月22日 20:15</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">貴重な引退車両をこれからも大切に保存・活用していただくことを願ってます。</p>
+<p class="gcf-bx-message__date">2023年12月21日 16:32</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">一度行ったきりですがレールパークは立派な観光資源と感じました。ぜひ長く存続させましょう！</p>
+<p class="gcf-bx-message__date">2023年12月17日 22:32</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/2465">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">秋田県小坂町の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/05303/32?from=2&amp;gcf_project_id=2465"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,618,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g2465,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

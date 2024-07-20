@@ -1,0 +1,4823 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/962" />
+
+<title>発達障害児の早期療育のススメ～言葉が育ち、考える力・他の子どもへの接し方が変わり、社会性が高まる～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="発達障害児の早期療育のススメ～言葉が育ち、考える力・他の子どもへの接し方が変わり、社会性が高まる～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/962" />
+<meta property="og:description" content="子どもが、発達の特性を理解してもらえず、生きにくさや生活のしづらさを抱えていることがあります。「少しでもその期間を短くしてストレスのない幼児期を送れるよう支援したい。」「接し方に悩む保護者に寄り添い、子育てに笑顔が増えるよう支援したい。」早期療育は、言葉を理解し表現する力を伸ばす効果が大きいことが分かっています。そこで豊岡市では、本年度から「子どもの早期発達支援プロジェクト」として、子どもたちのコミュニケーション能力と社会性を育んでいくため、次の３つの取組みを進めます。1.子どもの発達課題の早期発見言葉や社会性の発達開始時期（１歳６か月児）に、世界基準の質問票「M‐CHAT」　を導入し課題を明確化。子どもたちの発達課題の早期発見を可能にします。2. 保護者負担の軽減と健診の充実M-CHATの導入により増加した質問項目への保護者負担を軽減するため、企業と協働して全国の自治体に先駆けてアプリを開発。発達に課題のある子どもたちへの相談を充実します。3. 子どもの発達に合わせた支援教室の展開、早期支援発達に課題のある子どもたちの早期発見により、早期支援が可能となります。そこで、専門家と協働し、発達に合わせた支援教室の実施体制を充実し、早期に支援を行うことで、子どもたちのコミュニケーション能力の向上に力を注ぎます。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20200820/d_9b0f4d8e3c6bd4db12feb110a29d3cdbc6caa3b4.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20200820/d_9b0f4d8e3c6bd4db12feb110a29d3cdbc6caa3b4.jpg" />
+<meta property="twitter:title" content="発達障害児の早期療育のススメ～言葉が育ち、考える力・他の子どもへの接し方が変わり、社会性が高まる～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="子どもが、発達の特性を理解してもらえず、生きにくさや生活のしづらさを抱えていることがあります。「少しでもその期間を短くしてストレスのない幼児期を送れるよう支援したい。」「接し方に悩む保護者に寄り添い、子育てに笑顔が増えるよう支援したい。」早期療育は、言葉を理解し表現する力を伸ばす効果が大きいことが分かっています。そこで豊岡市では、本年度から「子どもの早期発達支援プロジェクト」として、子どもたちのコミュニケーション能力と社会性を育んでいくため、次の３つの取組みを進めます。1.子どもの発達課題の早期発見言葉や社会性の発達開始時期（１歳６か月児）に、世界基準の質問票「M‐CHAT」　を導入し課題を明確化。子どもたちの発達課題の早期発見を可能にします。2. 保護者負担の軽減と健診の充実M-CHATの導入により増加した質問項目への保護者負担を軽減するため、企業と協働して全国の自治体に先駆けてアプリを開発。発達に課題のある子どもたちへの相談を充実します。3. 子どもの発達に合わせた支援教室の展開、早期支援発達に課題のある子どもたちの早期発見により、早期支援が可能となります。そこで、専門家と協働し、発達に合わせた支援教室の実施体制を充実し、早期に支援を行うことで、子どもたちのコミュニケーション能力の向上に力を注ぎます。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,521,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="962" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">発達障害児の早期療育のススメ～言葉が育ち、考える力・他の子どもへの接し方が変わり、社会性が高まる～</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">発達障害児の早期療育のススメ～言葉が育ち、考える力・他の子どもへの接し方が変わり、社会性が高まる～</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1018">子ども・教育&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20200820/d_9b0f4d8e3c6bd4db12feb110a29d3cdbc6caa3b4.jpg" alt="main_img" decoding="async" />
+<img class="gcf-lyt-detail__complete" src="/gcf/images_cf/icon_goal_brown.png" alt="達成" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E7%99%BA%E9%81%94%E9%9A%9C%E5%AE%B3%E5%85%90%E3%81%AE%E6%97%A9%E6%9C%9F%E7%99%82%E8%82%B2%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1%EF%BD%9E%E8%A8%80%E8%91%89%E3%81%8C%E8%82%B2%E3%81%A1%E3%80%81%E8%80%83%E3%81%88%E3%82%8B%E5%8A%9B%E3%83%BB%E4%BB%96%E3%81%AE%E5%AD%90%E3%81%A9%E3%82%82%E3%81%B8%E3%81%AE%E6%8E%A5%E3%81%97%E6%96%B9%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8A%E3%80%81%E7%A4%BE%E4%BC%9A%E6%80%A7%E3%81%8C%E9%AB%98%E3%81%BE%E3%82%8B%EF%BD%9E&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F962">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">1,638,414</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph2" style="width: 163.8%;"></div>
+<p class="gcf-cht-detail-bar__number">163.8%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">1,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">163.8</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">35</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>兵庫県豊岡市（ひょうごけん とよおかし）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="962" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+<li>
+<a class="js-modal-not-available-in-mobile-app-trigger i-arrow" href="#" data-modal-id="contact">お問い合わせ先</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2020年10月1日～2020年12月31日（92日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1028" class="sorting-list__item">まちづくり・コミュニティ</a></li><li><a href="/gcf/project/tag/1033" class="sorting-list__item">子ども・教育</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1082" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_3.png 1x, /gcf/images_cf/sdg/sdg_icon_3@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_3.png" alt="SDGアイコン" decoding="async" />3.すべての人に健康と福祉を</a></li><li><a href="/gcf/project/sdgs/1083" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_4.png 1x, /gcf/images_cf/sdg/sdg_icon_4@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_4.png" alt="SDGアイコン" decoding="async" />4.質の高い教育をみんなに</a></li><li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="962" class="gcf-nv-tab__button js-tab">進捗情報
+<span class="gcf-nv-tab__button-progress-number">1</span>
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">兵庫県豊岡市</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20200820/o_1b8bd951ec82a29de6ed3fc91a6ef9955718cc94.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">子どもが、発達の特性を理解してもらえず、生きにくさや生活のしづらさを抱えていることがあります。<br/>
+<br/>
+「少しでもその期間を短くしてストレスのない幼児期を送れるよう支援したい。」「接し方に悩む保護者に寄り添い、子育てに笑顔が増えるよう支援したい。」<br/>
+<br/>
+早期療育は、言葉を理解し表現する力を伸ばす効果が大きいことが分かっています。<br/>
+そこで豊岡市では、本年度から「子どもの早期発達支援プロジェクト」として、子どもたちのコミュニケーション能力と社会性を育んでいくため、次の３つの取組みを進めます。<br/>
+<br/>
+1.子どもの発達課題の早期発見<br/>
+言葉や社会性の発達開始時期（１歳６か月児）に、世界基準の質問票「M‐CHAT」　を導入し課題を明確化。子どもたちの発達課題の早期発見を可能にします。<br/>
+<br/>
+2. 保護者負担の軽減と健診の充実<br/>
+M-CHATの導入により増加した質問項目への保護者負担を軽減するため、企業と協働して全国の自治体に先駆けてアプリを開発。発達に課題のある子どもたちへの相談を充実します。<br/>
+<br/>
+3. 子どもの発達に合わせた支援教室の展開、早期支援<br/>
+発達に課題のある子どもたちの早期発見により、早期支援が可能となります。<br/>
+そこで、専門家と協働し、発達に合わせた支援教室の実施体制を充実し、早期に支援を行うことで、子どもたちのコミュニケーション能力の向上に力を注ぎます。<br/>
+<br/>
+</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">１.世界基準の質問票「M-CHAT」の導入～子どもの発達課題を早期発見～</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">保護者の「育てにくさ」と子どもの「育ちにくさ」を共有</span></h3>
+<p class="gcf-txt-article">幼児健診、とりわけ１歳６か月児健診においては、子どもの成長を待ちたい保護者の思い<br/>
+もあり、支援が必要な子どもの早期発見が遅れがちとなっていました。<br/>
+そこで、親が記入した回答により、自閉症スペクトラム障害を早期に発見する事ができるM-CHATを導入し、発達課題を明確化することとしました。<br/>
+明確になった子どもの「育ちにくさ」を保護者と共有することで、保健師なども<br/>
+「育てにくさ」に悩む保護者に寄り添って背中を押し、早期支援につなぐことができます。<br/>
+</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200820/gpfd_c6972e81fde06c26887e0992dfa93d55b2956194.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">２.全国初！幼児健診用アプリを開発～保護者負担の軽減と健診の充実～</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">保護者の「大変」を、「便利」と「満足」に</span></h3>
+<p class="gcf-txt-article">世界基準の質問票を導入したことにより、１歳６か月児健診の質問は57問から79問となりました。<br/>
+そこで、保護者の負担を軽減するために、３歳児健診質問票（91問）も含めて「いつでもどこでも回答できる質問票」としてアプリを電子版母子手帳アプリ提供会社と協働して、全国に先駆けて開発しました。<br/>
+これにより、保健師が面談の前に質問票の内容や保護者の悩みを知ることができるようになり、丁寧に寄り添った相談対応も可能になりました。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200820/gpfd_d6d708df8a4ff39e31ed0ed866bdb037ec95ba38.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200820/gpfd_93330c828e6c2db1b6428ae2d2ccd29ee43f00ee.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">３.支援教室の拡充～子どもの発達に合わせた３つの支援教室を展開、早期支援へ～</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">コミュニケーション能力の向上は、子どもたちの「生きる力」を育むこと</span></h3>
+<p class="gcf-txt-article">M-CHATの導入により、発達に課題のある子どもの早期発見が可能となりました。<br/>
+その次は、その子どもや保護者への早期支援と寄り添いを進める必要があります。<br/>
+そこで、発達の専門家と協働して子どもの発達に合わせた３つの育児支援教室を展開し、子どもと保護者に対し切れ目のない支援をすることとしました。<br/>
+子どもは、人との関わりや経験を積み重ねる中でコミュニケーション能力が向上し、それは「生きる力」につながります。<br/>
+<br/>
+①　子育てに自信が持てる保護者支援教室【拡充】<br/>
+子どもの行動の意味を知り、子どもに合わせた声掛けができるように保護者の育児能力を向上させ、自信を持ってもらうための教室です。<br/>
+保護者の気持ちに寄り添いながら、保護者のストレスや育てにくさの軽減ができるよう支援するため、新たに「子育てストレスシート」を導入し、ストレスの可視化を図り、保護者が家庭で子どもに対して適切な関わりができるようバックアップします。<br/>
+<br/>
+②　子どもの社会性を育む支援教室【拡充】<br/>
+子どもの年齢、特性に合わせた小集団の遊びの中から、社会性と生活スキルの向上を支援する教室です。<br/>
+新たに運営を民間に委託し、幼児期の五感の発達に目を向け、子どもの発達を促す関り方の気づきと、日々の子育ての実践につなげられる教室としました。<br/>
+<br/>
+③　早期療育への足掛かりとしての支援教室【新規】<br/>
+療育は、低年齢のうちから取り組むほど効果が大きいと言われています。<br/>
+一方で、子どもの年齢が低いほど「療育」への抵抗も大きいのが現実です。<br/>
+そのような保護者の気持ちに寄り添いつつ、早期支援の効果・必要性をしっかりと根拠を示した上で、発達支援が必要な子どもが適切な時期に支援を受けるきっかけになるよう、新規に療育施設での無料体験教室を立ちあげました。<br/>
+</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200820/gpfd_7f69e4e8397aac4a94be276c2e521d789bd90e38.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">寄附金の使い道</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">・健診アンケートのWeｂ化に係るシステム費：２，０００，０００円<br/>
+・育児支援教室の委託料等：１，５００，０００円<br/>
+※上記費用の一部に活用させて頂きます<br/>
+<br/>
+目標金額に達しない場合及び目標金額以上の寄附をいただいた場合、いずれも本プロジェクトの費用に活用させて頂きます。<br/>
+</p>
+</div>
+</div>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">事業実施スケジュール</span></h2>
+<p class="gcf-txt-article">2020年度中　育児支援教室の充実<br/>
+2020年度中　とよおか子育てアプリの運用開始<br/>
+2020年度中　幼児健診アンケートのアプリ回答開始<br/>
+</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">寄附者の皆様へ</span></h2>
+<h3 class="gcf-ttl-h3">豊岡市　市長　中貝宗治</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200831/gpfd_9e75247c694443474377a4981f8da463969d842f.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt"> 発達に課題のある子どもたちは、今までも少なからずあり、療育の必要な子どももいます。<br/>
+しかしその多くの場合、保護者としては、「子どもの成長を待ちたい、認めたくない」といった気持ちから、就学直前になってようやく療育などに踏み切るというのが現実でした。<br/>
+<br/>
+他方で、発達障害児の支援は、開始年齢が早いほど言葉を理解し表現する力を伸ばす効果が大きいことが、研究で明らかになってきています。<br/>
+早期発見・早期支援が何より大切だと言えます。<br/>
+<br/>
+そこで、豊岡市は、課題のある子どもを早期に発見し、その子どもや保護者をしっかりと支えながら、早期支援につなぐ体制を整える手法を検討してきました。<br/>
+その結果、一つには、世界基準の質問票であるM-CHATの導入とそのためのアプリ開発。そして、育てにくさに悩む保護者に、早期療育の効果に関する科学的根拠を示し、しっかりと寄り添うこと。さらに、子どもや保護者をサポートする発達支援教室を充実することとしました。<br/>
+<br/>
+健診でのM-CHATの導入によって、潜在していた子どもの課題の早期発見が可能となります。<br/>
+導入に合わせ、保護者の負担を軽くするため、電子版母子手帳アプリ提供会社と協働して、健診質問票をアプリで回答できるシステムを全国に先駆けて開発しました。<br/>
+この機能は、保護者の利便性を飛躍的に向上させるだけでなく、保健師が事前に保護者の悩みを知ることによって丁寧な相談をすることを可能にします。<br/>
+<br/>
+さらに、子どもと保護者の持つ課題への更なるサポート強化策として、専門的知見に基づいた発達支援教室の拡充と、新たに親子で療育を体験できる仕組みも整えました。<br/>
+<br/>
+この取組みでしっかりした成果を生み出すことができれば、全国での展開も期待できます。<br/>
+豊岡市の挑戦にぜひご支援をお願いします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518100/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240528/pd_3e15731d06487fcf8d05f6089fd730999e9dd671.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【ナカタハンガー】メンズスーツハンガー/AUT-03</h4>
+<p class="goods-col_price inline">36,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2019年10月9日 ～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、３カ月以内に発送します</p>
+</div>
+<p class="goods-col_textinfo pc">職人が一つひとつ手作りし、日本中のアパレルブランドや高級ホテルのスイートルームで採用されている中田工芸の木製ハンガー。自社ブランド「NAKATA HANGER」の
+AUT（オーセンティック）シリーズのメンズスーツハンガーは、中央の膨らみと柔らかな曲線が特徴的で、ジャケットをかけたときのフィット感はプロにも高く評価されています。大切な一着を型崩れから守る人気商品です。
+誠に勝手ながら2022年4月1日以降の返礼品お申し込み分より商品の金具仕様が変更となります。
+【変更前】金具：ホワイトブロンズ（ツヤなしシルバー）
+【変更後】金具：クローム（ツヤありシルバー）
+お客様には何かとご迷惑をお掛けすることと存じますが、何卒ご理解賜りますよう宜しくお願い申し上げます。
+◎中田工芸
+1946年、兵庫県北部の豊岡市に創業。70年以上の歴史を持つ日本で唯一の木製ハンガー専門メーカーです。アパレルブランド、百貨店、ホテルなどさまざまな顧客のハンガーをオーダーメイドで製作するほか、自社ブランド「NAKATA HANGER」のアイテムも好評。日本国内だけではなく最近では海外にも販路を広げています。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（中田工芸株式会社　TEL：0796-42-1131）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518053/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240528/pd_125207b26ef3bde9c3bba6e27d4125be73aadf83.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【ナカタハンガー】メンズジャケットハンガー/NH-2</h4>
+<p class="goods-col_price inline">132,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、３カ月以内に発送します</p>
+</div>
+<p class="goods-col_textinfo pc">一枚の特別な厚みの板材から職人がハンドメイドで削りだした、NAKATA HANGERブランドの中でも最高峰品質のメンズジャケット用ハンガー。
+木目や節、繊維の向きがそれぞれ違う天然木を熟練の職人が見極め、その木材に合わせた方法で「南京鉋（なんきんがんな）」という道具を使用しフリーハンドで削り出します。首、肩そして背中にかけての丸み等、フリーハンドでしか表現できない複雑で繊細なラインが特徴です。
+クローゼットの中だけでなく、会社の役員室や応接室、ご家庭の玄関、ゲストルーム等、大切なお客様をお迎えする場面でご使用いただくことで、オーナーの愛着感とゲストへの最高のおもてなしが演出できます。
+◎中田工芸
+1946年、兵庫県北部の豊岡市に創業。70年以上の歴史を持つ日本で唯一の木製ハンガー専門メーカーです。アパレルブランド、百貨店、ホテルなどさまざまな顧客のハンガーをオーダーメイドで製作するほか、自社ブランド「NAKATA HANGER」のアイテムも好評。日本国内だけではなく最近では海外にも販路を広げています。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（中田工芸株式会社　TEL：0796-42-1131）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4562504/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240207/pd_709fcbbfcb2fb1e402bf343f8674960df3273442.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">特別栽培米こしひかり　六方銀米　白米5kg</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。※土日祝は発送できませんので、予めご了承くださいませ。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">毎日のようにコウノトリが舞い降りる田んぼで独自の環境に配慮した農法で栽培しました。
+化学肥料は不使用、農薬は慣行の90％減農薬の特別栽培米で、兵庫県の「ひょうごあんしんブランド」及び豊岡市の「コウノトリの舞」の認定を取得した安心安全で驚異の粘りがあるお米です。
+※土日祝は発送できませんので、予めご了承くださいませ。
+事業者名：中谷農事組合法人（TEL：0120-288-442）
+＜配達不可地域について＞
+賞味期限の関係で、沖縄、離島へのお届は対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4562505/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240207/pd_4d9d9d63526b488e8d63cdf81d7ac3510c0aba3e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">特別栽培米こしひかり　六方銀米　白米10kg</h4>
+<p class="goods-col_price inline">22,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。※土日祝は発送できませんので、予めご了承くださいませ。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">毎日のようにコウノトリが舞い降りる田んぼで独自の環境に配慮した農法で栽培しました。
+化学肥料は不使用、農薬は慣行の90％減農薬の特別栽培米で、兵庫県の「ひょうごあんしんブランド」及び豊岡市の「コウノトリの舞」の認定を取得した安心安全で驚異の粘りがあるお米です。
+※土日祝は発送できませんので、予めご了承くださいませ。
+事業者名：中谷農事組合法人（TEL：0120-288-442）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4562506/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240207/pd_33748a5cf971175a6f5356a22a4d2b45734fdcb3.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">特別栽培米こしひかり　六方銀米　白米10kg（5kg×2袋）</h4>
+<p class="goods-col_price inline">22,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。※土日祝は発送できませんので、予めご了承くださいませ。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">国の天然記念物コウノトリが舞う兵庫県豊岡市。一度は絶滅してしまった野生のコウノトリの保護・育成に取り組み、今では毎日のように田んぼに舞い降りるようになりました。そんな田んぼで、化学肥料を使用せず、特別栽培農産物表示ガイドラインに基づく兵庫県の地域慣行レベルの90％減農薬で育てたお米が、特別栽培米コシヒカリ「六方銀米」です。兵庫県の「ひょうごあんしんブランド」や豊岡市の「コウノトリの舞」の認定を取得していて、一度食べると癖になる粘りがあるお米です。
+＜配達について＞
+※土日祝は発送できません。ご了承ください
+※賞味期限の関係で、沖縄、離島へのお届けは対応しておりません。ご了承くださいませ。
+◎中谷農事組合法人
+豊岡市中谷地区で農業を営む人たちの組合。1998年、地域の農業とふるさとの景色を守るために、“一集落一農場”方式を採用。区画整理をして、農業の効率化を図り、地域の農地を組合で運営する方法をスタート。以来、「六方銀米」など高収益化を考えた農業に取り組み、販売も自ら行っています。事業者名：中谷農事組合法人（TEL：0120-288-442）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4563501/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_20c90269e999891616be79bbb34fa354a5eb3a35.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【令和5年産】あした米「ミルキークイーン」 白米5kg</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">きれいな水と山里の昼夜の温度差、肥料には「鶏糞」や「牛糞堆肥」等、地域の資源を利用し安全・安心・美味しいお米を生産しています。
+ミルキークイーンは、低アミルース米です。アミロースという成分は少ないほど粘りが強く、モチモチとした食感です。
+冷めてもおいしく食べられるという性質があるので、おにぎりやお弁当のご飯にぴったりです。
+※サイズの都合上、佐川急便にて発送いたします。
+※お届けの時期はご指定のない場合は、ご注文を受けた日から1週間以内に発送致します。
+事業者名：農業生産法人　有限会社　あした（TEL：0796-20-8319）
+＜配達不可地域について＞
+賞味期限の関係で、沖縄、離島へのお届は対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518034/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_61cfc4f7543dc6e40985d9ad21e5d2a1ca08837c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡産かばん ビジネスバッグ（CG-450）</h4>
+<p class="goods-col_price inline">40,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">豊岡産のビジネスバッグです。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518061/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_74dcb378d974a106b1f07d4bfb236cd3238154a2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡産 合皮タテ型ショルダー BS-5327（08-093）ブラウン</h4>
+<p class="goods-col_price inline">32,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">タブレット、ＰＣ収納可能です。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518062/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_10f7198ed72562fa6cf97c4fb8998eb72960f087.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡産かばん 横型ショルダー CG2300（08-104）ブラック</h4>
+<p class="goods-col_price inline">26,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">カジュアルに使える横型ショルダーです。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518081/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_dc88c76c5f0bfb327248a30a3ba06a8a1a4c8de8.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡産かばん ビジネスバッグ（CS-3047）</h4>
+<p class="goods-col_price inline">46,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">豊岡産のビジネスバッグです。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518143/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201125/pd_ba8e32fa583ad2483895d7b2f50e38525bdf23dd.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　カラフルアイトート(24-417）　ターコイズ</h4>
+<p class="goods-col_price inline">38,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">表生地には岡山で織った厚手の綿100%の生地にPVC加工を施したへリンボン(杉綾織)を使用しております。PVC加工により防水、防汚性があり、また厚手の為、生地にコシがあり自立します。
+内装・持ち手にはコーデュラ　ポリエステル　610デニールを使用しており、摩擦・擦り切れに強く、軽量ながら高強度、さらに撥水効果もあります。
+生地加工から縫製、仕上げまですべて国内生産しており、地域ブランドでもある【豊岡鞄】にも認定されました。
+可愛いカラフルなチャック(YKK)、A4が入るサイズ、軽量、型掛けでき持ち手の長さから実用性抜群のちょうどいいトートとして幅広い年代の女性に好評です。
+手頃な値段とサイズからお土産や母の日ギフトにも人気です。
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+豊岡は、千年の伝統をもつ鞄の産地です。
+「鞄の街　豊岡」は、奈良時代から始まる柳細工を起源とし、江戸時代に柳行李生産の隆盛をむかえ、大正以降はその伝統技術と流通経路を基盤に、新素材への挑戦とミシン縫製技術の導入により鞄の生産地となりました。
+豊岡市で作られた鞄は「豊岡産」「豊岡製」「日本製」などと呼ぶことができます。
+それら豊岡産の鞄の中でも、兵庫県鞄工業組合が定めた基準を満たす企業によって生産され、審査に合格した製品を「豊岡鞄」と認定しています。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518144/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_a93ce49238cab464af593e733c3642394ecc616b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　レディースビジネス(24-407)</h4>
+<p class="goods-col_price inline">54,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">豊岡は、千年の伝統をもつ鞄の産地です。
+「鞄の街　豊岡」は、奈良時代から始まる柳細工を起源とし、江戸時代に柳行李生産の隆盛をむかえ、大正以降はその伝統技術と流通経路を基盤に、新素材への挑戦とミシン縫製技術の導入により鞄の生産地となりました。
+豊岡市で作られた鞄は「豊岡産」「豊岡製」「日本製」などと呼ぶことができます。それら豊岡産の鞄の中でも、兵庫県鞄工業組合が定めた基準を満たす企業によって生産され、審査に合格した製品を「豊岡鞄」と認定しています。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518145/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_afaa402946cd003a5ad5ebb1b2f88b6e6cdab00b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡産 合皮タテ型ショルダー BS-5327（08-093）ブルー</h4>
+<p class="goods-col_price inline">32,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">国内有数のカバンの一大産地である豊岡市で、メンズ向け製品を得意とする鞄問屋が企画製造した合皮のタテ型ショルダーバックです。
+通常はソファなどの家具に使われるような、国産の合成皮革素材を使用しているので耐久性は抜群！すれや表面の汚れにも強いカバンです。落ち着いたブルーの色味と特殊加工した生地表面の型押し模様が、高級感を引き立てます。
+まるでズボンのポケットが拡張されたかのようなカバンで、使いやすさにこだわった機能が満載。スマートフォンや携帯はもちろん、タブレットPCなども収納可能です。
+◎三宅株式会社について
+豊岡市内の50年以上続く鞄問屋。スポーツバックを始め男性向けのカバンの企画が得意。技術と伝統を受け継ぎながら自分たちが持ちたいカバンを創り続けています。
+◎（一財）但馬地域地場産業振興センターについて
+但馬3市2町から成り立つ但馬地域の地場産業の一層の発展を図るための地域商社。但馬の地場産品を一堂に集めて展示販売をおこなっています。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518146/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_99dfc89ffc83e713781f5246ac3b3e451e419aa0.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡産 合皮タテ型ショルダー BS-5327（08-093）ブラック</h4>
+<p class="goods-col_price inline">32,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">タブレット、ＰＣ収納可能です。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518147/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_fbdee57639c510aa223e5ded927914ec3adde6f4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡産かばん 横型ショルダー CG2300（08-104）ブラウン</h4>
+<p class="goods-col_price inline">26,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">カジュアルに使える横型ショルダーです。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518148/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_ee1f68fccc960ff2221176a991c4b185669619b8.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡産かばん 横型ショルダー CG2300（08-104）ブルー</h4>
+<p class="goods-col_price inline">26,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">カジュアルに使える横型ショルダーです。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4551732/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_e11dd3482d9d772b8fcc874505df1678820ac4be.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">財布 豊岡財布 TUTUMU伊レザーRFW（グレー）</h4>
+<p class="goods-col_price inline">88,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡財布」です。
+TUTUMUのラウンドファスナーウォレットです。牛革製品です。
+本体皮革はイタリアCOPAR社の職人による鮮やかな色付けと極め細やかな型押しで仕上げられています。よってキズが付きにくく、色落ちしにくいので扱いやすい財布です。同社工場の認定タグが付きます。ファスナーはYKKのEVERBRIGHTですので輝きを持続し耐食性にも優れスムースです。外装にカード入れ１、内装にはファスナー小銭入れ１、カード入れ８、領収書等入れが２です。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（豊岡K－site合同会社　TEL：0796-26-7300）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4551733/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_76ca366e8b35ec36d3d5eab4deb868c7408751c7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">財布 豊岡財布 TUTUMU伊レザーRFW（スカイ）</h4>
+<p class="goods-col_price inline">88,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡財布」です。
+TUTUMUのラウンドファスナーウォレットです。牛革製品です。
+本体皮革はイタリアCOPAR社の職人による鮮やかな色付けと極め細やかな型押しで仕上げられています。よってキズが付きにくく、色落ちしにくいので扱いやすい財布です。同社工場の認定タグが付きます。ファスナーはYKKのEVERBRIGHTですので輝きを持続し耐食性にも優れスムースです。外装にカード入れ１、内装にはファスナー小銭入れ１、カード入れ８、領収書等入れが２です。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（豊岡K－site合同会社　TEL：0796-26-7300）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518030/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_7af1c6230f9448e4a2ad7f03ff4085fc14d0b3c9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">純米大吟醸　幸の鳥（79-028）</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">フランスで初めて開かれた日本酒品評会「Ｋｕｒａ　Ｍａｓｔｅｒ」で金賞を受賞。
+精米歩合 40％にて醸造を行いました。
+こうのとり育む農法にて、農薬を一切使わずに育てられた山田錦で醸す純米大吟醸です。
+やわらかな香りと自然で奥深いお米の味わいのある風味の豊かなお酒です。
+自然に優しく、人にやさしいお酒に仕上がりました。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。
+20歳未満の飲酒は法律で禁止されています</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518035/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_8962584d5c130fa23a6711aa904ca8f88d93f950.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">出石焼 花瓶（87-024）</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">透き通るような白を特徴とする出石焼。その神秘的な白さと、磨かれた技が生み出す繊細な彫刻は他に例を見ないほどです。国の伝統工芸品に指定されています。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518049/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_f1d63074f696409b96a324afb204ee504c587470.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">純米吟醸　幸の鳥（79-025）</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">兵庫県豊岡市「コウノトリ育む農法」で農薬・化学肥料を全く使用せずに育てられた酒米「五百万石」で醸す純米吟醸酒です。
+しっかりとした旨い酸味と柔らかな口当たり風味豊かな味わいをご堪能ください。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届は対応しておりません。ご了承くださいませ。
+20歳未満の飲酒は法律で禁止されています</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518069/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_009c205133910eca769765f0d052a612639ff8e4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ゴーへオフショアジグ・ブリオン２個セット</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">“スパイラルドリフト”を演出！
+水流を受け、横に倒れた後、自動車がドリフトするが如く、ヘッドを軸にテールをスライドさせる。
+ベイトリールでバーチカルに攻める専用設計だが、初心者でも扱い易いモデル！
+◆針先は大変危険です。取り扱いには十分注意して下さい。
+◆魚釣り以外の目的には使用しないでください。
+◆キャストする際は周囲の安全を確認の上行って下さい。
+※カラーは選べません。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（株式会社脇漁具製作所　TEL：0796-28-3125）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届は対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518071/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_2466f41d15aaece62e933ae4a20c9e004f05c1cb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">こうのとり石けん【5個セット】</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">100%自然由来の全身洗える無添加の石鹸です。
+無農薬の米ぬかを、無添加石鹸に配合し、お肌の弱い方にも安心して毎日使える石けんです。
+無農薬の米ぬかには、お肌を保湿し保護する美容成分がたくさんつまっています。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（人、自然にやさしいお店 moko　TEL：0796-54-0655）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届は対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518085/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_2184983aee34060ac3349956c7e094eb2221da63.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">シルクスパソープ【100g×2個】</h4>
+<p class="goods-col_price inline">14,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">関西代表　美人湯を肌で感じる
+シルク温泉の成分を丸ごと石鹸にしました。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（ホテルシルク温泉やまびこ　TEL：0796-54-0141）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届は対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518086/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_1528b31495ff734dd08ba1f7d7a77fd27dee614f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">シルクスパソープ【100g×4個】</h4>
+<p class="goods-col_price inline">24,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">関西代表　美人湯を肌で感じる
+シルク温泉の成分を丸ごと石鹸にしました。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（ホテルシルク温泉やまびこ　TEL：0796-54-0141）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518055/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_cbeb9927706844f99dc5511f178bcf045130e737.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【数量限定】純米大吟醸　幸の鳥雫（79-057）</h4>
+<p class="goods-col_price inline">38,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">コウノトリ育む農法の農薬不使用の山田錦１００％で造った純米大吟醸です。
+酒袋に入れ自然に垂れ落ちてくる雫酒で、少量しかとれない限定品です。
+優しい味わいと香りのお酒です。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。
+20歳未満の飲酒は法律で禁止されています</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518183/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_62f6706e1fcfae07fa375e53bced5289ee9a82aa.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">シルクスパソープ【100g×3個】</h4>
+<p class="goods-col_price inline">18,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">関西代表　美人湯を肌で感じる
+シルク温泉の成分を丸ごと石鹸にしました。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（ホテルシルク温泉やまびこ　TEL：0796-54-0141）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届は対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518225/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_e53e3e69c5af23765fe2a31d2ce0adbfa01c482a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">W-WAVEタイラバ・クイックショット２個セット A</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">クイックショットは、アイを押すだけで瞬時にネクタイカラーをチェンジできる機構を備えた固定式タイラバです。
+自作派エキスパートにもオススメ！
+◆針先は大変危険です。取り扱いには十分注意して下さい。
+◆魚釣り以外の目的には使用しないでください。
+◆キャストする際は周囲の安全を確認の上行って下さい。
+※カラーは選べません。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（株式会社脇漁具製作所　TEL：0796-28-3125）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届は対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518226/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_bbb9e74942fc1e8cca4d28fc90ab199c794288d8.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">W-WAVEタイラバ・クイックショット２個セット B</h4>
+<p class="goods-col_price inline">8,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">クイックショットは、アイを押すだけで瞬時にネクタイカラーをチェンジできる機構を備えた固定式タイラバです。
+自作派エキスパートにもオススメ！
+◆針先は大変危険です。取り扱いには十分注意して下さい。
+◆魚釣り以外の目的には使用しないでください。
+◆キャストする際は周囲の安全を確認の上行って下さい。
+※カラーは選べません。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（株式会社脇漁具製作所　TEL：0796-28-3125）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届は対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4458881/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_03d611b8baa798d820feef65fc5cb1c8def5ed11.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">赤花蕎麥【6人前】(在来種十割冷凍そば)　</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年8月1日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">つなぎを一切使わない十割そばのゆがきたてそのままを急速冷凍しお届けします。
+沸騰させた湯にさっと通し、氷水にさらすだけで赤花そば極上の旨みと香りをお楽しみいただけます。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（赤花そばの郷農事組合法人　TEL：0796-56-0081）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届は対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4458969/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_6510993a4072ca0ef9d559d31c846eeee3b2bd17.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">赤花そば【6人前】</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年8月1日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">【クレカ限定】
+古くから、小粒で舌触りがよく、香りの高い独特の風味を持つそばが栽培されてきた
+そばの郷「赤花」で育ったそばの実を使っています。是非ご賞味ください。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（赤花そばの郷農事組合法人　TEL：0796-56-0081）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届は対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4458970/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_875341500759fdf5a873aeb2bbec02b1e1608a79.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">赤花そば【10人前】</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年8月1日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">【クレカ限定】
+古くから、小粒で舌触りがよく、香りの高い独特の風味を持つそばが栽培されてきた
+そばの郷「赤花」で育ったそばの実を使っています。是非ご賞味ください。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（赤花そばの郷農事組合法人　TEL：0796-56-0081）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届は対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/699836/33">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_d68cc4a6782ab4a1d5244c61af6fee56d8d49f93.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">二方蒲鉾セット(2)</h4>
+<p class="goods-col_price inline">19,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2017年11月1日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">創業大正十年、以来故郷の人々と共に育まれてきた伝統の味。
+日本海の潮風と山々から流れくる清き水。ふるさとの味を但馬の港からお届けいたします。
+山陰を代表する商品をご家族みんなで楽しめるようにと種類豊富な詰め合わせです。
+※画像はイメージです。詳細は内容量をご確認くださいませ。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（二方蒲鉾株式会社　TEL：0796-28-3121）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届けは対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4458962/33">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_7d9b22b1b77567cb4ac7c2b7b1ba73e5b89a172e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">二方蒲鉾セット(3)</h4>
+<p class="goods-col_price inline">35,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年8月1日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">創業大正十年、以来故郷の人々と共に育まれてきた伝統の味。
+日本海の潮風と山々から流れくる清き水。ふるさとの味を但馬の港からお届けいたします。
+山陰を代表する商品をご家族みんなで楽しめるようにと種類豊富な詰め合わせです。
+※画像はイメージです。詳細は内容量をご確認くださいませ。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（二方蒲鉾株式会社　TEL：0796-28-3121）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届けは対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/714598/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_462db3f4dd240dfbd55f1aff754b3bf0f6e250c0.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">こうのとり石けん【10個セット】</h4>
+<p class="goods-col_price inline">19,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">100%自然由来の全身洗える無添加の石鹸です。
+無農薬の米ぬかを、無添加石鹸に配合し、お肌の弱い方にも安心して毎日使える石けんです。
+無農薬の米ぬかには、お肌を保湿し保護する美容成分がたくさんつまっています。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（人、自然にやさしいお店 moko　TEL：0796-54-0655）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届は対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4524024/33">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_5cd9180250809ffecb4cfab5575f852afb5245ca.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">二方蒲鉾セット(1)</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月1日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">創業大正十年、以来故郷の人々と共に育まれてきた伝統の味。
+日本海の潮風と山々から流れくる清き水。ふるさとの味を但馬の港からお届けいたします。
+山陰を代表する商品をご家族みんなで楽しめるようにと種類豊富な詰め合わせです。
+※画像はイメージです。詳細は内容量をご確認くださいませ。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（二方蒲鉾株式会社　TEL：0796-28-3121）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届けは対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4564720/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_0015d45303c804c8e2756d8e4771263872ed5641.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【玄さんふぃぎゅあ】玄武岩の玄さん 組み立て式フィギュア（プラモデル）</h4>
+<p class="goods-col_price inline">8,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。</p>
+</div>
+<p class="goods-col_textinfo pc">豊岡市のマスコット「玄さん」のふぃぎゅあ1/16スケールで登場！
+パーツを替えたら、いろんな顔やかっこうになるでぇ！
+顔の各パーツ（目、鼻、口）と手（グー、チョキ、パー）が交換でき、
+各関節が動きますのでその日の気分で表情とポーズを替えて楽しんで下さい。
+きっとミニ玄さんが微笑みかけたり、励ましてくれたり、
+一緒に悲しんでくれたりしてあなたをゲン気づけてくれることでしょう。
+【製造者】ネクサス化成株式会社（豊岡市）
+■形　態：プラモデル
+■対象年令：15歳以上
+■材　料：本体 PP　関節 PP
+■着　色：プラスチック染色加工
+◎注意！組み立て前の諸注意を必ずお読みください。
+◎組み立てに接着剤は、必要ありません。
+◎パーツのみの販売もしております。
+・12月22日受注分までは年内に発送
+・12月の最終発送日は、12月29日
+・年明けは1月6日より順次発送予定
+豊岡市承認：豊玄第八三四号
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（あるまま　TEL：0796-42-5604）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4564721/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_13289ea5d9727c606ee4629ea5098713bf4b571e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【玄さんふぃぎゅあ】玄武岩の玄さん 組み立て式フィギュア（完成品）</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。</p>
+</div>
+<p class="goods-col_textinfo pc">豊岡市のマスコット「玄さん」のふぃぎゅあ1/16スケールで登場！
+パーツを替えたら、いろんな顔やかっこうになるでぇ！
+顔の各パーツ（目、鼻、口）と手（グー、チョキ、パー）が交換でき、
+各関節が動きますのでその日の気分で表情とポーズを替えて楽しんで下さい。
+きっとミニ玄さんが微笑みかけたり、励ましてくれたり、
+一緒に悲しんでくれたりしてあなたをゲン気づけてくれることでしょう。
+【製造者】ネクサス化成株式会社（豊岡市）
+■形　態：完成品
+■対象年令：15歳以上
+■材　料：本体 PP　関節 PP
+■着　色：プラスチック染色加工
+◎組立品（完成品）をお届けします。
+◎パーツのみの販売もしております。
+・12月22日受注分までは年内に発送
+・12月の最終発送日は、12月29日
+・年明けは1月6日より順次発送予定
+豊岡市承認：豊玄第八三四号
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（あるまま　TEL：0796-42-5604）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4656839/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240528/pd_95add2a61b7d47fb72776e7cdfa8602e9678ae83.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【ナカタハンガー】レディスジャケットハンガー/NH-3S</h4>
+<p class="goods-col_price inline">120,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、３カ月以内に発送します</p>
+</div>
+<p class="goods-col_textinfo pc">一枚の特別な厚みの板材から職人がハンドメイドで削りだした、NAKATA HANGERブランドの中でも最高峰品質のレディスジャケット用ハンガー。
+木目や節、繊維の向きがそれぞれ違う天然木を熟練の職人が見極め、その木材に合わせた方法で「南京鉋（なんきんがんな）」という道具を使用しフリーハンドで削り出します。首、肩そして背中にかけての丸み等、フリーハンドでしか表現できない複雑で繊細なラインが特徴です。
+クローゼットの中だけでなく、会社の役員室や応接室、ご家庭の玄関、ゲストルーム等、大切なお客様をお迎えする場面でご使用いただくことで、オーナーの愛着感とゲストへの最高のおもてなしが演出できます。
+◎中田工芸
+1946年、兵庫県北部の豊岡市に創業。70年以上の歴史を持つ日本で唯一の木製ハンガー専門メーカーです。アパレルブランド、百貨店、ホテルなどさまざまな顧客のハンガーをオーダーメイドで製作するほか、自社ブランド「NAKATA HANGER」のアイテムも好評。日本国内だけではなく最近では海外にも販路を広げています。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（中田工芸株式会社　TEL：0796-42-1131）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4656840/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240528/pd_8c6d7d9ebf12ef6cfd538b51fdd3a647cb877a69.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【ナカタハンガー】レディスジャケットハンガー/AUT-03W</h4>
+<p class="goods-col_price inline">27,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、３カ月以内に発送します</p>
+</div>
+<p class="goods-col_textinfo pc">職人が一つひとつ手作りし、日本中のアパレルブランドや高級ホテルのスイートルームで採用されている中田工芸の木製ハンガー。自社ブランド「NAKATA HANGER」のAUT（オーセンティック）シリーズのレディスジャケットハンガーは、中央の膨らみと柔らかな曲線が特徴的で、ジャケットをかけたときのフィット感はプロにも高く評価されています。大切な一着を型崩れから守る人気商品です。
+◎中田工芸
+1946年、兵庫県北部の豊岡市に創業。70年以上の歴史を持つ日本で唯一の木製ハンガー専門メーカーです。アパレルブランド、百貨店、ホテルなどさまざまな顧客のハンガーをオーダーメイドで製作するほか、自社ブランド「NAKATA HANGER」のアイテムも好評。日本国内だけではなく最近では海外にも販路を広げています。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（中田工芸株式会社　TEL：0796-42-1131）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4661047/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_c7059436ca537dc54a2ab589ec7e1bc20d241d65.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">鰻一筋「うな幸」のふわとろ蒲焼き【“国産”特大1本入り】たれ付き</h4>
+<p class="goods-col_price inline">18,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2019年07月10日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。基本的には、注文のメールが届いて2日以内の発送となります。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>鰻を焼く場所から２m程のところで卵を焼いています。
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">1本220g前後の特大サイズ！（活鰻の状態で300g前後）
+“国内”の安全で良質な活鰻を弐番開き、縫い串地焼きの伝統技法により、丁寧に焼き上げます。
+すべて発送当日に手焼きし、「焼きたて」を発送します。
+◆七味家本舗の山椒◆
+江戸時代からつづく老舗、京都・清水寺にある「七味家本舗」の山椒です。
+良い山椒が収穫できないときには休業されたこともあるという、良質なこだわりの山椒を薬味としてご賞味ください。
+◆蒲焼きのたれ◆
+たれは手作りで、着色料・人工甘味料等は一切使用しておりません。安心してお召し上がりください。
+【お召し上がり方】
+蒲焼きを適当な大きさに切り、そのままお皿にのせ500Wで30秒～50秒程電子レンジで温めてお召し上がりください。
+ラップは不要です。酒などをふる必要もございません。
+たれをまぶしたご飯にのせ「うな丼」としても良し、お酒のお供としてもよく合います。お好みで山椒をかけてお召し上がりください。
+※画像はイメージです。
+※ご連絡※
+業務の都合、土用の丑の日前後1日は発送できませんので発送できませんので、予めご了承くださいませ。
+・12月28日受注分までは年内に発送
+・12月の最終発送日は12月30日
+・年明けは1月5日より順次発送予定
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（うな幸　TEL：0796-24-5157）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届けは対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4661048/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_550de6cf9b5f5b485e127a8f2afad97947e17bba.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">鰻一筋「うな幸」のふわとろ白焼き【“国産”特大1本入り】たれ付き</h4>
+<p class="goods-col_price inline">18,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2019年07月10日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。基本的には、注文のメールが届いて2日以内の発送となります。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>鰻を焼く場所から２m程のところで卵を焼いています。
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">1本220g前後の特大サイズ！（活鰻の状態で300g前後）
+“国内”の安全で良質な活鰻を弐番開き、縫い串地焼きの伝統技法により、丁寧に焼き上げます。
+すべて発送当日に手焼きし、「焼きたて」を発送します。
+◆七味家本舗の山椒◆
+江戸時代からつづく老舗、京都・清水寺にある「七味家本舗」の山椒です。
+良い山椒が収穫できないときには休業されたこともあるという、良質なこだわりの山椒を薬味としてご賞味ください。
+◆蒲焼きのたれ◆
+たれは手作りで、着色料・人工甘味料等は一切使用しておりません。安心してお召し上がりください。
+【お召し上がり方】
+白焼きを適当な大きさに切り、そのままお皿にのせ500Wで30秒～50秒程電子レンジで温めてお召し上がりください。
+ラップは不要です。酒などをふる必要もございません。
+わさび醤油や塩で丼で食べても良し、お酒のお供としてもよく合います。お好みで山椒をかけてお召し上がりください。
+※画像はイメージです。
+※ご連絡※
+業務の都合、土用の丑の日の前後1日は発送できませんので、予めご了承くださいませ。
+・12月28日受注分までは年内に発送
+・12月の最終発送日は12月30日
+・年明けは1月5日より順次発送予定
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（うな幸　TEL：0796-24-5157）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届けは対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4661049/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_3872633e4b2c06c2e99baa13d61edae58474ee2b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">鰻一筋「うな幸」のふわとろ蒲焼き【“国産”特大２本入り】たれ付き</h4>
+<p class="goods-col_price inline">32,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2019年07月10日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。基本的には、注文のメールが届いて2日以内の発送となります。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>鰻を焼く場所から２m程のところで卵を焼いています。
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">1本220g前後の特大サイズ！（活鰻の状態で300g前後）
+“国内”の安全で良質な活鰻を弐番開き、縫い串地焼きの伝統技法により、丁寧に焼き上げます。
+すべて発送当日に手焼きし、「焼きたて」を発送します。
+◆七味家本舗の山椒◆
+江戸時代からつづく老舗、京都・清水寺にある「七味家本舗」の山椒です。
+良い山椒が収穫できないときには休業されたこともあるという、良質なこだわりの山椒を薬味としてご賞味ください。
+◆蒲焼きのたれ◆
+たれは手作りで、着色料・人工甘味料等は一切使用しておりません。安心してお召し上がりください。
+【お召し上がり方】
+蒲焼きを適当な大きさに切り、そのままお皿にのせ500Wで30秒～50秒程電子レンジで温めてお召し上がりください。
+ラップは不要です。酒などをふる必要もございません。
+たれをまぶしたご飯にのせ「うな丼」としても良し、お酒のお供としてもよく合います。お好みで山椒をかけてお召し上がりください。
+※画像はイメージです。
+※ご連絡※
+業務の都合、土用の丑の日の前後1日は発送できませんので、予めご了承くださいませ。
+・12月28日受注分までは年内に発送
+・12月の最終発送日は12月30日
+・年明けは1月5日より順次発送予定
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（うな幸　TEL：0796-24-5157）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4661050/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_0d230466e0e60ae3fbb4cfba5cf2794536b95270.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">鰻一筋「うな幸」のふわとろ蒲焼き１本、白焼き１本【“国産”特大２本セット】たれ付き</h4>
+<p class="goods-col_price inline">32,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2019年07月10日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。基本的には、注文のメールが届いて2日以内の発送となります。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>鰻を焼く場所から２m程のところで卵を焼いています。
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">1本220g前後の特大サイズ！（活鰻の状態で300g前後）
+“国内”の安全で良質な活鰻を弐番開き、縫い串地焼きの伝統技法により、丁寧に焼き上げます。
+すべて発送当日に手焼きし、「焼きたて」を発送します。
+※画像はイメージです。
+◆七味家本舗の山椒◆
+江戸時代からつづく老舗、京都・清水寺にある「七味家本舗」の山椒です。
+良い山椒が収穫できないときには休業されたこともあるという、
+良質なこだわりの山椒を薬味としてご賞味ください。
+◆蒲焼きのたれ◆
+たれは手作りで、着色料・人工甘味料等は一切使用しておりません。
+安心してお召し上がりください。
+【お召し上がり方】
+蒲焼き・白焼きを適当な大きさに切り、
+そのままお皿にのせ500Wで30秒～50秒程電子レンジで温めてお召し上がりください。
+ラップは不要です。酒などをふる必要もございません。
+蒲焼きはたれをまぶしたご飯にのせ、「うな丼」としても、
+白焼きはわさび醤油や塩で丼で食べても良し、お酒のお供としてもよく合います。
+お好みで山椒をかけてお召し上がりください。
+※ご連絡※
+業務の都合、土用の丑の日の前後1日は発送できませんので、予めご了承くださいませ。
+・12月28日受注分までは年内に発送
+・12月の最終発送日は12月30日
+・年明けは1月5日より順次発送予定
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（うな幸　TEL：0796-24-5157）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4661051/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_f45a8afc35d357c5f56a538d0d5124034badaf88.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">鰻一筋「うな幸」のふわとろ蒲焼き【“国産”特大３本入り】たれ付き</h4>
+<p class="goods-col_price inline">45,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2019年07月10日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。基本的には、注文のメールが届いて2日以内の発送となります。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>鰻を焼く場所から２m程のところで卵を焼いています。
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">1本220g前後の特大サイズ！（活鰻の状態で300g前後）
+“国内”の安全で良質な活鰻を弐番開き、縫い串地焼きの伝統技法により、丁寧に焼き上げます。
+すべて発送当日に手焼きし、「焼きたて」を発送します。
+◆七味家本舗の山椒◆
+江戸時代からつづく老舗、京都・清水寺にある「七味家本舗」の山椒です。
+良い山椒が収穫できないときには休業されたこともあるという、良質なこだわりの山椒を薬味としてご賞味ください。
+◆蒲焼きのたれ◆
+たれは手作りで、着色料・人工甘味料等は一切使用しておりません。安心してお召し上がりください。
+【お召し上がり方】
+蒲焼きを適当な大きさに切り、そのままお皿にのせ500Wで30秒～50秒程電子レンジで温めてお召し上がりください。
+ラップは不要です。酒などをふる必要もございません。
+たれをまぶしたご飯にのせ「うな丼」としても良し、お酒のお供としてもよく合います。お好みで山椒をかけてお召し上がりください。
+※画像はイメージです。
+※ご連絡※
+業務の都合、土用の丑の日の前後1日は発送できませんので、予めご了承くださいませ。
+・12月28日受注分までは年内に発送
+・12月の最終発送日は12月30日
+・年明けは1月5日より順次発送予定
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（うな幸　TEL：0796-24-5157）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4661052/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_545f2cefdb53f0ce90993e6a055cdf3d761d1b00.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">鰻一筋「うな幸」のふわとろ蒲焼き２本、白焼き１本【“国産”特大３本セット】たれ付き</h4>
+<p class="goods-col_price inline">45,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2019年07月10日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。基本的には、注文のメールが届いて2日以内の発送となります。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>鰻を焼く場所から２m程のところで卵を焼いています。
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">1本220g前後の特大サイズ！（活鰻の状態で300g前後）
+“国内”の安全で良質な活鰻を弐番開き、縫い串地焼きの伝統技法により、丁寧に焼き上げます。
+すべて発送当日に手焼きし、「焼きたて」を発送します。
+◆七味家本舗の山椒◆
+江戸時代からつづく老舗、京都・清水寺にある「七味家本舗」の山椒です。
+良い山椒が収穫できないときには休業されたこともあるという、良質なこだわりの山椒を薬味としてご賞味ください。
+◆蒲焼きのたれ◆
+たれは手作りで、着色料・人工甘味料等は一切使用しておりません。安心してお召し上がりください。　　
+【お召し上がり方】
+蒲焼き・白焼きを適当な大きさに切り、そのままお皿にのせ500Wで30秒～50秒程電子レンジで温めてお召し上がりください。
+ラップは不要です。酒などをふる必要もございません。
+蒲焼きはたれをまぶしたご飯にのせ、「うな丼」としても、白焼きはわさび醤油や塩で丼で食べても良し、お酒のお供としてもよく合います。
+お好みで山椒をかけてお召し上がりください。
+※画像はイメージです。
+※ご連絡※
+業務の都合、土用の丑の日の前後1日は発送できませんので、予めご了承くださいませ。
+・12月28日受注分までは年内に発送
+・12月の最終発送日は12月30日
+・年明けは1月5日より順次発送予定
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（うな幸　TEL：0796-24-5157）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4661053/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_9c71fcfae3c600933458a7882268dcbff9fcf54d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">鰻一筋「うな幸」のふわとろ蒲焼き【“国産”特大５本入り】たれ付き</h4>
+<p class="goods-col_price inline">75,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2019年07月10日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。基本的には、注文のメールが届いて2日以内の発送となります。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>鰻を焼く場所から２m程のところで卵を焼いています。
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">1本220g前後の特大サイズ！（活鰻の状態で300g前後）
+“国内”の安全で良質な活鰻を弐番開き、縫い串地焼きの伝統技法により、丁寧に焼き上げます。
+すべて発送当日に手焼きし、「焼きたて」を発送します。
+◆七味家本舗の山椒◆
+江戸時代からつづく老舗、京都・清水寺にある「七味家本舗」の山椒です。
+良い山椒が収穫できないときには休業されたこともあるという、良質なこだわりの山椒を薬味としてご賞味ください。
+◆蒲焼きのたれ◆
+たれは手作りで、着色料・人工甘味料等は一切使用しておりません。安心してお召し上がりください。
+【お召し上がり方】
+蒲焼きを適当な大きさに切り、そのままお皿にのせ500Wで30秒～50秒程電子レンジで温めてお召し上がりください。
+ラップは不要です。酒などをふる必要もございません。
+たれをまぶしたご飯にのせ「うな丼」としても良し、お酒のお供としてもよく合います。お好みで山椒をかけてお召し上がりください。
+※画像はイメージです。
+※ご連絡※
+業務の都合、土用の丑の日の前後1日は発送できませんので、予めご了承くださいませ。
+・12月28日受注分までは年内に発送
+・12月の最終発送日は12月30日
+・年明けは1月5日より順次発送予定
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（うな幸　TEL：0796-24-5157）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4661054/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_58658439fce535fca7814e6508e07965eba06609.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">鰻一筋「うな幸」のふわとろ蒲焼き３本、白焼き２本【“国産”特大５本セット】たれ付き</h4>
+<p class="goods-col_price inline">75,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2019年07月10日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。基本的には、注文のメールが届いて2日以内の発送となります。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>鰻を焼く場所から２m程のところで卵を焼いています。
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">1本220g前後の特大サイズ！（活鰻の状態で300g前後）
+“国内”の安全で良質な活鰻を弐番開き、縫い串地焼きの伝統技法により、丁寧に焼き上げます。
+すべて発送当日に手焼きし、「焼きたて」を発送します。
+◆七味家本舗の山椒◆
+江戸時代からつづく老舗、京都・清水寺にある「七味家本舗」の山椒です。
+良い山椒が収穫できないときには休業されたこともあるという、良質なこだわりの山椒を薬味としてご賞味ください。
+◆蒲焼きのたれ◆
+たれは手作りで、着色料・人工甘味料等は一切使用しておりません。安心してお召し上がりください。　　
+【お召し上がり方】
+蒲焼き・白焼きを適当な大きさに切り、そのままお皿にのせ500Wで30秒～50秒程電子レンジで温めてお召し上がりください。
+ラップは不要です。酒などをふる必要もございません。
+蒲焼きはたれをまぶしたご飯にのせ、「うな丼」としても、白焼きはわさび醤油や塩で丼で食べても良し、お酒のお供としてもよく合います。
+お好みで山椒をかけてお召し上がりください。
+※画像はイメージです。
+※ご連絡※
+業務の都合、土用の丑の日の前後1日は発送できませんので、予めご了承くださいませ。
+・12月28日受注分までは年内に発送
+・12月の最終発送日は12月30日
+・年明けは1月5日より順次発送予定
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（うな幸　TEL：0796-24-5157）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4699031/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_e76af12c85ef415c16879cb9faad083d04c9e7f4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【ギフト用】鰻一筋「うな幸」のふわとろ蒲焼き１本、白焼き１本【“国産”特大２本セット】たれ付き</h4>
+<p class="goods-col_price inline">32,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2019年09月18日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。基本的には、注文のメールが届いて2日以内の発送となります。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>鰻を焼く場所から２m程のところで卵を焼いています。
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">1本220g前後の特大サイズ！（活鰻の状態で300g前後）
+“国内”の安全で良質な活鰻を弐番開き、縫い串地焼きの伝統技法により、丁寧に焼き上げます。
+すべて発送当日に手焼きし、「焼きたて」を発送します。
+※画像はイメージです。
+◆七味家本舗の山椒◆
+江戸時代からつづく老舗、京都・清水寺にある「七味家本舗」の山椒です。
+良い山椒が収穫できないときには休業されたこともあるという、
+良質なこだわりの山椒を薬味としてご賞味ください。
+◆蒲焼きのたれ◆
+たれは手作りで、着色料・人工甘味料等は一切使用しておりません。
+安心してお召し上がりください。
+【お召し上がり方】
+蒲焼き・白焼きを適当な大きさに切り、
+そのままお皿にのせ500Wで30秒～50秒程電子レンジで温めてお召し上がりください。
+ラップは不要です。酒などをふる必要もございません。
+蒲焼きはたれをまぶしたご飯にのせ、「うな丼」としても、
+白焼きはわさび醤油や塩で丼で食べても良し、お酒のお供としてもよく合います。
+お好みで山椒をかけてお召し上がりください。
+≪ご両親へ　誕生日の贈り物におすすめ≫
+関西風の表面はこんがり、
+中はジューシーなパリふわ食感の蒲焼とふっくら淡白な味わいの白焼きが楽しめます。
+伝統手法で焼きたての当日発送だから新鮮な味わい。
+焼きたての風味をぜひご賞味ください。
+・12月28日受注分までは年内に発送
+・12月の最終発送日は12月30日
+・年明けは1月5日より順次発送予定
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（うな幸　TEL：0796-24-5157）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4728609/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_f9441a7cb47d02cbe6b9f2a22dc049c7d0856378.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【コウノトリ育むお米使用】米粉バウムクーヘン（H4cm）</h4>
+<p class="goods-col_price inline">6,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">幸せを運ぶと言われるコウノトリが舞う豊岡市にて、人にも自然にも優しい農法で栽培された「コウノトリ育むお米」。
+このお米を使った米粉バウムクーヘンは、熟練した菓子職人が、一層ずつ丹念に焼き重ね、独自レシピで配合した米粉がもたらす、しっとり、もっちりとした上質な口当たりが格別の味わいです。
+素材を大切にした優しい美味しさをお楽しみください。
+年内は12月26日（土）を最終発送
+年明けは1月6日（水）より発送開始
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（城崎スイーツ　TEL：0796-24-3099）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届けは対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4728610/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_b9d50409889c4c4c686cfb1c4a2890fca8b2668b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【コウノトリ育むお米使用】米粉バウムクーヘン（H6cm）</h4>
+<p class="goods-col_price inline">8,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">幸せを運ぶと言われるコウノトリが舞う豊岡市にて、人にも自然にも優しい農法で栽培された「コウノトリ育むお米」。
+このお米を使った米粉バウムクーヘンは、熟練した菓子職人が、一層ずつ丹念に焼き重ね、独自レシピで配合した米粉がもたらす、しっとり、もっちりとした上質な口当たりが格別の味わいです。
+素材を大切にした優しい美味しさをお楽しみください。
+年内は12月26日（土）を最終発送
+年明けは1月6日（水）より発送開始
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（城崎スイーツ　TEL：0796-24-3099）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届けは対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4728611/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_0fe3527323e184abecdaa3111458cd0b8145adcf.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【コウノトリ育むお米使用】米粉カステラ一升枡焼き</h4>
+<p class="goods-col_price inline">8,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">幸せを運ぶと言われるコウノトリが舞う豊岡市にて、人にも自然にも優しい農法で栽培された「コウノトリ育むお米」。
+このお米を使った米粉カステラは、特注の天然木の一升枡を型に使い、一つずつ丁寧に焼き上げました。
+新鮮な地卵のコクと風味にこだわり、上品な甘味の和三盆で仕上げた、昔懐かしい素朴な味わいの自然派創作カステラです。
+年内は12月26日（土）を最終発送
+年明けは1月6日（水）より発送開始
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（城崎スイーツ　TEL：0796-24-3099）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届けは対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4728612/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_9cbf0995c0a2dab39f804482d69c3f106cafbe1c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">米粉バウムH4cm＆米粉はちみつフィナンシェギフト</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">幸せを運ぶと言われるコウノトリが舞う豊岡市にて、人にも自然にも優しい農法で栽培された「コウノトリ育むお米」。
+このお米を使った米粉バウムクーヘンと米粉はちみつフィナンシェの詰め合わせギフトです。
+米粉バウムクーヘンは、熟練した菓子職人が、一層ずつ丹念に焼き重ね、独自レシピで配合した米粉がもたらす、しっとり、もっちりとした上質な口当たりが格別の味わいです。
+米粉フィナンシェは、地元の希少な蜂蜜をたっぷり使い、発酵バターとのバランスが絶妙な贅沢な美味しさです。
+プレーン、抹茶、チョコレートの3種類のお味を楽しんでいただけます。
+年内は12月26日（土）を最終発送
+年明けは1月6日（水）より発送開始
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（城崎スイーツ　TEL：0796-24-3099）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届は対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4728613/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_232837d2fd88e760c5e81fc7887375c23295d1fe.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">米粉バウムH6cm＆米粉カステラギフト</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">幸せを運ぶと言われるコウノトリが舞う豊岡市にて、人にも自然にも優しい農法で栽培された「コウノトリ育むお米」。
+このお米を使った米粉バウムクーヘンと米粉カステラの詰め合わせギフトです。
+米粉バウムクーヘンは、熟練した菓子職人が、一層ずつ丹念に焼き重ね、独自レシピで配合した米粉がもたらす、しっとり、もっちりとした上質な口当たりが格別の味わいです。
+米粉カステラは、特注の天然木の一合枡を型に使い、一つずつ丁寧に焼き上げました。
+新鮮な地卵のコクと風味にこだわり、上品な甘味の和三盆で仕上げた、昔懐かしい素朴な味わいの自然派創作カステラです。
+プレーンと抹茶小豆の2種類のお味を楽しんでいただけます。
+年内は12月26日（土）を最終発送
+年明けは1月6日（水）より発送開始
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（城崎スイーツ　TEL：0796-24-3099）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届は対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4728614/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230525/pd_0d5a5e5191b8e6020df1fe6ab822ddec22372e26.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">城崎珈琲ドリップ＆米粉バウム＆米粉フィナンシェギフト</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">幸せを運ぶと言われるコウノトリが舞う豊岡市にて、
+人にも自然にも優しい農法で栽培された「コウノトリ育むお米」。
+このお米を使った米粉バウムクーヘンと米粉フィナンシェ、
+さらに自家焙煎「城崎珈琲」ドリップパックがセットになったおすすめのギフトです。
+米粉バウムクーヘンは、熟練した菓子職人が一層ずつ丹念に焼き重ね、
+独自レシピで配合した米粉がもたらす、
+しっとり、もっちりとした上質な口当たりが格別の味わいです。
+米粉フィナンシェは、地元の希少な蜂蜜をたっぷり使い、
+発酵バターとのバランスが絶妙な贅沢な美味しさです。
+そして最高ランクのスペシャルティーコーヒー豆のみを扱い、
+自家焙煎の「城崎珈琲」がおすすめする
+「みはらしブレンド」「七湯ブレンド」「そぞろブレンド」の3種類のドリップパック入り。
+こだわりの優しい味わいの焼き菓子とコーヒーで幸せなひと時をお過ごしください。
+年内は12月26日（土）を最終発送
+年明けは1月6日（水）より発送開始
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（城崎スイーツ　TEL：0796-24-3099）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届は対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4728948/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_0f6619364f22291a81a3dda38315cd13759bf600.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">＜城崎温泉旅館協同組合＞加盟旅館利用券</h4>
+<p class="goods-col_price inline">40,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2017年12月22日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">兵庫県城崎温泉内の城崎温泉旅館協同組合加盟旅館のご宿泊にご利用していただけます。
+城崎温泉旅館協同組合にお電話いただいてのご予約、もしくは公式サイト
+（お宿とれとれhttp://www.kinosaki-web.com）からのご予約に限り利用可能です。
+お宿へ直接ご予約された場合、または旅行会社を通じて予約された場合はご利用いただけません。
+※有効期間は発行日から1年間です。
+※つり銭は支払われませんので、現金と併用してご利用ください。
+※本券は換金・交換・譲渡・転売はできません。
+※本券は盗難・紛失・滅失等があっても再発行はできません。
+※郵送にてお届けいたします。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（城崎温泉旅館協同組合　TEL：0796-32-4141）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4728951/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_15a9ae0064f49a5a64a890c22892976749c5ddb5.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">＜ホテル シルク温泉やまびこ＞ 宿泊利用券</h4>
+<p class="goods-col_price inline">40,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年4月1日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">関西屈指の美人湯、ホテルシルク温泉やまびこのでの宿泊にご利用いただけます。
+ご予約はお電話（0796-54-0141）又は（http://www.silk-yamabiko.co.jp）にて承ります。
+他の宿泊サイト等でのご予約では本券はご利用できませんのであらかじめご了承ください。
+ご予約の際に必ず本券使用とお伝えください。
+※レターパックにてお届けいたします。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（ホテルシルク温泉やまびこ　TEL：0796-54-0141）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4728952/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_f4d99236c07bde5eca1ae41fb3571837841b5cb2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">＜たけの観光協会＞加盟宿泊利用券</h4>
+<p class="goods-col_price inline">40,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">兵庫県豊岡市竹野町のたけの観光協会（協賛旅館）のご宿泊にご利用していただけます。
+たけの観光協会にお電話にてご予約ください。
+電話番号：0796-47-1080
+※たけの観光協会にお電話にてご予約いただいた場合のみご利用いただけます。
+※ご予約の際に必ず本券使用とお伝えください。
+※レターパックにてお届けいたします。
+※12月の最終発送日は12月26日、年明けは1月5日より順次発送予定</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4741245/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_24eab47c18f2a53d3c77572fb38067b35cac23d1.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">八平　どぶろく【720ml×2本】</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">2004年に関西で初めてのどぶろく製造免許を取得し、コウノトリ育む農法で育てた自家製米で製造しています。
+味はさわやかに仕上がり、わざわざ遠方からもお求め頂いています。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（農家民宿　八平だるま　TEL：0796-56-1116）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届は対応しておりません。ご了承くださいませ。
+20歳未満の飲酒は法律で禁止されています</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4741246/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_0389f482b9cd6947a332bfe4e75f31c311f3c9ab.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">八平　どぶろく【720ml×1本】</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">2004年に関西で初めてのどぶろく製造免許を取得し、コウノトリ育む農法で育てた自家製米で製造しています。
+味はさわやかに仕上がり、わざわざ遠方からもお求め頂いています。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（農家民宿　八平だるま　TEL：0796-56-1116）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届は対応しておりません。ご了承くださいませ。
+20歳未満の飲酒は法律で禁止されています</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4741247/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_5664480dfd4a30c114494b536a9603dc89f275c9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">八平　どぶろく【720ml×3本】</h4>
+<p class="goods-col_price inline">21,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">2004年に関西で初めてのどぶろく製造免許を取得し、コウノトリ育む農法で育てた自家製米で製造しています。
+味はさわやかに仕上がり、わざわざ遠方からもお求め頂いています。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（農家民宿　八平だるま　TEL：0796-56-1116）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届は対応しておりません。ご了承くださいませ。
+20歳未満の飲酒は法律で禁止されています</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4744136/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231030/pd_87e40c9420832e2cd1b92588a27dc8de16ded0a7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　TUTUMU Leather cubu （S2800　24-176）グレー</h4>
+<p class="goods-col_price inline">86,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">バケツバックをイメージしております。
+鞄の中の巾着袋は片手でも取り外ししやすいようにあえて外れやすい方向でボタンを留めており、ワンタッチで取り出しやすくしております。
+この構造により巾着とバッグ部分がとっさな時に分離してご使用いただけます。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4744137/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231030/pd_04ac617029bc3f254523bda78eb18fde7fdc3ea0.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　TUTUMU Leather cubu （S2800　24-176）ネイビー</h4>
+<p class="goods-col_price inline">86,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">バケツバックをイメージしております。
+鞄の中の巾着袋は片手でも取り外ししやすいようにあえて外れやすい方向でボタンを留めており、ワンタッチで取り出しやすくしております。
+この構造により巾着とバッグ部分がとっさな時に分離してご使用いただけます。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4744138/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231030/pd_fd02292ed0e95e03db70efebc394d9d1b0955eab.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　TUTUMU Leather cubu （S2800　24-176）ライトグレー</h4>
+<p class="goods-col_price inline">86,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">バケツバックをイメージしております。
+鞄の中の巾着袋は片手でも取り外ししやすいようにあえて外れやすい方向でボタンを留めており、ワンタッチで取り出しやすくしております。
+この構造により巾着とバッグ部分がとっさな時に分離してご使用いただけます。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4744168/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231128/pd_d369edffc017ed3a23e3a1b20a0a1027a7f738f2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　CIE BALLISTIC AIR SHOULDER(071902)</h4>
+<p class="goods-col_price inline">65,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">大阪を中心に活躍するベンチャー企業、リアルワークス社のブランド「ＣＩＥ」と「豊岡鞄」のコラボレーションＢＡＧです。
+背負う・たすき掛ける等ハンズフリーであり、皮革を出来るだけ使用せずに軽量且つ機能性を追求しています。
+ショルダーベルトは取り外し可能で、手提げポーチ、クラッチバック、バックインバックとしても利用することができます。
+ストリートスタイルからスポーツスタイル、アウトドアスタイルまで幅広くお使いいただけます。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4744169/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231128/pd_56dcb372e900166916bb80ad9173c35b50ab6e40.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　CIE WEATHER BACKPAC(071950) ブラック</h4>
+<p class="goods-col_price inline">130,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">大阪を中心に活躍するベンチャー企業、リアルワークス社のブランド「ＣＩＥ」と「豊岡鞄」のコラボレーションＢＡＧです。
+背負う・たすき掛ける等ハンズフリーであり、皮革を出来るだけ使用せずに軽量且つ機能性を追求しています。
+カジュアルな印象は強いバックパックですがきれい目なスタイルやストリートまで使えるＢＡＧです。内装にはＰＣポケットをつけ、ビジネスシーンでも利用できます。
+日々の行動パターンに合わせた使い方が出来るよう、多くのポケットを配したＢＡＧです。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4744170/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231128/pd_ef270f36a778915edfd773fe2ecfa53c3837c0c4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　CIE WEATHER BACKPAC(071950) グレー</h4>
+<p class="goods-col_price inline">130,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">大阪を中心に活躍するベンチャー企業、リアルワークス社のブランド「ＣＩＥ」と「豊岡鞄」のコラボレーションＢＡＧです。
+背負う・たすき掛ける等ハンズフリーであり、皮革を出来るだけ使用せずに軽量且つ機能性を追求しています。
+カジュアルな印象は強いバックパックですがきれい目なスタイルやストリートまで使えるＢＡＧです。内装にはＰＣポケットをつけ、ビジネスシーンでも利用できます。
+日々の行動パターンに合わせた使い方が出来るよう、多くのポケットを配したＢＡＧです。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4744171/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231128/pd_02f808f48d850cd4a9a26035502479e23077cc15.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　CIE WEATHERSHOULDER(071951)ブラック</h4>
+<p class="goods-col_price inline">72,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">大阪を中心に活躍するベンチャー企業、リアルワークス社のブランド「ＣＩＥ」と「豊岡鞄」のコラボレーションＢＡＧです。
+背負う・たすき掛ける等ハンズフリーであり、皮革を出来るだけ使用せずに軽量且つ機能性を追求しています。
+ベルトの取り外しができポーチとしても使用可能な２ＷＡＹショルダー。全面、背面にはファスナーポケットをつけ財布、携帯電話などの貴重品を入れても落ちない設計になっています。中央のポケットには差込ポーチが付属しており、便利です。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4744172/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231128/pd_9ec0253783960acb3007a6cfcb85d2d7d5ddf7d7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　CIE WEATHERSHOULDER(071951)ミストグレー</h4>
+<p class="goods-col_price inline">72,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">大阪を中心に活躍するベンチャー企業、リアルワークス社のブランド「ＣＩＥ」と「豊岡鞄」のコラボレーションＢＡＧです。
+背負う・たすき掛ける等ハンズフリーであり、皮革を出来るだけ使用せずに軽量且つ機能性を追求しています。
+ベルトの取り外しができポーチとしても使用可能な２ＷＡＹショルダー。全面、背面にはファスナーポケットをつけ財布、携帯電話などの貴重品を入れても落ちない設計になっています。中央のポケットには差込ポーチが付属しており、便利です。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4744173/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231128/pd_5d2fbd5cc1658febfd19b886456498efa2222dde.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　CIE WEATHERSHOULDER(071951)オリーブ</h4>
+<p class="goods-col_price inline">72,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">大阪を中心に活躍するベンチャー企業、リアルワークス社のブランド「ＣＩＥ」と「豊岡鞄」のコラボレーションＢＡＧです。
+背負う・たすき掛ける等ハンズフリーであり、皮革を出来るだけ使用せずに軽量且つ機能性を追求しています。
+ベルトの取り外しができポーチとしても使用可能な２ＷＡＹショルダー。全面、背面にはファスナーポケットをつけ財布、携帯電話などの貴重品を入れても落ちない設計になっています。中央のポケットには差込ポーチが付属しており、便利です。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4744174/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231128/pd_c4f2b29efa67115449752de7c431b05c633dd32b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　CIE WEATHERSHOULDER(071951)ネイビー</h4>
+<p class="goods-col_price inline">72,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">大阪を中心に活躍するベンチャー企業、リアルワークス社のブランド「ＣＩＥ」と「豊岡鞄」のコラボレーションＢＡＧです。
+背負う・たすき掛ける等ハンズフリーであり、皮革を出来るだけ使用せずに軽量且つ機能性を追求しています。
+ベルトの取り外しができポーチとしても使用可能な２ＷＡＹショルダー。全面、背面にはファスナーポケットをつけ財布、携帯電話などの貴重品を入れても落ちない設計になっています。中央のポケットには差込ポーチが付属しており、便利です。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4747809/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_eaf9251c28663cd39a31d1a368de0ff637f49e4b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">就労支援施設で心を込めて作ったさをり織り商品セット（A）</h4>
+<p class="goods-col_price inline">7,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。</p>
+</div>
+<p class="goods-col_textinfo pc">さをり織りは自由に糸を配置し、生地の傷も一つの生地の個性と考えて作られる生地です。
+就労支援施設で、さをり織りの生地を手織りし製品化しています。一つ一つ丁寧に心を込めて作った商品です。
+※画像はイメージです。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（特定非営利活動法人　セルフサポートいずし　TEL：0796-29-3087）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届けは対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4747810/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_0c5aefe1b1a1d0c19a58a9519bfeae0c7795b7ce.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">就労支援施設で心を込めて作ったさをり織り商品セット（B）</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。</p>
+</div>
+<p class="goods-col_textinfo pc">さをり織りは自由に糸を配置し、生地の傷も一つの生地の個性と考えて作られる生地です。
+就労支援施設で、さをり織りの生地を手織りし製品化しています。一つ一つ丁寧に心を込めて作った商品です。
+※画像はイメージです。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（特定非営利活動法人　セルフサポートいずし　TEL：0796-29-3087）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届けは対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4753439/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_8e86dd619a952735e2b9599e92dd5333e5e4c788.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">但馬牛のハンバーガー（4個セット）</h4>
+<p class="goods-col_price inline">19,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>小麦を原材料にした製品と同じ工程で作られています。
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">CREEZAN城崎本店で大人気の但馬牛のハンバーガー。
+パティは和牛の王様但馬牛100％。
+肉屋で長年勤めた肉の事を知りすぎたレストランシェフの手作りです。
+バンズはパン職人だった方がケーキ作りの技術も活かしてパティに合わせたオリジナルバンズです。
+オリジナルのデミグラスソースとともにお届け致します。
+【お召し上がり方法】
+(1)冷凍のパティをレンジで800W50秒温めます。
+(2)フライパンで片面2分裏返して1分加熱します
+(3)バンズを半分に切ってトースター200℃で2分焼きます
+(4)半分に切ったパンの上に但馬牛のパティ・スライスチーズ・デミグラスソースをかけてピックをさして完成です。
+お好みで玉ねぎ、トマト、レタスなどを一緒にサンドするのをおススメします。
+※玉ねぎはグリルして下さい。
+但馬牛とは・・・兵庫県産の黒毛和種の和牛です。全国の有名ブランド牛「神戸牛」「松坂肉」「近江肉」などの素牛は全て但馬牛です。
+脂質が抜群によく肉質が高く、霜降りとよばれる赤身と脂肪のバランスが絶妙です。
+・12月27日受注分までは年内に発送
+・12月の最終発送日は、12月28日
+・年明けは1月5日より順次発送予定
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（CREEZAN 城崎本店　TEL：0796-32-0345）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届けは対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4761490/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_ec4f1ff66de3b9066a652526ad14f9e6926683f9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">出石焼きのオリジナル蕎麦猪口2個セット（革の猪口把手付き）</h4>
+<p class="goods-col_price inline">26,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。</p>
+</div>
+<p class="goods-col_textinfo pc">日本一の鞄の町豊岡市にあるブランド「CREEZAN(クリーザン）と、同じ豊岡の
+伝統工芸である出石焼き（いずしやき）の窯元「虹洋陶苑」がコラボした白磁の蕎麦猪口。
+職人が1点1点手書きしたオリジナル商品です。
+鞄職人が手作りしている本革製の「猪口把手・ちょことって」を使うと
+おしょれなコーヒーカップとしても使用できます。
+CREEZAN城崎本店の限定商品です。
+・12月27日受注分までは年内に発送
+・12月の最終発送日は、12月28日
+・年明けは1月5日より順次発送予定
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（CREEZAN 城崎本店　TEL：0796-32-0345）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4792990/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_504ed5acd45ef3d401462b90c3bc62ba0a7d1bff.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">竹野産乾燥あかもく（15g×10袋）</h4>
+<p class="goods-col_price inline">22,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。</p>
+</div>
+<p class="goods-col_textinfo pc">竹野の美しい海で採れた海藻「あかもく」を乾燥させてお届けします。
+あかもくはフコイダンという水溶性の食物繊維を多く含み、
+スーパーフードとして多くのメディアに紹介されています。
+ネバネバ・シャキシャキ食感をお楽しみください。
+※画像はイメージです。
+・12月24日受注分までは年内に発送
+・12月の最終発送日は、12月26日
+・年明けは1月4日より順次発送予定
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（NPO法人たけのかぞく　TEL：080-4971-3210）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4800073/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_586093071b8e95854e5a617d5590f5d982d4e9fe.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　Urban Commuter 2x3WAY BRIEF PACK HA（ブラック）</h4>
+<p class="goods-col_price inline">186,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">本製品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄(R)」です。
+「beruf baggage(R)」とのコラボ商品です。
+本製品は、本体に「CORDURA(R)」の中空糸「Hollofil AIR(R)」、付属に牛革を使用。
+都市通勤者の為の特別なブリーフバッグです。
+変換可能な６通りのアレンジで、通勤から出張までをカバーします。
+ガーメントケースが脱着式の為、
+シチュエーションによって容量と重量を調整できる革新的ビジネスバッグです。
+２層に変換した場合、マチ幅は、150mm・重量は1,200gとなります。
+２方向収納式PCスリーブ（15.6インチまで）。
+効率的収納を可能にする各コンパートメント内オーガナイザー。脱着式ガーメントケース。
+身体にフィットする曲線のショルダーハーネス。キャリーバッグオン対応。ショルダーベルト付属。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（豊岡K－site合同会社　TEL：0796-26-7300）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4800074/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_3388f398829331fc726cdfea2201d9b0358c0436.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　Urban Commuter 2x3WAY BRIEF PACK HA（ネイビー）</h4>
+<p class="goods-col_price inline">186,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">本製品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄(R)」です。
+「beruf baggage(R)」とのコラボ商品です。
+本製品は、本体に「CORDURA(R)」の中空糸「Hollofil AIR(R)」、付属に牛革を使用。
+都市通勤者の為の特別なブリーフバッグです。
+変換可能な６通りのアレンジで、通勤から出張までをカバーします。
+ガーメントケースが脱着式の為、シチュエーションによって
+容量と重量を調整できる革新的ビジネスバッグです。
+２層に変換した場合、マチ幅は、150mm・重量は1,200gとなります。
+２方向収納式PCスリーブ（15.6インチまで）。
+効率的収納を可能にする各コンパートメント内オーガナイザー。脱着式ガーメントケース。
+身体にフィットする曲線のショルダーハーネス。キャリーバッグオン対応。ショルダーベルト付属。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（豊岡K－site合同会社　TEL：0796-26-7300）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4800075/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_869c9d7cea33e9baa4b9a44a50d73889af197a0c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　Urban Commuter 2WAY BACK PACK HA（ブラック）</h4>
+<p class="goods-col_price inline">103,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">本製品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄(R)」です。
+「beruf baggage(R)」とのコラボ商品です。
+本製品は、本体に「CORDURA(R)」の中空糸「Hollofil AIR(R)」、付属に牛革を使用。
+都市通勤者の為のミドルサイズの２WAYビジネスリュックです。
+スーツスタイル・ジャケットやセットアップスタイルにも合うシンプルを突き詰めたフロントデザイン。
+機能性重視の多彩なポケット構成と安定した背負い心地を提供する内装と背面デザインが特徴。
+本体背面の独立式PCスリーブ（13.3インチまで）。ハンドル脇の小物用ファスナーポケット。
+ストレッチメッシュを使用したメインコンパートメント内オーガナイザー。
+背面クッションパット裏セキュリティーポケット。キャリーバッグオン対応。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（豊岡K－site合同会社　TEL：0796-26-7300）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4800076/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_9915be94523bd3529e74637652a7d230df018d8d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　Urban Commuter 2WAY BACK PACK HA（ネイビー）</h4>
+<p class="goods-col_price inline">103,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">本製品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄(R)」です。
+「beruf baggage(R)」とのコラボ商品です。
+本製品は、本体に「CORDURA(R)」の中空糸「Hollofil AIR(R)」、付属に牛革を使用。
+都市通勤者の為のミドルサイズの２WAYビジネスリュックです。
+スーツスタイル・ジャケットやセットアップスタイルにも合うシンプルを突き詰めたフロントデザイン。
+機能性重視の多彩なポケット構成と安定した背負い心地を提供する内装と背面デザインが特徴。
+本体背面の独立式PCスリーブ（13.3インチまで）。ハンドル脇の小物用ファスナーポケット。
+ストレッチメッシュを使用したメインコンパートメント内オーガナイザー。
+背面クッションパット裏セキュリティーポケット。キャリーバッグオン対応。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（豊岡K－site合同会社　TEL：0796-26-7300）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4800077/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_3f735979a791fab006b3439547b979be3cc4540d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　Urban Commuter BACK PACK 2 HA（ブラック）</h4>
+<p class="goods-col_price inline">132,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">本製品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄(R)」です。
+「beruf baggage(R)」とのコラボ商品です。
+本製品は、本体に「CORDURA(R)」の中空糸「Hollofil AIR(R)」、付属に牛革を使用。
+都市通勤者の為のミドルサイズのビジネスリュックです。
+コーディネートを選ばないクリーンな外装とビジネスシーンをより快適にサポートする機能性を両立。
+背負った時、移動時間を快適ににする機能性。
+プレゼンに必要なビジネスツールを効率よく収納する機能性。
+そしてスマートなビジュアルを兼ね備えたハイエンドなモデルです。
+PC用脱着式パネル（15.6インチまで・デバイス周辺機器収納）。
+バッグ内モバイルデバイス充電と使用時のイージーアクセス。
+背面クッションパッド裏セキュリティポケット。キャリーバッグオン対応。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（豊岡K－site合同会社　TEL：0796-26-7300）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4800078/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_474c13447f12221eff930f59bf6fb241586041e8.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　Urban Commuter BACK PACK 2 HA（ネイビー）</h4>
+<p class="goods-col_price inline">132,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">本製品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄(R)」です。
+「beruf baggage(R)」とのコラボ商品です。
+本製品は、本体に「CORDURA(R)」の中空糸「Hollofil AIR(R)」、付属に牛革を使用。
+都市通勤者の為のミドルサイズのビジネスリュックです。
+コーディネートを選ばないクリーンな外装とビジネスシーンをより快適にサポートする機能性を両立。
+背負った時、移動時間を快適ににする機能性。
+プレゼンに必要なビジネスツールを効率よく収納する機能性。
+そしてスマートなビジュアルを兼ね備えたハイエンドなモデルです。
+PC用脱着式パネル（15.6インチまで・デバイス周辺機器収納）。
+バッグ内モバイルデバイス充電と使用時のイージーアクセス。
+背面クッションパッド裏セキュリティポケット。キャリーバッグオン対応。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（豊岡K－site合同会社　TEL：0796-26-7300）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4800079/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_82e8099ca074be0df21c37f6687acdd7d1f3d73c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　Urban Commuter 2WAY TOTE BAG 2 HA（ブラック）</h4>
+<p class="goods-col_price inline">130,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">本製品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄(R)」です。
+「beruf baggage(R)」とのコラボ商品です。
+本製品は、本体に「CORDURA(R)」の中空糸「Hollofil AIR(R)」、付属に牛革を使用。
+都市通勤者の為のミドルサイズのビジネストート。
+コーディネートを選ばないクリーンな外装とビジネスシーンをより快適にサポートする機能性を両立。
+肩掛け移動時間を快適にする機能性。
+プレゼンに必要なビジネスツールを効率よく収納する機能性。
+そしてスマートなビジュアルを兼ね備えたハイエンドなアイテム。
+PC用脱着式パネル（13.3インチまで・デバイス周辺機器収納）。
+バッグ内でのモバイルデバイスへの充電と使用時のイージーアクセス。
+キャリーバッグオン対応。着脱式の底板。ショルダーベルト付属。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（豊岡K－site合同会社　TEL：0796-26-7300）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4800080/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_f7e09378dee825ec6222defd4d5adeff316d85a9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　Urban Commuter 2WAY TOTE BAG 2 HA（ネイビー）</h4>
+<p class="goods-col_price inline">130,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">本製品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄(R)」です。
+「beruf baggage(R)」とのコラボ商品です。
+本製品は、本体に「CORDURA(R)」の中空糸「Hollofil AIR(R)」、付属に牛革を使用。
+都市通勤者の為のミドルサイズのビジネストート。
+コーディネートを選ばないクリーンな外装とビジネスシーンをより快適にサポートする機能性を両立。
+肩掛け移動時間を快適にする機能性。
+プレゼンに必要なビジネスツールを効率よく収納する機能性。
+そしてスマートなビジュアルを兼ね備えたハイエンドなアイテム。
+PC用脱着式パネル（13.3インチまで・デバイス周辺機器収納）。
+バッグ内でのモバイルデバイスへの充電と使用時のイージーアクセス。
+キャリーバッグオン対応。着脱式の底板。ショルダーベルト付属。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（豊岡K－site合同会社　TEL：0796-26-7300）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4832240/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_454c30a5a357fe5ab52f52d71de95458ed88a0da.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">但馬牛のハンバーガー（2個セット）</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第、順次発送致します。</p>
+</div>
+<p class="goods-col_textinfo pc">CREEZAN城崎本店で大人気の但馬牛のハンバーガー。
+パティは和牛の王様但馬牛100％。
+肉屋で長年勤めた肉の事を知りすぎたレストランシェフの手作りです。
+バンズはパン職人だった方がケーキ作りの技術も活かしてパティに合わせたオリジナルバンズです。
+オリジナルのデミグラスソースとともにお届け致します。
+【お召し上がり方法】
+(1)冷凍のパティをレンジで800W50秒温めます。
+(2)フライパンで片面2分裏返して1分加熱します
+(3)バンズを半分に切ってトースター200℃で2分焼きます
+(4)半分に切ったパンの上に但馬牛のパティ・スライスチーズ・デミグラスソースをかけてピックをさして完成です。
+お好みで玉ねぎ、トマト、レタスなどを一緒にサンドするのをおススメします。
+※玉ねぎはグリルして下さい。
+但馬牛とは・・・兵庫県産の黒毛和種の和牛です。全国の有名ブランド牛「神戸牛」「松坂肉」「近江肉」などの素牛は全て但馬牛です。
+脂質が抜群によく肉質が高く、霜降りとよばれる赤身と脂肪のバランスが絶妙です。
+・12月27日受注分までは年内に発送
+・12月の最終発送日は、12月28日
+・年明けは1月5日より順次発送予定
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（CREEZAN 城崎本店　TEL：0796-32-0345）までお願い致します。
+◆配達不可地域について◆
+賞味期限等の事情により、沖縄、離島へのお届けは対応しておりません。ご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4835233/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_fabd9f4950fc79c142d79abb63e7f6d89e274781.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡財布　トラベルモバイルポーチS（ブラック）</h4>
+<p class="goods-col_price inline">72,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡財布」です。
+注目のブランドマネージャー鶴本晶子さんによる、ミニマルさに拘り、サイズでデザインされた快適に美しく旅するように毎日を過ごすためのウエア、「Travel mobile wear (トラベル モバイル ウエア)」シリーズ。
+トラベルモバイルポーチSは現在のキャッシュレス化を反映し、外出に必要なスマートフォンなどのモバイルウエアとカードを快適に携帯できるミニマルウエアです。
+幅90mmもあり新型アイフォンもケース付きで収納可能です。また、パスポートもぴったり収まります。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4835235/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_a83e8f8df8b0a32b3e2aae655b58bf03578b2872.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡財布　トラベルモバイルショルダーL（ブラック）</h4>
+<p class="goods-col_price inline">152,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡財布」です。
+注目のブランドマネージャー鶴本晶子さんによる、ミニマルさに拘り、サイズでデザインされた快適に美しく旅するように毎日を過ごすためのウエア、「Travel mobile wear (トラベル モバイル ウエア)」シリーズ。
+トラベルショルダーＬはモバイル端末の他にパスポートや旧サイズの保険証も入る大容量お財布ショルダーです。ちょっとしたお出かけはこれ一つで。また、海外旅行のセカンドポーチとしても最適な逸品です。中仕切りを途中でカットしているのでリップも収納できる優れものです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4835237/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_d65e943e44ba59c3e1c83fff4e267e785841ae70.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　豆アタッシュケース　ブッテーロ（グリーン）</h4>
+<p class="goods-col_price inline">480,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>受注生産の為、受付から75日程度で順次発送予定</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄」です。
+ユーラシア大陸を横断するときにつかわれたことから「大陸トランク」とも呼ばれるようになった歴史のあるトランクをバランスよくコンパクトにすることによって現代的なキュートさを持ったミニトランクに仕上げました。
+外装に植物性タンニン鞣しのイタリア製の牛革を使用しており、革の質感を感じていただける味わい深い外観になっています。
+シンプルな1室タイプで、中身が一目でわかり出し入れも楽々。ギャザーポケットもついていて、財布や手帳など、お手回り品の持ち運びに最適。ショルダーベルト付で、カジュアル使いも可能です。
+女性やお子様にもおすすめです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4835238/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_8d41ccfa0a0d75729343a88b1a592d54cb80e44e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　豆アタッシュケース　ブッテーロ（ブラック）</h4>
+<p class="goods-col_price inline">480,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>受注生産の為、受付から75日程度で順次発送予定</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄」です。
+ユーラシア大陸を横断するときにつかわれたことから「大陸トランク」とも呼ばれるようになった歴史のあるトランクをバランスよくコンパクトにすることによって現代的なキュートさを持ったミニトランクに仕上げました。
+外装に植物性タンニン鞣しのイタリア製の牛革を使用しており、革の質感を感じていただける味わい深い外観になっています。
+シンプルな1室タイプで、中身が一目でわかり出し入れも楽々。ギャザーポケットもついていて、財布や手帳など、お手回り品の持ち運びに最適。ショルダーベルト付で、カジュアル使いも可能です。
+女性やお子様にもおすすめです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4835239/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_1026f811588436e4352fa429ebf95cf438065994.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　豆アタッシュケース　ブッテーロ（チョコ）</h4>
+<p class="goods-col_price inline">480,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>受注生産の為、受付から75日程度で順次発送予定</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄」です。
+ユーラシア大陸を横断するときにつかわれたことから「大陸トランク」とも呼ばれるようになった歴史のあるトランクをバランスよくコンパクトにすることによって現代的なキュートさを持ったミニトランクに仕上げました。
+外装に植物性タンニン鞣しのイタリア製の牛革を使用しており、革の質感を感じていただける味わい深い外観になっています。
+シンプルな1室タイプで、中身が一目でわかり出し入れも楽々。ギャザーポケットもついていて、財布や手帳など、お手回り品の持ち運びに最適。ショルダーベルト付で、カジュアル使いも可能です。
+女性やお子様にもおすすめです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4835240/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_df82dd57cc02e1d2caeb36995aa87f76b907ef6c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　豆アタッシュケース　ブッテーロ（ブルー）</h4>
+<p class="goods-col_price inline">480,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>受注生産の為、受付から75日程度で順次発送予定</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄」です。
+ユーラシア大陸を横断するときにつかわれたことから「大陸トランク」とも呼ばれるようになった歴史のあるトランクをバランスよくコンパクトにすることによって現代的なキュートさを持ったミニトランクに仕上げました。
+外装に植物性タンニン鞣しのイタリア製の牛革を使用しており、革の質感を感じていただける味わい深い外観になっています。
+シンプルな1室タイプで、中身が一目でわかり出し入れも楽々。ギャザーポケットもついていて、財布や手帳など、お手回り品の持ち運びに最適。ショルダーベルト付で、カジュアル使いも可能です。
+女性やお子様にもおすすめです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4835241/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_92e8c06f8e299a5bbf7b5d370603f5a56c48a72a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　豆アタッシュケース　ブッテーロ（レッド）</h4>
+<p class="goods-col_price inline">480,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>受注生産の為、受付から75日程度で順次発送予定</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄」です。
+ユーラシア大陸を横断するときにつかわれたことから「大陸トランク」とも呼ばれるようになった歴史のあるトランクをバランスよくコンパクトにすることによって現代的なキュートさを持ったミニトランクに仕上げました。
+外装に植物性タンニン鞣しのイタリア製の牛革を使用しており、革の質感を感じていただける味わい深い外観になっています。
+シンプルな1室タイプで、中身が一目でわかり出し入れも楽々。ギャザーポケットもついていて、財布や手帳など、お手回り品の持ち運びに最適。ショルダーベルト付で、カジュアル使いも可能です。
+女性やお子様にもおすすめです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4835242/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_7b03a39b00b6c7ee5e94c8d032ed85f7fafa15c0.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　豆アタッシュケース　ブッテーロ（パープル）</h4>
+<p class="goods-col_price inline">480,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>受注生産の為、受付から75日程度で順次発送予定</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄」です。
+ユーラシア大陸を横断するときにつかわれたことから「大陸トランク」とも呼ばれるようになった歴史のあるトランクをバランスよくコンパクトにすることによって現代的なキュートさを持ったミニトランクに仕上げました。
+外装に植物性タンニン鞣しのイタリア製の牛革を使用しており、革の質感を感じていただける味わい深い外観になっています。
+シンプルな1室タイプで、中身が一目でわかり出し入れも楽々。ギャザーポケットもついていて、財布や手帳など、お手回り品の持ち運びに最適。ショルダーベルト付で、カジュアル使いも可能です。
+女性やお子様にもおすすめです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4835243/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_d0cd06a32def71219ecdffbf490fa498b370cdd3.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　豆アタッシュケース　シュリンク（ネイビー）</h4>
+<p class="goods-col_price inline">550,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>受注生産の為、受付から75日程度で順次発送予定</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄」です。
+ユーラシア大陸を横断するときにつかわれたことから「大陸トランク」とも呼ばれるようになった歴史のあるトランクをバランスよくコンパクトにすることによって現代的なキュートさを持ったミニトランクに仕上げました。
+外装にドイツ製のシュリンク加工革を使用しており、柔らかさを強調した上品な外観になっています。
+シンプルな1室タイプで、中身が一目でわかり出し入れも楽々。ギャザーポケットもついていて、財布や手帳など、お手回り品の持ち運びに最適。ショルダーベルト付で、カジュアル使いも可能です。
+女性やお子様にもおすすめです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4835244/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_e7fba4d326602021ca2e69f8a957d2d3d7547fec.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　豆アタッシュケース　シュリンク（ライトグレー）</h4>
+<p class="goods-col_price inline">550,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>受注生産の為、受付から75日程度で順次発送予定</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄」です。
+ユーラシア大陸を横断するときにつかわれたことから「大陸トランク」とも呼ばれるようになった歴史のあるトランクをバランスよくコンパクトにすることによって現代的なキュートさを持ったミニトランクに仕上げました。
+外装にドイツ製のシュリンク加工革を使用しており、柔らかさを強調した上品な外観になっています。
+シンプルな1室タイプで、中身が一目でわかり出し入れも楽々。ギャザーポケットもついていて、財布や手帳など、お手回り品の持ち運びに最適。ショルダーベルト付で、カジュアル使いも可能です。
+女性やお子様にもおすすめです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4835245/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_a0aa11f9358708c5da3dd78568ba2fe860050752.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　豆アタッシュケース　シュリンク（チョコ）</h4>
+<p class="goods-col_price inline">550,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>受注生産の為、受付から75日程度で順次発送予定</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄」です。
+ユーラシア大陸を横断するときにつかわれたことから「大陸トランク」とも呼ばれるようになった歴史のあるトランクをバランスよくコンパクトにすることによって現代的なキュートさを持ったミニトランクに仕上げました。
+外装にドイツ製のシュリンク加工革を使用しており、柔らかさを強調した上品な外観になっています。
+シンプルな1室タイプで、中身が一目でわかり出し入れも楽々。ギャザーポケットもついていて、財布や手帳など、お手回り品の持ち運びに最適。ショルダーベルト付で、カジュアル使いも可能です。
+女性やお子様にもおすすめです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4835246/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_873e227be2877591321ce29bcb5001e85d5f89ed.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　豆アタッシュケース　シュリンク（ブラック）</h4>
+<p class="goods-col_price inline">550,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>受注生産の為、受付から75日程度で順次発送予定</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄」です。
+ユーラシア大陸を横断するときにつかわれたことから「大陸トランク」とも呼ばれるようになった歴史のあるトランクをバランスよくコンパクトにすることによって現代的なキュートさを持ったミニトランクに仕上げました。
+外装にドイツ製のシュリンク加工革を使用しており、柔らかさを強調した上品な外観になっています。
+シンプルな1室タイプで、中身が一目でわかり出し入れも楽々。ギャザーポケットもついていて、財布や手帳など、お手回り品の持ち運びに最適。ショルダーベルト付で、カジュアル使いも可能です。
+女性やお子様にもおすすめです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4835250/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_5d3fb4f42865aefe35d5fe92ee40263b7373fc28.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　ダレスバッグ　ボストン　ブッテーロ（ブラック）</h4>
+<p class="goods-col_price inline">845,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>受注生産の為、受付から90日程度で順次発送予定</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄」です。
+1951年に来日したアメリカ国務長官ジョン・フォスター・ダレス氏にちなんで名づけられた口金式のブリーフケースを改良して生み出された50年以上の歴史があるボストンバッグです。
+素材やバランスの微調整を繰り返し、クラシカルであっても決して古くはない現代的なシルエットとなっています。
+ビジネス向けのブリーフケースタイプよりも一回り大きく、ちょっとした旅行にも十分に対応できる収容力です。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4835251/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_ac434e8935c7990bad8c4b4037335f2b0fff19af.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　ダレスバッグ　ボストン　ブッテーロ（チョコ）</h4>
+<p class="goods-col_price inline">845,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>受注生産の為、受付から90日程度で順次発送予定</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄」です。
+1951年に来日したアメリカ国務長官ジョン・フォスター・ダレス氏にちなんで名づけられた口金式のブリーフケースを改良して生み出された50年以上の歴史があるボストンバッグです。
+素材やバランスの微調整を繰り返し、クラシカルであっても決して古くはない現代的なシルエットとなっています。
+ビジネス向けのブリーフケースタイプよりも一回り大きく、ちょっとした旅行にも十分に対応できる収容力です。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4835252/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_d6bf2a469d866ff8e82645c30cf7ce2a846f79af.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　ダレスバッグ　ボストン　ブッテーロ（キャメル）</h4>
+<p class="goods-col_price inline">845,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>受注生産の為、受付から90日程度で順次発送予定</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄」です。
+1951年に来日したアメリカ国務長官ジョン・フォスター・ダレス氏にちなんで名づけられた口金式のブリーフケースを改良して生み出された50年以上の歴史があるボストンバッグです。
+素材やバランスの微調整を繰り返し、クラシカルであっても決して古くはない現代的なシルエットとなっています。
+ビジネス向けのブリーフケースタイプよりも一回り大きく、ちょっとした旅行にも十分に対応できる収容力です。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4835262/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_e43714618bdf127dd301c2f5a4c0cdf732c1879a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄 7802 キャリアケースＳ（ベージュ×イエロー）</h4>
+<p class="goods-col_price inline">90,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄」です。
+レディースビジネスバッグとして、軽さやしなやかさ、若干の華やかさをベースにデザインしました。
+かぶせ革に楕円形のひねり金具使いとキーチャームがポイントデザインになっています。
+ハンドルの細さやアタリの柔らかいストラップ、かつ軽さとしなやかさなど、
+レディースビジネスとして最適な機能性を考えています。
+タブレット＆A4クリアファイルが入るサイズです。
+耐久性のあるナイロンツイル生地は、仕事カバンに最適な強度があります。
+光沢のあるシュリンク型押レザーは、撥水性のある表面感で、発色も良いです。
+ＹＫＫの最高級ファスナーエクセラを使用し、高級感を演出しています。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4835263/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_b3df1603b83c1cd800ca9fafdef9605b398ecd00.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄 7802 キャリアケースＳ（ブラック×ブラック）</h4>
+<p class="goods-col_price inline">90,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄」です。
+レディースビジネスバッグとして、軽さやしなやかさ、若干の華やかさをベースにデザインしました。
+かぶせ革に楕円形のひねり金具使いとキーチャームがポイントデザインになっています。
+ハンドルの細さやアタリの柔らかいストラップ、かつ軽さとしなやかさなど、
+レディースビジネスとして最適な機能性を考えています。
+タブレット＆A4クリアファイルが入るサイズです。
+耐久性のあるナイロンツイル生地は、仕事カバンに最適な強度があります。
+光沢のあるシュリンク型押レザーは、撥水性のある表面感で、発色も良いです。
+ＹＫＫの最高級ファスナーエクセラを使用し、高級感を演出しています。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4835265/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_9ccc2af51e0a1ceca3a2be9b7a079f7f3501774e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄 7803 キャリアケースＭ（ベージュ×イエロー）</h4>
+<p class="goods-col_price inline">92,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄」です。
+レディースビジネスバッグとして、軽さやしなやかさ、若干の華やかさをベースにデザインしました。
+かぶせ革に楕円形のひねり金具使いとキーチャームがポイントデザインになっています。
+ハンドルの細さやアタリの柔らかいストラップ、かつ軽さとしなやかさなど、
+レディースビジネスとして最適な機能性を考えています。
+ノートPC＆A4ファイルが入るサイズです。
+耐久性のあるナイロンツイル生地は、仕事カバンに最適な強度があります。
+光沢のあるシュリンク型押レザーは、撥水性のある表面感で、発色も良いです。
+ＹＫＫの最高級ファスナーエクセラを使用し、高級感を演出しています。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4851316/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230524/pd_7b24d53caa5128746ee6f1becded21d7f245d4b3.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">無洗米 5kg×6回（毎月）コシヒカリ（白米）今ずり米 兵庫県但馬産【定期便】</h4>
+<p class="goods-col_price inline">75,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_period">定期</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>初回発送日から毎月1回、計6回発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">【食味抜群！今ずり米】
+お米はもみ貯蔵。基本は秋、冬、春、夏と季節ごとに籾すり。ご注文後に精米をする今ずり米！
+収穫時と変わらない鮮度と食味でお召し上がりいただけます！
+【手間いらず！無洗米】
+乾式無洗米加工です。
+精米時にお米の表面に付着した肌糠は酸化し、お米の劣化を進行させます。
+マザーズファームでは、その肌糠を乾式無洗米機で徹底除去いたします。
+つまり、お届け後も高品質なお米をお召し上がりいただけます。
+【発送】初回発送日から毎月1回、計6回発送
+※毎月2kg・10kg発送の定期便コースもございます。
+栽培：特別栽培米、化学肥料不使用（有機肥料100％）
+節減対象農薬：当社比8.5割減
+品種：コシヒカリ（100％）
+産地：兵庫県豊岡市日高町
+・毎年10月以降は【新米】をお届け予定
+・12月22日受注分までは年内に発送
+・12月の最終発送日は、12月29日
+・年明けは1月6日より順次発送予定
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（あるまま　TEL：0796-42-5604）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4851317/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230524/pd_bb8621cf3cef3eb81324d83f63e548027fc57e83.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">無洗米 10kg×6回（毎月）コシヒカリ（白米）今ずり米 兵庫県但馬産【定期便】</h4>
+<p class="goods-col_price inline">120,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_period">定期</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>初回発送日から毎月1回、計6回発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">【食味抜群！今ずり米】
+お米はもみ貯蔵。基本は秋、冬、春、夏と季節ごとに籾すり。ご注文後に精米をする今ずり米！
+収穫時と変わらない鮮度と食味でお召し上がりいただけます！
+【手間いらず！無洗米】
+乾式無洗米加工です。
+精米時にお米の表面に付着した肌糠は酸化し、お米の劣化を進行させます。
+マザーズファームでは、その肌糠を乾式無洗米機で徹底除去いたします。
+つまり、お届け後も高品質なお米をお召し上がりいただけます。
+【発送】初回発送日から毎月1回、計6回発送
+※毎月2kg・5kg発送の定期便コースもございます。
+栽培：特別栽培米、化学肥料不使用（有機肥料100％）
+節減対象農薬：当社比8.5割減
+品種：コシヒカリ（100％）
+産地：兵庫県豊岡市日高町
+・毎年10月以降は【新米】をお届け予定
+・12月22日受注分までは年内に発送
+・12月の最終発送日は、12月29日
+・年明けは1月6日より順次発送予定
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（あるまま　TEL：0796-42-5604）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4851318/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230524/pd_ed66e3d03d7e125a68672cd118481d37264e0361.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">無洗米 27kg×6回（隔月）コシヒカリ（白米）今ずり米 兵庫県但馬産【定期便】</h4>
+<p class="goods-col_price inline">270,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_period">定期</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>初回発送日から2か月に1回（隔月）計6回発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">【食味抜群！今ずり米】
+お米はもみ貯蔵。基本は秋、冬、春、夏と季節ごとに籾すり。ご注文後に精米をする今ずり米！
+収穫時と変わらない鮮度と食味でお召し上がりいただけます！
+【手間いらず！無洗米】
+乾式無洗米加工です。
+精米時にお米の表面に付着した肌糠は酸化し、お米の劣化を進行させます。
+マザーズファームでは、その肌糠を乾式無洗米機で徹底除去いたします。
+つまり、お届け後も高品質なお米をお召し上がりいただけます。
+【発送】初回発送日から2か月に1回（隔月）計6回発送
+※毎月発送の2kg・5kg・10kgの定期便コースもございます。
+栽培：特別栽培米、化学肥料不使用（有機肥料100％）
+節減対象農薬：当社比8.5割減
+品種：コシヒカリ（100％）
+産地：兵庫県豊岡市日高町
+・毎年10月以降は【新米】をお届け予定
+・12月22日受注分までは年内に発送
+・12月の最終発送日は、12月29日
+・年明けは1月6日より順次発送予定
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（あるまま　TEL：0796-42-5604）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4866693/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_2b96fa42297861c9bc1585ab27a6df66f2e225e2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　カルド フラップミニショルダー（グレー）</h4>
+<p class="goods-col_price inline">81,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した商標登録、「豊岡鞄」です。
+1枚パーツ仕立てのツイードシリーズのコンパクトなミニサイズのショルダーバッグ。見た目フラットだけどモノを入れると立体的になる。フラップのレザーが優しい曲線で女性らしく、とにかくシンプルで実用に優れた2層式ショルダーバッグ。小さくても内装や外装にポケットが隠れていてとても実用的。ツイードとイタリアンレザーのコンビネーションが幅広い年齢層で活躍。
+※サイズ表示はバッグを置いてマチが出来た時のサイズです。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（豊岡K－site合同会社　TEL：0796-26-7300）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4866714/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_5250cb1e0d5b6258a4d9fc20fc639efab3d61808.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　ケサラ　ミニリュック（ベージュ×ゴールド）</h4>
+<p class="goods-col_price inline">88,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した商標登録、「豊岡鞄」です。
+背中にコロンと可愛いサイズ感が絶妙なシープボアフリースのふんわりミニリュック。長財布が横にすっぽりと入る最適サイズ。本体は一枚の裁断パーツから出来ている。裁断クズが極限に少ないことで地球に優しい。縫う箇所が少ないことで生産者に優しい生産性の良さ。縫い目からほどける心配も少ないから「強い」。その製法から独特の柔らかいシルエットと優しいフォルムが出ている。革は、パプリカ型押しのゴールドの上にベージュで手汚しして、控えめなメタリック感を出している。本体のフリースとの相反するメタリック感のある型押し革とのコンビネーションが面白い。秋冬のボア素材のマストアイテムとして活躍するリュックです。軽量なので旅行にも買い物にも最適です。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（豊岡K－site合同会社　TEL：0796-26-7300）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4891529/33">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_1003ae83a586374d966052dc475af1a0a8bf0bbc.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡産　牛革・３WAYバッグ　CROSSROAD（505010ブラック）</h4>
+<p class="goods-col_price inline">121,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">ワックス加工の牛革にナイロンテープのトリミングが新鮮な３WAYバッグ。
+A4サイズ対応で、手提げ、リュック、ショルダーバッグとしてお使いいただけます。
+黒メッキの金具は使い込むほどに地の銅色が現れ、牛革と共にエイジングをお楽しみいただけます。
+スーツにもカジュアルにも合う幅広く使える大人のバッグです。
+※環境にやさしいモノづくりを目指し、できる限り無駄なく革を使用することに努めています。（人為的な傷、大きな傷などの部分は含みません）
+画像と風合い等が多少異なる場合がありますが、革の個性としてご理解くださいますようお願いいたします。
+また、染料仕上げの牛革を使用しているため、多少の色落ちがする場合が有りますので、ご了承ください。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4891530/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_f520a39caef43d03c3e361c85868cace96929eba.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡産　牛革・薄マチバッグ　CROSSROAD（505011ブラック）</h4>
+<p class="goods-col_price inline">121,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">ワックス加工の牛革にナイロンテープのトリミングが新鮮な薄マチバッグ。
+HATTORI オリジナルのハンドルは持ち易く、牛革の重量感を緩和します。
+両サイド４つのDカンにショルダーストラップを掛けることにより型崩れしにくくお使いいただけます。
+黒メッキの金具は使い込むほどに地の銅色が現れ、牛革と共にエイジングをお楽しみいただけます。
+スーツにもカジュアルにも合う幅広く使える大人のバッグです。
+※環境にやさしいモノづくりを目指し、できる限り無駄なく革を使用することに努めています。（人為的な傷、大きな傷などの部分は含みません）
+画像と風合い等が多少異なる場合がありますが、革の個性としてご理解くださいますようお願いいたします。
+また、染料仕上げの牛革を使用しているため、多少の色落ちがする場合が有りますので、ご了承ください。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4891531/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_e3e8960acf4b3dd9e216351d6d6a9e5bcc8a67de.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡産　牛革・ボストン型バッグ　CROSSROAD（505012ブラック）</h4>
+<p class="goods-col_price inline">132,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">ワックス加工の牛革にナイロンテープのトリミングが新鮮なボストン型バッグ。
+HATTORI オリジナルのハンドルは持ち易く、牛革の重量感を緩和します。
+両サイド４つのDカンにショルダーストラップを掛けることにより型崩れしにくくお使いいただけます。
+黒メッキの金具は使い込むほどに地の銅色が現れ、牛革と共にエイジングをお楽しみいただけます。
+スーツにもカジュアルにも合う幅広く使える大人のバッグです。
+※環境にやさしいモノづくりを目指し、できる限り無駄なく革を使用することに努めています。（人為的な傷、大きな傷などの部分は含みません）
+画像と風合い等が多少異なる場合がありますが、革の個性としてご理解くださいますようお願いいたします。
+また、染料仕上げの牛革を使用しているため、多少の色落ちがする場合が有りますので、ご了承ください。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4892603/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_e992ac48beae9dd1fadfaf97b0baf7cf8577d784.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄トートバックCCNE-001(オーク)</h4>
+<p class="goods-col_price inline">37,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した商標登録、「豊岡鞄」「豊岡財布」です。
+SDGｓの取組みのひとつとして、CREEZANの発祥の地、豊岡市が取り組むコウノトリの野生復帰を支援する目的で企画致しました。
+CREEZANとコウノトリをより身近に感じてもらう為にデイリーに使えるトートバック。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4892604/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_19f4caa69bae63fb2fe49ccd2f60bfbd6b7db2b7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄トートバックCCNE-001(ブラック)</h4>
+<p class="goods-col_price inline">37,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した商標登録、「豊岡鞄」「豊岡財布」です。
+SDGｓの取組みのひとつとして、CREEZANの発祥の地、豊岡市が取り組むコウノトリの野生復帰を支援する目的で企画致しました。CREEZANとコウノトリをより身近に感じてもらう為にデイリーに使えるトートバック。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4892605/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_7a06392e0fc518896df4177899eb4700a72c9d29.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄トートバックCCNE-001(ブルー)</h4>
+<p class="goods-col_price inline">37,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した商標登録、「豊岡鞄」「豊岡財布」です。
+SDGｓの取組みのひとつとして、CREEZANの発祥の地、豊岡市が取り組むコウノトリの野生復帰を支援する目的で企画致しました。
+CREEZANとコウノトリをより身近に感じてもらう為にデイリーに使えるトートバック。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4892606/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_63ca99ad6edc9d9ffa15a80face90dd0ede65832.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄ミニトートバックCCNE-002(オーク)</h4>
+<p class="goods-col_price inline">32,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した商標登録、「豊岡鞄」「豊岡財布」です。
+SDGｓの取組みのひとつとして、CREEZANの発祥の地、豊岡市が取り組むコウノトリの野生復帰を支援する目的で企画致しました。
+CREEZANとコウノトリをより身近に感じてもらう為にデイリーに使えるミニトートバック。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4892607/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_f0ba3229673fe8a30b08453837742baa94ae48fe.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄ミニトートバックCCNE-002(ブラック)</h4>
+<p class="goods-col_price inline">32,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した商標登録、「豊岡鞄」「豊岡財布」です。
+SDGｓの取組みのひとつとして、CREEZANの発祥の地、豊岡市が取り組むコウノトリの野生復帰を支援する目的で企画致しました。
+CREEZANとコウノトリをより身近に感じてもらう為にデイリーに使えるミニトートバック。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4892608/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_b0f4aad9db18b85b9f35441f773ca55e4918ace8.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄ミニトートバックCCNE-002(ブルー）</h4>
+<p class="goods-col_price inline">32,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した商標登録、「豊岡鞄」「豊岡財布」です。
+SDGｓの取組みのひとつとして、CREEZANの発祥の地、豊岡市が取り組むコウノトリの野生復帰を支援する目的で企画致しました。
+CREEZANとコウノトリをより身近に感じてもらう為にデイリーに使えるミニトートバック。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4892623/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_daa714ad92e4eb32c6ccbdf5201a94b629c6e3e6.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【Sienna】 革×帆布コンビリュック　(レッド×ネイビー)</h4>
+<p class="goods-col_price inline">121,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">コロンとしたフォルムと交差したベルトが背負った時にとても可愛いシルエットになります。ちょっと長めにして背負うのがおすすめです。容量もたっぷりなので、普段使いから旅行まで活躍します。
+衣服との摩擦や汗や雨などの水濡れにより色落ちする場合があります。水濡れは色のにじみや水膨れの原因となります。水に濡れた際は乾いた柔らかい布で軽く拭き取り、直射日光を避けて風通しの良い場所で乾燥させてください。
+汚れたまま湿度の高い場所で保管するとカビなどの原因となります。
+モニター環境により実際の色と異なって見える場合があります。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4915443/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_580d154bdedb6ab11c66854ccee10296e4dd8eb2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　craftsmanshipクロコ型ブリーフ（197712）ブルー・チャコール・サンセット</h4>
+<p class="goods-col_price inline">148,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">弊社一番人気のモデルをベースにオールレザーバージョンとして
+クロコダイル調の牛革をあしらったビジネス鞄に致しました。
+ハイエンドモデル「craftsmanship」シリーズには
+通常モデルより様々なアップグレード素材を使用しております。
+例えばファスナーはどちらからでも片手で開けやすいシンメトリックファスナーを使用。
+本体には牛革にクロコダイル調の型押しを施し、
+汚し加工と呼ばれる表面加工を行うことで革に奥行き感のある表情を出しました。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4915444/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_b6af19ca65593ff16d5e78a37e52742e55488213.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　CIE WEATHER 2WAY BACKPACK（071952）ブラック・ミストグレー・カーキ・ネイビー</h4>
+<p class="goods-col_price inline">121,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">大阪を中心に活躍するベンチャー企業、
+リアルワークス社のブランド「ＣＩＥ」と「豊岡鞄」のコラボレーションＢＡＧです。
+背負う・たすき掛けする等ハンズフリーであり、皮革を出来るだけ使用せずに、
+また、軽い素材を厳選して、軽量且つ機能性を追求しています。
+新鮮なデザインで、性別・世代を問わないリュックメインの２ＷＡＹＢＡＧです。
+日々の行動パターンに合わせた使い方が出来る様、多くのポケットを配した高機能ＢＡＧです。
+内装にはＰＣポケットを施し、ビジネスシーンで便利にご利用いただけます。
+Ａ４ファイル対応。蓄光皮革パーツによる夜間安全対策により自転車やオートバイでも安心。
+本体素材の「Weather Max」は高い撥水性を備えております。
+本体生地はテントやマリン用途等で多く使われている「Weather Max」を使用している為、
+色の一貫性及び耐光堅牢度が高い。（強い日差しや風雨に強い。）
+また、オットマン織を採用し、強度、耐久性に優れている。
+仕上げに「Hydro Max」加工により、通気性を保ちながら高い撥水性を備えている。
+これらのことから、長年愛用して頂けるＢＡＧです。
+白色の皮革は、蓄光ですので夜間の通勤・通学やライディングから身体を守ります。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4915449/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240109/pd_1b421c1fa4fc33ef82be436a05e7471643487ec3.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡財布 YOUTA BOXコンパクトRZウォレット（YKW1)チョコ・バーガンディ</h4>
+<p class="goods-col_price inline">92,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">ご要望が多かった「YOUTA」の皮革財布です。
+コンパクト＆スリムデザインによって、スラックスやデニムのバックポケットに綺麗に収まるサイズ感にしました。
+また、「YOUTA」らしく、前面センターにイントレを施しております。
+カラーは、藍を繰り返し染めたイメージのブラックに限りなく近いネービー、
+シックなダークブラウン、ワインより落ち着きのあるバーガンディの３色です。
+メインファスナーは、ＹＫＫの最上級ファスナー「EXCELLA」を使用しています。
+「EXCELLA」は、エレメントひとつひとつの全面に入念な磨きをかける為、
+メッキが美しく、滑らかで、ファスナーの貴婦人と言われています。
+機能としては、内装センターにジッパー付小銭入れ、前後のカード入れ６枚、
+シークレットポケット２枚、フリーポケット２枚と十分です。
+スーツのジャケット内側の胸ポケットにも収まるので、便利です。
+本体皮革には、BOXシボの型押しが施してありますので、表面強度に優れ、
+また、革独特の表面のキズ等がほとんど目立ちません。
+その上、皮革表面に「３Ｍ」社の商標である「Scotchgard」for leather加工を施しました。
+よって１、油や水をはじく力が持続します。
+２、お手入れが簡単になります。３、革本来の美しさをより長く保ちます。
+◆お問合せ先◆
+お礼の品・配送に関するお問い合わせは、
+（一般財団法人但馬地域地場産業振興センター　TEL：0796-24-5551）までお願い致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4920752/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_c7b09aa40aae40c8419a6d076579f906ffacdbc4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">豊岡鞄　ショッピングトートM　本革(ジーンブルー・ブラック・ライトグレー・レッド)</h4>
+<p class="goods-col_price inline">300,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備ができ次第発送(最長２ヶ月程度かかる場合があります)</p>
+</div>
+<p class="goods-col_textinfo pc">この商品は兵庫県鞄工業組合が取得した登録商標「豊岡鞄」です。
+外装に弾力のあるドイツ製の最上級シュリンクレザーを使用。天然皮特有の柔らかさを最大限感じていただけるように、芯材や内装材を使わずに製作しています。ハンドバッグサイズですが、マチ幅が広いので、財布、ポーチはもちろん、500ml ペットボトルなど予想以上の大容量です。毎日の暮らしが少し楽しくなる、ワンランク上のショッピングトートです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28209/4518182/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230120/pd_c206887040021d973c201e6e6c5eeb5d120389ea.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">シルクスパソープ【100g×1個】</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2018年11月01日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">関西代表　美人湯を肌で感じる
+シルク温泉の成分を丸ごと石鹸にしました。
+【お問合せ先】
+お礼の品・配送に関するお問い合わせは、
+（ホテルシルク温泉やまびこ　TEL：0796-54-0141）までお願い致します。</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<ul class="gcf-lst-bx" id="progress_list">
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2021年01月19日 17:20</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">寄附募集期間終了と寄附の御礼</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">全国の皆さまから、ご寄付を賜り、開始から6週目で目標額を達成することができました。<br/>
+たくさんの方々に本事業の趣旨や思いに賛同いただけたことを実感し、勇気をいただきました。<br/>
+ご支援いただきました皆さまには、心から厚くお礼申しあげます。<br/>
+<br/>
+このプロジェクトで、全国に先駆けてアプリ開発を行いましたが、開始当初は149人だった登録者が、半年間で719人と約3倍となり、回答率も伸びてきています。それに伴い、保護者の利便性と健診の有用性が向上し、発達課題の視える化が実現しつつあります。<br/>
+また、課題に応じた教室も順調にスタートし、参加した保護者からは、「子どもの行動の意味を理解でき、子どもに合った対応や声かけの仕方を教えてもらえて良かった」等の感想をいただき、ほとんどの方が、参加前より子育てを楽しめるようになったと回答されました。<br/>
+「わが子と、気持ちが通じる。育児が楽しい」と思える親子が増えることを目指します。<br/>
+<br/>
+　今後も、子どもの成長発達の適切な時期に、必要な支援を行うことで、コミュニケーション能力の向上を図り、子ども達の生きる力を育む取り組みを進めてまいります。<br/>
+<br/>
+これからも、豊岡市の取り組みを応援していただきますよう、お願い申しあげます。<br/>
+</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="836" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="836">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="836">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F962%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+</ul>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">兵庫県豊岡市</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">私たちは、目指す都市像を「小さな世界都市－Local＆Global City－」と定めました。「小さな」を「Local」と訳しています。<br/>
+豊岡というローカルに深く根ざしながら、世界で輝き「小さくてもいいのだ」という堂々とした態度のまちを創ろうということです。<br/>
+豊岡が小さな世界都市となるためには、６つの条件が必要であると考えています。<br/>
+<br/>
+１．自然との共生が徹底されていること。<br/>
+２．地域の歴史、伝統、文化が守られ、新しい工夫が加わり、引き継がれていること。<br/>
+３．優れた文化芸術が創造され、人々が楽しんでいること。<br/>
+４．多様性を受け入れ、支え合うリベラルな気風がまちに満ちていること。<br/>
+５．内発型の地域産業がすくすくと育っていること。<br/>
+６．子どもたちが地域への愛着を育み、豊岡で世界と出会っていること。<br/>
+<br/>
+これらの状態を達成すれば、豊岡は世界で輝くことができるはずです。<br/>
+私たちは、みんなの力を合せて目指す都市像に向かっていきます。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">職員の皆さま、頑張ってください。</p>
+<p class="gcf-bx-message__date">2020年12月26日 23:41</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">少しでも豊かな感性を表現出来たらいいですね！心から応援したいです！又、来年も寄付したいと思います！</p>
+<p class="gcf-bx-message__date">2020年12月20日 12:11</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">発達障害に対して、今後も微力ながら応援していきます。ガンバレ！</p>
+<p class="gcf-bx-message__date">2020年11月14日 10:06</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">素晴らしい取り組みだと思います。豊岡市だけにとどまらず、全国へと広めるためにも、必ず効果を検証、発表していただき、日本中の子供たちとご家族の支援につなげてください</p>
+<p class="gcf-bx-message__date">2020年10月30日 17:39</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/962">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>申し込み後の内容変更・寄附金受領証明書・ワンストップ特例申請書</h3>
+<p>【ワンストップ特例申請書提出先】<br/>
+〒668-8666　兵庫県豊岡市中央町2番4号<br/>
+豊岡市役所　環境経済課　ふるさと納税担当<br/>
+電話番号：0796-23-1111（代表）0796-23-4480（直通）<br/>
+受付時間：8時30分～17時15分　月～金（土日祝日、年末年始除く） </p>
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</section>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">兵庫県豊岡市の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/28209/33?from=2&amp;gcf_project_id=962"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,521,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g962,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

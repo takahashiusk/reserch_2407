@@ -1,0 +1,2355 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/879" />
+
+<title>山形市×山響 音楽でまちを元気に～山形交響楽団の支援を通じて「明日」のまちを一緒につくりませんか～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="山形市×山響 音楽でまちを元気に～山形交響楽団の支援を通じて「明日」のまちを一緒につくりませんか～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/879" />
+<meta property="og:description" content="◇◆◇市長メッセージ◇◆◇こんにちは。山形市長の佐藤孝弘です。山形市は、「市独自でやれることは、すぐにやる」という考えのもと、新型コロナウイルス感染症対策に速やかに取り組んでいます。安全と社会経済活動の両立を目指し、段階的な再開が始まる中、設立以来４８年もの長きにわたり音楽でまちを潤い続け、市民に親しまれ愛されている「山形交響楽団」は、新型コロナウイルス感染症対策による自粛により、3月からキャンセルが相次ぎ、4月以降、オーケストラ演奏活動が行えず、収入も激減しています。山形交響楽団は、大切なまちの一員であることはもちろんのこと、老舗の音楽雑誌「音楽の友」２０１９年３月号に掲載された世界のオーケストラランキングで日本のオーケストラで６位、世界の中でも45位という非常に高い評価を得ているプロオーケストラであり、貴重な存在です。こうしたことから、山形市は「山形交響楽団」の支援を通じ「音楽で明日のまちを元気にしたい」という想いを皆様と共にしながら取組みを進めていくために、ガバメントクラウドファンディングを実施することとしました。音楽でまちを元気にする主な取組みとは、これまで数々の著名なソリストと共演しながら行ってきた定期演奏会、ファミリー向けのコンサートやスクールコンサートなどの復活のみならず、街なかに華やかに響く演奏や飲食店と協力する演奏付きの優雅な食事会、他の山形市の文化の担い手との共演、記念コンサートの開催など、プロが奏でる音楽と山形市のまちの魅力をかけ合わせた企画です。新型コロナウイルス感染症の影響は、これからも予断を許しませんが、山形交響楽団の生み出すハーモニーとともに、明るい未来を多くの皆様と一緒に作り出していければと思います。ご多用の折とは存じますが、是非とも皆様のあたたかいご支援をお願いいたします。最後に、山形市民の皆様の感染防止努力により、市内は落ち着きを取り戻しつつあります。更に状況がよくなった折には、山形市へお越しいただき、山響の演奏と、山形市の食や観光を堪能していただければと思います。その日を楽しみにしながら、この度のガバメントクラウドファンディングにご理解とご協力をいただければ幸いです。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20200605/d_c4799f27b3a7f0ef5d5f8577795d1482cc54b998.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20200605/d_c4799f27b3a7f0ef5d5f8577795d1482cc54b998.jpg" />
+<meta property="twitter:title" content="山形市×山響 音楽でまちを元気に～山形交響楽団の支援を通じて「明日」のまちを一緒につくりませんか～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="◇◆◇市長メッセージ◇◆◇こんにちは。山形市長の佐藤孝弘です。山形市は、「市独自でやれることは、すぐにやる」という考えのもと、新型コロナウイルス感染症対策に速やかに取り組んでいます。安全と社会経済活動の両立を目指し、段階的な再開が始まる中、設立以来４８年もの長きにわたり音楽でまちを潤い続け、市民に親しまれ愛されている「山形交響楽団」は、新型コロナウイルス感染症対策による自粛により、3月からキャンセルが相次ぎ、4月以降、オーケストラ演奏活動が行えず、収入も激減しています。山形交響楽団は、大切なまちの一員であることはもちろんのこと、老舗の音楽雑誌「音楽の友」２０１９年３月号に掲載された世界のオーケストラランキングで日本のオーケストラで６位、世界の中でも45位という非常に高い評価を得ているプロオーケストラであり、貴重な存在です。こうしたことから、山形市は「山形交響楽団」の支援を通じ「音楽で明日のまちを元気にしたい」という想いを皆様と共にしながら取組みを進めていくために、ガバメントクラウドファンディングを実施することとしました。音楽でまちを元気にする主な取組みとは、これまで数々の著名なソリストと共演しながら行ってきた定期演奏会、ファミリー向けのコンサートやスクールコンサートなどの復活のみならず、街なかに華やかに響く演奏や飲食店と協力する演奏付きの優雅な食事会、他の山形市の文化の担い手との共演、記念コンサートの開催など、プロが奏でる音楽と山形市のまちの魅力をかけ合わせた企画です。新型コロナウイルス感染症の影響は、これからも予断を許しませんが、山形交響楽団の生み出すハーモニーとともに、明るい未来を多くの皆様と一緒に作り出していければと思います。ご多用の折とは存じますが、是非とも皆様のあたたかいご支援をお願いいたします。最後に、山形市民の皆様の感染防止努力により、市内は落ち着きを取り戻しつつあります。更に状況がよくなった折には、山形市へお越しいただき、山響の演奏と、山形市の食や観光を堪能していただければと思います。その日を楽しみにしながら、この度のガバメントクラウドファンディングにご理解とご協力をいただければ幸いです。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,521,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="879" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">山形市×山響 音楽でまちを元気に～山形交響楽団の支援を通じて「明日」のまちを一緒につくりませんか～</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">山形市×山響 音楽でまちを元気に～山形交響楽団の支援を通じて「明日」のまちを一緒につくりませんか～</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1017">まちづくり&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20200605/d_c4799f27b3a7f0ef5d5f8577795d1482cc54b998.jpg" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E5%B1%B1%E5%BD%A2%E5%B8%82%C3%97%E5%B1%B1%E9%9F%BF%20%E9%9F%B3%E6%A5%BD%E3%81%A7%E3%81%BE%E3%81%A1%E3%82%92%E5%85%83%E6%B0%97%E3%81%AB%EF%BD%9E%E5%B1%B1%E5%BD%A2%E4%BA%A4%E9%9F%BF%E6%A5%BD%E5%9B%A3%E3%81%AE%E6%94%AF%E6%8F%B4%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6%E3%80%8C%E6%98%8E%E6%97%A5%E3%80%8D%E3%81%AE%E3%81%BE%E3%81%A1%E3%82%92%E4%B8%80%E7%B7%92%E3%81%AB%E3%81%A4%E3%81%8F%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%EF%BD%9E&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F879">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">22,451,500</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 29.9%;"></div>
+<p class="gcf-cht-detail-bar__number">29.9%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">75,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">29.9</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">773</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>山形県山形市（やまがたけん やまがたし）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="879" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2020年6月10日～2020年9月7日（90日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1028" class="sorting-list__item">まちづくり・コミュニティ</a></li><li><a href="/gcf/project/tag/1047" class="sorting-list__item">健康・医療</a></li><li><a href="/gcf/project/tag/1052" class="sorting-list__item">伝統・文化</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1082" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_3.png 1x, /gcf/images_cf/sdg/sdg_icon_3@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_3.png" alt="SDGアイコン" decoding="async" />3.すべての人に健康と福祉を</a></li><li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="879" class="gcf-nv-tab__button js-tab">進捗情報
+<span class="gcf-nv-tab__button-progress-number">7</span>
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">山形県山形市</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20200604/o_2d6cc4f08441c5c832b3397532d983c25d681410.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">◇◆◇市長メッセージ◇◆◇<br/>
+こんにちは。山形市長の佐藤孝弘です。<br/>
+山形市は、「市独自でやれることは、すぐにやる」という考えのもと、新型コロナウイルス感染症対策に速やかに取り組んでいます。<br/>
+<br/>
+安全と社会経済活動の両立を目指し、段階的な再開が始まる中、設立以来４８年もの長きにわたり音楽でまちを潤い続け、市民に親しまれ愛されている「山形交響楽団」は、新型コロナウイルス感染症対策による自粛により、3月からキャンセルが相次ぎ、4月以降、オーケストラ演奏活動が行えず、収入も激減しています。<br/>
+<br/>
+山形交響楽団は、大切なまちの一員であることはもちろんのこと、老舗の音楽雑誌「音楽の友」２０１９年３月号に掲載された世界のオーケストラランキングで日本のオーケストラで６位、世界の中でも45位という非常に高い評価を得ているプロオーケストラであり、貴重な存在です。<br/>
+<br/>
+こうしたことから、山形市は「山形交響楽団」の支援を通じ「音楽で明日のまちを元気にしたい」という想いを皆様と共にしながら取組みを進めていくために、ガバメントクラウドファンディングを実施することとしました。<br/>
+<br/>
+音楽でまちを元気にする主な取組みとは、これまで数々の著名なソリストと共演しながら行ってきた定期演奏会、ファミリー向けのコンサートやスクールコンサートなどの復活のみならず、街なかに華やかに響く演奏や飲食店と協力する演奏付きの優雅な食事会、他の山形市の文化の担い手との共演、記念コンサートの開催など、プロが奏でる音楽と山形市のまちの魅力をかけ合わせた企画です。<br/>
+<br/>
+新型コロナウイルス感染症の影響は、これからも予断を許しませんが、山形交響楽団の生み出すハーモニーとともに、明るい未来を多くの皆様と一緒に作り出していければと思います。<br/>
+ご多用の折とは存じますが、是非とも皆様のあたたかいご支援をお願いいたします。<br/>
+<br/>
+最後に、山形市民の皆様の感染防止努力により、市内は落ち着きを取り戻しつつあります。更に状況がよくなった折には、山形市へお越しいただき、山響の演奏と、山形市の食や観光を堪能していただければと思います。その日を楽しみにしながら、この度のガバメントクラウドファンディングにご理解とご協力をいただければ幸いです。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">山響創立名誉指揮者　村川千秋さんのインタビューです</span></h2>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G84ie3LAJc0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+<p class="gcf-txt-article">【6月２６日追加映像】<br/>
+ＧＣＦ特別インタビュー企画「わたし×山響」です。<br/>
+山形交響楽団創立名誉指揮者　村川千秋さんに語っていただきました。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">中1のときに山響と出会った山響スタッフのインタビューです</span></h2>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITNHN8gExQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+<p class="gcf-txt-article">【９月２日追加映像】<br/>
+ＧＣＦ特別インタビュー企画「わたし×山響」。<br/>
+中学1年のときに山響と出会い、現在、山形交響楽団でアルバイトをしている樋渡 彩さん。<br/>
+これまでの山響とご自身との関わりや、今改めて思う、山響への思いをまっすぐに語ってくれました。</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">山響鑑賞会員様のインタビューです</span></h2>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ufruOdb7Y-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+<p class="gcf-txt-article">【９月４日追加映像】<br/>
+ＧＣＦ特別インタビュー企画「わたし×山響」。<br/>
+山形交響楽団鑑賞会員である波多野様。<br/>
+お二人に、身近に親しむことができる山形交響楽団の魅力、そして山形の魅力を語っていただきました。<br/>
+ご協力ありがとうございます。</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">はじめに</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200605/gpfd_848b67cc7773ba19dfc73fcad50b364f0047a3bb.jpg" />
+</figure>
+<p class="gcf-txt-article">こんにちは。山形市です。<br/>
+まちでは、感染症対策を講じ、安全と生活や仕事の両立を目指し、社会経済活動が段階的に再開しつつあります。<br/>
+新しい生活スタイルの中で、いかがお過ごしでしょうか。<br/>
+新しい生活の始まりを迎えた皆さんに、少しだけ質問します。<br/>
+<br/>
+子どもの頃好きだった音楽は、どんな音楽ですか？<br/>
+学生の頃、友達とのおしゃべりに登場していた音楽は、どんな音楽ですか？<br/>
+「年末」と言えば、どんな音楽ですか？<br/>
+<br/>
+今、頭に浮かんだ音楽は、どんな音楽だったでしょうか。<br/>
+人生の中の様々なとき、様々な場面で、あなたのそばに音楽があるように、<br/>
+山形交響楽団の音楽は、山形市とともに歩んできました。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200605/gpfd_e2dd2de74b6426ea01e90a8591fe61f87576298b.jpg" />
+</figure>
+<p class="gcf-txt-article">制服姿の学生さんからセカンドライフを謳歌する方々まで老若男女が集う定期演奏会<br/>
+０歳から聴ける初めてのオーケストラ体験。突然現れる動物たちに子どもたちが大喜びするファミリーコンサート<br/>
+「さくらんぼまつり」などイベントで人だかりができるミニ演奏会<br/>
+プロの奏者が楽しく、そして本気で子どもたちと向き合う演奏指導<br/>
+そして、市民会館で生のオーケストラを体感できるスクールコンサート<br/>
+<br/>
+「音楽は心のミルク。人間成長の栄養素」という言葉を創立当初から掲げている山形交響楽団は、地域とともに歩み続けて、もうすぐ設立５０年。<br/>
+しかし、感染症対策のため、コンサート活動ができない状況が続いていました。<br/>
+<br/>
+そして、７月７日、ようやく、お客様をお迎えしての演奏会を再開しました。<br/>
+再開に当たっては、ガイドラインを守り、感染症予防対策を実施し、座席数の制限（総席数の５０％以内）も実施しています。<br/>
+この日は、総座席数２００１席の会場で、３００席限定の公演でした。<br/>
+７月１２日の公演も、総座席数２００１席の会場で、７００席限定となります。<br/>
+これまでのように大勢のお客様をお迎えできない状況の中、<br/>
+収入は減少するものの、公演の費用は必要となるため、公演再開後も、厳しい経営環境が続いています。<br/>
+<br/>
+そこで、山形市は、山形交響楽団を支援しながら、音楽でまちを一緒に元気にするプロジェクトを実施することにしました。<br/>
+プロが奏でる音楽と、まちの魅力をかけ合わせた取組みを実施します。<br/>
+<br/>
+山形市は、このプロジェクトの実施について、市長メッセージにもありますとおり<br/>
+「音楽でまちを元気にしたい」という想いを皆様と共にしながら、一緒に取組んでいきたいと考え、<br/>
+皆様からのご支援を募りたく<br/>
+ガバメントクラウドファンディングを実施することにしました。<br/>
+<br/>
+みなさん、明日のまちを一緒につくりませんか。<br/>
+皆様のご協力をお願いします。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">※　山形市民の方は、国の方針により山形市の返礼品を受け取ることができません。「ふるさと納税で応援」（緑のボタン）をクリックし寄附金額を入力してください。</p>
+<h3 class="gcf-ttl-h3">山形市民の皆様へ・返礼品を辞退される皆様へ</h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200604/gpfd_07661874404997eba3bb8d9ef8b4a779bde160fc.jpg" />
+</figure>
+<p class="gcf-txt-article">返礼品を受け取らずに１万円以上ご寄附くださった皆様には、山形交響楽団が作成した「プロジェクト限定」お礼状をお送りします。<br/>
+ご寄附は、2,000円以上でお願いしています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">山響は、今も地域のために、皆さんのために音楽を届けています。</span></h2>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bFp5I375KZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+<p class="gcf-txt-article">山形交響楽団は、３月に、中止となった定期演奏会の無観客演奏をインターネットでライブ配信し、世界中から延べ１０万人ものアクセスを記録するなど、質の高い演奏が話題になりました。<br/>
+ステイホーム期間中は、「地域のためにできることを」との想いから、「テレワーク動画」や子どもたちに大人気の「音楽なぞなぞ」を配信し、こちらも話題を呼んでいます。おうち時間に楽しんだ方もいらっしゃるかもしれません。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">再開しつつある社会の中で</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200604/gpfd_7e9f6332274d36d0abb84a889574024a4dde38dd.jpg" />
+</figure>
+<p class="gcf-txt-article">５月に緊急事態宣言が全国的に解除され、安全と生活や仕事の両立を目指し、段階的に社会経済活動が再開しつつあります。<br/>
+しかし、３月から始まったコンサート活動の中止・延期は、続いています。コンサート活動は、実施にあたり大幅な客席数の人数制限があるなど、まだまだ以前と同じようにお客様をお迎えすることが難しい、厳しい状況が続いています。<br/>
+山形交響楽団は、６月１０日時点で、６０公演ものコンサートが中止となり、総額１億円を超える収入の損失が発生しています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">山響と一緒に音楽でまちを元気にしたい</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200605/gpfd_d0f931892ba3cc71a13a13a769d2cc468abc96b2.jpg" />
+</figure>
+<h3 class="gcf-ttl-h3">山形交響楽団の支援を通じて、音楽でまちを元気に</h3>
+<p class="gcf-txt-article">まちが再び動き出した今、山形市は、山形交響楽団の支援を通じて、音楽でまちを元気にする取組みを実施します。</p>
+<h3 class="gcf-ttl-h3">音楽でまちを元気にする取組みとは？</h3>
+<p class="gcf-txt-article">皆が笑顔になるような、まちの活性化に繋がるプロジェクトに取り組みます。従来開催してきた、各種演奏会やスクールコンサート、ファミリー向けコンサートなどの復活に加え、新たに、音楽とまちの魅力とを掛け合わせた取組みを実施します。<br/>
+<br/>
+例えば<br/>
+まちなかで華やかに演奏会<br/>
+山形交響楽団の演奏付きお食事会<br/>
+このプロジェクトの記念コンサートなど<br/>
+現在、感染症対策を講じた上で実施できる取組みの検討、実施時期、会場の確保なども含めて、その内容を検討しています。<br/>
+<br/>
+まちをつくるのは、あなたです。<br/>
+ぜひこのガバメントクラウドファンディングに参加して、ここから始まる「音楽でまちを元気にするプロジェクト」を一緒に楽しみませんか。<br/>
+皆様のあたたかいご支援をお願いいたします。</p>
+<h3 class="gcf-ttl-h3">いただいたご支援の使いみち</h3>
+<p class="gcf-txt-article">山形交響楽団の運営支援、返礼品代、送料・各種事務手数料など</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">市外にお住いの皆様は山形市の事業者も一緒に応援できます。</span></h2>
+<p class="gcf-txt-article">山形市には、おいしい食べ物がたくさんあります。<br/>
+山形市外にお住いの皆様は、返礼品をお選びいただくことで、山形市の事業者を応援することができます。<br/>
+米、シャインマスカットなどの果物、山形牛、お菓子や芋煮セット、地酒など、山形市ならではの特産品をご用意しています。ぜひご覧ください。</p>
+<h3 class="gcf-ttl-h3">もちろん山形交響楽団がご用意した限定企画のお礼の品もあります</h3>
+<p class="gcf-txt-article">山形交響楽団がこのプロジェクトのために用意したお礼の品は、ユニークなものばかりです。<br/>
+♪世界中で延べ１０万人が視聴した「第２８３回定期演奏会　無観客演奏」のＤＶＤ<br/>
+（6月18日掲載内容修正　ソリスト神尾真由子（Ｖｎ）の演奏曲目は未収録となります。お詫びして訂正いたします。）<br/>
+♪楽団員と一緒にアンサンブル演奏<br/>
+など、楽しいお礼の品をご用意しています。こちらもぜひご覧ください。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200622/gpfd_79e5aa138fe27692c100e8fdf22b8ac6ed649cc1.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">ふるさと納税ってどんな制度？</span></h2>
+<p class="gcf-txt-article">自治体への寄附金額のうち２千円を超えた金額が所得税・個人住民税から控除される制度です。<br/>
+（例　３万円のご寄附の場合→自己負担は２千円となり、合計２万８千円の税金が控除されます。）</p>
+<div class="gcf-lyt-detail__block">
+<h4 class="gcf-ttl-caution">【注意事項】</h4>
+<p class="gcf-lst-caution">収入や扶養親族などに応じた控除額の上限があります。<br/>
+全額（自己負担２千円を除く）が控除される寄附金の上限の目安は、総務省ホームページでご確認ください。</p>
+</div>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.soumu.go.jp/main_sosiki/jichi_zeisei/czaisei/czaisei_seido/furusato/mechanism/deduction.html">総務省ホームページに移動します</a></p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200622/gpfd_ba45564c04c22c98760e0e6cf0dc3ca3d7def386.jpg" />
+</figure>
+<p class="gcf-txt-article">ご支援者様が上記いずれかのお手続きをなさらない場合は、税の控除（還付）を受けることはできませんので、ご注意ください。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06201/4739595/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220120/pd_d1851554111c388daa813385fcb39f38811a3022.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">シャインマスカットと桃のセット 約1.2kg 【令和6年産先行予約】FU19-712 フルーツ くだもの 果物 山形 山形県 山形市 2024年産</h4>
+<p class="goods-col_price inline">17,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2024年08月31日まで</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>2024年09月05日頃～2024年10月05日頃
+※天候や収穫状況により配送時期が前後する場合がございます。</p>
+</div>
+<p class="goods-col_textinfo pc">人気のシャインマスカットと近年の桃ブームで引っ張りだこの桃！
+どちらも山形を代表するフルーツです。
+事業者：株式会社森からの恵み
+◆必ずお読みください◆
+◎こちらの商品はクール便(冷蔵)にて配送いたします。お受け取り後はすぐに中身をご確認ください。
+◎基本的には種の無いぶどうですが、まれに種が残る場合があります。
+◎完熟により糖度が上がる際、脱粒や果汁漏れが起こる場合がございます。その旨ご了承の上でお申し込みをお願い致します。
+※季節品のため【配送日時指定】やお届け日についてのお問い合わせは承っておりません。
+※天候や収穫状況により、お届けや規格が変更になる場合がございます。
+※配送時の揺れや傾きにより若干の傷が生じる場合がございます。
+※商品受取後、すぐに商品の状態をご確認ください。不良の場合、お問い合わせセンターまでご連絡ください。お時間が過ぎてからの対応は致しかねます。
+※ご不在等により商品を受け取れなかった場合の再出荷は致しかねます。
+※画像はイメージです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06201/4620839/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210309/pd_9150ab0a840a28f643aab29fa14b41569f1fecbd.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">山形市産 シャインマスカット 秀 1房 700g以上 【令和6年産先行予約】FU19-191 フルーツ くだもの 果物 山形 山形県 山形市 ぶどう 葡萄 ブドウ 2024年産</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2024年08月31日まで</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>2024年09月20日頃～2024年10月20日頃
+※天候や収穫状況により配送時期が前後する場合がございます。</p>
+</div>
+<p class="goods-col_textinfo pc">果物王国山形の豊かな環境で育ったシャインマスカットは、種が無く皮ごと食べられます。
+太陽の光をたっぷり浴びて完熟したものを厳選してお届けいたします。山形の初秋の味覚をお楽しみください。
+事業者：山形農業協同組合(JAやまがた)
+◆必ずお読みください◆
+◎こちらの商品は常温便にて発送します。お受け取り後はすぐに中身をご確認頂き日の当たらない涼しい場所で保管頂き、お早目にお召し上がりください。
+◎基本的には種の無いぶどうですが、まれに種が残る場合があります。
+◎完熟により糖度が上がる際、脱粒や果汁漏れが起こる場合がございます。その旨ご了承の上でお申し込みをお願い致します。
+◎天候や収穫等の状況によりご希望のお品をご用意できない場合であっても、税金の控除等に影響の無いよう、代替品をご用意致します。
+(すでに税金の控除等を受けている方への返金は確定申告や修正申告が必要となる場合があります。)
+◎「お申し込みの不備」「事前連絡をいただいていない長期不在や転居」「住所不明」「日数が経ってからのお受取り」に対する再出荷は致しかねますのでご了承ください。
+※沖縄・離島への配送は不可とさせていただきます。
+※季節商品のため、お礼の品の配送日の指定は承っておりません。
+※天候や収穫状況により、お届けや規格が変更になる場合がございます。
+※配送時の揺れや傾きにより若干の傷が生じる場合がございます。
+※画像はイメージです。画像のものと多少異なる場合があります。
+※商品お受取り後、すぐに商品の状態をご確認ください。お礼の品の発送には万全を期しておりますが、万が一ひどい傷み等があった場合は、写真・画像を添付の上お早めに「山形市ふるさと納税お礼の品事務局」までご連絡ください。尚、お時間が過ぎてからの対応は致しかねます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06201/4620865/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230208/pd_f0f3ae192f4191f9267aedace5ca3a0f0725d774.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">山形三米(精米)6kg FZ19-198 ブランド米 つや姫 雪若丸 はえぬき 山形県 山形市</h4>
+<p class="goods-col_price inline">16,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入金確認後、約2週間～1ヶ月程度でお届けいたします。
+※お礼の品の発注・生産状況により1ヶ月以上お待たせする場合もございますので、予めご了承の程よろしくお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">米処「やまがた」より代表の3種類のお米をお届けいたします。
+事業者：山形農業協同組合(JAやまがた)
+※10月頃から順次新米に切り替わります(新米のご指定はいたしかねます)
+◆必ずお読みください◆
+◎お受取り後は必ずすぐに開封し、中身のご確認をお願い致します。
+◎「お申し込みの不備」「事前連絡をいただいていない長期不在や転居」「住所不明」「日数が経ってからのお受取り」に対する再出荷は致しかねますのでご了承ください。
+※お礼の品の配送日の指定は承っておりません。
+※天候や収穫状況により、お届けや規格が変更になる場合がございます。
+※画像はイメージです。画像のものと多少異なる場合があります。
+※商品お受取り後、すぐに商品の状態をご確認ください。お礼の品の発送には万全を期しておりますが、万が一外装破損、異物、汚れ等があった場合は、写真・画像を添付の上お早めに「山形市ふるさと納税お礼の品事務局」までご連絡ください。尚、お時間が過ぎてからの対応は致しかねます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06201/726904/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231024/pd_3530aabfe70d6f11dee8d227a89a02d1e9490f20.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">山形牛切落とし 2㎏ FY18-336 ブランド牛肉 山形県 山形市</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span> ※入金確認後、約2週間～1ヶ月程度でお届けいたします。
+※お礼の品の発注・生産状況により1ヶ月以上お待たせする場合もございますので、予めご了承の程よろしくお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【山形連携中枢都市圏における共通返礼品です。関係市町（山形市、寒河江市、村山市、尾花沢市、山辺町、中山町、河北町、西川町、大江町、又は大石田町）内で生産された山形牛をお届けいたします。】
+山形牛のまろやかな口どけを存分に味わっていただけるように、不ぞろいの切り落としでご用意しました。すき焼き、焼肉、牛丼などにご利用いただけます。
+※8月10日～8月16日・12月20日～1月10日の出荷はございませんのでご了承お願いします。
+事業者：株式会社大商金山牧場
+◆必ずお読みください◆
+◎お受取り後は必ずすぐに開封し、中身のご確認をお願い致します。
+◎「お申し込みの不備」「事前連絡をいただいていない長期不在や転居」「住所不明」「日数が経ってからのお受取り」に対する再出荷は致しかねますのでご了承ください。
+※11月下旬～1月はご注文が多くなるため、お届けまでお時間を頂く場合がございます。
+※お礼の品の配送日の指定は承っておりません。
+※画像はイメージです。画像のものと多少異なる場合があります。
+※商品お受取り後、すぐに商品の状態をご確認ください。お礼の品の発送には万全を期しておりますが、万が一傷み等があった場合は、写真・画像を添付の上お早めに「山形市ふるさと納税お礼の品事務局」までご連絡ください。尚、お時間が過ぎてからの対応は致しかねます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06201/727052/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210114/pd_da797bd95b00e29273f73352eb1756e555a42b1e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">山形牛サーロインステーキ 600g(200g×3枚) FY18-073 ブランド牛肉 ステーキ肉 山形県 山形市</h4>
+<p class="goods-col_price inline">32,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入金確認後、約2週間～1ヶ月程度でお届けいたします。
+※お礼の品の発注・生産状況により1ヶ月以上お待たせする場合もございますので、予めご了承の程よろしくお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【山形連携中枢都市圏における共通返礼品です。関係市町（山形市、寒河江市、村山市、尾花沢市、山辺町、中山町、河北町、西川町、大江町、又は大石田町）内で生産された山形牛をお届けいたします。】
+山形牛の中でも特に柔らかく甘みのある牝牛だけを選び抜いた、佐藤牛肉店こだわりのサーロインステーキはとろけるような舌ざわりと芳醇な風味があり、食べた人を魅了します。ぜひこの機会に山形牛の醍醐味をお試しください。
+事業者：佐藤畜産食品株式会社
+◆必ずお読みください◆
+◎お受取り後は必ずすぐに開封し、中身のご確認をお願い致します。
+◎「お申し込みの不備」「事前連絡をいただいていない長期不在や転居」「住所不明」「日数が経ってからのお受取り」に対する再出荷は致しかねますのでご了承ください。
+※11月下旬～1月はご注文が多くなるため、お届けまでお時間を頂く場合がございます。
+※お礼の品の配送日の指定は承っておりません。
+※画像はイメージです。画像のものと多少異なる場合があります。
+※商品お受取り後、すぐに商品の状態をご確認ください。お礼の品の発送には万全を期しておりますが、万が一傷み等があった場合は、写真・画像を添付の上お早めに「山形市ふるさと納税お礼の品事務局」までご連絡ください。尚、お時間が過ぎてからの対応は致しかねます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06201/407257/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230727/pd_93915c834cb901772be0302517faa9b16ba9cd26.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">山形市で育った黒毛和牛カルビ切落しすき焼用 400g 牛肉 肉 山形県 山形市 食品 カルビ 切り落とし すき焼 FZ18-474</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入金確認後、約2週間～1ヶ月程度でお届けいたします。
+※お礼の品の発注・生産状況により1ヶ月以上お待たせする場合もございますので、予めご了承の程よろしくお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">山形市で創業70年の高橋畜産食肉株式会社。
+高橋畜産グループ農場「蔵王ファーム」は、農林水産省推薦の農場HACCP認証農場。
+徹底した衛生管理のもと育てられた「安心・安全」良質な黒毛和牛。
+脂質の美味しさが際立つカルビ部分(バラ肉)をお届けします。
+すき焼きはもちろん色々な料理に大活躍。
+事業者：高橋畜産食肉株式会社　蔵王高原ミートファクトリー
+◆必ずお読みください◆
+◎お受取り後は必ずすぐに開封し、中身のご確認をお願い致します。
+◎「お申し込みの不備」「事前連絡をいただいていない長期不在や転居」「住所不明」「日数が経ってからのお受取り」に対する再出荷は致しかねますのでご了承ください。
+※11月下旬～1月はご注文が多くなるため、お届けまでお時間を頂く場合がございます。
+※お礼の品の配送日の指定は承っておりません。
+※画像はイメージです。画像のものと多少異なる場合があります。
+※商品お受取り後、すぐに商品の状態をご確認ください。お礼の品の発送には万全を期しておりますが、万が一傷み等があった場合は、写真・画像を添付の上お早めに「山形市ふるさと納税お礼の品事務局」までご連絡ください。尚、お時間が過ぎてからの対応は致しかねます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06201/4620900/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190417/pd_e176039a93b344ad32d192e830517e657c44a889.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">和風肉料理「佐五郎」山形牛A5-4 モモすきやき用 500g FZ19-269 ブランド牛肉 すき焼き用牛肉 山形県 山形市</h4>
+<p class="goods-col_price inline">23,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入金確認後、約2週間～1ヶ月程度でお届けいたします。
+※お礼の品の発注・生産状況により1ヶ月以上お待たせする場合もございますので、予めご了承の程よろしくお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【山形連携中枢都市圏における共通返礼品です。関係市町（山形市、寒河江市、村山市、尾花沢市、山辺町、中山町、河北町、西川町、大江町、又は大石田町）内で生産された山形牛をお届けいたします。】
+明治43年より精肉店を営む山形牛専門店「佐五郎」が厳選した山形牛のモモ肉をすき焼き用にスライスしました。
+寒暖の差が激しい山形で育ったきめの細かい肉質、地元の老舗山形牛専門店の目利きが選んだ味を是非ご堪能下さい。
+※年末年始12/20～1/10の期間の出荷はございませんので、ご了承お願いします。
+事業者：和風肉料理 佐五郎
+◆必ずお読みください◆
+◎お受取り後は必ずすぐに開封し、中身のご確認をお願い致します。
+◎「お申し込みの不備」「事前連絡をいただいていない長期不在や転居」「住所不明」「日数が経ってからのお受取り」に対する再出荷は致しかねますのでご了承ください。
+※11月下旬～1月はご注文が多くなるため、お届けまでお時間を頂く場合がございます。
+※お礼の品の配送日の指定は承っておりません。
+※画像はイメージです。画像のものと多少異なる場合があります。
+※商品お受取り後、すぐに商品の状態をご確認ください。お礼の品の発送には万全を期しておりますが、万が一傷み等があった場合は、写真・画像を添付の上お早めに「山形市ふるさと納税お礼の品事務局」までご連絡ください。尚、お時間が過ぎてからの対応は致しかねます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06201/4833152/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230420/pd_507a0004f4bcb9223e14a3955532ced43abc81b9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">山形牛肩ロースすき焼き用 1kg FY23-103 ブランド牛肉 すき焼き用牛肉 山形県 山形市</h4>
+<p class="goods-col_price inline">36,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入金確認後、約2週間～1ヶ月程度でお届けいたします。
+※お礼の品の発注・生産状況により1ヶ月以上お待たせする場合もございますので、予めご了承の程よろしくお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【山形連携中枢都市圏における共通返礼品です。関係市町（山形市、寒河江市、村山市、尾花沢市、山辺町、中山町、河北町、西川町、大江町、又は大石田町）内で生産された山形牛をお届けいたします。】
+山形牛のとろけるような美味しさと、コクのある味をすき焼きで堪能してください。
+「山形牛鍋」とも言われ、味のしみこんだ肉汁と季節の野菜を一緒に楽しむことができます。
+肩ロースは、特にすき焼きと相性が良く、お肉の旨みを堪能頂けます。
+事業者：株式会社中島商店
+◆必ずお読みください◆
+◎お受取り後は必ずすぐに開封し、中身のご確認をお願い致します。
+◎「お申し込みの不備」「事前連絡をいただいていない長期不在や転居」「住所不明」「日数が経ってからのお受取り」に対する再出荷は致しかねますのでご了承ください。
+※11月下旬～1月はご注文が多くなるため、お届けまでお時間を頂く場合がございます。
+※お礼の品の配送日の指定は承っておりません。
+※画像はイメージです。画像のものと多少異なる場合があります。
+※商品お受取り後、すぐに商品の状態をご確認ください。お礼の品の発送には万全を期しておりますが、万が一傷み等があった場合は、写真・画像を添付の上お早めに「山形市ふるさと納税お礼の品事務局」までご連絡ください。尚、お時間が過ぎてからの対応は致しかねます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06201/727160/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220420/pd_518ee894ac647508e5c9b1e51be6019ce009298a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">山形名物 【特選】 山形牛芋煮セット 4～5人前(山形産里芋) FZ18-095</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2025年02月28日まで</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>2024年09月01日頃～2025年03月31日頃
+※天候や収穫状況により配送時期が前後する場合がございます。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>【特製芋煮のタレ】小麦，さば，大豆</p>
+</div>
+<p class="goods-col_textinfo pc">【山形連携中枢都市圏における共通返礼品です。関係市町（山形市、寒河江市、村山市、尾花沢市、山辺町、中山町、河北町、西川町、大江町、又は大石田町）内で生産された山形牛をお届けいたします。】
+山形の秋の味覚を、ご家庭で楽しめる『山形名物　特選山形牛芋煮セット』4～5人前です。
+大切な人と、おいしい笑顔。特選霜降り山形牛が入った、ちょっと贅沢な芋煮セット。
+今夜はこれで、山形を満喫してください。
+※「おいしい山形の芋煮の作り方」リーフレットを同封しておりますので、どなたさまでも簡単にお作り頂けます。
+事業者：さとう農園株式会社
+◆必ずお読みください◆
+◎こちらの商品は冷蔵便にて配送いたします。お受取り後は必ずすぐに中身をご確認ください。
+◎天候や収穫等の状況によりご希望のお品をご用意できない場合であっても、税金の控除等に影響の無いよう、代替品をご用意致します。
+(すでに税金の控除等を受けている方への返金は確定申告や修正申告が必要となる場合があります。)
+◎「お申し込みの不備」「事前連絡をいただいていない長期不在や転居」「住所不明」「日数が経ってからのお受取り」に対する再出荷は致しかねますのでご了承ください。
+※沖縄・離島への配送は不可とさせていただきます。
+※季節商品のため、お礼の品の配送日の指定は承っておりません。
+※天候や収穫状況により、お届けや規格が変更になる場合がございます。
+※配送時の揺れや傾きにより若干の傷が生じる場合がございます。
+※画像はイメージです。画像のものと多少異なる場合があります。
+※商品お受取り後、すぐに商品の状態をご確認ください。お礼の品の発送には万全を期しておりますが、万が一ひどい傷み等があった場合は、写真・画像を添付の上お早めに「山形市ふるさと納税お礼の品事務局」までご連絡ください。尚、お時間が過ぎてからの対応は致しかねます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06201/4703639/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190919/pd_28d5f94d166e995bc2af4eb60c8042ee2bf21c77.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">『蔵元の逸品』純米大吟醸セット FY98-436 山形 山形県 山形市 日本酒</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入金確認後、約2週間～1ヶ月程度でお届けいたします。
+※お礼の品の発注・生産状況により1ヶ月以上お待たせする場合もございますので、予めご了承の程よろしくお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">山形市内にある三つの酒蔵の「純米大吟醸」セットになります。
+蔵元の伝統ある技と醸造に込められた『魂」を是非ご堪能ください。
+山形市内の工場において一連の製造工程（洗米・浸漬・蒸米・製麹・酒母造り・醪造り・発酵・上槽・火入れ・貯蔵・火入れ・仕上げ・瓶詰・包装・検品）を行っている山形市の地場産品です。
+事業者：山形県酒類卸株式会社
+◆必ずお読みください◆
+◎お受取り後は必ずすぐに開封し、中身のご確認をお願い致します。
+◎「お申し込みの不備」「事前連絡をいただいていない長期不在や転居」「住所不明」「日数が経ってからのお受取り」に対する再出荷は致しかねますのでご了承ください。
+※20歳未満の飲酒は法律で禁止されています。20歳未満のお申し込みはお受けしておりません。
+※お礼の品の配送日の指定は承っておりません。
+※画像はイメージです。画像のものと多少異なる場合があります。
+※商品お受取り後、すぐに商品の状態をご確認ください。お礼の品の発送には万全を期しておりますが、万が一不良等があった場合は、写真・画像を添付の上お早めに「山形市ふるさと納税お礼の品事務局」までご連絡ください。尚、お時間が過ぎてからの対応は致しかねます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06201/4703640/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200408/pd_6741b36cf7aec8006b1ac968ec2e42c0d49196cd.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">山形市の蔵元美酒探索飲みくらべ 720ml×3本セット FZ99-161 山形 山形県 山形市 日本酒</h4>
+<p class="goods-col_price inline">32,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入金確認後、約2週間～1ヶ月程度でお届けいたします。
+※お礼の品の発注・生産状況により1ヶ月以上お待たせする場合もございますので、予めご了承の程よろしくお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">山形市内の三酒蔵の3つの酒造好適米味わいセット。米の違いをご確認ください。
+酒未来は十四代で使っている米です。
+山形市内の工場において一連の製造工程（原材料の仕入れ・醸造・瓶詰め・包装）を行っている山形市の地場産品です。
+事業者：株式会社武田庄二商店
+◆必ずお読みください◆
+◎お受取り後は必ずすぐに開封し、中身のご確認をお願い致します。
+◎「お申し込みの不備」「事前連絡をいただいていない長期不在や転居」「住所不明」「日数が経ってからのお受取り」に対する再出荷は致しかねますのでご了承ください。
+※20歳未満の飲酒は法律で禁止されています。20歳未満のお申し込みはお受けしておりません。
+※お礼の品の配送日の指定は承っておりません。
+※画像はイメージです。画像のものと多少異なる場合があります。
+※商品お受取り後、すぐに商品の状態をご確認ください。お礼の品の発送には万全を期しておりますが、万が一不良等があった場合は、写真・画像を添付の上お早めに「山形市ふるさと納税お礼の品事務局」までご連絡ください。尚、お時間が過ぎてからの対応は致しかねます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06201/4703638/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200408/pd_0ad21ccb788ea8547800cd0c7a953981ed90595b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">極み鑑評会用大吟醸飲みくらべ 1.8L×3本セット FY99-160 山形 山形県 山形市 日本酒</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入金確認後、約2週間～1ヶ月程度でお届けいたします。
+※お礼の品の発注・生産状況により1ヶ月以上お待たせする場合もございますので、予めご了承の程よろしくお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">山田錦精米歩合35％まで磨き上げた酒造好適米を使用し、山形市内の三酒蔵の杜氏が精魂込めた渾身の大吟醸酒飲み比べセット。
+各蔵の最高峰の地酒です。
+山形市内の工場において一連の製造工程（原材料の仕入れ・醸造・瓶詰め・包装）を行っている山形市の地場産品です。
+事業者：株式会社武田庄二商店
+◆必ずお読みください◆
+◎お受取り後は必ずすぐに開封し、中身のご確認をお願い致します。
+◎「お申し込みの不備」「事前連絡をいただいていない長期不在や転居」「住所不明」「日数が経ってからのお受取り」に対する再出荷は致しかねますのでご了承ください。
+※20歳未満の飲酒は法律で禁止されています。20歳未満のお申し込みはお受けしておりません。
+※お礼の品の配送日の指定は承っておりません。
+※画像はイメージです。画像のものと多少異なる場合があります。
+※商品お受取り後、すぐに商品の状態をご確認ください。お礼の品の発送には万全を期しておりますが、万が一不良等があった場合は、写真・画像を添付の上お早めに「山形市ふるさと納税お礼の品事務局」までご連絡ください。尚、お時間が過ぎてからの対応は致しかねます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06201/4835608/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200421/pd_7e8356b91219657e5a88eb5b72f8395782c56c63.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">老舗長榮堂 山形銘菓セット「やまがたの惠」 FZ20-021 お菓子 山形県 山形市</h4>
+<p class="goods-col_price inline">28,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入金確認後、約2週間～1ヶ月程度でお届けいたします。
+※お礼の品の発注・生産状況により1ヶ月以上お待たせする場合もございますので、予めご了承の程よろしくお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">山形銘菓として高名な「富貴豆」と「のし梅」に加え、お取寄せの多い「板かりんとう」や「山形すぃ～とかすてら」等を取り揃えた、山形の代表的和菓子・スイーツ詰合せです。
+【富貴豆】
+青えんどう豆の皮を丁寧にむき、無添加無着色で芯まで軟らかく炊き上げた山形銘菓。青えんどうの風味とホクホクした歯ざわり、上品な甘さが絶妙です。平成14年第24回全国菓子大博覧会にて最高賞の「名誉総裁賞」を受賞。
+【板かりんとう】
+山形名物の『板かりんとう』は、一枚一枚すべてが職人手造りの逸品。良質と安心安全の素材にこだわり、無添加で体にも良いものを厳選。平成10年第23回全国菓子大博覧会厚生大臣賞を受賞。
+事業者：株式会社長榮堂
+◆必ずお読みください◆
+◎お受取り後は必ずすぐに開封し、中身のご確認をお願い致します。
+◎「お申し込みの不備」「事前連絡をいただいていない長期不在や転居」「住所不明」「日数が経ってからのお受取り」に対する再出荷は致しかねますのでご了承ください。
+※お礼の品の配送日の指定は承っておりません。
+※画像はイメージです。画像のものと多少異なる場合があります。
+※商品お受取り後、すぐに商品の状態をご確認ください。お礼の品の発送には万全を期しておりますが、万が一不良等があった場合は、写真・画像を添付の上お早めに「山形市ふるさと納税お礼の品事務局」までご連絡ください。尚、お時間が過ぎてからの対応は致しかねます。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06201/4833500/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220120/pd_c66b6ced34e3e6c18302beb665c52de177d7f783.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">乃し梅(のし梅) 20枚入 FZ20-906 お菓子 山形県 山形市</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入金確認後、約2週間～1ヶ月程度でお届けいたします。
+※お礼の品の発注・生産状況により1ヶ月以上お待たせする場合もございますので、予めご了承の程よろしくお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">山形産の完熟梅を使った伝統の乃し梅。
+江戸期の薬に由来し、現在の形に仕上げるまで、試行錯誤の上に完成された、薄く流した梅羊羹を2日ほど干し、包丁切りして竹皮に貼り仕上げる伝統の製法で作られる和菓子です。
+独特のもっちりとした食感と、他とは一線を画す濃厚で爽やかな梅の味わいが特徴。お料理の素材としてもつかわれる、山形から日本中に広まった和菓子です。
+梅の契約栽培にはじまり、収穫期の仕込み、もちろん菓子としての製造まで、すべてを山形の職人仕事で行う、佐藤屋が最も誇る事のできる一品です。
+山形市内の工場において一連の製造工程（原材料の仕入れ・煮詰め・成型・裁断・梱包）を行っている山形市の地場産品です。
+事業者：株式会社佐藤松兵衛商店
+◆必ずお読みください◆
+◎お受取り後は必ずすぐに開封し、中身のご確認をお願い致します。
+◎「お申し込みの不備」「事前連絡をいただいていない長期不在や転居」「住所不明」「日数が経ってからのお受取り」に対する再出荷は致しかねますのでご了承ください。
+※お礼の品の配送日の指定は承っておりません。
+※画像はイメージです。画像のものと多少異なる場合があります。
+※商品お受取り後、すぐに商品の状態をご確認ください。お礼の品の発送には万全を期しておりますが、万が一不良等があった場合は、写真・画像を添付の上お早めに「山形市ふるさと納税お礼の品事務局」までご連絡ください。尚、お時間が過ぎてからの対応は致しかねます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06201/4703592/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200409/pd_33a7ecdba193bcb1430757a66e03cfef391a5ae3.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">山形交響楽団 モーツァルト交響曲全集 FZ98-043</h4>
+<p class="goods-col_price inline">57,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入金確認後、約2週間～1ヶ月程度でお届けいたします。
+※お礼の品の発注・生産状況により1ヶ月以上お待たせする場合もございますので、予めご了承の程よろしくお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">2007年から始まった飯森範親と山形交響楽団によるモーツァルト交響曲全曲演奏会「アマデウスの旅」の録音を収めた、10年間の集大成とも言える交響曲全集。
+バロックトランペットやナチュラルホルンを使用するなど演奏法にもこだわり、ライヴ録音でありながらクリアで清々しい演奏を実現しています。
+山形市を本拠地としたオーケストラ「山形交響楽団」が山形テルサ（山形市双葉町）で演奏したものを録音している山形市の地場産品です。
+事業者：公益社団法人山形交響楽協会
+◆必ずお読みください◆
+◎お受取り後は必ずすぐに開封し、中身のご確認をお願い致します。
+◎「お申し込みの不備」「事前連絡をいただいていない長期不在や転居」「住所不明」「日数が経ってからのお受取り」に対する再出荷は致しかねますのでご了承ください。
+※お礼の品の配送日の指定は承っておりません。
+※画像はイメージです。画像のものと多少異なる場合があります。
+※商品お受取り後、すぐに商品の状態をご確認ください。お礼の品の発送には万全を期しておりますが、万が一不良等があった場合は、写真・画像を添付の上お早めに「山形市ふるさと納税お礼の品事務局」までご連絡ください。尚、お時間が過ぎてからの対応は致しかねます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06201/4843314/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240308/pd_765a46e6b81848d8dc137957e15ef5272f2a8848.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">季節の彩りフラワーアレンジメント FZ20-309</h4>
+<p class="goods-col_price inline">14,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入金確認後、約2週間～1ヶ月程度でお届けいたします。
+※お礼の品の発注・生産状況により1ヶ月以上お待たせする場合もございますので、予めご了承の程よろしくお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">身近にお花を飾ることで、少しでも心にゆとりを感じて頂ける様に、季節の彩り鮮やかなフラワーアレジメントをお届けいたします。
+※7月から9月はクール便でお届けいたします。
+※入金確認後、発送開始までに約2週間～1か月程ほどお日にちを頂戴しております。
+山形市内の店舗において材料の仕入れ、水揚げ処理、アレンジメント、包装、梱包まで行っている山形市の地場産品です。
+事業者：アライ花店
+◆必ずお読みください◆
+◎お受取り後は必ずすぐに開封し、中身のご確認をお願い致します。
+◎「お申し込みの不備」「事前連絡をいただいていない長期不在や転居」「住所不明」「日数が経ってからのお受取り」に対する再出荷は致しかねますのでご了承ください。
+※お花の種類はお選びいただけません。
+※沖縄・離島の配送は不可とさせていただきます。
+※お礼の品の配送日の指定は承っておりません。
+※天候・災害等でお花の種類が若干変更になる場合がございます。
+※配送時の揺れや傾きにより若干の傷みが生じる場合がございます。
+※画像はイメージです。画像のものと多少異なる場合があります。</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<ul class="gcf-lst-bx" id="progress_list">
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2021年06月01日 18:34</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">山形交響楽団特別演奏会「スペシャルサンクスコンサート」をお知らせします</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">ご支援者様<br/>
+<br/>
+昨年は、「山形市×山響　音楽でまちを元気に～山形交響楽団の支援を通じて「明日」のまちを一緒につくりませんか～」にご支援を賜り、ありがとうございました。<br/>
+<br/>
+さて、本日は<br/>
+ご支援をいただきました「山形市×山響　音楽でまちを元気に」への感謝を込めた<br/>
+山形交響楽団特別演奏会<br/>
+スペシャルサンクスコンサート<br/>
+のお知らせです。<br/>
+<br/>
+２０２１年８月１日（日）に、山形市民会館大ホールにおいて、<br/>
+上記のコンサートが開催されることになりました。<br/>
+<br/>
+山形交響楽団が奏でる質の高い演奏を存分に感じていただけることに加えて、<br/>
+今回は、普段クラシックになじみのある方も、そうではない方も、<br/>
+小学生から大人まで、皆で一緒に楽しめて、<br/>
+かつ、特別感のある豪華な企画とのことです。<br/>
+<br/>
+本公演のチケットは、皆様からのご支援への感謝を込めて、特別価格にて提供されます。<br/>
+公演の内容など、詳しくは、山形交響楽団のホームページをご確認ください。<br/>
+（末尾の関連リンクにアドレスが表示されています。）<br/>
+<br/>
+なお、本公演は各種ガイドラインにのっとり準備を進めておりますが、<br/>
+新型コロナウイルス感染症の状況により、予定を変更する場合がございます。<br/>
+あらかじめご承知おきくださいますようお願いいたします。<br/>
+<br/>
+最後に<br/>
+今はまだ山形にお越しいただくことが難しいご支援者様もいらっしゃる中でのお知らせとなり、誠に恐縮ではございますが、<br/>
+可能になりました際には、ぜひ山形にお越しいただけますよう願っております。<br/>
+改めまして、この度のご支援に心から感謝を申し上げます。<br/>
+誠にありがとうございました。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="http://www.yamakyo.or.jp/" target="_blank">山形交響楽団ホームページ</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="941" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="941">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="941">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F879%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2020年09月08日 13:00</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">ご支援ありがとうございました。</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200907/t_1ec4b8f0587ebf624ca31c310d362e55b03150b8.png" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">ご支援者様<br/>
+この度は、「山形市×山響　音楽でまちを元気に～山形交響楽団の支援を通じて「明日」のまちを一緒につくりませんか～」にご支援を賜り、心から感謝を申し上げます。<br/>
+このプロジェクトの寄附募集期間は、9月７日をもって終了しましたので、ご報告申し上げます。<br/>
+<br/>
+おかげさまで、753名の皆様から、21,611,500円のご寄附をいただきました。（９月７日集計時点）<br/>
+本当にありがとうございます。<br/>
+また、期間中、ご紹介やSNS等による広報活動へのご協力や、それぞれ皆様の思いのこもった応援メッセージを多数お寄せいただき、支援の輪が広がりながら活動の力になりました。<br/>
+<br/>
+更にこれらの動きは、企業様からの支援にも繋がり、この「クラウドファンディング型ふるさと納税」以外にも、市内外の企業様よりたくさんのご寄附が寄せられております。併せてお礼申し上げます。<br/>
+<br/>
+お預かりしたご寄附を活用した山形交響楽団の支援の詳細につきましては、改めてご報告申し上げます。<br/>
+<br/>
+また、山響オリジナルお礼状につきましては、発送が遅れておりますことをお詫び申し上げます。<br/>
+楽しみにお待ちいただいているご支援者様にはご迷惑をおかけしておりますが、今しばらくお待ちくださいますようお願い申し上げます。<br/>
+<br/>
+今後とも、山形市、そして山形交響楽団を応援してくださいますようお願いいたします。<br/>
+この度は、誠にありがとうございました。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="655" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="655">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="655">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F879%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2020年08月19日 16:00</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">「写真展『音のすなっぷ』」と「企業版ふるさと納税」をご紹介します</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200819/t_5224cc312cc2e4b9b6d033555b7474f411fdd191.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">　この度はご支援ご協力を賜り、心から感謝を申し上げます。<br/>
+　ありがとうございます。<br/>
+　さて、ガバメントクラウドファンディングも、残り２０日となりました。<br/>
+　本日は、次の２つの話題をご紹介します。<br/>
+１　山響プレイヤーをとらえた写真展「音のすなっぷ」の開催<br/>
+２　国の認定を受けて実施する山響支援のための「企業版ふるさと納税」の取組<br/>
+<br/>
+１　写真展「音のすなっぷ」<br/>
+　山形交響楽団の団員たちが山響公式の演奏会から離れて、地域で行った演奏活動の中から公式とは異なる音を切り取った作品を展示しています。<br/>
+　プロのアーチスト集団「山形交響楽団」は、演奏者自身、演奏者が繰り広げるアートそのものが財産であるとの思いから、アフターコロナにおける新しい日常でもまちに音楽による潤いを、との思いを持つ有志の皆様によりGCFを応援するため企画されたものです。<br/>
+　　場所　山形まなび館（山形市）<br/>
+　　会期　8/19(水) - 9/6(日)　9:00-17:30(月曜休館)<br/>
+　　入場無料<br/>
+<br/>
+２　山響支援のための「企業版ふるさと納税」の取組<br/>
+　企業版ふるさと納税（地方創生応援税制）とは、国が認定した地方公共団体の地方創生の取組に対して、企業が寄附を行った場合に、税制上の優遇措置として、寄附額のうち、最大９割の法人関係税の軽減効果が受けられる制度です。<br/>
+<br/>
+　山形市は、「新型コロナウイルス感染症の影響により公演機会が減少した山形交響楽団への支援」の取組について国の認定を受け、山形市外に本社のある企業様からのご寄附を募集しております。（申し訳ありませんが、市内に本社のある企業様は、この制度の対象とはなりません。）<br/>
+<br/>
+　制度の内容・お申込み等につきまして、詳しくは山形市公式ホームページをご覧ください。<br/>
+　企業版ふるさと納税制度全般につきましては、内閣府のポータルサイトをご覧ください。<br/>
+<br/>
+　ガバメントクラウドファンディングにつきましては、すでに多くの皆様からSNS投稿や口コミのご紹介などご協力をいただいているところですが、残り２０日、改めて広報のご協力をいただければ幸いです。<br/>
+　ありがとうございます。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-info__image">
+<div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200819/1_fd457e9e7786bb2db813e2143c0706803f24d046.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200819/1_fd457e9e7786bb2db813e2143c0706803f24d046.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200819/2_ecfee5c7bf466963dfbade4d2cf931d6617a7ba4.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200819/2_ecfee5c7bf466963dfbade4d2cf931d6617a7ba4.jpg" /></a>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="https://www.city.yamagata-yamagata.lg.jp/kakuka/kikaku/bunka/sogo/pd0730114501.html" target="_blank">山響を支援するための企業版ふるさと納税について（山形市公式ホームページ）</a></li>
+<li class="gcf-txt-link"><a href="https://www.kantei.go.jp/jp/singi/tiiki/tiikisaisei/kigyou_furusato.html" target="_blank">企業版ふるさと納税ポータルサイト（内閣府ホームページ）</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="636" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="636">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="636">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F879%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2020年07月18日 15:48</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">YouTube動画「再開への軌跡―歩みを止めないオーケストラ―」配信のお知らせ</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">この度は、ご支援ご協力をいただきまして、ありがとうございます。<br/>
+さて、<br/>
+前回ご報告しましたとおり、<br/>
+山形交響楽団は、７月７日にお客様をお迎えした公演を再開いたしました。<br/>
+座席数を制限するなど、劇場におけるガイドラインに則り感染症対策を実施した上で開催しています。<br/>
+<br/>
+この度、再開までの歩みをダイジェスト版にまとめた動画が配信されました。<br/>
+過去のライブ配信映像やリハーサル風景に加えて、楽団員のコメント、そして村川千秋さんのコメントも含む、貴重なドキュメンタリー動画となっています。<br/>
+ぜひご覧ください。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="https://youtu.be/iZi2e8oBngs" target="_blank">《山形交響楽団》『再開への軌跡―歩みを止めないオーケストラ―』</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="595" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="595">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="595">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F879%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2020年07月10日 16:31</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">山形交響楽団がお客様をお迎えしての公演を再開しました</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200710/t_6e36f4d982920d26ed8011b3c59e925d54b852de.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">ご支援者の皆様へ<br/>
+<br/>
+皆様のご支援ご協力に心から感謝しています。ありがとうございます。<br/>
+<br/>
+7月7日に、山形交響楽団が、お客様を少人数に限定しながら「コロナ」後、初めて公演を行うことができました。<br/>
+今後、感染症予防対策を徹底した上で段階的に座席数を増やしていきますが、国のガイドラインにより、全座席数の50％以内で開催しなければなりません。<br/>
+例えば<br/>
+　7月7日公演　 2001席のところ300席限定<br/>
+　7月12日公演　2001席のところ700席限定<br/>
+となっています。<br/>
+<br/>
+このように、多くのお客様をお迎えすることはできない状態が続いているなか、依頼コンサートの減少は続くとともに、自らの主催公演に関しても、販売済みチケットを含め、人数の調整をどのように行うのかなど様々な課題が発生し、非常に厳しい経営状況が続いています。<br/>
+<br/>
+引続き、PRへのご協力等、ご支援を賜りますようお願いいたします。<br/>
+ありがとうございます。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-info__image">
+<div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200710/1_95b0cd5e5a9f9afd6ab80f9225044af249161742.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200710/1_95b0cd5e5a9f9afd6ab80f9225044af249161742.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200710/2_007f5f67579a527b9867b5a8c2eaf6c9a5a30c59.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200710/2_007f5f67579a527b9867b5a8c2eaf6c9a5a30c59.jpg" /></a>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="588" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="588">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="588">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F879%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2020年06月25日 16:19</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">プロジェクト関連企画をご案内します</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200625/t_8a5bf3abc3af8a2cf7affb1baa33bca313d9d31c.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">ご支援ありがとうございます。感謝しています。<br/>
+山形市文化振興課です。<br/>
+本日は、このプロジェクトの関連オンライン企画<br/>
+山形交響楽団公式YouTubeで配信中の<br/>
+「こんなところで花笠音頭」をご紹介します。<br/>
+<br/>
+こちらの動画は、山形市内の名所や観光スポット、知る人ぞ知る穴場など、まちの様々なところで「花笠音頭」のメロディを演奏して、リレーしていく山形交響楽団が山形の魅力を発信する企画です。<br/>
+記念すべき第１回は、さくらんぼ農家さんにご協力いただき、山形交響楽団のチェロ奏者、渡邊研多郎氏がビニールハウス内からお届けする「さくらんぼ農園編」です。<br/>
+演奏だけではなく、インタビュー映像もありますので、併せてお楽しみください。<br/>
+<br/>
+現在、第2回「謎の建物編」まで配信しています。写真は、その撮影風景です。<br/>
+ここがどこか、お分かりの方もいるかもしれません。種明かしは動画の最後にあります。<br/>
+<br/>
+本日６月２５日も、市内某所で撮影を行ってきました。<br/>
+偶然居合わせた市民の方たちはビックリされたようです。<br/>
+今の山形をお伝えする映像、美しい花笠音頭の響き、楽団員の声を伝えるインタビューをぜひご覧ください。<br/>
+引き続き、ご支援、ＰＲのご協力をお願いいたします。<br/>
+ありがとうございました。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="https://www.youtube.com/watch?v=aGPHQNQPxWI" target="_blank">《山形交響楽団》こんなところで花笠音頭「さくらんぼ農園編」　チェロ：渡邊研多郎</a></li>
+<li class="gcf-txt-link"><a href="https://www.youtube.com/watch?v=hMjX799Sh2k" target="_blank">《山形交響楽団》こんなところで花笠音頭「謎の建物編」　ヴィオラ：成田 寛</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="577" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="577">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="577">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F879%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2020年06月11日 18:33</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">応援メッセージありがとうございます！</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">プロジェクト開始から１日が過ぎ<br/>
+先ほど応援メッセージの確認方法が分かった山形市文化振興課です。<br/>
+公開が遅れ、大変失礼いたしました。<br/>
+手動であることがわかったので、今後は随時公開いたします。<br/>
+皆様のメッセージを拝読し、<br/>
+山形交響楽団の織りなす地域の文化への思いを<br/>
+皆様と共有できていることに感謝しています。<br/>
+本当にありがとうございます。<br/>
+９０日間の長い挑戦です。<br/>
+皆さま大変な時に恐縮ではございますが、ご支援、ＰＲへのご協力を引き続きお願いいたします。<br/>
+ありがとうございます。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="571" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="571">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="571">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F879%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+</ul>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">山形県山形市</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">山形市は、ユネスコ創造都市ネットワークの映画部門における認定都市です。<br/>
+映画をはじめ、多彩な地元の文化の力をまちの活性化に繋げていく「文化創造都市やまがた」を目指す取組みを行っています。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">山響さん頑張って下さい♪</p>
+<p class="gcf-bx-message__date">2020年9月7日 22:21</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">山形市の音楽文化の 発展に 少しでもお役に立てれば 幸いです 山形交響楽団は 小学生の時からの付き合い 是非今後も 誇れる楽団であってほしいと心から願っています</p>
+<p class="gcf-bx-message__date">2020年9月7日 17:59</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">地元山形はもとより、全国のクラシック音楽ファンを魅了する山形交響楽団を心より応援しております。</p>
+<p class="gcf-bx-message__date">2020年9月7日 16:04</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">頑張れ山形</p>
+<p class="gcf-bx-message__date">2020年9月7日 14:17</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">コロナ禍の中でも文化的活動をやめることはできません。多くの人が１日も早く昨年までの活動を取り戻し、さらに大きく飛躍して欲しいと願っています。</p>
+<p class="gcf-bx-message__date">2020年9月7日 10:30</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">山響頑張ってください。応援します。</p>
+<p class="gcf-bx-message__date">2020年9月7日 9:15</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">山響はかけがいのない宝物です。これからもずっと素敵な音楽を奏でて下さい。</p>
+<p class="gcf-bx-message__date">2020年9月7日 8:47</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">見えない炎を吹き飛ばそう!</p>
+<p class="gcf-bx-message__date">2020年9月6日 20:50</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">2回目の申し込みです　<br/>
+以前のように荘銀タクトや荘銀ホールで演奏が聴ける日がきますように！！</p>
+<p class="gcf-bx-message__date">2020年9月5日 22:49</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">山形が大好きです。山形のこけしも大好きです。直美さん、応援しています！</p>
+<p class="gcf-bx-message__date">2020年9月5日 10:22</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">いつもドラクエコンサートを楽しみにしています。コロナに負けず頑張ってください！</p>
+<p class="gcf-bx-message__date">2020年9月4日 12:34</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">山響をずっと応援しています！</p>
+<p class="gcf-bx-message__date">2020年9月3日 20:47</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">山響は山形の誇りです。</p>
+<p class="gcf-bx-message__date">2020年9月3日 19:10</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">山形交響楽団を大切にしてくださりありがとうございます。<br/>
+山響のスクールコンサートがこれからも続くことを期待しております。</p>
+<p class="gcf-bx-message__date">2020年9月3日 16:00</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">山響は、山形の宝物の一つだと思います。山響があったからこそ、私たちが出会うことのできた素晴らしい作品やソリスト、指揮者、ずっと忘れられずにいる演奏会もいくつもあります。これからも応援しています。</p>
+<p class="gcf-bx-message__date">2020年8月30日 22:28</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">コロナで思うように演奏会が開けない中でも、ライブ配信や入場者を制限しながら感染対策を徹底しての演奏会の企画など、できる限りの工夫を凝らして、山響の「音」と「心」をファンに届けてくださり、本当にありがとうございます。<br/>
+近い将来、きっと安心して演奏会が開ける日が来ます。頑張ってください。ずっと応援しています‼️</p>
+<p class="gcf-bx-message__date">2020年8月30日 20:47</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">素晴らしい歴史を持つ山形交響楽団が今後も東北地方をより豊かに響かせてゆきますように。</p>
+<p class="gcf-bx-message__date">2020年8月30日 20:39</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">山形交響楽団さま　音楽を通じて、地域に密着し街づくり、都市をつないで山形の魅力の発信に、引き続き頑張ってください。</p>
+<p class="gcf-bx-message__date">2020年8月30日 15:19</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">私が音楽を好きになったきっかけは山形交響楽団のスクールコンサートがきっかけでした。今考えると本当に恵まれた環境だったのだと思います。この環境を次世代につなぐためにも少ないですが、寄付させていただきます。</p>
+<p class="gcf-bx-message__date">2020年8月28日 22:03</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">山響の皆さま、頑張ってください。</p>
+<p class="gcf-bx-message__date">2020年8月25日 13:08</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/879">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">山形県山形市の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/06201/32?from=2&amp;gcf_project_id=879"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,521,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g879,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

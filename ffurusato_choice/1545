@@ -1,0 +1,1937 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/1545" />
+
+<title>【緊急支援】北海道の海が危ない！未来に資源を残すための海洋調査｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="【緊急支援】北海道の海が危ない！未来に資源を残すための海洋調査｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/1545" />
+<meta property="og:description" content="北海道東部に位置する白糠町。太平洋の暖流と寒流が交わる白糠沖は、プランクトンが豊富で魚が繁殖しやすく、暖流・寒流の両方の魚が獲れる絶好の漁場であり、1949年に白糠漁業協同組合が設立されました。漁協を中心に近代漁業への歩みが進められ、現在までの発展に繋がっているものです。ししゃもや鮭、灯台ツブ、柳だこ、毛ガニなど北海道最高峰の海の幸を、1年を通じて獲ることのできる素晴らしい環境にありました。ところが、近年における白糠町の漁業は、記録的な漁獲の不振が続いており、豊かな海の恵みで栄えたはずの白糠町は、衰退の一途をたどり始めています。この現状を打破するためには、これまでの「獲る漁業」、「つくり育てる漁業」を強化していくことはもちろんですが、天然資源に頼らない「新たな増養殖事業」の必要性の高まりと、その実現が急務となっているものです。また本年は、太平洋沿岸を中心に道東で初めて赤潮が発生し、甚大な漁業被害が生じるなど、過去に経験をしたことのない事態に陥っていることから、これらの問題を解決するための一つの手段として、白糠海域の海水のモニタリング調査を継続的に実施することといたしました。この未曽有の危機・転換期を迎えている白糠町の漁業振興施策を推進していくにあたり、行政だけで考えるには限界があるため、白糠漁協や漁業者といったプロの意見を取り入れていく必要があります。海水のモニタリング調査の結果については、白糠漁協と適宜共有し、白糠海域の適正な資源管理や新たな増養殖事業などの検討・取組に加え、赤潮発生の予察など、漁業被害の防止等にも寄与できるデータがあれば利活用をしていただくとともに、本町の海洋資源という貴重な財産を、望ましい形で次代を担う子や孫へしっかりと引き継いでいかなくてはなりません。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20211106/d_7873e9bee3c84b1cb759dd5f3f9b644d97484e98.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20211106/d_7873e9bee3c84b1cb759dd5f3f9b644d97484e98.jpg" />
+<meta property="twitter:title" content="【緊急支援】北海道の海が危ない！未来に資源を残すための海洋調査｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="北海道東部に位置する白糠町。太平洋の暖流と寒流が交わる白糠沖は、プランクトンが豊富で魚が繁殖しやすく、暖流・寒流の両方の魚が獲れる絶好の漁場であり、1949年に白糠漁業協同組合が設立されました。漁協を中心に近代漁業への歩みが進められ、現在までの発展に繋がっているものです。ししゃもや鮭、灯台ツブ、柳だこ、毛ガニなど北海道最高峰の海の幸を、1年を通じて獲ることのできる素晴らしい環境にありました。ところが、近年における白糠町の漁業は、記録的な漁獲の不振が続いており、豊かな海の恵みで栄えたはずの白糠町は、衰退の一途をたどり始めています。この現状を打破するためには、これまでの「獲る漁業」、「つくり育てる漁業」を強化していくことはもちろんですが、天然資源に頼らない「新たな増養殖事業」の必要性の高まりと、その実現が急務となっているものです。また本年は、太平洋沿岸を中心に道東で初めて赤潮が発生し、甚大な漁業被害が生じるなど、過去に経験をしたことのない事態に陥っていることから、これらの問題を解決するための一つの手段として、白糠海域の海水のモニタリング調査を継続的に実施することといたしました。この未曽有の危機・転換期を迎えている白糠町の漁業振興施策を推進していくにあたり、行政だけで考えるには限界があるため、白糠漁協や漁業者といったプロの意見を取り入れていく必要があります。海水のモニタリング調査の結果については、白糠漁協と適宜共有し、白糠海域の適正な資源管理や新たな増養殖事業などの検討・取組に加え、赤潮発生の予察など、漁業被害の防止等にも寄与できるデータがあれば利活用をしていただくとともに、本町の海洋資源という貴重な財産を、望ましい形で次代を担う子や孫へしっかりと引き継いでいかなくてはなりません。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,554,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="1545" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">【緊急支援】北海道の海が危ない！未来に資源を残すための海洋調査</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">【緊急支援】北海道の海が危ない！未来に資源を残すための海洋調査</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1019">食・農林水産業・商工業&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20211106/d_7873e9bee3c84b1cb759dd5f3f9b644d97484e98.jpg" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E3%80%90%E7%B7%8A%E6%80%A5%E6%94%AF%E6%8F%B4%E3%80%91%E5%8C%97%E6%B5%B7%E9%81%93%E3%81%AE%E6%B5%B7%E3%81%8C%E5%8D%B1%E3%81%AA%E3%81%84%EF%BC%81%E6%9C%AA%E6%9D%A5%E3%81%AB%E8%B3%87%E6%BA%90%E3%82%92%E6%AE%8B%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E6%B5%B7%E6%B4%8B%E8%AA%BF%E6%9F%BB&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F1545">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">668,553</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 1.3%;"></div>
+<p class="gcf-cht-detail-bar__number">1.3%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">50,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">1.3</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">30</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>北海道白糠町（ほっかいどう しらぬかちょう）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="1545" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+<li>
+<a class="js-modal-not-available-in-mobile-app-trigger i-arrow" href="#" data-modal-id="contact">お問い合わせ先</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2021年12月24日～2022年3月23日（90日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1034" class="sorting-list__item">食</a></li><li><a href="/gcf/project/tag/1036" class="sorting-list__item">海・漁業</a></li><li><a href="/gcf/project/tag/1045" class="sorting-list__item">モノの生産・消費</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1093" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_14.png 1x, /gcf/images_cf/sdg/sdg_icon_14@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_14.png" alt="SDGアイコン" decoding="async" />14.海の豊かさを守ろう</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="1545" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">北海道白糠町</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20211106/o_49dce574fa52ddd317823abd22439af40b1abd03.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">北海道東部に位置する白糠町。太平洋の暖流と寒流が交わる白糠沖は、プランクトンが豊富で魚が繁殖しやすく、暖流・寒流の両方の魚が獲れる絶好の漁場であり、1949年に白糠漁業協同組合が設立されました。漁協を中心に近代漁業への歩みが進められ、現在までの発展に繋がっているものです。ししゃもや鮭、灯台ツブ、柳だこ、毛ガニなど北海道最高峰の海の幸を、1年を通じて獲ることのできる素晴らしい環境にありました。ところが、近年における白糠町の漁業は、記録的な漁獲の不振が続いており、豊かな海の恵みで栄えたはずの白糠町は、衰退の一途をたどり始めています。この現状を打破するためには、これまでの「獲る漁業」、「つくり育てる漁業」を強化していくことはもちろんですが、天然資源に頼らない「新たな増養殖事業」の必要性の高まりと、その実現が急務となっているものです。<br/>
+また本年は、太平洋沿岸を中心に道東で初めて赤潮が発生し、甚大な漁業被害が生じるなど、過去に経験をしたことのない事態に陥っていることから、これらの問題を解決するための一つの手段として、白糠海域の海水のモニタリング調査を継続的に実施することといたしました。<br/>
+この未曽有の危機・転換期を迎えている白糠町の漁業振興施策を推進していくにあたり、行政だけで考えるには限界があるため、白糠漁協や漁業者といったプロの意見を取り入れていく必要があります。海水のモニタリング調査の結果については、白糠漁協と適宜共有し、白糠海域の適正な資源管理や新たな増養殖事業などの検討・取組に加え、赤潮発生の予察など、漁業被害の防止等にも寄与できるデータがあれば利活用をしていただくとともに、本町の海洋資源という貴重な財産を、望ましい形で次代を担う子や孫へしっかりと引き継いでいかなくてはなりません。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">魅力ある多彩な資源がある北海道</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211109/gpfd_4f8a965094249e4433aeff22d507a8d4fb20fbc2.png" />
+</figure>
+<p class="gcf-txt-article">北海道は、それぞれ特性の異なる日本海、太平洋、オホーツク海に囲まれ、全長4,446kmの海岸線は全国の12.6%を占めており、雄大かつ変化に富む山岳、広大な湿原や湖沼などを有し、人々は古くからこの豊かな自然と緊密に結びつきながら、独自の文化と歴史を持ち、狩猟や漁労、採集を中心とする生活を営んでいました。<br/>
+<br/>
+明治時代には、全国各地からの入植者によって数々の苦難を乗り越えながら開拓が行われたほか、欧米の技術や文化を導入するなど、先人たちの勇気と知恵によって近代化を進め、今日の生活の礎を築いてきました。<br/>
+<br/>
+近年では、この豊かな自然の恵みを背景に、新鮮で豊富な素材を活かした美味しい食、世界自然遺産に登録された知床をはじめ多彩な表情を見せる風景など、地域の魅力ある観光資源によって、国内外から多くの人々が訪れています。</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">近年の漁業状況</span></h3>
+<h3 class="gcf-ttl-h3">北海道の魚介類は、年々水揚げ量が減少してきております。</h3>
+<figure class="lyt-image">
+<a target="_blank" href="https://www.pref.hokkaido.lg.jp/fs/3/0/9/8/1/6/6/_/R1gensei.pdf">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211108/gpfd_e172df8f73f6700feaf22c91852a7608a06ea0ba.png" alt="出典:北海道水産林務部「北海道水産現勢（生体重量）」" />
+</a>
+<figcaption class="lyt-image__caption">出典:北海道水産林務部「北海道水産現勢（生体重量）」</figcaption>
+</figure>
+<p class="gcf-txt-article">近年の本道漁業⽣産(属地)の動向をみると、⽣産量は、国際的な漁業規制の強化などにより、昭和62年をピークに減少し、平成30年は対前年⽐18.5％増加の108.2万トンとなりました。３年振りに⽣産量が100万トンを上回っています。<br/>
+⽣産額は、平成3年に過去最⾼の4,065億円を記録しましたが、漁獲量の減少や⿂価の低下などから減少傾向に転じ、平成15年には2,309億円まで落ち込みました。<br/>
+平成30年は対前年⽐で5.6%減少し2,735億円となりました。<br/>
+<br/>
+◇ 近年、本道周辺海域における資源⽔準の低下等により、総⽣産量が減少傾向にある中、種苗放流事業や養殖に取り組む秋サケ、ホタテガイやコンブの⽣産は、全体の漁業⽣産のうち、この3⿂種が数量及び⾦額で5割を占めています。<br/>
+<br/>
+◇ 平成30年の⿂種別⽣産量は、ホタテガイが38万5千トンで最も多く、ついでイワシ、スケトウダラ、コンブとなっており、イワシは近年増加傾向にあります。<br/>
+⽣産額はホタテガイが779億円で最も多く、ついでサケ、コンブ、タコの順となっています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">水揚げ量の低迷のなか続く、厳しい向かい風</span></h3>
+<h3 class="gcf-ttl-h3">新型コロナウイルス感染症の本道水産業への影響</h3>
+<h4 class="gcf-ttl-h4">○水産物の国内消費の低迷</h4>
+<p class="gcf-txt-article">外食産業における消費の減退や流通機能の停滞が続き、鮮魚・高級魚を中心に魚価安が発生しました。また、一部地域では魚価を維持するため、出漁調整（操業見合わせ）や出荷調整が行われました。<br/>
+これに伴い、漁業者の所得の落ち込みだけでなく、漁業者が生産した水産物の販売を担う漁協の経営状況が悪化したほか、漁協直売店の来客減少のため一部休業や販売員の削減などを余儀なくされたところもあります。また、物流の停滞から、地域によっては冷凍庫が飽和状態となり新たな受入が困難になるなどの影響が生じました。<br/>
+</p>
+<h4 class="gcf-ttl-h4">○漁業・水産加工業における人手不足</h4>
+<p class="gcf-txt-article">国内外の移動の制限に伴い、新たな外国人技能実習生の受け入れや、実習が終了した生徒が帰国できない等の問題が発生するとともに、大学生アルバイトなどの確保が困難となり、漁船漁業の乗船作業や、養殖業における陸上作業、水産加工の現場で人手不足が発生しました。</p>
+<h4 class="gcf-ttl-h4">○水産物の輸出停滞</h4>
+<p class="gcf-txt-article">世界的な新型コロナウイルス感染症の流行のため、海外でも国内と同様に外食需要が減少したほか、感染症の拡大に伴う物流の停滞などにより中国向けホタテガイの輸出が一時停止するなどの影響が生じました。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">そして赤潮の発生…</h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211106/gpfd_fd9566292d36a04212289d88f95bf7ae1c97127d.jpg" />
+</figure>
+<p class="gcf-txt-article">漁業者にとってはまさに泣きっ面に蜂…<br/>
+新型コロナ感染症による北海道における緊急事態宣言が解除されて早々、新たな大問題が発生しました。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211106/gpfd_9cacc72e1651f2931a297234691379ec574aeda6.jpg" />
+<figcaption class="lyt-image__caption">北海道知事に支援要請をする北海道町村会　棚野会長（白糠町長）</figcaption>
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">いま北海道の海で何が起きているのか調べたい！</span></h3>
+<p class="gcf-txt-article">白糠町は、近年続く水揚げ量減少や、赤潮被害などを受けて、町として本格的な調査が必要だと考えております。<br/>
+そのため、本プロジェクトではその大きな一歩となる、調査用機材をそろえることで、解決に向けて動き出したいです。</p>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">いただいた寄付金の使い道</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">センサーの購入費用に活用させていただきます。<br/>
+<br/>
+このセンサーで測れるものは以下で、海中で何が起こっているかを分析します。<br/>
+水温<br/>
+塩分濃度<br/>
+溶存酸素量（ＤＯ）<br/>
+<br/>
+※目標金額を上回った場合は、海洋資源に関する取組(保護や調査費用等)に活用させて頂きます。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">水産業の新たな挑戦のために</span></h3>
+<p class="gcf-txt-article">北海道の周辺海域は、北方に広く展開する大陸棚と日本海の武蔵堆などを擁し、海底地形が起伏に富んでいるほか、道東太平洋沖では黒潮から分かれて北上する暖流と栄養塩に富んだ親潮（寒流）が交錯して潮目がつくられるなど、総じて好漁場となっています。<br/>
+この豊かな恵みの場である広大な漁場を背景として、漁業や水産加工業を中心に今日の水産都市や漁村が海岸線に沿って形成されてきました。<br/>
+漁業生産は、主要魚種である秋サケ、ホタテガイ、コンブを中心に様々な魚種が生産され、数量・金額ともに都道府県別で第１位となっているほか、湖沼や河川では、シジミ、ワカサギなどが生産されています。<br/>
+<br/>
+一方、近年、海洋環境の変化や漁業者の減少、高齢化等により秋サケ、コンブ、イカ、サンマなどの生産が大幅に減少し漁業経営の悪化を招いています。<br/>
+水産業を取り巻く環境が大きく変化する中、先人たちが守り続けた豊かな海の恵みに感謝し、この大切な財産を次の世代につなげるとともに、漁業生産の早期回復と安定を図るため、回遊魚に依存しない新たな増養殖への挑戦と栽培対象種の生産回復に向けた多様な取組を推し進め、水産業の持続的な発展と地域の活性化を図っていかなくてはなりません。</p>
+<h4 class="gcf-ttl-h4">みなさま、ぜひ本プロジェクトにご協力をお願いいたします！</h4>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211109/gpfd_88ade1443ed4e4fd28fd1d37b99140e89e13a172.png" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">白糠町のお礼の品</span></h2>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/4965864/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210209/pd_3bb99f07088c91ca3ce6702adf22a47fe4f21c8a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">栄三郎商店海産物セット 魚介セット エンペラーサーモン ししゃも 煮つぶ 柳だこ サーモン アトランティックサーモン たこ 本ししゃも つぶ ふるさと納税 ふるさとチョイス チョイス 北海道 白糠町</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年お申込を承っております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、30営業日以内にお届けします。</p>
+</div>
+<p class="goods-col_textinfo pc">白糠自慢の海産物をセットでご用意しました！
+色々な商品を食べたい方におすすめです。
+ぜひご賞味ください。
+《エンペラーサーモン》
+ノルウェーで養殖されるアトランティックサーモン。
+より健康的に成長させるために、過密養殖を避け、より自然に近い環境で育てられています。
+栄養価の高いエサにより、濃厚な味と良質な脂で、しっかりとした深みのある味わいを感じていただけます。
+また、身色も良く、EPA、DHA、オメガ3の含有量が多いのも特徴です。
+サケの王様はキングサーモンですが、それを超えたサーモンとして「エンペラーサーモン」とネーミングされています。
+独自の調味で軽めに味付け、軽乾燥工程により、身締まりをアップしました。
+気になるドリップも、ほとんど出ません。
+扱いやすいように、小骨を取り除き、小ブロックにカットし、冷凍、真空パックにてお届けします。
+軽く味付けをしていますが、お刺身はもちろん、焼いたりレアステーキもおすすめです。
+《ししゃも》
+水揚げ漁港ならではの本場の味わいがあります。
+国内で一般的に流通している「ししゃも」と呼ばれている魚の9割以上は「キャペリン」という類似魚です。
+本物のししゃもは、世界でも北海道の太平洋沿岸にしか生息しない日本固有の希少種です。
+回遊魚のため北海道西部から東部海域に回遊し、十勝沖から徐々に脂が抜け、メスは卵を熟成させ、オスは身を引き締めていきます。
+そのため、白糠沖で獲れるししゃもは最高級で非常に美味と言われています。
+《煮つぶ》
+新鮮な獲れたてつぶを塩味でボイルしました。
+加熱することで身がやわらかくなる灯台つぶをじっくり煮込んだ逸品です。
+ご飯のおかずでも、お酒のおつまみでも、お好みの召し上がり方でお楽しみください。
+《柳だこ》
+柳だこはサクッとした歯ごたえと噛むほどに口の中に甘味が広がるのが特徴です。
+本町は昔からたこ漁が盛んで、豊洲市場のお店では“正月用には白糠の柳だこ”とお買い求めいただくほどプロに認められた最高級品です。
+たこにはコレステロール値の低減や肝機能の強化、疲労回復効果のあるタウリンが豊富に含まれています。
+ベテランの職人が大きさ、肉質を瞬時に判断し一気に茹で上げます。
+素材の良さに職人の技がプラスされた絶妙の味と食感です。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/5144495/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210921/pd_8d6d6fccb78e865bcfa3d29a9006ca53c88716e9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">北海道産鮭使用 さけトロ 40g × 20パック タレ付 便利な食べきりパック 小分け 冷凍 鮭 サーモン さけ シャケ しゃけ sake 人気 美味しい 魚介類 海鮮 ふるさと納税 ふるさとチョイス チョイス 北海道 白糠町</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年お申込を承っております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、30営業日以内にお届けします。</p>
+</div>
+<p class="goods-col_textinfo pc">便利な食べきりパック！
+円状なので、お椀などにのせて食べやすい！
+短時間解凍！簡単便利！忙しい時にも最適！
+北海道産鮭を主原料にした、「ネギトロ」ならぬ「さけトロ」です。
+白糠町の東和食品にて下ごしらえした鮭を、いわき市の山菱水産で便利な円形個食包装に仕上げていただきました。
+北海道丸大豆醤油を使用した、東和食品オリジナルの甘口タレを添えてお届けします。
+【お召し上がり方】
+開封せずに、
+・冷蔵庫で、4時間を目安に調整してください
+・お急ぎの時は、流水で3分を目安に調整してください
+解凍後、添付のタレやお醤油、お好みの薬味でお召し上がりください。
+ご飯のお供に、寿司ネタとしてお使いいただけます。
+パスタやサラダのトッピング等にもお使いいただけます。
+※小骨が残っている場合がございますので、ご注意願います。
+※脂分を含むため、冷凍温度であっても、やや柔らかい場合がございます。
+※画像はイメージです。
+小分け 冷凍 鮭 サーモン さけ シャケ しゃけ sake 人気 美味しい 魚介類 海鮮 ふるさと納税 ふるさとチョイス チョイス 北海道 白糠町
+事業者：東和食品（株）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/4802786/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201214/pd_5fb5f193933222bde8018fd9dd179cbc0327a662.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">紅鮭 新巻姿切身 4分割 1.4kg 鮭 さけ シャケ しゃけ sake サーモン 人気 高級 大満足 美味しい 贈答 魚介類 海鮮 真空包装 山漬け ふるさと納税 ふるさとチョイス チョイス 北海道 白糠町</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年お申込を承っております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、30営業日以内にお届けします。</p>
+</div>
+<p class="goods-col_textinfo pc">その名が示す通り、綺麗な赤い身色と程よい脂乗りが特徴の紅鮭を新巻鮭に仕立てました。
+鮭を食塩に漬け込む伝統的な製法の「山漬け」を塩辛くなりすぎないようアレンジ。
+魚体に食塩をまぶし、一晩浸透させることにより、余分な水分を排出し、旨味を凝縮しました。
+食べやすいように、切身にして真空包装しております。
+ご家庭用はもちろん、化粧箱に入っておりますので、贈り物にもお使いいただけます。
+※近年流通されております養殖サーモンに比べて、脂質は少なめですが、しつこくなく、鮭本来の旨味をお楽しみいただけます。
+※部位により、塩分が強く感じられる場合がございます。
+--------------------------------------------------------------------------------
+鮭 さけ シャケ しゃけ sake サーモン 人気 高級 大満足 美味しい 贈答 魚介類 海鮮 山漬け ふるさと納税 ふるさとチョイス チョイス 北海道 白糠町
+※画像はイメージです。
+事業者：東和食品（株）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/401800/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231218/pd_e7d960de6223c440a4a1ea9cb36bb0cc32608882.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">しらぬか産 本ししゃも 30尾 オスメス 各15尾 ししゃも シシャモ 子持ちししゃも 卵 魚卵 魚 魚介 国産 北海道 北海道産 ふるさと納税</h4>
+<p class="goods-col_price inline">22,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年お申込を承っております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、30営業日以内にお届けします。</p>
+</div>
+<p class="goods-col_textinfo pc">一般に流通している「ししゃも」と呼ばれる魚の9割以上は、「キャペリン」や「カラフトシシャモ」という似た魚です。
+本物のししゃもは世界でも北海道の太平洋沿岸にしか生息しない日本固有の貴重種です。
+回遊魚のため北海道西部から東部海域に回遊し、十勝沖から徐々に脂が抜け、卵が熟すことから、白糠沖で獲れるししゃもは最も美味しいとされています。
+【買い付けはわずか2週間！】
+漁期は10月末からの僅か1ヶ月。
+ししゃもは漁が始まって直ぐの魚体は脂が乗っていて卵の熟成度も悪いことから、漁が開始した後、１週間は買い付けをしません。
+漁期後半は婚姻色の黒色になることから、中2週間の一番良い時期に買い付けをしています。
+【製法】
+ししゃもを干す時間は長めです。
+干す時間が長いと見た目はふっくら感がなく小さく見えます。
+しかし、この乾燥の度合が旨味を凝縮し、美味しさを作り出しています。
+こんな『こだわり』抜いたししゃもをご堪能ください。
+鮭をはじめ、凶漁が続いている漁業ですが、ししゃももここ数年は小ぶりなものが目立ち、漁獲量も少なくなっております。
+なるべく小さなものは省き商品にしていますが、全体的に小さなことからそれも難しい状況です。
+今までイメージしていたししゃもよりも小さなものがお届けされるかもしれませんが、自然のものですので、ご理解賜りますようお願いいたします。
+※画像はイメージです。
+ししゃも シシャモ 子持ちししゃも 卵 魚卵 魚 魚介 国産 北海道 北海道産 ふるさと納税</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/4605887/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201214/pd_6938fbf900acac822c04f8cad45b93cb9867f200.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">レンジで焼鮭 15切れ入り 1050g 鮭 サーモン さけ シャケ しゃけ sake 産地 人気 簡単 大満足 美味しい 旨味 ふっくら 魚介類 海鮮 冷凍 鮮度 電子レンジ 簡単解凍 小分け 贈与 ふるさと納税 ふるさとチョイス チョイス 北海道 白糠町</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年お申込を承っております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、30営業日以内にお届けします。</p>
+</div>
+<p class="goods-col_textinfo pc">「やや塩辛い！」というお声をいただくことがございましたので、塩分を調整しました。
+以前と比べて水分が多めの食感になっております。
+簡単便利！
+暑い夏やお時間のない方に最適な焼鮭です。
+焼き済み・個包装・レンジで温めるだけ！
+使っている鮭は、卵に栄養分をとられていない北海道産秋鮭のオスのみです。
+一切れずつパックで冷凍していますので（70g前後の切身×15切）、必要な分だけ使えて便利なうえに、なんと調理済みです！
+電子レンジで温めるだけで食べられるというお手軽さです。
+お子様から大人まで好まれる塩味ベースの優しい味わいは調理法に秘密があります。
+水蒸気にさらに熱を加えた過熱水蒸気で程よく焼き上げ鮭本来の味と水分を閉じ込めています。
+また、酸化を防止するため、パッキングの際に窒素ガスを封入し、鮮度を保っています。
+だから、焼きたてはもちろん冷めてもしっとり。
+旨味たっぷりの柔らかな身はお弁当のおかずとして、おにぎりの具としても重宝します。
+レンジでの加熱方法を同梱していますので、ご家庭でも焼きたての味を再現できます。
+便利で美味しい秋鮭をぜひ食卓に。
+--------------------------------------------------------------------------------
+【電子レンジで温める場合】
+開け口を一部開封してから、レンジにて温めてください。
+（容器が破裂する恐れがあります。）
+・冷凍から温める場合
+　1分40～50秒を目安に、お好みで調整してください。
+・冷蔵から温める場合
+　冷蔵庫にて解凍してください。
+　40～50秒を目安に、お好みで調整してください。
+　（電子レンジ　500/600Wでの目安時間です。）
+※切身の厚み等により、温め時間が多少異なります。
+※加熱後は、容器や商品が、高温になる場合がございますので、ご注意願います。
+※商品の特性上、パック内に多少の霜が付いている場合がございますが、当商品は、酸化防止のために、窒素封入包装をしておりますことから品質に問題はございません。
+鮭 サーモン さけ シャケ しゃけ sake 産地 人気 ふるさと納税 ふるさとチョイス 北海道 白糠町
+※画像はイメージです。
+事業者：東和食品</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/5049118/35">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210423/pd_2019b1a4f1f5dd71e9fde3dd20200b97fa804253.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ちゃちゃっとサーモン【14切入（880g）】</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年お申込を承っております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、30営業日以内にお届けします。</p>
+</div>
+<p class="goods-col_textinfo pc">簡単便利！温めるだけの鮭切身！
+サラダにもお使いいただけるサーモンです。
+温めるだけですぐにお使いいただくことができ、アイデア次第で用途が広がる簡単便利な鮭の切身です。
+塩味をベースに少しの旨味を加えて味付けをし、柔らかく仕上げました。
+北海道産の鮭を使用しているので、一般的なサーモンに比べ低脂肪・低カロリーです。
+--------------------------------------------------------------------------------
+※画像はイメージです。
+事業者：東和食品（株）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/437383/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221021/pd_dd98c4aa78d68cfc8013a6bcac75aaca9e76be63.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">秋鮭ふっくらサーモン【15切れ入り（900g）】</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年お申込を承っております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、30営業日以内にお届けします。</p>
+</div>
+<p class="goods-col_textinfo pc">北海道沿岸で獲れた鮭を、一尾一尾、頭から尾の部分まで丁寧に塩をすり込み、ふり塩をしてじっくり熟成！
+一般的な新巻鮭に比べて、ふっくらと仕上げました。
+北海道産の天然秋鮭を使用しているため、市販の養殖サーモンに比べ、低脂肪、低カロリー。
+北海道産鮭本来の味をお楽しみいただけます。
+料理・おすそ分けにも便利な個包装タイプにて、15切れどどんとお届けしますので、
+焼切身として、ご飯やお弁当のおかずはもちろんですが、お茶漬けやお鍋の具材にもおすすめです。
+「手塩仕込み製法」により、今までにない、
+ふっくらしたやさしい味わいの鮭をお楽しみください。
+【解凍方法】
+・一切れ包装のまま、冷蔵庫にて4～5時間を目安に解凍してください。
+・解凍後、加熱調理してお召し上がりください。
+※解凍時間は、機器の温度により異なりますので、目安としてご理解をお願い申し上げます。
+【焼き方の一例】
+・あらかじめ、グリルを2～3分程度、予熱して温めます。（網に切身がくっつきにくくなります）
+・やや強火で短時間、軽く焼き色が付くまで、両面を炙ります。盛り付ける面から先に焼きましょう。
+（身くずれの防止と、旨味を閉じ込めるため、先に表面を炙り固めます。）
+・弱火で両面を焼き、中心まで火を通してください。
+・お好みで、強火で短時間炙り、焦げ目をつけ仕上げます。
+・日本酒を少量ふりかけてから焼いても、美味しくいただけます。
+■注意事項
+※焼きすぎると身が固くなりますので、ご注意ください。
+※機器や切身の形で、焼き時間は異なります。状態を確認しながら調理してください。
+※骨がついておりますので、ご注意をお願いいたします。
+※解凍後は、お早めにお召し上がりください。
+※本品は、熟成工程にて仕上げておりますので、表面一部が黄色く変色する場合がありますが、商品の特性ですのでご理解願います。
+----------------------------------------------------------------------------------------------------
+鮭　冷凍　小分け　工場直送
+※画像はイメージです。
+事業者：東和食品（株）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/4436340/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201214/pd_31384d9afb1216a84930819284e4f1c29a1afafd.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">大手百貨店も扱う 新巻鮭姿切身 4分割 1.7kg 鮭 さけ シャケ しゃけ sake サーモン 人気 高級 大満足 美味しい 贈答 魚介類 海鮮 真空包装 山漬け ふるさと納税 ふるさとチョイス チョイス 北海道 白糠町</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年お申込を承っております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、30営業日以内にお届けします。</p>
+</div>
+<p class="goods-col_textinfo pc">北海道の代表的な海の幸である鮭の決め手は、銀色に輝く鱗と、太くてしっかりとした体、そして厚みのある腹です。
+北海道東沖にて水揚された秋鮭を中心に魚を買付け、美味しさが卵に取られていないオスの上質な銀毛のみを厳選しています。
+鮭を食塩に漬込む伝統的な製法の『山漬け』をアレンジし、塩辛くなりすぎないよう、鮭に食塩を塗し、一晩浸透させます。　余分な水分を排出し、旨味が凝縮されます。
+近年、多く流通されております養殖サーモンに比べて、脂質は少なめですが、しつこくなく、鮭本来の味をお楽しみいただけます。
+食べやすい様に切身にして真空包装にしています。ご家庭用はもちろん、立派な化粧箱に入っていますので、贈り物にも最適です。
+------------------------------------------------------------------------------
+鮭 さけ シャケ しゃけ sake サーモン 人気 高級 大満足 美味しい 贈答 魚介類 海鮮 真空包装 山漬け ふるさと納税 ふるさとチョイス チョイス 北海道 白糠町
+※画像はイメージです。
+事業者：東和食品（株）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/401808/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201225/pd_fbc08ce71f578182391f8d1a048c77d38629dcc0.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">大手百貨店も扱う 新巻鮭姿切身と醤油いくらセット 鮭 さけ シャケ しゃけ sake サーモン いくら ikura いくら醤油漬 人気 高級 大満足 美味しい 贈答 魚介類 海鮮 真空包装 山漬け ふるさと納税 ふるさとチョイス チョイス 北海道 白糠町</h4>
+<p class="goods-col_price inline">18,500円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年お申込を承っております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、30営業日以内にお届けします。</p>
+</div>
+<p class="goods-col_textinfo pc">北海道の代表的な海の幸である鮭の決め手は、銀色に輝く鱗と、太くてしっかりとした体、そして厚みのある腹です。
+北海道東沖にて水揚された秋鮭を中心に魚を買付け、美味しさが卵に取られていないオスの上質な銀毛のみを厳選しています。
+鮭を食塩に漬込む伝統的な製法の『山漬け』をアレンジし、塩辛くなりすぎないよう、鮭に食塩を塗し、一晩浸透させます。　余分な水分を排出し、旨味が凝縮されます。
+近年、多く流通されております養殖サーモンに比べて、脂質は少なめですが、しつこくなく、鮭本来の味をお楽しみいただけます。
+食べやすい様に切身にして真空包装にしています。ご家庭用はもちろん、立派な化粧箱に入っていますので、贈り物にも最適です。
+この新巻鮭に、新鮮で張りのある成熟卵を使用した「醤油いくら」もセットになっています。
+--------------------------------------------------------------------------------
+鮭 さけ シャケ しゃけ sake サーモン いくら ikura いくら醤油漬 人気 高級 大満足 美味しい 贈答 魚介類 海鮮 真空包装 山漬け ふるさと納税 ふるさとチョイス チョイス 北海道 白糠町
+※画像はイメージです。
+事業者：東和食品（株）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/382206/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240131/pd_c77861e1bf596f7b362e812114dcc92d0e8d8d88.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">白糠煮つぶ とれたてくん【500g×2個】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年お申込を承っております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、30営業日以内にお届けします。</p>
+</div>
+<p class="goods-col_textinfo pc">加熱することで身が柔らかくなる新鮮な獲れたての「灯台つぶ」を塩味でボイルしています。
+刺身や甘辛煮はもちろん、歯ごたえと爽やかな磯の香りを活かしてカルパッチョやパスタ、バター焼きやマヨネーズ和え、つぶご飯などいかようにもお使いただけます。
+つぶ貝のフタ（平らで薄い殻）は食べられません。
+包丁でこそげ落とすか、指でも簡単に取れますので、剥がしてからお召し上がりください。
+--------------------------------------------------------------------------------
+※画像はイメージです。
+つぶ貝　冷凍　小分け　工場直送　産地直送
+事業者：（株）藤山水産加工</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/733202/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201225/pd_556442ea88ad5eebc1cf22ff3b9c65516e3ef19e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">酒の肴にしゃぶしゃぶに　たこ三昧セット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年お申込を承っております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、30営業日以内にお届けします。</p>
+</div>
+<p class="goods-col_textinfo pc">北海道太平洋沿岸で漁獲された一尾あたり20kgにもなる「水たこ」の足をタコシャブ用にパッケージしました。
+鮮度の良いタコを生処理し、皮むき、洗浄し てスライス後に凍結してるので、抜群の歯ごたえと、たこ本来の旨味を楽しめます。
+しゃぶしゃぶのほか、刺身、水気をよく取って唐揚げ粉をつけて蛸ザンギと いろいろ使える生たこです。
+また、特製のキムチたれ、わさび、生姜に絡めた3種類の人気の「喰っ蛸（くったこ）とある？」シリーズ。ご飯やお酒のお供に最高です。
+--------------------------------------------------------------------------------
+※画像はイメージです。
+たこ　冷凍　しゃぶしゃぶ　たこしゃぶ　酒肴　キムチ
+事業者：（有）マルツボ</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/4678176/35">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211224/pd_240a34a578138d7b9d23b451970b87c243452513.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">うす切り北海だこ【3個セット】</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年お申込を承っております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、30営業日以内にお届けします。</p>
+</div>
+<p class="goods-col_textinfo pc">北海道太平洋沿岸で漁獲された一尾あたり15kg～大きい物では35kgにもなる「水だこ」の足をうす切りにしました。
+一つ一つの大きさは、直径約7cmで、厚さは歯ごたえと食べやすさを追求した生産者のこだわりで3mmです。
+鮮度の良い水だこを生もみ、ブランチングし、スライス後に凍結してるので、歯ごたえと、たこ本来の旨味を楽しめます。
+もちろんお刺身もおすすめですが、カルパッチョやサラダ、タコザンギ（唐揚げ）、しゃぶしゃぶ、また、ホットプレートでほんのわずか焼いた焼きしゃぶしゃぶもおすすめです。
+常温1時間程度で解凍できますので、急に思いついた献立にも便利です。
+--------------------------------------------------------------------------------
+※画像はイメージです。
+たこ　冷凍　しゃぶしゃぶ　たこしゃぶ
+事業者：（有）マルツボ</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/5099552/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220112/pd_a8bc8cd2512bf7e0845aac35fce741697109c93a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">北海道旨味たこ【1.0kg以上×1杯】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年お申込を承っております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、30営業日以内にお届けします。</p>
+</div>
+<p class="goods-col_textinfo pc">北海道産の柳ダコを使用し、過熱水蒸気加工を施しました。
+解凍してそのままお召し上がりください。
+【過熱水蒸気加工とは】
+「水で焼く」ウォーターオーブンと同様、100℃以上に加熱した高温の水蒸気で一気に蒸し上げる事で従来のボイル加工に比べ、たこの旨味を逃しません。
+また、表面付近の水分含量が減少し、相対的に色素成分の濃縮が起こるために色彩も濃くなって、色合いが鮮やかで美しい製品になります。
+--------------------------------------------------------------------------------
+※画像はイメージです。
+事業者：釧路丸水株式会社（北海道白糠郡白糠町庶路甲区6番地577）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/4850436/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220107/pd_ab8e7c1f0b9a799fc42e0f2e2e783567481dbbf5.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">白糠漁協イチオシ白糠特産品セット 秋鮭入 ほっけ かれい 本ししゃも こまい 秋鮭 たこ さんま ギフト 熨斗 ふるさと納税 ふるさとチョイス チョイス 北海道 白糠町</h4>
+<p class="goods-col_price inline">18,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年お申込を承っております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、30営業日以内にお届けします。</p>
+</div>
+<p class="goods-col_textinfo pc">白糠を代表する柳だこ・干魚を入れてみました！
+漁協直営店での製造なのでかなりお買得です！ご自宅用やギフトにも最適です！
+--------------------------------------------------------------------------------
+ほっけ かれい 本ししゃも こまい 秋鮭 たこ さんま ギフト 熨斗 ふるさと納税 ふるさとチョイス チョイス 北海道 白糠町
+※画像はイメージです。
+事業者：白糠漁業協同組合</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/5125041/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/00000.gif" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">白糠漁協イチオシ白糠特産品セット 時鮭入 魚介セット ほっけ かれい 本ししゃも こまい 柳だこ さんま 時しらず ふるさと納税 ふるさとチョイス チョイス 北海道 白糠町</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年お申込を承っております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、30営業日以内にお届けします。</p>
+</div>
+<p class="goods-col_textinfo pc">北海道白糠を代表する柳だこと本ししゃもをはじめ、旨みが凝縮された干魚などを詰め合わせた自慢のギフトです。
+旬の美味「時しらず」の切身を詰め合わせてみました！
+漁協直営店での製造なので自信を持ってお届けできる逸品です。
+--------------------------------------------------------------------------------
+魚介セット ほっけ かれい 本ししゃも こまい 柳だこ さんま 時しらず ふるさと納税 ふるさとチョイス チョイス 北海道 白糠町
+※画像はイメージです。
+事業者：白糠漁業協同組合</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/382205/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201225/pd_7ebef5a7a5e9c102f51956f35484bdf045876e43.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">「しらぬか産柳だこ」とBBQに「たこ串(塩味・味噌味・醤油味)」のセット</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年お申込を承っております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、30営業日以内にお届けします。</p>
+</div>
+<p class="goods-col_textinfo pc">本町は昔からたこ漁が盛んで、豊洲市場のお店では“正月用には白糠の柳だこ”とお買い求めいただくほどプロに認められた最高級品です。
+柳だこはサクッとした歯ごたえと噛むほどに口の中に甘味が広がるのが特徴です。
+ベテランの職人が大きさ、肉質を瞬時に判断し一気に茹で上げた刺身用のたこと、
+BBQに持って来いの「塩味」「味噌味」「醤油味」に味付けした串のセットになります。
+塩味はタコザンギにもご使用いただけます。
+--------------------------------------------------------------------------------
+※画像はイメージです。
+事業者：白糠漁業協同組合</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/4721647/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201225/pd_db678d2ce84a8d4a601b5f4ce67fdd50e119e78e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">しらぬか産 CAS冷凍中サイズ毛がに 450g以上 毛ガニ 毛がに カニ かに 蟹 冷凍 ふるさと納税 ふるさとチョイス 北海道 白糠町</h4>
+<p class="goods-col_price inline">45,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年お申込を承っております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入荷が出来次第、発送いたします</p>
+</div>
+<p class="goods-col_textinfo pc">※お礼の品の返礼率は法令により3割以下と定められていることから、寄附金額は浜値（競り）により、随時変動します（例年、年末に向けて値上がりしています）。
+白糠漁協では、この貴重な大きな毛蟹を漁期以外でも美味しいままでご提供したいとの思いから、
+「CAS（キャス）冷凍」というTVでも良く紹介されている医療界でも使用の冷凍庫を導入しています。
+冷凍による細胞破壊がないことから解凍してもドリップができませんし、毛ガニの“ウリ”の「蟹味噌」もそのままです。
+茹でたてと遜色のない味をお楽しみいただけます。
+--------------------------------------------------------------------------------
+※画像はイメージです。
+※漁獲量によっては、予告なく締切日前にお申込みを締切らせていただく場合がございますので、あらかじめご了承ください。
+毛ガニ 毛がに カニ かに 蟹 冷凍 ふるさと納税 ふるさとチョイス 北海道 白糠町
+事業者：北海道白糠栄三郎商店（白糠漁業協同組合）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/4721645/35">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201225/pd_352c6076d5440cdf2dc2fafee94f781901fad0cb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">しらぬか産 活中サイズ毛がに 450g以上 毛ガニ 毛がに カニ かに 蟹 ふるさと納税 ふるさとチョイス 北海道 白糠町</h4>
+<p class="goods-col_price inline">45,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>9月上旬～12月中旬頃の予定です。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入荷が出来次第、発送いたします
+※天候、漁獲状況によりお届け予定日がずれこむ場合もございます。
+※漁で穫れた分を順に発送致しますので、お届け日の指定はできません。</p>
+</div>
+<p class="goods-col_textinfo pc">※お礼の品の返礼率は法令により3割以下と定められていることから、寄附金額は浜値（競り）により、随時変動します（例年、年末に向けて値上がりしています）。
+漁期中にしか味わうことができない、生きたままの毛蟹を発送します。
+ご家庭で茹でたての毛ガニをお召し上がりください。
+※画像はイメージです。
+※生ものですので商品到着後、茹でるなどの加熱処理をすぐに行ってください。
+※天候、漁獲状況によりお届け予定日がずれこむ場合もございます。
+※お申込限度数に達した場合は、予告なく締切日前にお申込みを締切らせていただく場合がございますので、あらかじめご了承ください。
+※漁で穫れた分を順に発送致しますので、お届け日の指定はできません。
+毛ガニ 毛がに カニ かに 蟹 ふるさと納税 ふるさとチョイス 北海道 白糠町
+事業者：北海道白糠栄三郎商店（白糠漁業協同組合）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/4721646/35">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231229/pd_fb77a491a14fe9d437022e5ebec6e5750069bf7a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">しらぬか産 茹でたて中サイズ毛がに【450g以上】</h4>
+<p class="goods-col_price inline">45,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>9月上旬～12月中旬頃の予定です。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入荷が出来次第、発送いたします
+※天候、漁獲状況によりお届け予定日がずれこむ場合もございます。
+※漁で穫れた分を順に発送致しますので、お届け日の指定はできません。</p>
+</div>
+<p class="goods-col_textinfo pc">※お礼の品の返礼率は法令により3割以下と定められていることから、寄附金額は浜値（競り）により、随時変動します（例年、年末に向けて値上がりしています）。
+白糠漁協では資源確保のために毛蟹漁は漁獲量と漁期を定め、さらに個体のサイズや重量などの厳しい基準を設けています。
+一番おいしいのは茹でたて毛ガニと知っているからこそ、漁期中は冷凍せずに茹でたその日のうちの発送にこだわっています。
+新鮮さにこだわったプリプリの食感をお楽しみください。
+--------------------------------------------------------------------------------
+※画像はイメージです。
+※当お礼の品は、漁の都合上、順次出荷となることから、配送要望は承れませんので予めご了承お願いします。
+※天候、漁獲状況によりお届け予定日がずれこむ場合もございます。
+※お申込限度数に達した場合は、予告なく締切日前にお申込みを締切らせていただく場合がございますので、あらかじめご了承ください。 
+事業者：北海道白糠栄三郎商店（白糠漁業協同組合）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/4721649/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201225/pd_8ba9e480d139c30a2c5f1d48dfbf2e57f6ba106a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">しらぬか産 CAS冷凍大サイズ毛がに 550g以上 毛ガニ 毛がに カニ かに 蟹 冷凍 ふるさと納税 ふるさとチョイス 北海道 白糠町</h4>
+<p class="goods-col_price inline">53,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年お申込を承っております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入荷が出来次第、発送いたします</p>
+</div>
+<p class="goods-col_textinfo pc">※お礼の品の返礼率は法令により3割以下と定められていることから、寄附金額は浜値（競り）により、随時変動します（例年、年末に向けて値上がりしています）。
+白糠漁協では、この貴重な大きな毛蟹を漁期以外でも美味しいままでご提供したいとの思いから、
+「CAS（キャス）冷凍」というTVでも良く紹介されている医療界でも使用の冷凍庫を導入しています。
+冷凍による細胞破壊がないことから解凍してもドリップができませんし、毛ガニの“ウリ”の「蟹味噌」もそのままです。
+茹でたてと遜色のない味をお楽しみいただけます。
+--------------------------------------------------------------------------------
+※画像はイメージです。
+※漁獲量によっては、予告なく締切日前にお申込みを締切らせていただく場合がございますので、あらかじめご了承ください。
+毛ガニ 毛がに カニ かに 蟹 冷凍 ふるさと納税 ふるさとチョイス 北海道 白糠町
+事業者：栄三郎商店（白糠漁業協同組合）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/4723648/35">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201225/pd_fe3f33fb7dfe056e57ff28c7a00a7259df6378f2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">しらぬか産 活大サイズ毛がに 550g以上 毛ガニ 毛がに カニ かに 蟹 ふるさと納税 ふるさとチョイス 北海道 白糠町</h4>
+<p class="goods-col_price inline">53,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>9月上旬～12月中旬頃の予定です。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入荷が出来次第、発送いたします
+※天候、漁獲状況によりお届け予定日がずれこむ場合もございます。
+※漁で穫れた分を順に発送致しますので、お届け日の指定はできません。</p>
+</div>
+<p class="goods-col_textinfo pc">※お礼の品の返礼率は法令により3割以下と定められていることから、寄附金額は浜値（競り）により、随時変動します（例年、年末に向けて値上がりしています）。
+漁期中にしか味わうことができない、生きたままの毛蟹を発送します。
+ご家庭で茹でたての毛ガニをお召し上がりください。
+※画像はイメージです。
+※生ものですので商品到着後、茹でるなどの加熱処理をすぐに行ってください。
+※天候、漁獲状況によりお届け予定日がずれこむ場合もございます。
+※お申込限度数に達した場合は、予告なく締切日前にお申込みを締切らせていただく場合がございますので、あらかじめご了承ください。
+※漁で穫れた分を順に発送致しますので、お届け日の指定はできません。
+毛ガニ 毛がに カニ かに 蟹 ふるさと納税 ふるさとチョイス 北海道 白糠町
+事業者：栄三郎商店（白糠漁業協同組合）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/4721648/35">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231229/pd_5f53b3a816a91d3ea19da26f8cfd9161791d64ba.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">しらぬか産 茹でたて大サイズ毛がに 550g以上 毛ガニ 毛がに カニ かに 蟹 ふるさと納税 ふるさとチョイス 北海道 白糠町</h4>
+<p class="goods-col_price inline">53,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>9月上旬～12月中旬頃の予定です。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入荷が出来次第、発送いたします
+※天候、漁獲状況によりお届け予定日がずれこむ場合もございます。
+※漁で穫れた分を順に発送致しますので、お届け日の指定はできません。</p>
+</div>
+<p class="goods-col_textinfo pc">※お礼の品の返礼率は法令により3割以下と定められていることから、寄附金額は浜値（競り）により、随時変動します（例年、年末に向けて値上がりしています）。
+白糠漁協では資源確保のために毛蟹漁は漁獲量と漁期を定め、さらに個体のサイズや重量などの厳しい基準を設けています。
+一番おいしいのは茹でたて毛ガニと知っているからこそ、漁期中は冷凍せずに茹でたその日のうちの発送にこだわっています。
+新鮮さにこだわったプリプリの食感をお楽しみください。
+--------------------------------------------------------------------------------
+※画像はイメージです。
+※当お礼の品は、漁の都合上、順次出荷となることから、配送要望は承れませんので予めご了承お願いします。
+※天候、漁獲状況によりお届け予定日がずれこむ場合もございます。
+※お申込限度数に達した場合は、予告なく締切日前にお申込みを締切らせていただく場合がございますので、あらかじめご了承ください。
+毛ガニ 毛がに カニ かに 蟹 ふるさと納税 ふるさとチョイス 北海道 白糠町
+事業者：北海道白糠栄三郎商店（白糠漁業協同組合）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/4721651/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201225/pd_a5bb7f718cc89f51694b7ddd9c15c9ba920d3913.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">しらぬか産 CAS冷凍大サイズ毛がに【650g以上】</h4>
+<p class="goods-col_price inline">64,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年お申込を承っております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入荷が出来次第、発送いたします</p>
+</div>
+<p class="goods-col_textinfo pc">※お礼の品の返礼率は法令により3割以下と定められていることから、寄附金額は浜値（競り）により、随時変動します（例年、年末に向けて値上がりしています）。
+白糠漁協では、この貴重な大きな毛蟹を漁期以外でも美味しいままでご提供したいとの思いから、
+「CAS（キャス）冷凍」というTVでも良く紹介されている医療界でも使用の冷凍庫を導入しています。
+冷凍による細胞破壊がないことから解凍してもドリップができませんし、毛ガニの“ウリ”の「蟹味噌」もそのままです。
+茹でたてと遜色のない味をお楽しみいただけます。
+--------------------------------------------------------------------------------
+※画像はイメージです。
+※漁獲量によっては、予告なく締切日前にお申込みを締切らせていただく場合がございますので、あらかじめご了承ください。
+事業者：北海道白糠栄三郎商店（白糠漁業協同組合）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/4723649/35">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201225/pd_496bedd8de1b9ac17e62ac5c1afce44e444d9094.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">しらぬか産 活大サイズ毛がに 650g以上 毛ガニ 毛がに カニ かに 蟹 ふるさと納税 ふるさとチョイス 北海道 白糠町</h4>
+<p class="goods-col_price inline">64,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>9月上旬～12月中旬頃の予定です。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入荷が出来次第、発送いたします
+※天候、漁獲状況によりお届け予定日がずれこむ場合もございます。
+※漁で穫れた分を順に発送致しますので、お届け日の指定はできません。</p>
+</div>
+<p class="goods-col_textinfo pc">※お礼の品の返礼率は法令により3割以下と定められていることから、寄附金額は浜値（競り）により、随時変動します（例年、年末に向けて値上がりしています）。
+漁期中にしか味わうことができない、生きたままの毛がにを発送します。
+ご家庭で茹でたての毛がにをお召し上がりください。
+※画像はイメージです。
+※生ものですので商品到着後、茹でるなどの加熱処理をすぐに行ってください。
+※天候、漁獲状況によりお届け予定日がずれこむ場合もございます。
+※お申込限度数に達した場合は、予告なく締切日前にお申込みを締切らせていただく場合がございますので、あらかじめご了承ください。
+※漁で穫れた分を順に発送致しますので、お届け日の指定はできません。
+毛ガニ 毛がに カニ かに 蟹 ふるさと納税 ふるさとチョイス 北海道 白糠町
+事業者：北海道白糠栄三郎商店（白糠漁業協同組合）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/4721650/35">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201225/pd_c9c2216273841674f8a7618bc94fe62910743406.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">しらぬか産 茹でたて大サイズ毛がに【650g以上】</h4>
+<p class="goods-col_price inline">64,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>9月上旬～12月中旬頃の予定です。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※入荷が出来次第、発送いたします
+※天候、漁獲状況によりお届け予定日がずれこむ場合もございます。
+※漁で穫れた分を順に発送致しますので、お届け日の指定はできません。</p>
+</div>
+<p class="goods-col_textinfo pc">※お礼の品の返礼率は法令により3割以下と定められていることから、寄附金額は浜値（競り）により、随時変動します（例年、年末に向けて値上がりしています）。
+白糠漁協では資源確保のために毛がに漁は漁獲量と漁期を定め、さらに個体のサイズや重量などの厳しい基準を設けています。
+一番おいしいのは茹でたてと知っているからこそ、漁期中は冷凍せずに茹でたその日のうちの発送にこだわっています。
+新鮮さにこだわったプリプリの食感をお楽しみください。
+--------------------------------------------------------------------------------
+※画像はイメージです。
+※当お礼の品は、漁の都合上、順次出荷となることから、配送要望は承れませんので予めご了承お願いします。
+※天候、漁獲状況によりお届け予定日がずれこむ場合もございます。
+※お申込限度数に達した場合は、予告なく締切日前にお申込みを締切らせていただく場合がございますので、あらかじめご了承ください。 
+事業者：北海道白糠栄三郎商店（白糠漁業協同組合）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/5125040/35">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220107/pd_69838a1759580370f7b4b66ef042d0fdd142b3e2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">時鮭切身詰合せ【12切（1パック4切×3パック）】</h4>
+<p class="goods-col_price inline">19,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年お申込を承っております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、30営業日以内にお届けします。</p>
+</div>
+<p class="goods-col_textinfo pc">ここ白糠で水揚げされた時鮭は、漁師の方々の工夫で鮮度が保たれ、身の質や脂のりにおいても程よい具合い。
+そんな時鮭の美味しさを堪能できるように甘塩での味付けにして、旨みが引き立つようにした切身をたっぷり詰め合わせたセットです。
+5月下旬から8月上旬が旬で、脂のりが良く絶品と言われる「時鮭」。
+成熟する前でお腹に卵や白子を抱えていない分、身の脂のりが非常によく、焼いてもふっくらしています。
+--------------------------------------------------------------------------------
+※画像はイメージです。
+事業者：白糠漁業協同組合</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/01668/4500666/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201214/pd_e419bbbc1a6c354555e9a95a623ea25db5f8287f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">鮭フレーク【500g×3個】</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、30営業日以内にお届けします。</p>
+</div>
+<p class="goods-col_textinfo pc">北海道で水揚げされた秋鮭を使用し鮭フレークにしました。
+おにぎりやサラダ、ちらし寿司等の具として美味しくお召し上がりいただけます。
+原材料表示にも記載しておりますとおり、
+植物油（菜種油を10％）を入れております。
+製造時には撹拌をしてから袋詰めをするのですが、
+真空にした段階でフレークと油が分離しているものです。
+製品には何ら問題はございませんので、ご安心いただければと思います。
+ご面倒をおかけいたしますが、
+解凍をしてから撹拌していただければ、
+製造時と同様の状態になります。
+当製品は、おにぎり用として、塩分強めに4.8％を目安に開発されたものです。
+とても人気があることから、ふるさと納税返礼品にさせていただきました。
+卸し用に製造されている商品ですので、袋詰め形態にしております。
+ご不便を感じられることもあるかも知れませんが、その分、お得な内容量になっております。
+--------------------------------------------------------------------------------
+※画像はイメージです。
+事業者：東和食品（株）</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">北海道白糠町</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">『しそ焼酎鍛高譚』のまち白糠町は北海道の東部に位置し、人口約7,500人のまちです。<br/>
+本町は太平洋沖の暖流と寒流が交わる絶好の漁場にあり、１年を通じて様々な海産物が獲れるもので、特にししゃもや毛がに、柳だこ、鮭、つぶ貝は築地市場を始めとし全国から引き合いがあります。<br/>
+恵まれた漁場にある本町は水産物だけでも十分すぎるくらいですが、山に目を向けると、また様々なものがあります。<br/>
+しそを使った焼酎と言えば今や全国区の『しそ焼酎鍛高譚』のしそをはじめ、イタリアンチーズや羊肉、ヨーロッパでは特別な日の高級食材として愛されている鹿肉。<br/>
+このように本町は、海を見ても山を見ても豊富な食材にあふれています。<br/>
+食材だけではありません。<br/>
+子育て、移住・定住支援にも力を入れています。<br/>
+18歳までの医療費や給食費を無料にし、保育料も無料。<br/>
+出産祝い金や入学支援金などを支給することで、経済的にゆとりをもって子育てができるようにバックアップしています。 <br/>
+町外から移住される方へは、土地（100坪程度）を無償で提供しています。 </p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>申し込み後の内容変更・寄附金受領証明書・ワンストップ特例申請書</h3>
+<p>■寄附金受領証明書発行について<br/>
+「寄附金受領証明書」が届いていないとの連絡を多く受けますが、本町からの「寄附金受領証明書」は、圧着ハガキでお送りしておりますので、今一度ご確認ください。<br/>
+なお、「ワンストップ特例申請書」をご希望の方には、A4版の「寄附金受領証明書」を同封しております。<br/>
+<br/>
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<br/>
+■■本年(2021)分の寄附対象となる受付期日■■<br/>
+<br/>
+　　2021年分の寄附受付をご希望の場合は<br/>
+　　下記日時までに寄附申込・決済(入金)をお済ませください<br/>
+<br/>
+　　・クレジットカード・オンライン決済<br/>
+　　　→2021年12月31日（金）23時59分<br/>
+　　・払込取扱票（郵便振替）<br/>
+　　　→2021年12月31日（金）23時59分<br/>
+　　・銀行振込<br/>
+　　　→2021年12月30日（木）14時00分<br/>
+<br/>
+------------------------------------------------------------<br/>
+<br/>
+■■住所等を印字されたワンストップ特例申請書の発送■■<br/>
+　　※ワンストップ特例申請書の提出期限は「2022年1月11日（火）消印有効」です。<br/>
+<br/>
+　　ご希望されるすべての方にお送りしますが、<br/>
+　　下記の日時以降に寄附申込・決済(入金)をされた方には、<br/>
+　　2022年1月3日（月）～5日（水）に書類を発送いたします。<br/>
+　　ワンストップ特例申請書の提出期日「2022年1月11日（火）消印有効」<br/>
+　　に間に合うかご不安な方は、ご自身で申請書をご用意いただきお送りください。<br/>
+<br/>
+　　・クレジットカード・オンライン決済<br/>
+　　　→2021年12月29日（水）00時00分<br/>
+　　・払込取扱票（郵便振替）<br/>
+　　　→2021年12月24日（金）00時00分<br/>
+　　・銀行振込<br/>
+　　　→2021年12月28日（火）15時00分<br/>
+<br/>
+　　※ポータルサイトによっては、ご利用いただけない支払方法がございます。<br/>
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-</p>
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</section>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">北海道白糠町の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/01668/35?from=2&amp;gcf_project_id=1545"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,554,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g1545,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

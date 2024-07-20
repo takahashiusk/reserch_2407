@@ -1,0 +1,1733 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/1114" />
+
+<title>せたがや元気出せArtsプログラム｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="せたがや元気出せArtsプログラム｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/1114" />
+<meta property="og:description" content="文化振興基金は皆さまよりいただいた寄附を、世田谷区の文化振興や若手アーティストへの支援、自主的な文化活動への支援等に活用し、世田谷区の文化・芸術活動を支えてきました。本事業は、新型コロナウイルス感染症にて、活動の場を失ったアーティストや止む無く活動の場を縮小（自粛）している文化施設を支援し、世田谷区の文化の灯を絶やさせないための事業です。皆さまのご支援を、多くのアーティストや活躍の場である施設に届けます。ぜひ、ご協力をよろしくお願いいたします。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20201127/d_826ebd6068d62926a489f16400118128153e2ae4.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20201127/d_826ebd6068d62926a489f16400118128153e2ae4.jpg" />
+<meta property="twitter:title" content="せたがや元気出せArtsプログラム｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="文化振興基金は皆さまよりいただいた寄附を、世田谷区の文化振興や若手アーティストへの支援、自主的な文化活動への支援等に活用し、世田谷区の文化・芸術活動を支えてきました。本事業は、新型コロナウイルス感染症にて、活動の場を失ったアーティストや止む無く活動の場を縮小（自粛）している文化施設を支援し、世田谷区の文化の灯を絶やさせないための事業です。皆さまのご支援を、多くのアーティストや活躍の場である施設に届けます。ぜひ、ご協力をよろしくお願いいたします。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,521,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="1114" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">せたがや元気出せArtsプログラム</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">せたがや元気出せArtsプログラム</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1023">伝統・文化・歴史&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20201127/d_826ebd6068d62926a489f16400118128153e2ae4.jpg" alt="main_img" decoding="async" />
+<img class="gcf-lyt-detail__complete" src="/gcf/images_cf/icon_goal_brown.png" alt="達成" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E3%81%9B%E3%81%9F%E3%81%8C%E3%82%84%E5%85%83%E6%B0%97%E5%87%BA%E3%81%9BArts%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F1114">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">2,001,040</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph2" style="width: 100%;"></div>
+<p class="gcf-cht-detail-bar__number">100%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">2,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">100</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">16</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>東京都世田谷区（とうきょうと せたがやく）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="1114" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+<li>
+<a class="js-modal-not-available-in-mobile-app-trigger i-arrow" href="#" data-modal-id="contact">お問い合わせ先</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2020年12月1日～2021年2月28日（90日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1052" class="sorting-list__item">伝統・文化</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1089" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_10.png 1x, /gcf/images_cf/sdg/sdg_icon_10@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_10.png" alt="SDGアイコン" decoding="async" />10.人や国の不平等をなくそう</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="1114" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">東京都世田谷区</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20201105/o_86151f1a0c213caf2e858d3133a8a2bd3b775683.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">文化振興基金は皆さまよりいただいた寄附を、世田谷区の文化振興や若手アーティストへの支援、自主的な文化活動への支援等に活用し、世田谷区の文化・芸術活動を支えてきました。<br/>
+<br/>
+本事業は、新型コロナウイルス感染症にて、活動の場を失ったアーティストや止む無く活動の場を縮小（自粛）している文化施設を支援し、世田谷区の文化の灯を絶やさせないための事業です。皆さまのご支援を、多くのアーティストや活躍の場である施設に届けます。ぜひ、ご協力をよろしくお願いいたします。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">世田谷区の文化資源</span></h2>
+<p class="gcf-txt-article">世田谷区では年間を通じて様々な文化事業が催されています。それを支えているのは、区民による活発な文化活動と区内に点在する多くの文化施設です。<br/>
+<br/>
+1995年に、東京23区では初の地域総合文学館として、武蔵野の面影が残る南烏山に開館した「世田谷文学館」、緑豊かな都立砧公園の一角にあり、アンリ・ルソーを代表とする素朴派や区ゆかりの芸術家の作品などを収蔵する「世田谷美術館」が、また、その分館として世田谷ゆかりの作家や遺族から寄附を受けた「向井順吉アトリエ館」「清川泰次記念ギャラリー」「宮本三郎記念美術館」が開館しています。<br/>
+<br/>
+その他、狂言師　野村萬斎氏が芸術監督を務める世田谷パブリックシアターや民間の美術館、劇場、ライブハウス等の多彩で豊富な文化施設があり、美術や演劇、音楽活動などが盛んに行われています。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20201105/gpfd_42e5e1c69172d63b7e8c588bb4bf02516c48c246.jpg" />
+<figcaption class="lyt-image__caption">向井潤吉アトリエ館　撮影：宮本和義</figcaption>
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">コロナ禍の影響</span></h2>
+<p class="gcf-txt-article">しかし、新型コロナウイルス感染症が拡大し、緊急事態宣言が発令される中、各施設は安全対策のため休館を余儀なくされました。宣言が解除された後も、今夏、感染が収束することはなく、文化芸術活動も規模を縮小せざるをえません。</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">それでも、世田谷の文化の灯は絶やさせない！</span></h2>
+<p class="gcf-txt-article">本事業は、新型コロナウイルス感染症にて、活動の場を失ったアーティストや止む無く活動の場を縮小（自粛）している文化施設を支援し、世田谷区の文化の灯を絶やさせないための事業です。皆さまのご支援を、多くのアーティストや活躍の場である施設に届けます。ぜひ、ご協力をよろしくお願いいたします。</p>
+<h3 class="gcf-ttl-h3">本事業での寄附金の使い道</h3>
+<p class="gcf-txt-article">より多くの方が「文化・芸術活動に触れる機会を生み出す」ために、世田谷区では新たにせたがやArtsプログラムを実施します！</p>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">①芸術を生み出す、アーティストへの支援「アーティスト支援事業」</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">新型コロナウイルス感染症の影響を受けて、活動を自粛・縮小している、アーティストへ、<br/>
+<br/>
+Ⅰ　演技・演奏の場を提供し、映像撮影・配信を行う<br/>
+Ⅱ　映像作品提出いただき、映像配信を行う</p>
+</div>
+</div>
+</div>
+</div>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.city.setagaya.lg.jp/mokuji/bunka/001/005/d00189379.html">詳細はこちらをご覧ください。</a></p>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">②アーティストの活躍の場・区民の心の潤いの場を守る「民間文化・芸術施設支援事業」</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">ライブハウス・劇場・映画館等、「熱気・感動・心の潤い」を提供する施設へ<br/>
+<br/>
+Ⅰ　映像配信事業の支援を行い、民間の技術を生かした映像配信を行ってもらいます</p>
+</div>
+</div>
+</div>
+</div>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.city.setagaya.lg.jp/mokuji/bunka/001/005/d00188546.html">詳細はこちらをご覧ください。</a></p>
+<p class="gcf-txt-article">①、②の事業はともに、新型コロナウイルス感染症と共存しながら生活する「ウィズコロナ時代」のニーズに合わせた、自宅でも視聴出来る映像配信を予定しております。<br/>
+<br/>
+文化・芸術に触れる機会が少ない方、新型コロナウイルスの影響で触れる機会が無くなった方等、ご自宅のパソコンやスマートフォン等で、気軽に見られる・触れられる機会を作ります！ぜひお楽しみください！</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">希望者には「ふるセタ」キャンペーンのグッズをプレゼント</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20201105/gpfd_3f90385a645e5e5941c53f7750325d11ee3b6af5.png" />
+</figure>
+<p class="gcf-txt-article">区では、「FURUSATO is SETAGAYA.」をキーワードに、「地元愛」を呼び覚ます区民・行政協働の運動、「ふるセタ」キャンペーンを実施しています。<br/>
+<br/>
+寄附者様全員に「ふるセタ」オリジナルステッカーをお送りしています。ぜひ、身近なところに貼ってアピールしてください！<br/>
+<br/>
+また、3万円以上の寄附をしてくださった方で、希望される方には、「ふるセタ」オリジナルTシャツをお送りします。TシャツはキッズサイズからXLサイズまでサイズが5種類、色は緑・赤・黄色の3色展開です。友達と、家族と、仲間とTシャツを着て、「ふるセタ」を広めませんか？</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">区外にお住まいの方は、その他の記念品もお選びいただけます</span></h2>
+<p class="gcf-txt-article">3万円以上の寄附をしていただいた方で、区外にお住まいの方には、区にゆかりのある品を「記念品」としてご用意しています。<br/>
+<br/>
+区内の障害者施設で働く方々が心をこめて作った品物や、世田谷にゆかりのあるお店自慢の逸品「世田谷みやげ」など、全43品目からお好きなものをお選びください。<br/>
+<br/>
+※ふるさと納税制度の改正により、区内にお住まいの方には「記念品」をお送りできなくなりました。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973430/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20170421/pd_6afc64cb4c5dfcd5844ddfad1dd0a8e94e7f1878.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">1-1焼き菓子セット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">ひとくち食べると笑顔あふれる手作りお菓子とコクのあるコーヒーのセットです。
+藍染めコースターもひとつひとつ手作りで味のある一点物となっております。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973431/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20170421/pd_d9f7870ddad6058bb940c7e276dc5f389bcd40ea.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">1-2食料品セット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">果肉たっぷりの手作りジャムや人気のマッシュポテトなどが入ったセットです。
+食卓のお供にぴったりの一品を詰め合わせました。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973432/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20170421/pd_6633e8e9d54c80e8844fc9a26e43855c3735aa2a.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">1-3日用品セット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">刺しゅうが素敵なステンシルのイラスト入りの台ふきん、カラフルなアクリルタワシなどが入った日用品のセットです。
+このセットを使ってお掃除すれば、心もわくわく、楽しくお家をピカピカにできること間違いなしです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973433/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20170421/pd_9bc36f887f5ef001e7e74f303552b29f0a3d9b2c.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">1-4手作り雑貨セット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">くすっと笑えるかるたや、かわいくて実用性のある個性的な雑貨のセットです。
+動物型のアニマルメジャーは使うのがもったいないくらい飾ってもかわいい一品です。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973434/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200413/pd_430b67e652bf758717dd634b0e091fb6ef4f421d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">1-5おしゃれセット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">ひとつひとつ丁寧に藍色に染められたストールです。
+一期一会の一点物となっております。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973435/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190801/pd_2a7b98801ec9baa3d5ae2749f0e2640d57c41a11.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-1アクリル枡 mas/mas（マスマス）5個セット　桜・水引</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">国産のアクリル枡に、６０年の歴史をもつ友成工芸の技術で日本の伝統文様を彫刻しました。透明な枡に光が反射して美しいデザインが浮き上がります。
+食品衛生法にも適応し、さまざまな飲食シーンにも安心して使えます。
+日本酒だけでなく洋酒にも似合うことから日本伝統のお祝いの乾杯がよりスタイリッシュに。海外へのお土産にも喜ばれます。
+※この商品は「世田谷みやげ」指定事業所「株式会社 ＴＯＭＯＮＡＲＩ」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973436/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190724/pd_414a07094a5ae0c404671d614ef0ea3d957bad03.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-2チーズケーキCHILK（チルク）4個BOX</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">cafe The SUN LIVES HERE（カフェ ザ サン リブズ ヒアー）は三軒茶屋のチーズケーキ専門店です。
+「十勝産のクリームチーズ」と「放牧牛の濃厚な生クリーム」を贅沢に使用して、上品なチーズケーキを製造しています。
+※この商品は「世田谷みやげ」指定事業所「cafe The SUN LIVES HERE」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973437/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190730/pd_387cff9a2dbb513cc810bd478010ad82ff4ae207.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-3のむ天然おだし【雅】みやびセット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">雅結寿（みやびゆいのじゅ）は、東京三宿にある“のむ天然おだし”の専門店です。
+素材の旨みを感じて頂けるよう、化学調味料・食品添加物、酵母エキス等は一切使用せず、自然本来の味を大切にしております。
+※この商品は「世田谷みやげ」指定事業所「雅結寿（みやびゆいのじゅ）」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973438/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190628/pd_d6de277eee545ad60f3ec4571db6839451727378.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-4ハンカチ３枚セット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">シャツに使われる緻密に織られた生地を使用した、高品質の日本製のハンカチです。
+無地、ストライプなどの、ベーシックで普段使いしやすい柄を、3枚セットにしています。
+※この商品は「世田谷みやげ」指定事業所「H TOKYO」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973439/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190628/pd_17f34e17f2c5c65aa81d0e04cd0669c58334a684.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-5最高級生チョコ＆小枝のとろ～り生チョコのＷセット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">25年前、日本にまだ生チョコが無かった時に、本場スイスにて学び、日本に持ち帰りました。
+20年前に、日本で初めて「アーモンド洋菓子店」が生チョコを作りました。
+「小枝のとろ～り生チョコ」は、生チョコを小枝状に１本１本手作りする、限定品です。
+※この商品は「世田谷みやげ」指定事業所「三軒茶屋アーモンド洋菓子店」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973440/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190724/pd_da9ec2ba643f8210308e72fa2f42c355a7231371.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-6浅沼煎餅 4種セット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">「浅沼煎餅」は、創業者の浅沼伝八のルーツである八丈島を旅して出会った、豊かな太陽と潮風の恵みがもたらす島ならではの特産物を融合し、斬新な味わいにチャレンジした、新しいあられ煎餅です。
+※この商品は「世田谷みやげ」指定事業所「三軒茶屋 おかきあられの大黒屋」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973441/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190628/pd_15519c38d82b4c4330d6a2b036110d282600f0b3.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-7アイラブ三軒茶屋セット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">ハートのマークが印象的な「アイラブ（Ｉ♡）」デザイン。
+三軒茶屋で絶賛発売中です！これさえあれば、今日からアナタも“三茶”の仲間です。
+★お申込みの際は、備考欄に、Tシャツの希望の色とサイズをご記入ください。
+色＝杢グレーかエメラルド／サイズ＝男女共通サイズ S・M・L・XLからお選びいただけます。
+ご記入のない場合は、いずれかの色のMサイズをお届けします。
+※この商品は「世田谷みやげ」指定事業所「三恵」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973442/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190628/pd_ecfd7428863b6b8e7038b9ae2b239896258f4004.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-8世田谷しあわせギフト</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">四角いビスケット生地にさわやかな有機レモン風味のアイシングが施された上品なレモンケーキと、くるみが入ってサクッとした食感のロシアンティケーキは、人気商品です。
+ベジタブルクッキー・無添加安心安全な焼菓子と一緒に、お子さまからお年寄りまで美味しくお召し上がりいただけます。
+※この商品は「世田谷みやげ」指定事業所「ケーキ工房 七つの水仙」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/&quot;</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973443/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200331/pd_2dbb3c555c1437bc96036c765ff782fcbe7fb887.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-9至福のフロマージュ＆テリーヌショコラ</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">至福のフロマージュは、上品な味の高級クリームチーズと世田谷の卵で作られたチーズケーキです。チーズの深いコクをレモンが爽やかに包んでくれます。テリーヌショコラは、カカオ約７０％で、程よい甘さとミルク感が合わさった濃厚なチョコです。
+※この商品は「世田谷みやげ」指定事業所「禔温 sion」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973444/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190628/pd_32809557331978764df07a6c836f83c97937bc20.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-10ふるさとチョイス カレーセット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">北インド料理の技法を守りつつ、日本の食材もとり入れた新しいインド料理が大人気です。
+また、インドのアーユルヴェーダを基にしたスパイスブレンドは、過去に「TVチャンピオンカレー選手権」でも、秀逸だとお褒めいただきました。
+※この商品は「世田谷みやげ」指定事業所「インド料理 スパイスマジック」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/&quot;
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973445/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190628/pd_7b657c39e182ec513313b293ddfbae75a0a6ab50.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-11たま電・せたがや線 トートバッグセット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">まちもりカフェ協議会オリジナルデザインの、「たまでん」、「せたがやせん」の刺繍が入ったトートバッグ大・小のセットです。
+制作は白梅福祉作業所が担当し、世田谷区内のチームでのコラボ商品です。
+※この商品は「世田谷みやげ」指定事業所「はんこ広場　世田谷店」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973446/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200331/pd_ee8f486128caf6e0ca0731de33f4eb158b5da9b9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-12世田谷柔らかPOTATO詰め合せ</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">リョウラのシェフが味のアドバイザー、東京農業大学内にある「メルカード」が扱う蜂蜜、ショコラティエ・ミキが合わせたカカオ、ビーンズ喜多見の珈琲、パッケージは平石紙器工業に、製造は世田谷区との関わりが強い「群馬県」の旅がらす本舗清月堂に依頼した、世田谷のコラボレーション商品。「百花ハチミツ」と「珈琲カカオ」の2種がたのしめます。
+※この商品は「世田谷みやげ」指定事業所「世田谷観光物産株式会社」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973447/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190628/pd_fb6c334b551c3a1d9e83aa1466af6e9af7660fc2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-13亀屋　ふるさとチョイス特選セット </h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">招き猫の発祥として有名な豪徳寺にちなみ、一口サイズで 招き猫を表現した「招福もなか」と、世田谷区の樹「欅」の樹皮をイメージして作った「欅（けやき）」・全国菓子博覧会総裁賞受賞の「亀甲羊羹」の詰め合わせセットです。
+※この商品は「世田谷みやげ」指定事業所「亀屋」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973448/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200331/pd_3bc6f8183938ccc925a5341a0c5ff560aeaede1d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-14茶師十段の技「世田谷みやげ」のほうじ茶とオリジナル煎茶の飲み比べ</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">「世田谷みやげ」指定のほうじ茶は茶師十段・大山拓朗の責任焙煎。
+今回は「普通蒸しと深蒸し」タイプの異なる煎茶をセットアップしました。
+茶師十段の確かな技を、飲み比べてください。
+※この商品は「世田谷みやげ」指定事業所「しもきた茶苑大山」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973449/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190628/pd_b61bfe087b934cdc561f26e97b2e3b265ed38041.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-15かりんとう詰合せ「ULTRA HAPPY 8」</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">創業70年になる酒屋の3代目が企画開発したオリジナルかりんとうです。
+無添加で良質の素材を厳選し、お酒のつまみにも好適。
+食通からも多数支持されている商品です。
+第2回世田谷キラリ輝く個店グランプリ「準グランプリ」受賞。全国観光土産連盟推奨品認定。
+※この商品は「世田谷みやげ」指定事業所「東京 世田谷 升本屋」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973450/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200331/pd_85d70e7c3fc70573a9ac63dcd79645d54e894e3a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-16招き猫グッズセット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">世田谷線の前身、玉電の110周年を記念してまちおこしの一環で誕生した豪徳寺御朱印帳とてぬぐいです。
+豪徳寺の絵馬や世田谷線・招き猫電車の招き猫と同じ作者のイラストが描かれています。
+※この商品は「世田谷みやげ」指定事業所「NPO法人まちこらぼ／たまでんカフェ山下」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973451/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190628/pd_160c9a1a6d250bfca74e2a2fece394f50b82bec7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-17豪徳寺くるみクッキー（招き猫缶 3缶セット）</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">地元豪徳寺の名を冠して販売されている「豪徳寺くるみクッキー」。
+クッキーの生地には、国産のバターのみを使用。十分な練り込みによって生まれる、サクサクでホロホロな口当たりと、香ばしいくるみの食感との相性は抜群。普段のおやつ用にも、贈り物としても根強いファンを持つ人気商品です。
+※この商品は「世田谷みやげ」指定事業所「プチプラム」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973452/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190628/pd_472b5335304d0f7bda266a4f289b08aa46a96ed1.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-18こだわりの炭火焙煎コーヒーと焼菓子セット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">備長炭を使い、職人さんがつきっきりで直火焙煎する炭火焼コーヒーは、カフェのオーナー夫婦が各地の喫茶店を飲み歩いて見つけたもの。オープン以来お店で提供する自慢のブレンドです。この美味しさを気軽に楽しむため、焙煎仕立ての豆を瞬時に封入したドリップパックは、長期間鮮度をキープ。誰が淹れても「千寿」のコーヒーが再現できると人気です。
+『種子島産粗糖』と焼菓子と一緒に、ご自宅で、ゆっくりとお楽しみください。
+※この商品は「世田谷みやげ」指定事業所「千寿」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973453/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200331/pd_7046e105b11fd46f3700becfebf261cad4b04800.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-19家族で使えるねんどのハミガキ＆お風呂セット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">粘土鉱物「モンモリロナイト」のすぐれた吸着力が汚れや色素沈着、口臭を防ぎます。
+研磨剤、発泡剤、石鹸不使用で、歯と歯茎にやさしい歯磨き粉です。
+ねんどのソープと入浴剤が入った家族全員で使えるセットです。
+※この商品は「世田谷みやげ」指定事業所「株式会社ボディクレイ」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973454/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190628/pd_41d9177c396bce12f4e884a18c8889e53d8e706b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-20クレヨンの焼菓子ベストセレクション</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">シェフが一つ一つ丁寧に焼き上げたお菓子。
+世田谷みやげの「オリジナルクッキー」2枚に、尾山台のゆるキャラをモチーフの「オッポンサブレ」・人気のマドレーヌ「こぐまちゃんマドレーヌ」・まるでお芋の「さつまいものサブレ」の詰合せ。
+どのお菓子もやさしいお味の、お召し上がりやすいクレヨンの人気商品です。
+※この商品は「世田谷みやげ」指定事業所「パティスリークレヨン」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973455/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190628/pd_f5e83356493087a37880b9884e5cd9c8e2e18deb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-21パイ焼き窯　焼き菓子詰め合わせ</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">東京23区唯一の渓谷「等々力渓谷」のすぐそばで、良質な素材にこだわって、ひとつひとつ丁寧に作ったお菓子です。
+パイ焼き窯で人気の焼き菓子を詰め合わせにしました。
+いろいろな種類の焼き菓子をお楽しみください。
+※この商品は「世田谷みやげ」指定事業所「社会福祉法人はる 社会就労センター パイ焼き窯」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973456/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190628/pd_6cda58a1bc7109c21a8f5768ee2040a7a586686c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-22世田谷おこしセット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">歴史は平安時代の遣唐使にまで遡るという伝統菓子「おこし」。水飴と砂糖を煮立て、材料を入れて練り上げ、延ばして切断・乾燥という昔ながらのシンプルな製法で丁寧に作られるおこしは添加物なし。
+時代に合わせたふかふかの程よい硬さとコクが特徴です。
+※この商品は「世田谷みやげ」指定事業所「小島屋 菊田製菓」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973457/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200331/pd_7d9f8ee71e484f239729925a8d4b7ebdb73b71b8.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-23世田谷コスメ スキンケアセット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">世田谷に暮らす一般女性の皆様を中心に、お肌やスキンケアに対する悩みや要望を聞きながら商品開発が始まり、原料・テクスチャー・ボトルデザインの完成まで一緒に造っています。
+使う女性の皆様の声に応え続ける「ものづくり」が、理想の化粧品造りだと私たちは想っています。
+※この商品は「世田谷みやげ」指定事業所「株式会社 サルボ」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973458/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190628/pd_41d0fba1d82cdaee2582e46c2a9af90559559c7b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-24世田谷限定バウムクーヘンセット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">著名人のファンも多いことで知られる、1965年、世田谷生まれのヴィヨン。
+厳選素材を手で丁寧に焼き上げた生地は、風味豊かで口溶け良く、しっとり。水を飲まなくても食べられる“水なしバウムクーヘン”と評判です。
+※この商品は「世田谷みやげ」指定事業所「洋菓子ヴィヨン」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973459/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190628/pd_cf5020c9edb5c5de452c09bf190fac3fe8757ea6.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-25どら焼・サザエさんどら焼セット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">世田谷みやげの「どら焼」はお茶どら、杏どら、栗どらなど6種類。
+長谷川町子美術館のある桜新町で人気の「サザエさんどら焼」は、大和小豆のこし餡。外はしっとり優しいどら焼き生地です。
+※この商品は「世田谷みやげ」指定事業所「桜の杜 伊勢屋」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973460/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200331/pd_cde668ad1003af81011f8090ffd22db157741ccd.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-26ショコラ・ド・ISONOKE　おすすめ４点セット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">長谷川町子美術館公認のショコラ・ド・ISONOKE（チョコレート菓子）４袋の詰合せ。
+プラチノオリジナルのサザエさんボックスに入れてお届けします。
+※この商品は「世田谷みやげ」指定事業所「プラチノ桜新町店」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973461/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200331/pd_35de6bf1dc875e0ec33a25ae040cafce9549a565.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-27ふたこビール飲みくらべセット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">二子玉川生まれのローカルクラフトビール「ふたこビール」です。
+麦やホップをふんだんに使用して作りました。
+コクと香りをお楽しみください。
+※この商品は「世田谷みやげ」指定事業所「ふたこビール醸造所」の商品です。世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973462/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200331/pd_c98f7db4da900b68aac4847d0cf17ceadd408898.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-28プレミアムなプリン６コセット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">世田谷区内で平飼いされている希少な鶏“アローカナ”の「幸せの青い卵」を使用。
+マイルドなカラメルを使用することで栄養価の高い卵の風味が引き立ちます。ゆっくり蒸すことで下はあっさり、上は濃厚という2層仕立てに。
+優しい味わいながらしっかりとコクのあるプレミアムなプリン６コセットです。
+※この商品は「世田谷みやげ」指定事業所「パティスリーシュクレペール」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973463/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190628/pd_3d933fa6f4c631db6ba5472691c8f52c1fecfd4d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-29TIK TOK（ティック トック）世田谷ふるさと納税記念セット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">人気のキャンディーMIXと特製ロリポップのセットです。
+色とりどりのキャンディーはすべて手作り。豊かなフレーバーとサクサクの食感をお楽しみください。
+※この商品は「世田谷みやげ」指定事業所「TIK TOK（ティック トック）」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973464/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190628/pd_2ebef725896a7f156e326b1cbf0a4a69d0e28b9e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-30プレリアル成城　焼菓子セット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">「プレリアル成城」の人気の焼菓子の詰め合わせです。
+バターの香り豊かなクッキー生地で、クルミとアーモンドのキャラメルヌガーを包み込んだ「世田谷みやげ」のエンガディナーも入った、サブレ４種です。
+※この商品は「世田谷みやげ」指定事業所「プレリアル成城」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973465/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190801/pd_7e7883d2ec1a88d6f66df4df338be32f6d271c40.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-31モカロール　L</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">薄く丁寧に焼き上げたモカ生地で、薫り高いコーヒークリームを巻き上げました。
+「成城アルプス」創業以来の人気商品です。
+※この商品は「世田谷みやげ」指定事業所「成城アルプス」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973466/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190725/pd_ad99daa9d9bc9dd4c117a9d003aeb69997c6ffae.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-32成城プリン全８種類詰め合わせ</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">世田谷みやげ指定＋全国観光土産品推奨の「成城チーズプリン」や全国5位に選ばれた「とろける杏仁豆腐」を含む、成城プリン全8種類を詰め合わせました。
+※この商品は「世田谷みやげ」指定事業所「ティンラ成城」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973467/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200331/pd_1d1a7638a0fd7dde5c0dc32a4fc5bac1338f6831.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-33抹茶クリーム大福　20個入セット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">冷んやり、とろ～り、おいしい抹茶クリーム大福。
+良質な国産抹茶を使用し、お口の中で餡とクリームが溶け合い、甘さ控えめで、抹茶本来の程良い苦みと香りを楽しめる大福です。
+※この商品は「世田谷みやげ」指定事業所「まごころ銘茶　松田園」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973468/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200331/pd_40343afcae997d44fc3f14cd227950d95742e7fc.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-34ニシキヤ焼菓子セット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">独自の製法で、シルクのような舌触りで口どけのよい「バナナフルーツパウンド」と焼菓子の中で人気BEST５（１．レモンケーキ／２．くず粉を使ったショコラクッキー／３．エンガディーナ／４．シトロンレザン／５．世田谷ふわり）が入ったセットです。
+※この商品は「世田谷みやげ」指定事業所「コンディトライ・ニシキヤ」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973469/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190628/pd_52626997946a02a7d8ac5fd3e11a383348f0bdea.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-35成城ハニーと自家製ジャムの詰め合わせ</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">世田谷産のハチミツ成城ハニーと、自然栽培で育てた無農薬ダマスクローズのローズペタルジャム、完熟ブルーベリーで作ったブルーベリージャムの詰め合わせです。
+※この商品は「世田谷みやげ」指定事業所「宍戸園」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973470/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200331/pd_a9a142b59c5036ec8b2d46297e1b785d199e3f74.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-36せたがや育ちのフルーツジャムセット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">収穫してすぐのせたがや育ちの果物をジャムにしてお届けします。
+果実の味や香りが引き立つよう、果物に合わせシンプルに作りました。
+移り行く季節に合わせて種類が変わるジャムをお楽しみください。
+※この商品は「世田谷みやげ」指定事業所「烏山福祉作業所（工房asi）」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973471/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200331/pd_70194c553d7b22bda49a7c5abe96d85e12aeaa17.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-37フレッシュパンセ詰め合わせ　４種２０個入り</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">発売以来６０年以上愛され続ける「世田谷みやげ」のフレッシュパンセ。変わらぬおいしさのチーズバター、アンズジャムとその時々で変わる２種類の季節のお味をセットしました。
+※この商品は「世田谷みやげ」指定事業所「菓心　たちばな 千歳烏山本店」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13112/4973472/42">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190628/pd_6622d19268df0a86d60fb7373c7814c11d967f77.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">2-38スペシャルティコーヒー　味比べセット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">スペシャルティコーヒー専門店のコーヒーを４種飲み比べできます。
+中米産シングルオリジンは、その時に最適な物をお届けします。
+※この商品は「世田谷みやげ」指定事業所「モカジャバ」の商品です。
+世田谷にゆかりのある自慢の商品「世田谷みやげ」の情報は、観光情報サイト「エンジョイ！SETAGAYA」からご覧いただけます。
+https://www.kanko-setagaya.jp/</p>
+</div>
+</a>
+</li>
+</ul><ul class="goods_list">
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">東京都世田谷区</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text"></p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>申し込み後の内容変更・寄附金受領証明書・ワンストップ特例申請書</h3>
+<p>世田谷区財政課ふるさと納税対策担当<br/>
+TEL：03-5432-2190　FAX:03-5432-3011<br/>
+平日　8:30~17:15</p>
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</section>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">東京都世田谷区の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/13112/42?from=2&amp;gcf_project_id=1114"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,521,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g1114,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

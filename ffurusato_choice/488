@@ -1,0 +1,1981 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/488" />
+
+<title>収穫ロボットを導入したアスパラガスの最先端経営により楽しい農業を実践したい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="収穫ロボットを導入したアスパラガスの最先端経営により楽しい農業を実践したい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/488" />
+<meta property="og:description" content="佐賀県太良町に移住し、アスパラガス栽培をはじめたA-nokerの安東さんは、就農から３年ほどで、高品質ブランド「森のアスパラ」の栽培に成功し、平成29年度には佐賀県農業賞「若手経営者の部」最優秀賞・九州農政局賞を受賞、今年度は佐賀県のビジネスプランコンテストで優秀賞を受賞しました。雑誌やテレビでも数多く取り上げられ、4,000件強のファン（ネット注文）を抱えるまでに成長しています。来春から、安東さんは地元の深刻な過疎化、そして、耕作放棄地の問題を解決しようと、“アスパラガス”を軸にした新しいチャレンジに挑みます。美味しいアスパラガスを武器にして、みなさんのあたたかい応援を励みとして、大好きな太良のために笑顔で走り続ける安東さんへ、ご支援をよろしくお願いいたします。佐賀県太良町に移住し、アスパラガス栽培をはじめたA-nokerの安東さんは、就農から３年ほどで、高品質ブランド「森のアスパラ」の栽培に成功し、平成29年度には佐賀県農業賞「若手経営者の部」最優秀賞・九州農政局賞を受賞、今年度は佐賀県のビジネスプランコンテストで優秀賞を受賞しました。雑誌やテレビでも数多く取り上げられ、4,000件強のファン（ネット注文）を抱えるまでに成長しています。来春から、安東さんは地元の深刻な過疎化、そして、耕作放棄地の問題を解決しようと、“アスパラガス”を軸にした新しいチャレンジに挑みます。美味しいアスパラガスを武器にして、みなさんのあたたかい応援を励みとして、大好きな太良のために笑顔で走り続ける安東さんへ、ご支援をよろしくお願いいたします。※頂きました個人情報は、佐賀県より寄附先の起業家へ提供し、お礼の品の発送へ活用させていただきます。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20210125/d_1c86d11629e9b47c64fde3b71066e6e23a535b7c.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20210125/d_1c86d11629e9b47c64fde3b71066e6e23a535b7c.jpg" />
+<meta property="twitter:title" content="収穫ロボットを導入したアスパラガスの最先端経営により楽しい農業を実践したい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="佐賀県太良町に移住し、アスパラガス栽培をはじめたA-nokerの安東さんは、就農から３年ほどで、高品質ブランド「森のアスパラ」の栽培に成功し、平成29年度には佐賀県農業賞「若手経営者の部」最優秀賞・九州農政局賞を受賞、今年度は佐賀県のビジネスプランコンテストで優秀賞を受賞しました。雑誌やテレビでも数多く取り上げられ、4,000件強のファン（ネット注文）を抱えるまでに成長しています。来春から、安東さんは地元の深刻な過疎化、そして、耕作放棄地の問題を解決しようと、“アスパラガス”を軸にした新しいチャレンジに挑みます。美味しいアスパラガスを武器にして、みなさんのあたたかい応援を励みとして、大好きな太良のために笑顔で走り続ける安東さんへ、ご支援をよろしくお願いいたします。佐賀県太良町に移住し、アスパラガス栽培をはじめたA-nokerの安東さんは、就農から３年ほどで、高品質ブランド「森のアスパラ」の栽培に成功し、平成29年度には佐賀県農業賞「若手経営者の部」最優秀賞・九州農政局賞を受賞、今年度は佐賀県のビジネスプランコンテストで優秀賞を受賞しました。雑誌やテレビでも数多く取り上げられ、4,000件強のファン（ネット注文）を抱えるまでに成長しています。来春から、安東さんは地元の深刻な過疎化、そして、耕作放棄地の問題を解決しようと、“アスパラガス”を軸にした新しいチャレンジに挑みます。美味しいアスパラガスを武器にして、みなさんのあたたかい応援を励みとして、大好きな太良のために笑顔で走り続ける安東さんへ、ご支援をよろしくお願いいたします。※頂きました個人情報は、佐賀県より寄附先の起業家へ提供し、お礼の品の発送へ活用させていただきます。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,521,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="488" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">収穫ロボットを導入したアスパラガスの最先端経営により楽しい農業を実践したい！</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">収穫ロボットを導入したアスパラガスの最先端経営により楽しい農業を実践したい！</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1021">新産業・地域創生&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20210125/d_1c86d11629e9b47c64fde3b71066e6e23a535b7c.jpg" alt="main_img" decoding="async" />
+<img class="gcf-lyt-detail__complete" src="/gcf/images_cf/icon_goal_brown.png" alt="達成" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E5%8F%8E%E7%A9%AB%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%9F%E3%82%A2%E3%82%B9%E3%83%91%E3%83%A9%E3%82%AC%E3%82%B9%E3%81%AE%E6%9C%80%E5%85%88%E7%AB%AF%E7%B5%8C%E5%96%B6%E3%81%AB%E3%82%88%E3%82%8A%E6%A5%BD%E3%81%97%E3%81%84%E8%BE%B2%E6%A5%AD%E3%82%92%E5%AE%9F%E8%B7%B5%E3%81%97%E3%81%9F%E3%81%84%EF%BC%81&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F488">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">2,240,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph2" style="width: 112%;"></div>
+<p class="gcf-cht-detail-bar__number">112%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">2,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">112</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">95</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>佐賀県（さがけん）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="488" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2018年12月10日～2019年3月9日（90日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1034" class="sorting-list__item">食</a></li><li><a href="/gcf/project/tag/1035" class="sorting-list__item">山・農業</a></li><li><a href="/gcf/project/tag/1039" class="sorting-list__item">起業</a></li><li><a href="/gcf/project/tag/1041" class="sorting-list__item">技術革新/イノベーション</a></li><li><a href="/gcf/project/tag/1044" class="sorting-list__item">働き方・雇用</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1081" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_2.png 1x, /gcf/images_cf/sdg/sdg_icon_2@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_2.png" alt="SDGアイコン" decoding="async" />2.飢餓をゼロに</a></li><li><a href="/gcf/project/sdgs/1087" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_8.png 1x, /gcf/images_cf/sdg/sdg_icon_8@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_8.png" alt="SDGアイコン" decoding="async" />8.働きがいも経済成長も</a></li><li><a href="/gcf/project/sdgs/1088" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_9.png 1x, /gcf/images_cf/sdg/sdg_icon_9@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_9.png" alt="SDGアイコン" decoding="async" />9.産業と技術革新の基盤をつくろう</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="488" class="gcf-nv-tab__button js-tab">進捗情報
+<span class="gcf-nv-tab__button-progress-number">5</span>
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">佐賀県×A-noker（ええのうかー）</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20181121/o_d6a5d3638af66d5bc4ae2283946f4c6ff0f325c9.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">佐賀県太良町に移住し、アスパラガス栽培をはじめたA-nokerの安東さんは、就農から３年ほどで、高品質ブランド「森のアスパラ」の栽培に成功し、平成29年度には佐賀県農業賞「若手経営者の部」最優秀賞・九州農政局賞を受賞、今年度は佐賀県のビジネスプランコンテストで優秀賞を受賞しました。雑誌やテレビでも数多く取り上げられ、4,000件強のファン（ネット注文）を抱えるまでに成長しています。<br/>
+<br/>
+来春から、安東さんは地元の深刻な過疎化、そして、耕作放棄地の問題を解決しようと、“アスパラガス”を軸にした新しいチャレンジに挑みます。<br/>
+<br/>
+美味しいアスパラガスを武器にして、みなさんのあたたかい応援を励みとして、大好きな太良のために笑顔で走り続ける安東さんへ、ご支援をよろしくお願いいたします。<br/>
+<br/>
+佐賀県太良町に移住し、アスパラガス栽培をはじめたA-nokerの安東さんは、就農から３年ほどで、高品質ブランド「森のアスパラ」の栽培に成功し、平成29年度には佐賀県農業賞「若手経営者の部」最優秀賞・九州農政局賞を受賞、今年度は佐賀県のビジネスプランコンテストで優秀賞を受賞しました。雑誌やテレビでも数多く取り上げられ、4,000件強のファン（ネット注文）を抱えるまでに成長しています。<br/>
+<br/>
+来春から、安東さんは地元の深刻な過疎化、そして、耕作放棄地の問題を解決しようと、“アスパラガス”を軸にした新しいチャレンジに挑みます。<br/>
+<br/>
+美味しいアスパラガスを武器にして、みなさんのあたたかい応援を励みとして、大好きな太良のために笑顔で走り続ける安東さんへ、ご支援をよろしくお願いいたします。<br/>
+<br/>
+※頂きました個人情報は、佐賀県より寄附先の起業家へ提供し、お礼の品の発送へ活用させていただきます。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">就農時「農業は楽しい！」という人はいなかった</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">農業のイメージは３Ｋのままです</span></h3>
+<p class="gcf-txt-article">こんにちは、A-nokerの安東　浩太郎といいます。<br/>
+北九州出身、サラリーマン生活を経て、３４歳で妻のふるさと佐賀県太良町に移住し、超田舎の山の中で、“がばい美味しか”（佐賀弁でとてもおいしい！）アスパラガスを作っています。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181207/gpfd_829a09bb41676a305953cc622a5733e800def1db.jpg" />
+</figure>
+<p class="gcf-txt-article">私が農業をしているところは、こんな山の上です。<br/>
+目の前にはノリやカキを養殖するとても豊かな有明海が広がっています。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181207/gpfd_9bfb727c7e8dafa2882c00638f365b899407ee7f.jpg" />
+</figure>
+<p class="gcf-txt-article">みなさん、農業をはじめるって、どんなイメージですか？</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181207/gpfd_e9b25f16f4992a45ecf100ce691b71cb80728a66.jpg" />
+</figure>
+<p class="gcf-txt-article">５年前、ここから私の挑戦がはじまりました。農業未体験の私は一人山に入り、荒れたみかん畑を切りひらきました。<br/>
+<br/>
+チェーンソーを使ってみかんの木を伐採し、生い茂る草を払いました。<br/>
+<br/>
+アスパラガス栽培は、とにかく土づくりが命です。一度、栽培をはじめてしまうと、植え替えることはできません。もともと肥料成分がない粘土質の土でしたので、アスパラガスの根が深く、広く張るように、ユンボで深く耕し、有機たい肥を大量に投入しました。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181129/gpfd_0839872b2c12764efbb7e4ff56357f1b07980b3f.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181207/gpfd_efb6ccc1a9417e02cd82440c40214d3711d16928.jpg" />
+</figure>
+<p class="gcf-txt-article">アスパラガスの栽培は、有機肥料をたっぷり与え、苗を植え付け、追肥し、倒伏防止の支柱を立て、乾燥防止用のわらを敷き、雑草を抜き、病害虫や疫病が発生していないか入念にチェックする、という作業が必要になります。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181207/gpfd_0b13f546c023e968a1d9189c607774c1fb490939.jpg" />
+</figure>
+<p class="gcf-txt-article">夏の暑い日にハウスで雑草を抜いたり、腰をかがめて収穫をします。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181207/gpfd_1d797c75016492337c888ab2817a57e67c217308.jpg" />
+</figure>
+<p class="gcf-txt-article">なお、「新規就農者の就農実態に関する調査結果」（H29.3時点、全国農業会議所）によると、新規就農者にとっての農業は、「所得が少ない（55.9%）」「栽培計画・段取りがうまくいかない（19.8％）」と、まだまだよいイメージにはつながらないですね。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181204/gpfd_195c20866a7eb27008d70b25c7b34ba0206b4120.jpg" />
+</figure>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">「農業は楽しい！」を届けたい！</span></h3>
+<p class="gcf-txt-article">通常、アスパラガスは平地で栽培するのですが、私は山で栽培することを決め、美味しく育てるために多くの工夫を施しました。<br/>
+<br/>
+最初のうちは９棟あるハウスの肥料をバラバラにしてなるべく多くのデータをとりました。アスパラガスが美味しく育つ肥料の検証を繰り返ししたところ、１番美味しかったのは、太良町の特産であるカニやカキの殻を原料にした地元の有機肥料をつかったものでした。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181207/gpfd_a7d897c1a2f433c19e62b9e199fd17d7bcd0cf87.jpg" />
+</figure>
+<p class="gcf-txt-article">糖度が高いだけでなく、カニやカキの殻のおかげで、旨味成分であるアミノ酸含有量が高く、ミネラルたっぷりで、みずみずしく育ち、太良でしか作れないという付加価値を添えて「森のアスパラ」としてお客様へ届けることができるようになりました。<br/>
+<br/>
+多くの方に森のアスパラを手に取っていただき、農村の過疎化を食い止めたい。就農6年目の今年、私は自身のノウハウを最大限に取り入れた、A-nokerオリジナルトレーニングファームを建て、新規就農者が取りかかりやすい農業スタイルを目指すことを決意しました。 </p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181130/gpfd_386154b6a75a6415de4b57adfef8f68c782d1672.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">森の中にスマートなアスパラガスハウスを</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">新規就農者のため技術的ハードルを下げる</span></h3>
+<p class="gcf-txt-article">A-nokerオリジナルのトレーニングファームには、このような環境を整えます！</p>
+<h3 class="gcf-ttl-h3">①生産予測栽培システムの導入【2020年3月予定】</h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181207/gpfd_81ccff7607a3e4080530a1efa81888b01d93844a.png" />
+</figure>
+<p class="gcf-txt-article">常にハウスの状況を撮影し、センサーを使って日射量やハウス温度、温湿度、土壌水分、土壌地温など把握します。また、日別、ハウス別に追肥量、潅水量、収量を記録します。<br/>
+<br/>
+集積したデータと、実際の生育の状況を日々、突き合わせ、収穫タイミングを予測していきます。</p>
+<h3 class="gcf-ttl-h3">②収穫ロボットの実証実験【2019年3月（予定）】</h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181207/gpfd_6f6f34ecade67bf6b9f473c92e078c9b027fabd0.jpg" />
+</figure>
+<p class="gcf-txt-article">AI(人口知能)の深層学習を使った画像処理技術で、収穫適期の野菜や病害を判定し、おいしい状態のものを自動で収穫します。<br/>
+<br/>
+イメージ動画をご覧ください。</p>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lzZRdTVJRCE?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+<p class="gcf-txt-article">10年後には耕作放棄地30,000坪をトレーニングファームとして活用し、20人の移住就農経営者を生み出し、収量は30倍の200トンを目指します。</p>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">寄附金の使い道</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">みなさまからいただいた寄附金は、「①生産予測栽培システムの導入」で、アスパラガスハウスの自動灌水設備費用として使わせていただきます。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190308/offd_02b64ff3c0ab1069f7dacdaf0cec42396c84e05b.png" alt="寄附金の使い道" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">森の明日のために</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">仲間が集まればそこが産地になる！</span></h3>
+<p class="gcf-txt-article">移住者、元サラリーマンということもあり、私が就農したいと役場に相談に行ったときは反応は良くありませんでした。農家の先輩から「農業では食べられないよ」と言われたこともありました。<br/>
+<br/>
+A-nokerを立ち上げ、森のアスパラが順調に育ち、周りの方々やお客様から美味しいというお声をいただくようになったころに、近所の方や先輩農家さんからも、安東くん頑張っているね、と気にかけて声をかけてくれるようになりました。</p>
+<div class="exlink01 mT8 text-right txt-link"><a target="_blank" class="inline i-arrow" href="http://a-noker.com/">【A-noker Webサイトはこちら】</a></div><div style="clear: both;"></div>
+<p class="gcf-txt-article">よく聞かれるのですが、なぜそこまでして中山間地域でのアスパラガス栽培にこだわったのか。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181130/gpfd_832a3854b4b16caa77eb4ea2ef92d0078e76801b.jpg" />
+</figure>
+<p class="gcf-txt-article">これはやはり、海と山がとても近い太良町では漁業に携わる方も多く、農家さんだけでなく、漁業者の方からも「太良の一次産業が衰退する中、海と山も協力して盛り上げていかないといけない。安東君、山をどんどん盛り上げて。その為の協力はするから」と嬉しい声をかけてもらえるからだと思います。<br/>
+<br/>
+どうにかして1次産業の衰退、過疎化といった問題を解決したく、思いついたのが、同じ志を持ったアスパラガス栽培の経営者を育てることです。私のハウスを中心に、周辺の山を開墾し、新しい経営者に森のアスパラの栽培ノウハウを提供したいと思っています。</p>
+<p class="gcf-txt-article">実際に私がアスパラガス栽培にチャレンジしていることに共感し、私の農園で就農、栽培技術を学んでいる冨士川さんが来たときは、私が就農した時と比較すると役場をはじめ周りがとても協力的でした。私が時期や環境の変化、技術が必要になるタイミングで的確な指導をすることで冨士川さんは基本的な栽培管理はこの1年でほとんどできるようになりました。<br/>
+<br/>
+冨士川さんが来たことで、一緒に相談できる仲間が増えたので、より良い栽培環境になっています。同じ志の仲間が増えていけば、農業に興味をもつ若者、就農希望者たちが集まる拠点をつくることができます。やる気のある若者たちと、新しい農業にチャレンジし楽しく実践していきたいです。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181207/gpfd_abf6f7fb402ef870763e3eb8dba5ee18d0f79e5c.jpg" />
+</figure>
+<p class="gcf-txt-article">「森のアスパラ」として独自ブランド化したことで、高級料理店のシェフやお客様に高評価をいただいています。認知度が上がると、政府や行政から注目され、視察にもみえられます。太良という田舎町に様々な関係者が訪れることで町自体が盛り上がっていくことを期待しています。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181129/gpfd_d3e78ace9fe14e14cef6cbc1f8abc10ddc440ccb.jpg" />
+</figure>
+<h3 class="gcf-ttl-h3">■職業の選択肢のひとつに農業を</h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">これが今後のスケジュールです。前例のない超省力化アスパラガスの生産拠点で、「やってみたい！」と思ってもらえる農業を目指します！</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">【2019年】<br/>
+3月：収穫ロボット実証実験<br/>
+4月：研修生受け入れ（熊本1名、福岡より1名移住）<br/>
+6月：収穫ロボット導入ハウス建設開始<br/>
+7月：収穫ロボット試験導入予定（既存農園）<br/>
+<br/>
+【2020年】<br/>
+1月：生産予測栽培システム、収穫ロボット運用開始予定　　<br/>
+<br/>
+森に寄り添って、これからも楽しく、大きく成長していきたいと思います。ご支援をどうぞよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">事業に携わる方の思い</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">佐賀県産業労働部長　志岐 宣幸</span></h3>
+<h3 class="gcf-ttl-h3">■新たなチャレンジがイノベーションを生み出す佐賀県へ</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181130/gpfd_0a6cdc555d84451a413125b8c894612821281609.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">A-noker代表の安東さんは、栽培が難しい中山間地域でのアスパラ栽培に敢えて挑戦し、その「森のアスパラ」は、わずか３年あまりで、高級レストラン等で取り扱われるまでになりました。<br/>
+<br/>
+そして、安東さんは、次のステージとして、これまで誰もがやったことのない最新技術の活用によるアスパラの予測栽培環境システムの開発という農業現場にイノベーションを起こす取組にトライされています。また、ご自身がモデルとなり、新規就農者が参入しやすい環境を整え、佐賀への人の流れをつくり出す取組もお考えです。<br/>
+<br/>
+これらの取組については、佐賀県と佐賀県ベンチャー交流ネットワークが開催した平成30年度の「さがラボ・チャレンジカップ」（ビジネスプランコンテスト）でも高く評価し、優秀賞に選定したところです。<br/>
+<br/>
+安東さんのように、佐賀の産業を盛り上げていく人が集い、輪となり、未来の子どもたちに、佐賀のすばらしさとチャレンジすることの大切さを伝えていただくことは、佐賀県としても、とてもありがたいことです。<br/>
+<br/>
+佐賀から全国へ、佐賀から世界へ発信できる事業に育っていただくことで、佐賀も元気になります。<br/>
+<br/>
+新たなチャレンジがイノベーションを生みだす佐賀県となるよう、私どもも取り組んでまいりますので、皆さまのご支援をよろしくお願い申し上げます。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">ｉｎａｈｏ株式会社 代表取締役CEO　菱木 豊さん</span></h3>
+<h3 class="gcf-ttl-h3">■今までの農業を一緒に変えよう</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181121/gpfd_14418880b055e713739367b593f76e64626dbfdc.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">今まで誰もやったことがないことをやるためには、先ず初めてのことを受け入れてくれる方が必要です。安東さんは、我々の収穫ロボットが初めて圃場で収穫することを、快く受けてくださいました。<br/>
+<br/>
+今までの農業を変えないといけない。多くの方が考えていますがいざ行動するときに躊躇なく未来をつくるためにリスクを張れる人はそう多くはないと考えております。<br/>
+<br/>
+我々はロボットを軸として、今までにない農業経営を収穫ロボットだけでなく、幅広いテクノロジーを農業に注入していく予定です。そのためには協力者が必要です。<br/>
+<br/>
+我々にとって安東さんは、一緒に初めての取組みを行っている強力なパートナーです。そして安東さんからより多くの農家さんに新たな農業経営の形を伝播していただけることと期待しております。<br/>
+佐賀から世界へ新たな農業経営を一緒に伝えていきたいです。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">熊本からの移住者　冨士川さん</span></h3>
+<h3 class="gcf-ttl-h3">■美味しいアスパラに感動して</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181121/gpfd_17d369472cd6e07a3398d100f4882b4652cebe95.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">友人に転職の相談をしていた時に、転職に何を求めているかを整理して考えると、いくつかキーワードが出てきたんです。「大金を稼ぎたいわけではない」「やりがいがあることをしたい」「ずっとやり続けられる仕事が良い」「人の役に立つ職業に就きたい」「周りの人に良かったと言われる仕事をしたい」こうやって出てきたキーワードが、どれも農業に当てはまるんです。モノを生み出すことがやりたかったんですね。美味しいもの作ったら喜ばれますから。そこで出会ったのが安東さんがつくる森のアスパラでした。<br/>
+<br/>
+今、移住して研修中ですが、全く後悔はしていないですね。もちろん、日々いろんなことがあるので、不満に思うことが全くないわけではないです。ただ、それは些末なことで、ここでやれて良かったですし、感謝しかないですね。普通に考えて、突然訪ねてきた人間を、田舎の農家が受け入れてくれること自体そんなにない話なんです。他で出会った農家には「農業やるなんて、やめとけやめとけ」と言われたことの方が多かったですよ。<br/>
+<br/>
+でも、今の安東さんの取り組みが結果を残せば、「やめとけ」だったのが「大歓迎」になるわけで素晴らしい循環ですよね。私も今は研修生という立場ですが、一人前になったら、もちろん一緒に仲間をふやしていきたいですね。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">住民の声</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">太良町の先輩農家 太良シトラス会 会長　早津 昌俊さん</span></h3>
+<h3 class="gcf-ttl-h3">■元気な農家がそこにいることが町おこし</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181130/gpfd_775045d2cfb5b3eec04d27477a013a22f1cdaccf.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">移住して、新規就農を実現させ、町に活気を与えてくれていると思います。<br/>
+新たに何かをやりたい、太良町に興味がある、移住をしたい<br/>
+そんな方が少しずつ増えてきているように感じます。<br/>
+これからも一緒に活動することで、仲間が増え、どんどん、農業が、一次産業が、この町が楽しくなる。そんな確信に近い期待がありますよ。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">お礼の品をご紹介</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">A-noker応援</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">【New】経営ノウハウ伝授権</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">週刊ダイヤモンドの農家ランキングで6位に選出された、A-nokerが取り組んできた農家経営のノウハウを、プロ編集者の協力のもと、コンテンツにしてご提供します。<br/>
+行政から企業までどのように協力者を巻き込んだのか、ITを活用した生産・販売の試行錯誤・・・A-nokerが経験してきた様々な取り組みをぜひお役立てください！</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210125/offd_9de5c00d4718f4af07221beb01e986944b6c4471.jpg" alt="【New】経営ノウハウ伝授権" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">【New】「森のアスパラ」ケータリング</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">「森のアスパラ」をみんなで味わいたい！という企業、団体、大家族などのみなさまへ。<br/>
+地域食材の魅力を最大限に引き出すシェフとタッグを組み、あなたのもとへ森のアスパラと太良町食材でつくる最高の料理をお届けします！<br/>
+※8名様まで。交通費は別途となります。<br/>
+※実施日は応相談となり、ご寄附いただきましたら、相談の上、日時を調整させていただきます。<br/>
+※写真は例となり、シェフや料理は日程や場所によって都度調整となります。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190307/offd_98a9094d3be49ea8b2be68d4db17abe314435950.jpg" alt="【New】「森のアスパラ」ケータリング" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">①A-nokerオリジナルポストカード</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">朝夕収穫するアスパラのハウスの中はまるで竹林にいるみたいなんです。そこから生まれた素敵なお話しA-nokerオリジナル『たべるえほん』のポストカードをお届けします。<br/>
+<br/>
+※画像はイメージです</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181130/offd_cfee2c73bdb6ec7fbe2f694a65344a19bfb6c506.jpg" alt="①A-nokerオリジナルポストカード" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">②森のアスパラとアスパラが酢(試供品)セット</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">採れたて直送、リピーター続出の朝採れ「森のアスパラ」８００グラムをお届けします。<br/>
+<br/>
+また、現在、開発中のアスパラガスを使ったお酢のサンプルをお届けします。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181130/offd_30d3a650ca0ac59288b79157444f2ed9cbf2072f.jpg" alt="②森のアスパラとアスパラが酢(試供品)セット" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">③森のアスパラと『たべるえほん』の食育・読育セット</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">採れたて直送、リピーター続出の朝採れ「森のアスパラ」８００グラムをお届けします。<br/>
+<br/>
+『たべるえほん』は「竹取物語」をモチーフにしてつくった素敵な絵本です。子どもたちに読み聞かせたあとに、絵本の中に出てきた食べ物がその日の食卓に出てきたら、きっと喜んでくれるはず！ </p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181130/offd_7d0e542018b1198682df26b7b16ec7e099503fea.jpg" alt="③森のアスパラと『たべるえほん』の食育・読育セット" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">④森のアスパラ(春アスパラと夏アスパラ)と『たべるえほん』、アスパラが酢(試供品)セット</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">採れたて直送、リピーター続出の朝採れ「森のアスパラ」８００グラムをお届けします。<br/>
+<br/>
+また、A-nokerオリジナル絵本『たべるえほん』とアスパラガスを使ったお酢のサンプルをお届けします。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181206/offd_2d17009b9ca4b8936c40193b09090bfc7c092f69.jpg" alt="④森のアスパラ(春アスパラと夏アスパラ)と『たべるえほん』、アスパラが酢(試供品)セット" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">⑤森のアスパラ収穫体験チケット</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">森のアスパラの農場見学と収穫体験です。<br/>
+３月～４月または６月末～９月の間のいずれかの日に約１時間。<br/>
+是非A-nokerのこだわりを見て触れて、食べて感じてください！</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181206/offd_a5b058217dff296cdb4279be159dc194d1db417d.jpg" alt="⑤森のアスパラ収穫体験チケット" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">⑥森のアスパラ定期便</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">採れたて直送、リピーター続出の朝採れ「森のアスパラ」８００グラムを３月、４月、６月、7月、８月、９月にお届けします。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181130/offd_bf4261e7de838824cf5bb48a0ccc506c88d4d443.jpg" alt="⑥森のアスパラ定期便" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">⑦A-nokerが講演に行きます！</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">森のアスパラの生産技術の話、地域づくりの話、新規就農の話、アスパラお料理の話など、ご希望に沿うように、お話しさせていただきます。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181206/offd_77e83b17b9c44ff6dac5f7b3a4574cbb0046ca55.jpg" alt="⑦A-nokerが講演に行きます！" />
+</div>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">お礼の品一覧</span></h3>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41000/4579795/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210125/pd_4720bfad7e54a1236288f4083817556dd3032fb5.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">経営ノウハウ伝授権</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>ガバメントクラウドファンディング開催期間</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>応相談</p>
+</div>
+<p class="goods-col_textinfo pc">週刊ダイヤモンドの農家ランキングで6位に選出された、A-nokerが取り組んできた農家経営のノウハウを、プロ編集者の協力のもと、コンテンツにしてご提供します。
+行政から企業までどのように協力者を巻き込んだのか、ITを活用した生産・販売の試行錯誤・・・A-nokerが経験してきた様々な取り組みをぜひお役立てください！</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41000/4579796/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190307/pd_abcabe9391a8951116a3b61353474500e4044ce8.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">「森のアスパラ」ケータリング</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>ガバメントクラウドファンディング開催期間</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>実施日は応相談。ご寄附後、相談の上、日時を決定。</p>
+</div>
+<p class="goods-col_textinfo pc">「森のアスパラ」をみんなで味わいたい！という企業、団体、大家族などのみなさまへ。
+地域食材の魅力を最大限に引き出すシェフとタッグを組み、あなたのもとへ森のアスパラと太良町食材でつくる最高の料理をお届けします！
+※写真は例となり、シェフや料理は日程や場所によって都度調整となります。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41000/4552044/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181205/pd_d70358af3c76fea36f718b91ce5328677fbb34d5.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">A-nokerオリジナルポストカード</h4>
+<p class="goods-col_price inline">5,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>ガバメントクラウドファンディング開催期間</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>３月末～4月</p>
+</div>
+<p class="goods-col_textinfo pc">朝夕収穫するアスパラのハウスの中はまるで竹林にいるみたいなんです。
+そこから生まれた素敵なお話し「竹取物語」×「森のアスパラ」の『たべるえほん』オリジナルポストカードをお届けします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41000/4552045/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181205/pd_2c096c782091aea2ac46b8e1e872d8236c0d82db.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">森のアスパラとアスパラが酢（試供品）セット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>ガバメントクラウドファンディング開催期間</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>３月末～4月または６月から９月</p>
+</div>
+<p class="goods-col_textinfo pc">採れたて直送、リピーター続出の朝採れ「森のアスパラ」をその日のうちに発送いたします。多いかなと思っても、和・洋・中と何にでも合わせやすいアスパラガスですので美味しく召し上がっていただけます。この機会に、是非、お試しください。
+また、現在、開発中のアスパラガスを使ったお酢のサンプルを同梱します。アスパラガスを収穫するときに、長さをそろえるために切り落とされる根元の部分を使ったA-nokerオリジナルのお酢です。佐賀で1832年から続く醸造酢メーカー右近酢さんと共同開発しています。お試しいただきましたら、そのご感想やご要望などを同封のアンケートへご回答いただければ大変ありがたいです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41000/4552046/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181205/pd_ddc6f47b3b77995594f2fef4d3a6f7fd7a306ca5.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">森のアスパラと『たべるえほん』の食育・読育セット</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>ガバメントクラウドファンディング開催期間</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>３月末～4月または６月から９月</p>
+</div>
+<p class="goods-col_textinfo pc">採れたて直送、リピーター続出の朝採れ「森のアスパラ」をその日のうちに発送いたします。多いかなと思っても、和・洋・中と何にでも合わせやすいアスパラですので美味しく召し上がっていただけると思います。この機会に、是非、お試しください。
+朝夕収穫するアスパラのハウスの中はまるで竹林にいるみたいなんです。『たべるえほん』はその光景から「竹取物語」をモチーフにしてつくった素敵なお話です。絵本を読み聞かせたあとに、絵本の中に出てきた食べ物がその日の食卓に出てきたら、子どもたちはきっと喜んでくれるはず！
+佐賀県の美味しいものを、食育×読育で興味をもっていただきたいです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41000/4552047/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181207/pd_6740d91afc39d31fa570a5af412087d5192db0fb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">森のアスパラ（春アスパラと夏アスパラ）と『たべるえほん』、アスパラが酢（試供品）セット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>ガバメントクラウドファンディング開催期間</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>３月末～4月に１回春アスパラをお届け
+６月～９月に１回夏アスパラをお届け
+『たべるえほん』とアスパラが酢は３月末～4月にお届け</p>
+</div>
+<p class="goods-col_textinfo pc">土からぴょこん、ぴょこんと顔を出している春アスパラは、とてもやわらかくて、あまいのが特徴です。春アスパラの時期が終わったら、アスパラを伸ばしてどんどん成長させて、夏アスパラ収穫準備にはいります。なんと、アスパラを２メートルくらい大きく育てるんですよ！その根元からまた “ちょこん”と芽を出すのが夏アスパラです。お料理に加えていただくと、夏に最適なみずみずしく、すっきりとした味わいをお楽しみいただけます。
+春芽と夏芽の味比べができるコースです。ぜひ、体験に基づくアスパラについてのうんちくを増やしてみませんか！
+『たべるえほん』は、朝夕収穫するアスパラのハウスの中はまるで竹林にいるみたいですので、「竹取物語」をモチーフにして素敵なお話しをつくりました。絵本を読み聞かせたあとに、絵本の中に出てきた食べ物がその日の食卓に出てきたら、子どもたちはきっと喜んでくれるはず！
+また、現在、開発中のアスパラガスを使ったお酢のサンプルをお届けします。アスパラガスを収穫するときに、長さをそろえるために切り落とされる根元の部分を使ったA-nokerオリジナルのお酢です。佐賀で1832年から続く醸造酢メーカー右近酢さんと共同開発しています。お試しいただきましたら、そのご感想やご要望などを同封のアンケートへご回答いただければ大変ありがたいです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41000/4552048/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181207/pd_2f94fcad78e91c714d4c3606d77debdd2c7d10ae.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">森のアスパラ収穫体験チケット</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>ガバメントクラウドファンディング開催期間</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>３月～4月又は６月末～９月の間のいずれかの日に約１時間</p>
+</div>
+<p class="goods-col_textinfo pc">森のアスパラの農場見学と収穫体験です。３月～４月又は６月末～９月の間のいずれかの日に約１時間、A-nokerのハウスにお越しいただき、実際に収穫を体験いただきます。
+採り方のコツ、美味しいアスパラの見分け方なんでも聞いてください！そして、こだわりをアスパラに触れて、採って、食べてみてください！
+採れたての生アスパラをほおばると、きっと「うま～い」の声が飛び出ることでしょう！大人も子どもも、おじいちゃんもおばあちゃんも、みんなで身体を動かして、一緒に収穫の喜びを味わってみませんか！</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41000/4552049/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181205/pd_3440800e038f36d2d33d5147d9ba446998ae0a00.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">森のアスパラ定期便</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>ガバメントクラウドファンディング開催期間</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>年６回（３月、４月、６月、７月、８月、９月）</p>
+</div>
+<p class="goods-col_textinfo pc">採れたて直送、リピーター続出の朝採れ「森のアスパラ」をその日のうちに発送いたします。３月、４月の春芽はやわらかく、あまく、６月から９月の夏芽はみずみずしいのが特徴です。
+産地直送だから自信をもって、品質、鮮度の高い森のアスパラを定期的にお届けします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41000/4552050/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181207/pd_49d30d8981e03e4abd3f6efded6f16e034f9ab37.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">A-nokerが講演にいきます！</h4>
+<p class="goods-col_price inline">1,000,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>ガバメントクラウドファンディング開催期間</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>講演日時は応相談。ご寄附いただきましたら、お打合せの上、日時を決定させていただきたいと思っております。</p>
+</div>
+<p class="goods-col_textinfo pc">森のアスパラの生産技術の話、地域作りの話、新規就農の話、アスパラお料理の話など、ご希望に沿うようにお話させていただきます！熱い思いを言葉に乗せて、私からのメッセージがみなさまに届くように頑張ってお話させていただきます。
+聞き手のみなさまにご満足いただけるように、そして、ご要望に合うように事前にお打合せをさせていただき、準備を進めていければと思っております。
+なお、別途、現地までの交通費、宿泊費がかかりますので、あらかじめご了承ください。</p>
+</div>
+</a>
+</li>
+</ul><ul class="goods_list">
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<ul class="gcf-lst-bx" id="progress_list">
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2019年09月11日 18:00</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">【御報告】自動灌水設備の整備がスタートしました。</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20190910/t_14e7193354598d70f88f2b3e6f5cd664d2f7e4ee.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">佐賀県太良町のA-noker 安東さんは、今年の春に省力化ハウス建設に着手し、現在『自動灌水設備』の整備に着手しています。整備費用は佐賀県を通じてふるさと納税でのご寄付が活かされています。その最新レポートです♪<br/>
+<br/>
+4月に耕作放棄地を開墾し、5月にアスパラガス用に土作りをスタートした安東さんのアスパラハウスでは、6月に5,400株のアスパラガスを新植。9棟の既存ハウスに加えて新たに6棟が建ちました。<br/>
+<br/>
+アスパラガスは定植すると10年は植え替えなしのため、日々、入念に成長具合をチェックする必要があります。安東さんがハウスに顔を出すたび、新芽が細いながらも成長し、今ではワッサワッサと繁茂するほど。アスパラの成長に胸が高鳴ります。<br/>
+<br/>
+そして、8月、新ハウスで『自動灌水設備』の整備がはじまりました！ご寄附を活用して導入するのはハウスの天井にスプリンクラーを取り付ける『頭上灌水』です。地上での灌水という手段も設けますが、ハウス全体にやさしい霧雨が降るように、ムラなく均一に灌水できるのは頭上灌水ならでは。導入により一株一株ジョウロで散水する作業が省かれ、最適のタイミングで最適の栄養を与えることができるようになります。多良岳山系の水をたっぷり吸った、みずみずしくおいしい『森のアスパラ』に育ってほしいですね。初収穫は、来年5月の予定です！</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-info__image">
+<div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20190910/1_e4c684d9e3c7a7714aa63d4e83398cfc636f41e0.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20190910/1_e4c684d9e3c7a7714aa63d4e83398cfc636f41e0.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20190910/2_a378537cac61f4d2095bcd5a7fd5aaa237b54cc5.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20190910/2_a378537cac61f4d2095bcd5a7fd5aaa237b54cc5.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20190910/3_5c77633d8dbe845ad70fc5d656abe2ad1bc79adb.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20190910/3_5c77633d8dbe845ad70fc5d656abe2ad1bc79adb.jpg" /></a>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="https://www.facebook.com/anoker/" target="_blank">A-noker facebookページ</a></li>
+<li class="gcf-txt-link"><a href="http://a-noker.com/" target="_blank">A-noker Webサイト</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="325" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="325">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="325">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F488%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2019年05月20日 19:00</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">【御報告】収穫ロボット導入ハウスの新設に向けて、はじまりました♪</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20190520/t_defb8f3edd7d37eff59f7bacef3aa3badbaeb89a.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">皆さまのおかげで夢に近づいた佐賀県太良町A-noker安東さん。いよいよ「収穫ロボットを導入したアスパラガスの最先端経営により楽しい農業を実践する」プロジェクトが、動きはじめました！<br/>
+<br/>
+安東さんにとっては、人生２回目の、荒れた山の開墾。収穫ロボットが作業しやすい工夫をほどこした最先端省力化アスパラガスハウス整備に向けて、いよいよスタートです！<br/>
+太くて美味しいブランド『森のアスパラ』を育てるためには、土をふっかふかにすることが大切です。<br/>
+現在、この基礎である土づくりにチャレンジしている安東さん。<br/>
+４月からの進捗情報をお届けします！<br/>
+<br/>
+---<br/>
+こんにちは！A-nokerの安東浩太郎です。<br/>
+<br/>
+【４月４日】新設ハウスを建設するため土地を開きました＾＾<br/>
+耕作放棄地の開拓レシピ　～下地づくり～<br/>
+①草を払います。<br/>
+②草の種や根っこがある表土を重機で集め、地中深くに埋めます。<br/>
+　それと同時にきれいで石の少ない土を掘り出し、山にして置いておきます！<br/>
+③石が多く出てくる所は埋め立ての土台とするため、土手に落としておきます。<br/>
+④最後に、山にしておいたきれいな土を表土として覆い、平らになるように整地します！<br/>
+　ここからさらにコルゲート工事に入り堆肥を投入していきます！<br/>
+<br/>
+【４月２０日】畑に有機堆肥を投入しはじめました(^^)<br/>
+堆肥２６０トン。2トンダンプで130台<br/>
+どんだけいれんねん！笑<br/>
+と突っ込みたくなる量♪<br/>
+投入後はユンボ（重機）で深く耕します！<br/>
+<br/>
+【５月２０日】ハウス建て込み開始しました。<br/>
+１５日からハウス資材を搬入し、１７日から３日目で基礎工事完了（^^）。<br/>
+基礎工事は、最短距離で進んでおります。目指せ６月アスパラ定植♪<br/>
+<br/>
+既存ハウスでは、６月中旬ころから夏アスパラがはじまります。　<br/>
+しっかり美味しいアスパラに仕上げます！<br/>
+---<br/>
+<br/>
+お読みいただきありがとうございました！<br/>
+今後とも、安東さんを応援いただきますようお願い申し上げます。<br/>
+<br/>
+佐賀県のクラウドファンディング型ふるさと納税は、佐賀県と佐賀県ベンチャー交流ネットワークが開催するビジネスプランコンテスト「さがラボ・チャレンジカップ」の受賞特典です。<br/>
+今年度のコンテストのエントリー受付が開始しました。<br/>
+安東さんのように、「佐賀県でイノベーティブなことにチャレンジしたい！」と考える方が、今年度も果敢にエントリーしていただくことをお待ちしています。<br/>
+※ご興味あられる方は下記の関連リンク「さがラボ・チャレンジカップ」から詳細をご覧ください！</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-info__image">
+<div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20190520/1_914e8c63703c3c2cde396bb0d2a26a72fb89ba50.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20190520/1_914e8c63703c3c2cde396bb0d2a26a72fb89ba50.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20190520/2_8b8a4fb865a71113a32218fcf5cb952eb27b7c4c.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20190520/2_8b8a4fb865a71113a32218fcf5cb952eb27b7c4c.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20190520/3_094c1dce36ced7be4394b3a6d1e5063aaf83523d.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20190520/3_094c1dce36ced7be4394b3a6d1e5063aaf83523d.jpg" /></a>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="https://www.facebook.com/anoker/" target="_blank">A-noker facebookページ</a></li>
+<li class="gcf-txt-link"><a href="http://a-noker.com/" target="_blank">A-noker Webサイト</a></li>
+<li class="gcf-txt-link"><a href="https://saga-lab-challenge.jp/" target="_blank">さがラボ・チャレンジカップ</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="254" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="254">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="254">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F488%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2019年04月01日 20:00</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">【御報告】一部、御礼の品の発送がスタートしました。</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20190401/t_cdba91df60cbce454aa1108e4abef75c08528ae9.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">春到来！佐賀県太良町のA-noker安東さんのアスパラガスがいよいよ収穫シーズンを迎えました。<br/>
+<br/>
+御寄付をいただいた方へのお礼の品の発送が、一部、スタートしました。これから順次、届きますので、楽しみにお待ちください！<br/>
+<br/>
+安東さんが取組む「収穫ロボットなどを用いた最先端アスパラ栽培の実証プロジェクト」は、2019年度に新たなステージに入ります。 ５月には収穫ロボット専用のハウスの建設がはじまり、６月にはアスパラを定植。８月以降には、自動灌水設備の導入を予定しています。<br/>
+<br/>
+お礼の品をA-noker安東さんとの架け橋として、今後も引き続き、実証プロジェクトにご関心をお寄せいただけますと幸いです。<br/>
+<br/>
+実証プロジェクトの進捗については、またこの「進捗情報」ページでお知らせいたします。<br/>
+今後も応援よろしくお願いします！</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="https://www.facebook.com/anoker/" target="_blank">A-noker facebookページ</a></li>
+<li class="gcf-txt-link"><a href="http://a-noker.com/" target="_blank">A-noker Webサイト</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="227" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="227">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="227">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F488%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2019年03月09日 14:45</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">【御報告】目標の達成ができました。御支援に心からの感謝を申し上げます。</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20190309/t_6bbc796441f61c4eddf2d2c34df868a1b8b398eb.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">３か月間のチャレンジで目標金額を達成した、<br/>
+佐賀県太良町のA-noker安東さんからメッセージが届きました。<br/>
+<br/>
+---<br/>
+約3ヶ月間取り組んできたGCFですが、<br/>
+最終日にして、200万円という目標金額を達成しました！<br/>
+<br/>
+もう少しで100名!!!<br/>
+現在92名もの方にご支援をいただいており、<br/>
+今後の日本の農業に期待をもち、<br/>
+私たちといっしょにワクワクしていただける<br/>
+そんな方がこんなにもいらっしゃる<br/>
+その喜びを噛み締めております。<br/>
+<br/>
+ご支援を頂いたみなさま<br/>
+シェア、拡散、応援をして頂いたみなさま<br/>
+裏方でいろいろと取り組んで頂いたみなさま<br/>
+<br/>
+本当にありがとうございます^^<br/>
+---<br/>
+<br/>
+クラウドファンディング型ふるさと納税は、<br/>
+佐賀県と佐賀県ベンチャー交流ネットワークが開催した<br/>
+平成30年度「さがラボ・チャレンジカップ」（ビジネスプランコンテスト）の受賞特典です。<br/>
+ぜひ、今後も安東さんの挑戦を身近に感じていただきますようお願い申し上げます。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="https://www.facebook.com/anoker/" target="_blank">A-noker facebookページ</a></li>
+<li class="gcf-txt-link"><a href="http://a-noker.com/" target="_blank">A-noker Webサイト</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="197" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="197">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="197">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F488%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2019年03月07日 20:30</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">終了まで残り３日！ご要望にお応えして、新規お礼の品「経営ノウハウを伝授権」と「森のアスパラ ケータリング」を追加しました！</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20210125/t_0433ed856f513981b1b4285db62d2e51c4b96868.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">プロジェクト寄附受付の終了まで、残り３日となりました！<br/>
+最後の最後まで目標金額達成を、そして、プロジェクト完遂を諦めずにチャレンジしていきます。<br/>
+<br/>
+最近、寄附者の皆さんとお話していて、<br/>
+農業に取り組まれている方からは「A-nokerの経営ノウハウを学び、自分も実践したい」だったりとか、<br/>
+ベンチャー仲間の方からは「森のアスパラを一番美味しい方法で食べてみたい」といった声を頂きました。<br/>
+<br/>
+そこで、ご要望にお応えして…<br/>
+・経営ノウハウ伝授権（2万円～）<br/>
+・「森のアスパラ」ケータリング（5万円～）<br/>
+の２つの新規お礼の品を追加しました！<br/>
+<br/>
+自分のこれまでの経営ノウハウを人にお伝えするのは難しいことかもしれませんが、チャレンジしてみます。<br/>
+ケータリングは、地域食材の魅力を最大限に引き出すシェフとタッグを組み、寄附者の方々へ「森のアスパラ」と「佐賀県太良町食材」でつくる最高の料理をお届けできるかと思います！<br/>
+<br/>
+是非 新規のお礼の品も選択いただき、A-nokerのチャレンジを応援してください ^^</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-info__image">
+<div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20190307/2_5629109c18be9ab70adcc5809f382ed9c0f3f415.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20190307/2_5629109c18be9ab70adcc5809f382ed9c0f3f415.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20190307/3_f6aca34ac3856322acf74a452e9e2758571c2541.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20190307/3_f6aca34ac3856322acf74a452e9e2758571c2541.jpg" /></a>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="https://www.furusato-tax.jp/gcf/488#products_list" target="_blank">本プロジェクトのお礼の品一覧</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="195" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="195">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="195">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F488%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+</ul>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">佐賀県</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__image"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20181121/m_7f930ba74031c1a7b39402cdf1a9dcf1e47b5f16.jpg" /></div>
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">佐賀県は、北は玄界灘、南は有明海にはさまれ、中央には佐賀平野が広がります。自然豊かで食材に恵まれ、本物のごちそうがあります。透き通るほど新鮮な「呼子のイカ」、美しいサシが魅力のブランド牛「佐賀牛®」、日本三大美肌の湯「嬉野温泉」でつくるまろやかな温泉湯豆腐、潮の香とクリーミーな旨味が口いっぱいにひろがる「カキ」、日本一の生産を誇る「佐賀海苔®」などいただけます。また発祥400年の歴史を誇る世界のうつわ「有田焼」が、料理を引き立てます。五感を刺激する”ごちそう”を味わいに佐賀へお越しください。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">安東さんご夫婦の笑顔が素敵です！<br/>
+これくらいしか応援できませんが、応援させていただきます！<br/>
+これから日本の農業を盛り上げていってください！</p>
+<p class="gcf-bx-message__date">2019年3月8日 12:31</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">先進的な農業で、日本の食を支えてください！</p>
+<p class="gcf-bx-message__date">2019年3月8日 12:26</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">安東さん、応援しています！こだわって、こだわり抜いた森のアスパラで、さいこうの農業をお願いします！</p>
+<p class="gcf-bx-message__date">2019年3月8日 11:31</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">この取組で日本の農業が変わる気がします。本気の期待です。心から応援しています！（東北アスパラ農家の関係者より）</p>
+<p class="gcf-bx-message__date">2019年3月7日 21:05</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">安東さんのビジョンに共感します。<br/>
+地方をどんどん盛り上げましょう。私も技術で地方を盛り上げます。</p>
+<p class="gcf-bx-message__date">2019年3月7日 4:07</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">安東さんの挑戦、心から応援しています！</p>
+<p class="gcf-bx-message__date">2019年3月6日 14:27</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">佐賀の農業の発展、地域の活性化のため、頑張ってください！</p>
+<p class="gcf-bx-message__date">2019年3月4日 23:11</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">農業の機械化応援しています。ぜひ良いシステムを作り、大勢に広めて下さい。</p>
+<p class="gcf-bx-message__date">2019年1月5日 13:15</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">おいしいアスパラが食べられるよう、そしてたくさんの方が農業に興味持って下さるよう、応援しています！</p>
+<p class="gcf-bx-message__date">2018年12月31日 20:01</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">佐賀県は九州の東西、南北を繋ぐ要の県だと思います。<br/>
+県民の方たちが自信を持てるような試みを応援します。<br/>
+美味しいアスパラ楽しみにしています。</p>
+<p class="gcf-bx-message__date">2018年12月31日 18:40</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">いつも驚かされるばかりで、これからの農業の手本であります。見習わせていただきます。</p>
+<p class="gcf-bx-message__date">2018年12月30日 19:16</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">祖父母が農家でした。農家方々を応援してます。アスパラ大好きです！！</p>
+<p class="gcf-bx-message__date">2018年12月29日 13:06</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">A-nokerの安東さん、心から応援してます。安東さんの取組が応援され、広がっていくこと、期待大ですね！</p>
+<p class="gcf-bx-message__date">2018年12月22日 18:28</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">いつも元気をもらっています。応援しています！！</p>
+<p class="gcf-bx-message__date">2018年12月13日 10:44</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">最先端のテクノロジーを取り入れて、やる気のある農家を応援してあげてください！</p>
+<p class="gcf-bx-message__date">2018年12月11日 21:18</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">新しいことに挑戦されている姿、かっこいいです！<br/>
+プロジェクト応援しています！</p>
+<p class="gcf-bx-message__date">2018年12月10日 19:44</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">はじめて寄附します。地方は変えられる、と元気をもらいました。がんばってください！</p>
+<p class="gcf-bx-message__date">2018年12月10日 12:47</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/488">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">佐賀県の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/41000/16?from=2&amp;gcf_project_id=488"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,521,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g488,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

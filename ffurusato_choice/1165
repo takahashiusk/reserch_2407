@@ -1,0 +1,1448 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/1165" />
+
+<title>「埼玉県北本市から自然をより身近に感じられるアウトドアカルチャーを共創したい！」（北本発　アウトドアブランド創設事業）｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="「埼玉県北本市から自然をより身近に感じられるアウトドアカルチャーを共創したい！」（北本発　アウトドアブランド創設事業）｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/1165" />
+<meta property="og:description" content="2015年に地元の若者（北本市観光大使であり、the telephones/フレンズの2つのバンドのベーシストである長島涼平など）を中心に立ち上がったまちづくりチームにより、北本発のアウトドアブランド「owland（オウランド）」を立ち上げることで、北本市の魅力である、「ベットタウンでありながら豊かな自然や緑を残す環境」を市内外にプロモーションしていきます。また今回開発・製造したアウトドア商品（主にシェラカップ）を市民に無償配布や市役所に寄付することで、環境保全、防災意識の向上にもつなげていきます！" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20201217/d_d38f293928d65c83ef14015fddc0e76bf5b97c43.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20201217/d_d38f293928d65c83ef14015fddc0e76bf5b97c43.jpg" />
+<meta property="twitter:title" content="「埼玉県北本市から自然をより身近に感じられるアウトドアカルチャーを共創したい！」（北本発　アウトドアブランド創設事業）｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="2015年に地元の若者（北本市観光大使であり、the telephones/フレンズの2つのバンドのベーシストである長島涼平など）を中心に立ち上がったまちづくりチームにより、北本発のアウトドアブランド「owland（オウランド）」を立ち上げることで、北本市の魅力である、「ベットタウンでありながら豊かな自然や緑を残す環境」を市内外にプロモーションしていきます。また今回開発・製造したアウトドア商品（主にシェラカップ）を市民に無償配布や市役所に寄付することで、環境保全、防災意識の向上にもつなげていきます！" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,521,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="1165" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">「埼玉県北本市から自然をより身近に感じられるアウトドアカルチャーを共創したい！」（北本発　アウトドアブランド創設事業）</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">「埼玉県北本市から自然をより身近に感じられるアウトドアカルチャーを共創したい！」（北本発　アウトドアブランド創設事業）</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1017">まちづくり&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20201217/d_d38f293928d65c83ef14015fddc0e76bf5b97c43.jpg" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E3%80%8C%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%8C%97%E6%9C%AC%E5%B8%82%E3%81%8B%E3%82%89%E8%87%AA%E7%84%B6%E3%82%92%E3%82%88%E3%82%8A%E8%BA%AB%E8%BF%91%E3%81%AB%E6%84%9F%E3%81%98%E3%82%89%E3%82%8C%E3%82%8B%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%82%92%E5%85%B1%E5%89%B5%E3%81%97%E3%81%9F%E3%81%84%EF%BC%81%E3%80%8D%EF%BC%88%E5%8C%97%E6%9C%AC%E7%99%BA%E3%80%80%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E5%89%B5%E8%A8%AD%E4%BA%8B%E6%A5%AD%EF%BC%89&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F1165">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">1,069,310</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 53.4%;"></div>
+<p class="gcf-cht-detail-bar__number">53.4%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">2,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">53.4</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">59</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>埼玉県北本市（さいたまけん きたもとし）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="1165" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+<li>
+<a class="js-modal-not-available-in-mobile-app-trigger i-arrow" href="#" data-modal-id="contact">お問い合わせ先</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2020年12月24日～2021年2月28日（67日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1028" class="sorting-list__item">まちづくり・コミュニティ</a></li><li><a href="/gcf/project/tag/1038" class="sorting-list__item">観光・PR</a></li><li><a href="/gcf/project/tag/1039" class="sorting-list__item">起業</a></li><li><a href="/gcf/project/tag/1040" class="sorting-list__item">移住定住</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="1165" class="gcf-nv-tab__button js-tab">進捗情報
+<span class="gcf-nv-tab__button-progress-number">2</span>
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">埼玉県北本市×owland（オウランド）</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20201220/o_e651234409b6edd91d3dfc695cd4847374c94f14.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">2015年に地元の若者（北本市観光大使であり、the telephones/フレンズの2つのバンドのベーシストである長島涼平など）を中心に立ち上がったまちづくりチームにより、北本発のアウトドアブランド「owland（オウランド）」を立ち上げることで、北本市の魅力である、「ベットタウンでありながら豊かな自然や緑を残す環境」を市内外にプロモーションしていきます。また今回開発・製造したアウトドア商品（主にシェラカップ）を市民に無償配布や市役所に寄付することで、環境保全、防災意識の向上にもつなげていきます！</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">郊外ベッドタウンにアウトドアブランドを立ち上げ、<br/>
+新たなカルチャーを市内外へ発信したい！</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">この街で、催しやお祭りも立派なアウトドアだと気づいた</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20201220/gpfd_6f613e7bf5acac91a4e45574a2be15644c00d5af.jpg" />
+</figure>
+<p class="gcf-txt-article">owlandメンバー：左から長島涼平（北本市観光大使/the telephones /フレンズ）、原健一郎、栗原啓<br/>
+<br/>
+初めまして。owland（オウランド）代表の長島涼平です。<br/>
+僕たちは、2015年から地元の若者メンバーで活動を開始しました。<br/>
+<br/>
+今回北本発のアウトドアブランド『owland（オウランド）』を立ち上げたいと思い、クラウドファンディングに挑戦します。<br/>
+<br/>
+僕たちowlandは野外活動がとても好きで、釣りや登山、山菜採り、キャンプ、野外フェスやスポーツなんかも好んで活動します。<br/>
+これまでも色んな場所へ足を運んできました。<br/>
+<br/>
+そんな僕らが、それらと同じぐらい好きな野外活動があります。<br/>
+<br/>
+それは地元である埼玉県北本市で行われている様々な催しやお祭りです。<br/>
+<br/>
+これまで北本市役所や観光協会の方々を通じて、「森めぐり」や「収穫祭」といったイベントに自分たちもこれまで色んな形でお店を出して、楽しみながら関わってきました。<br/>
+小規模ですが、催し自体を任され音楽ライブイベントを開催することもあります。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20201220/gpfd_208364829a87ab698fcd40d7156c452dedb9601a.jpg" />
+<figcaption class="lyt-image__caption">きたもと春の森めぐり</figcaption>
+</figure>
+<p class="gcf-txt-article">特に、今も地元に残る多くの自然を生かした場所を使ってのこうしたイベントは賑わっていて、出店をしているお店もそこで鳴っている音楽もとても素敵で、その空間には普段からアウトドアを嗜むような人たちの姿も多く見受けられます。<br/>
+<br/>
+雑木林や水辺や自然豊かな公園で行われるこうしたイベントは、アウトドアってこういうことだよなぁと地元にいながら体感出来る瞬間がとても増えていきました。<br/>
+<br/>
+自分たちがそうなったからなのか、今では北本市という街自体にアウトドアがとても馴染んでるように思います。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">日常の中にある「アウトドア」に寄り添うために</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20201220/gpfd_806efa611eba1b7528422d86f8a25f7c15c4aa3c.jpg" />
+</figure>
+<p class="gcf-txt-article">北本市は人口6万6千人程度が住む、いわゆる典型的な郊外のベッドタウン。中山道沿いに位置し、かつては宿場町として栄えました。<br/>
+それが現在では2006年から2020年現在まで14年連続で人口が減少しています。また10年前の2010年からはﾏｲﾅｽ6.1%(年率換算ﾏｲﾅｽ0.6%)と郊外ベッドタウンにおけるスポンジ化現象の波に飲み込まれようとしています。<br/>
+<br/>
+この街で育った僕らの幼少期はミニ四駆に精を出し、教室の隅で誰にも見られぬようこっそりカメハメ波の練習をし、学生時代の好きなアイドルは鈴木亜美という汎用型小学生でした。<br/>
+<br/>
+そして大人になり地元で開催されるイベント活動を通して自分たちが感じたことが２つあります。<br/>
+<br/>
+１つは、中途半端な田舎として周りからダサい認定されていたような地元から様々なカルチャーが生まれそうな瞬間にとてもワクワクしたこと。<br/>
+<br/>
+竹林に行って竹を切り倒すところからスタートする門松作りツアーがあったり、街歩きをしながら市内の気になる空き物件をリサーチする「空き物件ツアー」があったり、北本産の旬な野菜や果物を使ったお洒落なジェラートやジュースが楽しめるカフェがあったり。<br/>
+<br/>
+自分たちがお祭りに関わるまで地元にこんなに面白いものがあるなんて想像したこともなかったです。<br/>
+逆に知ってからはどんどん地元が好きになっていきました。<br/>
+<br/>
+そして、もう１つは『身近なアウトドア』です。<br/>
+<br/>
+先述したイベント活動を通して、そもそも家から一歩外に出たらそれはもうアウトドアなんだと思うようになりました。<br/>
+<br/>
+アウトドアを『する』ではなく、アウトドアが『ある』ということ。<br/>
+<br/>
+極端なことを言えば、近所を散歩することもそう。庭で七輪でサンマを焼くことも。庭掃除だってそうかもしれない。<br/>
+<br/>
+僕たちが今回立ち上げるowlandというアウトドアブランドはそんなときに皆さんに寄り添えるブランドでありたい。<br/>
+山や海や川はもちろん、皆さんの日常的なアウトドアの部分に寄り添えるアイテムを作っていきたいんです。</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">ブランド創設の第一歩としてシェラカップを製造します！</span></h2>
+<p class="gcf-txt-article">僕らがまず出来ること、そしてやりたいこと。<br/>
+<br/>
+それは大好きな北本市の自然とその景観を守ること。環境保全のためにゴミを減らすこと。<br/>
+僕らが今まで参加してきたイベントでは飲食店を出店することが多く、自分たちのオペレーションの効率を考えて、使い捨ての紙皿で提供することが主でした。<br/>
+しかし自分たちのお店だけでも1回の出店でゴミ袋は45Lサイズで5袋程度は必ず出ます。<br/>
+小さいながらもこうしたイベントが多い北本市において、イベントだけで見ても多くのゴミが生まれてしまうことは想像に容易いです。<br/>
+<br/>
+「皆さんの日常的なアウトドアの部分に寄り添えるアイテムを作っていきたい」という僕らの想いがイベントにおけるゴミの減量化推進に役立てるのではと考え、家でも外でもどこでも使える「シェラカップ」の製作を考案しました。<br/>
+<br/>
+これを持ってイベントに参加し、飲食店での使用を推進していくことで紙皿や紙コップのゴミを削減を提唱します。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20201220/gpfd_f33faf762649fa693fc462894e07246fd96327bf.jpg" />
+</figure>
+<p class="gcf-txt-article">今回、北本市役所の方々の協力もありこのクラウドファンディングに挑戦する機会を与えてもらいました。<br/>
+この貴重な機会を通して僕らが作ったアイテムを持って地元で行われるイベントに参加して頂けたら、キャンプやバーベキューのようなアウトドア活用していただけたら、ご自宅で気分を変えるためにたまに使ってくれたら、これ以上嬉しいことはありません。<br/>
+<br/>
+またこのアイテムは火に直接かけられるため、防災用として市内の幼稚園、保育園、市役所への配布も予定しています。（寄付金額により）<br/>
+<br/>
+小さなことかもしれませんが今ある景色をずっと見続けていられるように、このプロジェクトに賛同していただけたら嬉しく思います。</p>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">当プロジェクト費用・スケジュール</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">【内訳】<br/>
+シェラカップ等の商品開発・製造・寄付、お披露目イベント実施　　 189万円<br/>
+※目標金額に達しなかった場合の寄付金の取扱い<br/>
+目標金額に達しなかった場合、不足分は自主資金でまかない、出来る範囲での商品開発・製造をさせていただきます。<br/>
+また予定金額以上の寄付をいただいた場合には、「owland（オウランド）」の他のプロジェクトへの転用を含め、市の活性化につながるよう有効に活用させていただきます。<br/>
+<br/>
+【スケジュール】<br/>
+・2021年1月<br/>
+シェラカップの製造開始<br/>
+・2021年2月<br/>
+集まった寄附額に応じて、さらなるアウトドア商品の開発・製造（シェラカップ用小巾着）開始<br/>
+・2021年3月<br/>
+市主催事業等（マーケットの学校実習編を想定）での商品配布の実施（寄付者様をご招待し、シェラカップと小巾着、マグカップ等の商品開発したアウトドア製品をプレゼントします。新型コロナウイルスの影響でイベントを開催できない場合は、郵送いたします。寄付申込時は返礼品無しと表示されます。）<br/>
+<br/>
+※2021年2月2日商品開発状況（シェラカップ、シェラカップ用小巾着、マグカップ、カトラリー、折畳椅子、マスキングテープ）</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20201220/offd_4238defc85cfdb6b7f6399a3c2e42ec1100565f7.jpg" alt="当プロジェクト費用・スケジュール" />
+</div>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">この地に根付くカルチャーを生み出したい！</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20201221/gpfd_99a0a34330b47d031d97b6da40acf7cfed1ccca4.jpg" />
+</figure>
+<p class="gcf-txt-article">今回のクラウドファンディングは、多くの方に北本や僕たちの活動を知っていただく最初のステップだと考えています。<br/>
+<br/>
+そして、今後はアイテムを作るだけじゃなく、地元に根付くカルチャーの１つにしていきたい、そう思っています。<br/>
+<br/>
+例えばそれが、緑が豊富な北本の自然を活かしたグランピングを楽しみながら働けるシェアオフィスであったり、屋外で揺れる焚き火の炎を見ながらその場でしか得られない時間を気軽に楽しめるチェアリングバーだったり、県内最大規模のボルダリングウォールが設置されている児童館だったとしたら。<br/>
+今は夢みたいな話ですが、そんなことを考えるとワクワクが止まりません。<br/>
+<br/>
+僕らの大好きな地元で、僕らの大好きなアウトドアというものをなんらかの形にして皆さんに届けたいと強く思っています。<br/>
+<br/>
+そしてそれは地元に留まらず、どんどん発信していくことで北本ってこんなに面白いところだったんだ！と市外の方にも感じてもらい、触れてもらって、より多くの方々に僕らの活動を知って欲しいと感じています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">owlandへの賛同の声</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">北本市観光協会観光情報発信館館長　岡野 高志</span></h3>
+<h3 class="gcf-ttl-h3">北本らしいアウトドアカルチャーを、一緒に育てていきたい</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20201220/gpfd_f062abbc62b9d815389d9752a3d625c87846859d.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">owlandの皆さんとは、北本の豊かな自然を舞台に、数年間にわたり、様々なイベントを一緒に開催しています。<br/>
+雑木林などに代表される、暮らしの隣にある多様な自然は、北本市の資源です。このプロジェクトを通して、北本の自然を楽しみながら守っていく、北本らしいアウトドアカルチャーを、一緒に育てていきましょう。<br/>
+ご支援よろしくお願いします！</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">熊谷市観光協会チーフプロデューサー（前北本市観光協会観光情報発信館館長）<br/>
+時田 隆佑</span></h3>
+<h3 class="gcf-ttl-h3">暮らしの中に好きを見つける</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20201225/gpfd_698ac5e61764db338c5bf7eb297939b753a4d965.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">愚痴を言いながらも、なんだか楽しそうにイベントの手伝いをしてくれた彼らが新たな挑戦をするという。<br/>
+なんだかんだ言って、好きなんじゃん。<br/>
+彼らに手伝ってもらったのはイベントだったかもしれないけど、その一つ一つは北本での暮らしの中で見つけた「好き」を集めた、休日見本市みたいなシーンの積み重ねだった。<br/>
+それぞれの好きを受け入れてくれる場面は街の中に数多く眠っている。<br/>
+彼らの活動が、多くの方たちの暮らしに「好き」を増やしていってくれる姿が目に浮かぶ。<br/>
+愚痴を言いながらも、なんだか楽しそうに。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">株式会社JIKK 代表取締役/プロデューサー　オオジュクエースケ</span></h3>
+<h3 class="gcf-ttl-h3">日常に喜びをプラスするスパイス</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20201223/gpfd_0776c178e24fe5fe8c97edeb12ae29b2cdd0cea7.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">彼らowlandが掲げるブランドコンセプトには、日々の心の在り方に対するメッセージが込められています。<br/>
+<br/>
+日常を、少しのスパイスで別の景色に変える。そのスパイスを彼らは作っていきます。<br/>
+家の庭やベランダが、そのスパイスでキャンプ場やプラネタリウムに変わる。そんな感じ。<br/>
+<br/>
+日々の生活を喜びにあふれるものにするのは自分のココロです。<br/>
+そしてowlandは、そのココロへのスパイスです。<br/>
+<br/>
+地元を愛し、家族や友人を愛する仲間が立ち上げるブランドowlandを、私も全力で応援したいと思っています。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">フレンズ(ギタリスト)/シンガーソングライター　三浦 太郎</span></h3>
+<h3 class="gcf-ttl-h3">町を好きになる理由</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20201223/gpfd_a298373078aa4edd113ac9faaccb89517686dc4f.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">長崎から上京してきて早10年。<br/>
+よその土地、東京にどっぷり浸かってきました。それでもまだまだ地元と言えるような場所ではなく、肩に力を入れてないと自分を見失ってしまいそうになる瞬間はまだまだあります。<br/>
+そんな僕が北本と出会ったのは5年前、フレンズというバンドに僕が参加することになり、「北本市観光大使」の長島涼平とメンバーという友達以上の関係になってから。<br/>
+北本市の収穫祭の手伝いをさせてもらったり、お祭りで歌を歌ったり、沢山の経験を北本でさせてもらいました。<br/>
+<br/>
+その中で様々な人との出会いを経て北本を少し知ることができました。<br/>
+まだまだ北本初心者だし、知らないことばかりだけど、少なくとも地元の次に知る町になったのは間違いないです。<br/>
+<br/>
+&quot;北本市にアウトドアブランドを&quot;それだけで僕は応援したくなります。それに加えて北本で仲良くなったみんながやるなら、僕は両手をあげて応援したい。<br/>
+理由はそれだけなんですが、それ以上に言葉が必要な気もしません。<br/>
+<br/>
+これが僕にとっても北本をもっと知るきっかけになるだろうし、もっと好きになるきっかけになると思います。<br/>
+もちろん皆さんにとっても。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">絵描き / owlandロゴデザイン担当　adim (アディム) </span></h3>
+<h3 class="gcf-ttl-h3">人と自然の共存</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20201223/gpfd_d16c93cb255b87ea36e04d079caaf24f89211cc6.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">僕が心配するのは自然側でした。<br/>
+みなさんの知っている通り、たくさんの人が暮らす場所で自然は存在できません。<br/>
+人間の都合を優先したものが街だからです。田畑は自然物ではないのです。<br/>
+一度開発に手をつけてしまった場所はもう戻すことができません。東京を中心に都市は発展し、経済を理由に大きくなっていきました。<br/>
+その瀬戸際に位置するのはまさしく『中途半端な田舎』そう北本市。さらには街として人口流出の問題も抱えています。<br/>
+経済や人の活動を発展させながら、自然と共存する?! これは簡単な問題ではい。デカすぎます。<br/>
+しかし少し光が見えるのかもしれません。なぜならowlandの三人は名乗りをあげたからです。<br/>
+しかも満点の笑顔で。アウトドアという切り口で市を盛り上げ自然と人がともに暮らせる場所を本気で夢見ています。<br/>
+そして何より特筆して評価すべきは、救世主でも開発事業主でもない、結局は、いわゆる地元の兄ちゃんであること。<br/>
+彼らの文章からも匂い立つでしょう。30代を通り過ぎてやっとわかってきたそうなんです。<br/>
+遊びも社会勉強もしました。だからこそ彼らにしかできないこと….<br/>
+自分たちだけではなく、人だけではなく、自然だけではなく、お金だけではなく ”市” を想うこと。やるんだそうです！アウトドアと彼らの情熱で。<br/>
+見守る価値はあるのではないでしょうか？</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">the telephones　石毛 輝</span></h3>
+<h3 class="gcf-ttl-h3">北本市ならではのカルチャー</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20201224/gpfd_03cfd05c6d6a2e2da649663a997b827ba861fabf.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">小学校の時に所属していた野球チームの合宿で初めて北本市を訪れました。<br/>
+かなり昔ということもあり、記憶が朧げですが自然が豊かな素晴らしい所だった事ははっきり覚えています。<br/>
+<br/>
+月日が経ち僕は北浦和でowlandの長島涼平氏に18才の頃出会いました。<br/>
+そして一緒にthe telephonesというバンドを組んで、現在に至っています。<br/>
+その縁もあって何度か北本市の「収穫祭」に出演させて頂きました。<br/>
+月並みな言い方になってしまいますが、いつも本当に楽しく参加させてもらっています。<br/>
+老若男女問わずみんな笑顔で美味しいご飯と音楽を楽しんでいる様子は楽園のようです。<br/>
+ゴミが落ちている様子もなくとてもクリーンで、少し大袈裟な言い方ですが北本の「フジロック」のように僕は感じました。<br/>
+<br/>
+埼玉県北本市、正直聞き慣れない方もいらっしゃると思います。<br/>
+しかし、とても素晴らしい人間が集まっているので僕は信用できます。<br/>
+是非彼らの熱い想いを読んでみてください。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">北本市役所市長公室　林 博司</span></h3>
+<h3 class="gcf-ttl-h3">北本市の緑や自然の魅力を発信し、高めていくきっかけに</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20201221/gpfd_c5dda8aa43f83b98709681b9e94f2b5aa6585965.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">当プロジェクトを担当する北本市役所市長公室林です。<br/>
+今回提案いただいたプロジェクトは、北本市が市の緑や自然の魅力を発信し、守り、高めていくシティプロモーションの取組みを促す内容となっています。<br/>
+さらに、市内事業者と提携し、商品開発・製造を進めていくことで、市内経済の活性化にも資する事業となると考えています。<br/>
+<br/>
+今回のプロジェクトをきっかけに、多くの方に北本の緑豊かな自然の魅力や、この街で活動するメンバーの取り組みを知っていただくことが、北本市の魅力や資源を未来へ繋げることになると思います。<br/>
+<br/>
+皆さまからのご支援をいただきながら、市としても連携・協力を行い、ぜひ成功させたいです。<br/>
+<br/>
+ご支援、よろしくお願いします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<ul class="gcf-lst-bx" id="progress_list">
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2021年03月22日 13:27</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">プロジェクトへの応援のお礼</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20210322/t_69a3b0c8b2b158a57a70d8cdf22edd0254a409bb.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">この度は、僕たちのプロジェクトを応援していただき、本当にありがとうございました。<br/>
+<br/>
+皆様のご協力のおかげで、僕たちの予想を大きく上回る<br/>
+<br/>
+1,069,310円<br/>
+<br/>
+が集まりました。<br/>
+<br/>
+今回集まった資金は、我々owlandの地元である北本市のアウトドア事業発展等に充てさせていただきます。<br/>
+<br/>
+また、クラウドファンディングのページに寄せられた皆様からのコメントを読ませていただき、改めて今回のプロジェクトに対して背筋の伸びる思いで、この資金を大切に使わせていただこうと思うことができました。重ねてお礼申し上げます。<br/>
+<br/>
+当初、3月中に皆様に直接お礼の品をお渡しする場を設けるつもりでしたが、緊急事態宣言発令等を鑑み中止と判断させていただきました。<br/>
+<br/>
+お礼の品は、寄附のお申し込み時にいただいたご住所宛てに郵送させていただきます。<br/>
+もし変更をご希望の場合はお手数をお掛けしますが、下記問い合わせ先までご連絡をお願い致します。<br/>
+※発送にかかる作業については、北本市が行うため、発送元は「北本市役所」となります。<br/>
+<br/>
+【問い合わせ先】<br/>
+北本市市長公室　シティプロモーション・広報担当<br/>
+TEL：048-511-9119<br/>
+E-mail：citypro@city.kitamoto.lg.jp<br/>
+<br/>
+今後のowlandの活動につきましては、インスタグラム（@owland_owland）等にて、ご報告させていただけたらと思います。<br/>
+<br/>
+これからも皆様のアウトドアのある生活にowlandが寄り添っていけたらと思っております。<br/>
+<br/>
+今後ともよろしくお願いいたします。<br/>
+<br/>
+owland<br/>
+<br/>
+栗原啓 長島涼平 原健一郎</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="901" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="901">1</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="901">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F1165%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2021年01月21日 15:21</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">ご支援いただいた皆様へ（プロジェクトメンバーメディア出演情報）</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20210121/t_f683a474ecb47688a060143a7c05174ef6e027df.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">この度はプロジェクトにご支援頂き、ありがとうございます！<br/>
+<br/>
+このプロジェクトに関して、owlandのメンバーであり、北本市の観光大使を務める長島涼平が「イナズマロックドリームTV」という番組に出演します。<br/>
+北本市のことや、クラウドファンディングについて話す予定です。<br/>
+<br/>
+詳しくは、下記リンク先をご覧下さい。<br/>
+<br/>
+日時 : 1月22日(金) 20:00〜<br/>
+出演 : 西川貴教/平松賢人 ( BOYS AND MEN) /長島涼平（フレンズ ・the telephones）<br/>
+<br/>
+ぜひご視聴宜しくお願いします！</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="http://inazumarock.dream-tv.jp" target="_blank">番組HPはこちら！</a></li>
+<li class="gcf-txt-link"><a href="http://youtu.be/Sj7NDnZouC8" target="_blank">ご視聴はこちら！</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="840" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="840">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="840">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F1165%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+</ul>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">埼玉県北本市</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">昭和46年11月3日、市制施行により、埼玉県内33番目の市として誕生しました。<br/>
+北本市は、県、中央部、大宮台地の最高点に位置し、ほぼ平坦な地形となっており、武蔵野の雑木林など、魅力ある豊かな自然を残す、洪水リスクの少ない安全なまちです。<br/>
+市の中央部を国道17号やJR高崎線が縦断し、これに沿って市街地が形成されています。<br/>
+さらに、その外側には緑豊かな田園地帯が広がり、西側には荒川が流れています。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">負けるな！北本！</p>
+<p class="gcf-bx-message__date">2021年2月28日 23:13</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">北本の自然を日本中にアピールしていきましょう！</p>
+<p class="gcf-bx-message__date">2021年2月28日 12:18</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">北本市によりもっと愛着を持てる企画だと魅力を感じています。</p>
+<p class="gcf-bx-message__date">2021年2月28日 11:03</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">頑張ってください。<br/>
+応援しています‼️</p>
+<p class="gcf-bx-message__date">2021年2月26日 18:19</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">近隣の市在住です。地元の若者の発想に応援したい！と思って賛同します</p>
+<p class="gcf-bx-message__date">2021年2月5日 23:14</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">北本市に居を構えて早2年、とても住み良く、毎日を穏やかに過ごせています。<br/>
+北本市がもっともっといい街になるよう願っています。</p>
+<p class="gcf-bx-message__date">2021年2月5日 21:28</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">頑張ってください！マジアイラブディスコ</p>
+<p class="gcf-bx-message__date">2021年1月23日 13:46</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">同じ市民として応援しています。</p>
+<p class="gcf-bx-message__date">2021年1月9日 22:08</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">若者の活力によるアウトドアの取り組み、支援から、北本市の緑の保全と活用、さらに荒川流域エコネット地域づくりなどへと広域に広めていくように北本市の環境保全の取り組みを応援しています。<br/>
+引き続き、ふるさと納税を活用して、市の取り組みを推進して下さいますようお願いします。</p>
+<p class="gcf-bx-message__date">2020年12月31日 20:30</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">市外在住ですが、子供が北本の幼稚園に通っています。自然豊かな環境で、子供と一緒に楽しめるお祭りやセンスあふれるイベントを開催されているところも大好きです。まちづくりに若い方々が積極的に関わっているところも魅力的です。来春から通う小学校も北本へと思いますがそれは叶わぬ夢...<br/>
+寄付というかたちで大好きな北本へ今後も関われたらと思っています。　<br/>
+豊かな環境を守りつつ、ワクワクを生み出すセンスあふれるみなさんを応援しています！</p>
+<p class="gcf-bx-message__date">2020年12月31日 0:18</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">私が育った街です。新しい取り組みで活気を作っていただきたい。応援します</p>
+<p class="gcf-bx-message__date">2020年12月28日 18:13</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">涼平さんが地元活性化の為の活動をしているのを知り、地元愛に感動👏🏼支援させて頂きます😸<br/>
+北本、友達も住んでいたりするので身近に感じますが、こんなに遊べるところだったとは…近いのに知らなかったです…！ぜひ遊びに行ってみたいと思います♪</p>
+<p class="gcf-bx-message__date">2020年12月25日 23:16</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">オートキャンプ場も北本に作りましょう。桜堤の辺がいいと思います。</p>
+<p class="gcf-bx-message__date">2020年12月25日 21:48</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">静岡市清水区の枝豆農家です！<br/>
+とても素晴らしい取組みに感銘を受けました！</p>
+<p class="gcf-bx-message__date">2020年12月25日 10:14</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">応援します。</p>
+<p class="gcf-bx-message__date">2020年12月25日 8:27</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">北本の魅力、自然環境を伝え、守る取組み。応援しています！</p>
+<p class="gcf-bx-message__date">2020年12月24日 17:42</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">これからも全力で北本市を応援します！！！楽しみにしています！！！</p>
+<p class="gcf-bx-message__date">2020年12月24日 17:36</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/1165">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>申し込み後の内容変更・寄附金受領証明書・ワンストップ特例申請書</h3>
+<p>【令和2年分のお申し込み・入金について】<br/>
+年末年始も通常通り、寄附申し込みを受付けております。<br/>
+ただし、令和2年12月31日までに当庁にて入金確認できたもののみ、令和2年分としての取扱いいたします。<br/>
+<br/>
+【年末年始の対応について】<br/>
+当庁は12月29日から1月3日まで閉庁いたします。<br/>
+12月29日閉庁後のお問合せ等につきましては、1月4日以降の対応となります。ご了承ください。<br/>
+<br/>
+■□■■□■■□■■□■■□■■□■■□■■□■■□■■□■■□■■□<br/>
+お礼の品・証明書等のお問い合わせはこちらへ<br/>
+北本市市長公室　シティプロモーション・広報担当<br/>
+TEL：048-511-9119（平日 8：30～17：15）<br/>
+E-Mail：citypro@city.kitamoto.lg.jp　<br/>
+■□■■□■■□■■□■■□■■□■■□■■□■■□■■□■■□■■□</p>
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</section>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">埼玉県北本市の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/11233/33?from=2&amp;gcf_project_id=1165"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,521,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g1165,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

@@ -1,0 +1,1332 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/819" />
+
+<title>学生の皆さん、コロナに負けるな！ふるさと繋ぐ繋がるプロジェクト｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="学生の皆さん、コロナに負けるな！ふるさと繋ぐ繋がるプロジェクト｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/819" />
+<meta property="og:description" content="新型コロナウイルスの感染拡大を受けて発令された国の緊急事態宣言の対象地域が39県において解除となりましたが、都市間の移動自粛が必要な状況に変わりはありません。小林市でも感染拡大につながる都市間の往来について、帰省を含め可能な限り控えていただくよう協力を要請しています。■全国を対象とする緊急事態宣言が5月31日まで延長されたことを受けて、本プロジェクトの実施期間も5月31日まで延長し、支援を要望する学生の募集及び寄附の募集を継続しています。この非常事態に帰省自粛を余儀なくされている学生の皆さんの不安は計りしれません。休校などで学校に通うことが出来なくなり、アルバイトや帰省も自粛の影響で出来なくなるなど、これまでの生活が一変しています。そんな学生の皆さんを応援するために「学生の皆さん、コロナに負けるな！ふるさと繋ぐ繋がるプロジェクト」を立ち上げました。このプロジェクトではいただいた寄付金を活用し、帰省を自粛している小林市出身の学生を対象に、ふるさと小林市からお米やマスクなどの応援物資を届けます。ぜひとも、多くのご支援を賜りますよう、よろしくお願い申し上げます。※ふるさと納税の制度上、小林市内の方にお礼の品（マスク）をお届けすることができません。小林市内の方は本文中の緑のボタン「ふるさと納税で応援」からご寄附ください。寄附金額は2,000円以上から受け付けます。※応援物資を希望する学生の皆さんは、小林市地方創生課にお電話（0984-23-1148）かメール（k_furusato@city.kobayashi.lg.jp）でご連絡ください。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20200420/s_402394b1cf0e971feab98887774baf13fc704e5c.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20200420/s_402394b1cf0e971feab98887774baf13fc704e5c.jpg" />
+<meta property="twitter:title" content="学生の皆さん、コロナに負けるな！ふるさと繋ぐ繋がるプロジェクト｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="新型コロナウイルスの感染拡大を受けて発令された国の緊急事態宣言の対象地域が39県において解除となりましたが、都市間の移動自粛が必要な状況に変わりはありません。小林市でも感染拡大につながる都市間の往来について、帰省を含め可能な限り控えていただくよう協力を要請しています。■全国を対象とする緊急事態宣言が5月31日まで延長されたことを受けて、本プロジェクトの実施期間も5月31日まで延長し、支援を要望する学生の募集及び寄附の募集を継続しています。この非常事態に帰省自粛を余儀なくされている学生の皆さんの不安は計りしれません。休校などで学校に通うことが出来なくなり、アルバイトや帰省も自粛の影響で出来なくなるなど、これまでの生活が一変しています。そんな学生の皆さんを応援するために「学生の皆さん、コロナに負けるな！ふるさと繋ぐ繋がるプロジェクト」を立ち上げました。このプロジェクトではいただいた寄付金を活用し、帰省を自粛している小林市出身の学生を対象に、ふるさと小林市からお米やマスクなどの応援物資を届けます。ぜひとも、多くのご支援を賜りますよう、よろしくお願い申し上げます。※ふるさと納税の制度上、小林市内の方にお礼の品（マスク）をお届けすることができません。小林市内の方は本文中の緑のボタン「ふるさと納税で応援」からご寄附ください。寄附金額は2,000円以上から受け付けます。※応援物資を希望する学生の皆さんは、小林市地方創生課にお電話（0984-23-1148）かメール（k_furusato@city.kobayashi.lg.jp）でご連絡ください。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,521,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="819" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">学生の皆さん、コロナに負けるな！ふるさと繋ぐ繋がるプロジェクト</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">学生の皆さん、コロナに負けるな！ふるさと繋ぐ繋がるプロジェクト</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1018">子ども・教育&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20200420/d_582f3d55e34cba161cefef7816e9d165ed215ffe.jpg" alt="main_img" decoding="async" />
+<img class="gcf-lyt-detail__complete" src="/gcf/images_cf/icon_goal_brown.png" alt="達成" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E5%AD%A6%E7%94%9F%E3%81%AE%E7%9A%86%E3%81%95%E3%82%93%E3%80%81%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AB%E8%B2%A0%E3%81%91%E3%82%8B%E3%81%AA%EF%BC%81%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E7%B9%8B%E3%81%90%E7%B9%8B%E3%81%8C%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F819">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">1,427,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph2" style="width: 142.7%;"></div>
+<p class="gcf-cht-detail-bar__number">142.7%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">1,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">142.7</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">92</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>宮崎県小林市（みやざきけん こばやしし）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="819" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2020年4月22日～2020年5月31日（40日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1028" class="sorting-list__item">まちづくり・コミュニティ</a></li><li><a href="/gcf/project/tag/1033" class="sorting-list__item">子ども・教育</a></li><li><a href="/gcf/project/tag/1047" class="sorting-list__item">健康・医療</a></li><li><a href="/gcf/project/tag/1049" class="sorting-list__item">福祉・障がい</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1081" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_2.png 1x, /gcf/images_cf/sdg/sdg_icon_2@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_2.png" alt="SDGアイコン" decoding="async" />2.飢餓をゼロに</a></li><li><a href="/gcf/project/sdgs/1082" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_3.png 1x, /gcf/images_cf/sdg/sdg_icon_3@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_3.png" alt="SDGアイコン" decoding="async" />3.すべての人に健康と福祉を</a></li><li><a href="/gcf/project/sdgs/1095" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_16.png 1x, /gcf/images_cf/sdg/sdg_icon_16@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_16.png" alt="SDGアイコン" decoding="async" />16.平和と公正をすべての人に</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="819" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">宮崎県小林市</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20200417/o_673443cd5147e8403284d65bbc5af5c09413e921.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">新型コロナウイルスの感染拡大を受けて発令された国の緊急事態宣言の対象地域が39県において解除となりましたが、都市間の移動自粛が必要な状況に変わりはありません。小林市でも感染拡大につながる都市間の往来について、帰省を含め可能な限り控えていただくよう協力を要請しています。<br/>
+■全国を対象とする緊急事態宣言が5月31日まで延長されたことを受けて、本プロジェクトの実施期間も5月31日まで延長し、支援を要望する学生の募集及び寄附の募集を継続しています。<br/>
+<br/>
+この非常事態に帰省自粛を余儀なくされている学生の皆さんの不安は計りしれません。休校などで学校に通うことが出来なくなり、アルバイトや帰省も自粛の影響で出来なくなるなど、これまでの生活が一変しています。<br/>
+<br/>
+そんな学生の皆さんを応援するために「学生の皆さん、コロナに負けるな！ふるさと繋ぐ繋がるプロジェクト」を立ち上げました。<br/>
+<br/>
+このプロジェクトではいただいた寄付金を活用し、帰省を自粛している小林市出身の学生を対象に、ふるさと小林市からお米やマスクなどの応援物資を届けます。<br/>
+<br/>
+ぜひとも、多くのご支援を賜りますよう、よろしくお願い申し上げます。<br/>
+<br/>
+※ふるさと納税の制度上、小林市内の方にお礼の品（マスク）をお届けすることができません。小林市内の方は本文中の緑のボタン「ふるさと納税で応援」からご寄附ください。寄附金額は2,000円以上から受け付けます。<br/>
+※応援物資を希望する学生の皆さんは、小林市地方創生課にお電話（0984-23-1148）かメール（k_furusato@city.kobayashi.lg.jp）でご連絡ください。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">移動自粛要請に協力し、離れたまちで頑張っている学生を応援したい！</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">休校やアルバイト停止など、苦難にさらされる学生にエールを送る</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200419/gpfd_87f18535104a15f8f563aa7c34f7a629b6bce66d.jpg" />
+<figcaption class="lyt-image__caption">JAこばやし百笑村では、特Aに選ばれた小林市産ヒノヒカリなどを準備中</figcaption>
+</figure>
+<p class="gcf-txt-article">新型コロナウイルスの感染拡大を受けて発令された国の緊急事態宣言の対象地域が39県において解除となりましたが、都市間の移動自粛が必要な状況に変わりはありません。小林市でも感染拡大につながる都市間の往来について、帰省を含め可能な限り控えていただくよう協力を要請しています。<br/>
+<br/>
+この非常事態に親元を離れ、帰省自粛を余儀なくされている学生の皆さんの不安は計りしれません。新潟県燕市では、市民有志が寄附を募り、ふるさとを離れて頑張っている学生に応援を届けるという素晴らしい活動がスタートしています。<br/>
+休校などで学校に通うことが出来なくなったり、生計を支えるアルバイトが出来なくなったり、これまでの生活が一変している学生の皆さんに「何かできることはないのか」といった声が小林市にも寄せられています。<br/>
+<br/>
+そこで、ふるさと納税制度を活用し、帰省自粛に協力いただいている小林市出身の学生を対象に、ふるさと小林市からの応援を届けるプロジェクトを立ち上げました。「ふるさとの味や香りを、一人でも多くの学生の皆さんに、皆様の温かい思いと共にお届けし、少しでも元気づけてあげることができたら」。そんな思いが「学生の皆さん、コロナに負けるな！ふるさと繋ぐ繋がるプロジェクト」には込められています。<br/>
+<br/>
+募集期間は、国の緊急事態宣言が解除され、様々な自粛要請が緩和され、人々の自由な往来が再び可能になるまで。送料等を市が負担し、いただいた寄附をもとに学生の皆さんにお米やマスクなどの応援物資をお届けします。<br/>
+<br/>
+3つの密を避けるなど人と人の距離は離れないといけませんが、この「ふるさと繋ぐ繋がるプロジェクト」を通して心と心の距離を近づけることができたなら。ぜひとも、多くのご支援を賜りますよう、よろしくお願い申し上げます。<br/>
+<br/>
+※ふるさと納税の制度上、小林市内の方にお礼の品（マスク）をお届けすることができません。小林市内の方は本文中の緑のボタン「ふるさと納税で応援」からご寄附ください。寄附金額は2,000円以上から受け付けます。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">出荷減少などの影響を受けている地元生産者の皆さんも協力</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">「みんなで一緒に乗り越えよう！」故郷の温もりを届けたい</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200419/gpfd_fc3731fa58f8171419cc384df23d36befdb2cf79.jpg" />
+<figcaption class="lyt-image__caption">都市部への出荷が止まってしまった小川ファームさん</figcaption>
+</figure>
+<p class="gcf-txt-article">全国的に飲食店や販売店などの営業が縮小していることを受け、小林市でも多くの生産者の皆さんが苦境に立たされています。<br/>
+<br/>
+都内のレストランや有名百貨店に出荷しているOGAWAFARM（小川ファーム）さんもその一人。最盛期を迎えている「香(かおり)TOMATO」の取引がストップしてしまいました。<br/>
+<br/>
+そんな生産者の皆さんと学生の皆さんをこの取組で繋ぎ、支えあうことができたなら。そんな思いも込めて「ふるさと繋ぐ繋がるプロジェクト」に取り組みます。<br/>
+<br/>
+＜OGAWA FARM　小川絋未さんからのメッセージ＞<br/>
+<br/>
+学生の皆さんいかがお過ごしでしょうか。私はOGAWA FARMの小川絋未です。小林市でミニトマトを栽培しています。<br/>
+小中学校の給食にも提供しているので、もしかしたら皆さんの中には当農園のミニトマトを食べたことがある人もいるかもしれませんね。<br/>
+<br/>
+さて、今世界は100年に1度とも言われている状況におかれています。本来ならば皆さんはこの時期、新たなスタートに胸を躍らせていたことと思います。心中お察しします。<br/>
+私の仕事にも影響がでていますが、下を向いてばかりもいられません。すべき事をするまでです。<br/>
+<br/>
+私はミニトマトに対する情熱は誰にも負けません。それをお届けしますので皆さんが少しでも元気になってくれたら幸いです。<br/>
+故郷から応援していますので、一緒にこの困難を乗り越えていきましょう。<br/>
+<br/>
+※ふるさと納税の制度上、小林市内の方にお礼の品（マスク）をお届けすることができません。小林市内の方は本文中の緑のボタン「ふるさと納税で応援」からご寄附ください。寄附金額は2,000円以上から受け付けます。</p>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">寄附金をもとに、可能な限り多くの学生に応援物資を届けます。</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">【寄附金の使い道】<br/>
+・寄附募集経費を除き、全額を学生への応援物資送付費用に充てさせていただきます。<br/>
+<br/>
+【事業実施のスケジュール】<br/>
+・2020年4月下旬：寄附および応援を希望する学生の募集を開始<br/>
+・2020年5月上旬：準備が整い次第、随時応援物資を送付<br/>
+・国の緊急事態宣言が解除され、人々の自由な往来が可能になった時点で募集終了<br/>
+・全ての応援物資の送付完了をもってプロジェクト終了<br/>
+<br/>
+※集まった寄附金の範囲内で学生に応援物資を届けます。<br/>
+※応援物資必要経費以上の寄附をいただいた場合、新型コロナウイルス対策事業に活用させていただきます。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">縫製技術を活用して、クラフトマスクの製作に取り組む</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">収束したあかつきには、小林に遊びに戻っておいで！</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200419/gpfd_13a38931427968aa3d7fe8373fe4af9eef6de0da.jpg" />
+<figcaption class="lyt-image__caption">今回お届けするマスクを生産している南海服装の花本さん</figcaption>
+</figure>
+<p class="gcf-txt-article">本来はパリコレなどのきらびやかな洋服を作っている会社（小林市堤）ですが、何か役に立てないかと、ガーゼ布クラフトマスクの生産を始めました。<br/>
+<br/>
+今回の新型コロナウイルスの蔓延が、先が見えないほどの長期間に渡っている現状に驚いております。<br/>
+私自身は、手洗い・うがい、外出時着用物の洗濯を毎日行うと同時に、小林の田んぼ路をジョギングして新型コロナウイルスに負けない、フルマラソンを走り切る体力作りをしています。<br/>
+<br/>
+多感な学生時代に、外出自粛の要請は相当楽しくないと思います。出かけて友達と会ったり、買い物したい気持ちは、十分にわかります。私も出かけたいよ！<br/>
+しかし今回は、今だけ、自分だけの楽しさを求めて行動するよりも、少し先のこと（数年後）の楽しさを求めて、今は考えて行動することが大事だと思います。<br/>
+<br/>
+また、この際だからこそできることを日々探してみてください。私の場合、例えば、普段しない料理や、オンライン飲み会をしてみたいですね。<br/>
+皆さんには、外出自粛の要請をせっかくの機会と前向きにとらえて、自分を磨く時間にしてください。探せば出かけなくてもやれることはたくさんあるはずです。新型コロナウイルスで外出自粛したから、大きく成長したと胸を張っていえるように。<br/>
+<br/>
+新型コロナウイルスが収束したあかつきには、マスクを捨てて、小林に遊びに戻って来てください。<br/>
+<br/>
+※ふるさと納税の制度上、小林市内の方にお礼の品（マスク）をお届けすることができません。小林市内の方は本文中の緑のボタン「ふるさと納税で応援」からご寄附ください。寄附金額は2,000円以上から受け付けます。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">支援の対象は小林市に住んでいたことのある高卒以上の学生さん</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">こばやしファン・サポーターズクラブ会員として故郷と繋がろう</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200420/gpfd_88b7d92622af6ae83997a9881846180b5b476a59.jpg" />
+<figcaption class="lyt-image__caption">プロジェクト概要</figcaption>
+</figure>
+<p class="gcf-txt-article">応援物資を希望する学生の皆さんは、小林市地方創生課にお電話（0984-23-1148）かメール（k_furusato@city.kobayashi.lg.jp）でご連絡ください。<br/>
+<br/>
+応援物資の送付対象者は、小林市に住んでいたことがあり、現在、小林市市外に居住する高校卒業以上の学生です。学校種は問いません。<br/>
+小林市での居住履歴は住民基本台帳をベースとします。必要に応じて確認させていただきますので、ご了承ください。<br/>
+加えて、帰省自粛に協力いただき、市外の現住所で応援物資を受け取ることが可能な方に限ります。送付開始予定は5月1日以降随時です。<br/>
+<br/>
+また、応援物資を希望いただく際に、氏名、生年月日、現住所、連絡先、メールアドレス、学校名を確認させていただきます。<br/>
+いただいた情報は「こばやしファン・サポーターズクラブ」に登録させていただきますので、ご了承ください。<br/>
+また、関東地方在住の方については、「こばやしPR協力隊」への登録もご案内します。年数回ある都内での小林PRイベントへの協力をお願いする制度です。可能な方はぜひご登録ください。<br/>
+<br/>
+送料等を市が負担し、集まった寄附金の範囲内で、準備出来次第応援物資を送付させていただきます。<br/>
+応援物資はお米とマスクを基本としますが、地元生産者の方の協力を得られた範囲で選択肢を増やす予定です。準備が整い次第随時ご案内いたしますので選択ください。<br/>
+寄附金の達成状況によっては、送付できる応援物資の内容が変更となることがあります。また、応援物資への応募が寄附金額を大幅に超える場合、「特定警戒都道府県」居住の方を優先いたしますのでご了承ください。<br/>
+原則、お一人につき1回のみとさせていただきます。</p>
+<figure class="lyt-image">
+<a target="_blank" href="http://mail-to.link/m7/7etwuz">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200421/gpfd_20a26182aae0ccfb9bb7e3dbfc4ad27a89a1aa6b.jpg" alt="※こちらのQRコードから「応援物資送付希望メール」を作成できます。" />
+</a>
+<figcaption class="lyt-image__caption">※こちらのQRコードから「応援物資送付希望メール」を作成できます。</figcaption>
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">「地元が大好き！」「いつか恩返しを」「頑張ります！」</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">学生の皆さんから寄せられたメッセージの数々</span></h3>
+<p class="gcf-txt-article">＜学生の皆さんから寄せられたメッセージをご紹介します（4/30現在）＞<br/>
+<br/>
+・コロナが終息して小林市にまた帰れる日が来るのを楽しみにして今の時間を大切に過ごしたいと思います。このような支援してくれる地元が大好きです。<br/>
+<br/>
+・京都は平時の喧騒が嘘のように静かになっています。外出もできないし、学校も無いので淡々と過ぎてく味気ない毎日です。実家に帰って家族と一緒にいられたらここまで虚無な日々では無かっただろうと寂しい気持ちです。<br/>
+<br/>
+・一人暮らしなため、かからないよう注意をしていますが、こういう応援がすごく嬉しいです。コロナ拡散防止のため引き続き自粛生活を乗り越えようと思います。<br/>
+<br/>
+・今年は大学生活最後の年で就活などもありますが、想像もしてなかった状況になり、不安な毎日が続いています。全国のみなさんが同じ気持ちだと思います。そんな中で治療や終息に向けて危機に晒されながら動いて下さっている方が多くいらっしゃいます。今回のプロジェクトに関わっている方々もそうです。コロナが広まる前の日常が当たり前ではなく、かけがえのないものであったことを感じて改めて感謝し、1日でも早くこれまでの日常が戻ることを願って、自分のできることを精一杯頑張りたいです。<br/>
+<br/>
+・支援物資がもらえるか否かは関係なく、地元の人たちが、自分達も大変なときなのに私たち学生を応援してくださっていることを知ってとても嬉しかったです。無事コロナが終息したら、これからの活躍で小林に恩返しします！<br/>
+<br/>
+・このような支援を考えて下さった皆様本当にありがとうございます。<br/>
+<br/>
+・早く宮崎に帰省して、小林市に遊びに行きたいです。<br/>
+<br/>
+・帰ろうとしていましたが、帰ってきたらダメと言われた意味がわかりました。一日も早く、コロナが終息することを願っています。<br/>
+<br/>
+・入学して引っ越したばかりで慣れない土地で不安ですが、帰りたくても帰れません。<br/>
+<br/>
+・今回コロナで実家に帰れない中こんな企画をしてくださりありがたく思っています。地元小林のことを思い出してコロナに負けないよう頑張りたいです。<br/>
+<br/>
+・本当にとても助かります。ありがとうございます。</p>
+<p class="gcf-txt-article">・3つの密に気をつけ、外出や、実家帰省を自粛した上に、アルバイトでの収入が一切なくなり、退学も考えていたところにこのプロジェクトが本当に嬉しく思いました。心からありがとうございます。よろしくお願い致します。<br/>
+<br/>
+・初めての一人暮らし、大学生活が始まるはずでしたが、学校もなく、帰省も外出もままならず、この温かい支援ありがたく思います。<br/>
+<br/>
+・マスクがあと1ヶ月分くらいしか無く、不安を感じていたので このような企画は本当にありがたいです。小林市民は良い人ばかりだなぁと改めて感じました。<br/>
+<br/>
+・春休み・ゴールデンウィークは小林に帰省するつもりでしたが、万が一を考えたら帰りたくても帰れません。福岡はあらゆるところが封鎖し、出かけることもアルバイトもできません。今はみんなで我慢をして耐える時ですね。コロナが落ち着いたら小林に帰ってゆっくりしたいです。役場の皆さんも大変でしょうが、我が故郷小林市の為によろしくお願い致します。<br/>
+<br/>
+・大学も自粛になり、宮崎でもコロナ感染者も増えていて、怖くて買い物にも気軽にいけずどうしようと思っていたのでこのような支援はとても助かります！<br/>
+<br/>
+・元々、ゴールデンウィークに帰省し、そのついでに米などをこちらに持って帰ろうと思っていました。しかし、今回の新型コロナウイルスの影響で、帰省できそうにありません。熊本もますます感染者が増え、買い物などの外出も自粛をせざるを得ない状況で、不便を感じています。また、施設や飲食店等の休業要請によって、アルバイトも出来ずにいる状況ですので、もし米やマスクなどが頂けるならとても助かります。<br/>
+<br/>
+・先が見えず不安なことも多いですが、今できることをやっていこうと思います。事態が終息したらまた小林に帰ってきます!<br/>
+<br/>
+・こんにちは、「学生の皆さん、コロナに負けるな！ふるさと繋ぐ繋がるプロジェクト」を拝見した者です。とても素敵なプロジェクトだと思いました。故郷である小林をより大好きに、そしてコロナに負けないように頑張ろうと励みになりました。ありがとうございます。私は現在、兵庫県に住んでいます。地元に帰っている大学の友達が多い中、今は帰省を我慢しています。とても孤独で悲しいですが、今の状態が落ち着くまで我慢です。</p>
+<p class="gcf-txt-article">・自分のことで精一杯だったので、そんな中で支援していただけることに感謝します。<br/>
+<br/>
+・広島市内にて現在、自粛しております。お忙しいところ恐縮ですが、ご支援いただければ幸いです。<br/>
+<br/>
+・ホームページの地元の人たちからの応援メッセージが本当に嬉しかったです。コロナが治ったらすぐに地元に帰りたいです。<br/>
+<br/>
+・食べ物はスーパーで買い込んだ冷凍肉を少しずつ食べています。親からはお米の仕送りがありました。とても助かりました。バイトは2つ掛け持ちで行っていましたが両方ともアーケード内ということもあり閉店しました。現在収入は無く、少しずつ貯めていたバイト代を崩しながら生活しています。ご支援よろしくお願いします。<br/>
+<br/>
+・今回はこの様な支援をしていただきありがとうございます。小林市役所の皆様もご自愛下さい。<br/>
+<br/>
+・支援をありがとうございます。<br/>
+<br/>
+・小林市には中学卒業まで住んでいました。行き帰りに挨拶してくれる近所のおばちゃんおじちゃん、田んぼに行けば蛍が飛んでいて、蛇口をひねればミネラルウォーターが出てくる。当たり前だったことが、とても恵まれていたんだと小林市を離れて初めて気づきました。今では関西の友達に自慢するくらい誇りに思っています。貴重な人生経験を与えてくださった小林市、本当にありがとうございました。今回このプロジェクトを母から聞き、応募させていただきました。故郷である小林市が私たち学生のために壮大なプロジェクトを計画してくださっていることを知り、胸が熱くなりました。現在は兵庫県に住んでいますがマスクはどこにも売っておらず、アルバイト先のシフトカットにより生活費もカツカツの状態です。学生によって現状は異なりますが、出来るだけ多くの困っている方達に届けばいいなと思っております。今回は支援を受ける側として小林市の皆様の優しさに甘えさせてください。どうか、よろしくお願いいたします。<br/>
+<br/>
+・このような制度ありがたいです。<br/>
+<br/>
+・大変世間が慌ただしい中、この様な多くの物資をご用意していただき本当に本当にありがとうございます。</p>
+<p class="gcf-txt-article">・（保護者の方から）帰省させたくてもさせられず、毎日心配で、生存確認のメールや電話をする日々です。新潟県の自治体でこのような取り組みをしている事を聞いていたので、小林市でも実施される事が嬉しいです。<br/>
+<br/>
+・大学の授業開始が遅れたので小林に帰ろうかと思っていたところ、緊急事態宣言が出され帰省をやめました。このようなプロジェクトで支援を頂けるととても嬉しいです。<br/>
+<br/>
+・このような機会を設けて下さり、本当にありがとうございます。<br/>
+<br/>
+・この度は、このようなプロジェクトを始動してくださり、ありがとうございます。なかなか、マスクが手に入らず困っていたので助かります。<br/>
+<br/>
+・今年大学2年生になります。学校もなかなか始まらず、バイトも休業となり現在は不要不急な外出は避け自宅で自粛している状況です。<br/>
+<br/>
+・このような制度を実施していただいてとても心温まりました。バイトも出来ず、生活費が足りない状況なのでとてもありがたいです。<br/>
+<br/>
+・大学でもきばっど！<br/>
+<br/>
+・緊急事態宣言でバイトがすべてなくなってしまい、今月から生活が危うい状況でした。このようなご支援があること、支援してくださったすべての人に感謝の限りです。<br/>
+<br/>
+・今は東京の大学に進学しています、ですが新型コロナの影響で家から出れない状況になっていて、食材とかも売り切れたり、買いに行けなかったりなどしているので、この企画を聞いてとても嬉しいく思います<br/>
+<br/>
+・神奈川は日本の中でもかなり危険な地域なので感染予防を心がけて生活してます。小林市は高齢者の方が多いので感染拡大しないよう頑張ってください。<br/>
+<br/>
+・私たち学生にとってはバイトもできないので、とてもありがたく思います。<br/>
+<br/>
+・母から学生支援の取り組みを聞き、支援を受けようと思いました。故郷もコロナで大変だろうに学生として支援して下さることがすごくありがたいです。 やっぱり自慢の故郷です！<br/>
+<br/>
+・小林市の心温まる企画に、感謝の気持ちでいっぱいです。応援してくださる小林の方の想いを大切にしていきます。長崎大学の先生方もオンラインを通して、私達に学習の環境を与えてくださっています。あたりまえではない様々な支えにより、元気に頑張っていけます。本当にありがとうございます。</p>
+<p class="gcf-txt-article">・物品をもらえることもとてもありがたいですが、地元のその支援してくださる気持ちがとても嬉しくて、小林市民であることがすごく誇りだなあと改めて思いました。コロナで自分たちも大変な中、私たち学生のために協力・支援してくださって本当にありがとうございます。<br/>
+<br/>
+・地元に帰りたくてもなかなか帰れないのが現状でしたので、このような救援がとても自粛の励みになります。<br/>
+<br/>
+・家から出れない日々が続いてますがなんとか楽しみを見つけ生活しているところです！<br/>
+<br/>
+・故郷である小林市のサポートは、一人暮らしで寂しい思いをしている身にとって、とても温かく心強い存在です。もう少し家での自粛を頑張りたいと思います。皆様もどうか、お身体に気をつけてお過ごし下さい。<br/>
+<br/>
+・この時期に応援物資を送っていただけるのはとても有難いです。小林市に帰れない分、この物資で少しでもふるさとを感じ取りたいと思います。<br/>
+<br/>
+・引き続き、ステイホームに全力を注ぎます！<br/>
+<br/>
+・私は学生で今年から一人暮らしです。コロナの影響ではありますが、この取り組みを通じて応援されているような気がして暖かい気持ちになりました。コロナ対策で色々忙しいと思いますが頑張ってください。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200419/gpfd_fca2e5da103197eb0a90e544ee4ef12873847b82.jpg" />
+<figcaption class="lyt-image__caption">小林市長　宮原義久</figcaption>
+</figure>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">学生の皆様、寄附者の皆様へ</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">宮崎県小林市からのメッセージ</span></h3>
+<p class="gcf-txt-article">学生の皆様へ<br/>
+緊急事態宣言の対象地域が全国に拡大されたことを受けて、市では、特定警戒都道府県はもとより、感染拡大につながる都市間の往来について、帰省を含め可能な限り控えていただくようお願いしています。<br/>
+この非常事態の中にあって、親元を離れて暮らす学生の皆さんに帰省の自粛をお願いすることはとても心苦しいのですが、感染拡大を防ぎ、一日も早い感染収束を実現するために、皆様のご協力をお願いする次第です。<br/>
+「地元の食品を食べると身体に良い」。食の運動として「身土不二（しんどふじ）」を提唱した西端学（にしはたまなぶ）氏は、実は小林市の“牧場の桜”を植えたといわれる人物。霧島連山や九州山地の豊かな自然に恵まれた風光明媚な田園都市・小林市は、太古の昔から積み上げられた火山の恵みを受けて、豊饒な土と清らかな水が自慢のまちです。<br/>
+その豊かな自然環境の中で愛情たっぷりに育てられたお米や野菜は、小林市で育った皆さんの身体や心に、きっと力を与えてくれると思います。<br/>
+地元の生産者の皆さんや寄附をしていただいた皆さんの温かい気持ちと一緒にお届けしますので、ぜひ受け取っていただき、元気を出してください。<br/>
+<br/>
+寄附者の皆様へ<br/>
+全国的に新型コロナウイルスの感染が広がり、国の非常事態宣言が全ての都道府県に拡大されました。罹患された方々とそのご家族、関係者の皆様に心からお見舞いを申し上げますとともに、一日も早いご快復を心よりお祈り申し上げます。<br/>
+また、感染リスクが非常に高い医療現場で日夜奮闘いただいている医療従事者の皆様を始め、様々な状況や立場の中で、この困難を乗り切るために日々立ち向かい続けている皆様に深甚の敬意を表します。<br/>
+今や全国が、この苦難の渦に巻き込まれ、農業を基幹産業とする小林市も、生産者や飲食関係者を始め、非常に厳しい状況に置かれています。<br/>
+そこで今回、市内の生産者の皆さんや市民の皆さんの声を受けて、小林市を離れて頑張っている学生を応援するプロジェクトを立ち上げさせていただきました。<br/>
+これは小林市に限ったことではありませんが、一人でも多くの学生にエールを届けたいと思います。<br/>
+皆様と共に、平穏な日々を再び取り戻せるよう可能な限りの取組を推進して参りますので、ぜひご支援いただけると幸いです。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">パリコレの服にも携わる服飾メーカー製造のクラフトマスク</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">耐久性も十分。フィルターポケットがついた三層構造の布製マスク</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200419/gpfd_44b35488c58d36d5f32ea2e83651171d7d1332f2.jpg" />
+<figcaption class="lyt-image__caption">ローテーションも組みやすい、白と青の2色を用意</figcaption>
+</figure>
+<p class="gcf-txt-article">新型コロナウイルスのマスク不足を受けて、社員向けにマスクを作ったところ好評だったため、数量限定で一般向けにも提供を開始した南海服装さん。<br/>
+縫製業を続けていたからこそできること。耐久性も十分で、マスクは洗って再利用が可能です。<br/>
+表面はスレキ、内側はガーゼを使用。さらにフィルターポケットがついた三層構造です。<br/>
+フィルターポケットには、不織布や各種フィルター類を入れることができます。<br/>
+耳掛けは、通常のゴムではなく、ストレッチ性のあるエラストレインを使用し、長時間の着用にも配慮しています。長さは調節ください。<br/>
+色は白とブルーの2種類。大人用(横15㎝×縦9.5㎝)と子供用(横12.5㎝×縦8.5㎝)があります。</p>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/45205/4835743/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200419/pd_793ac5c68980b5c9000763b10c97f9a1151c27b2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【学生支援GCF】オリジナルマスク8枚セット&lt;子供用・大人用&gt; GNF20</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※令和2年5月上旬から順次発送となります。
+※配送日と配送時間の指定はできません。レターパックでの配送になりますので、ポストへの投函となります。</p>
+</div>
+<p class="goods-col_textinfo pc">新型コロナウイルスのマスク不足を受けて、社員向けにマスクを作ったところ好評だったため、数量限定になりますが、一般向けにも提供を開始することとなりました。
+縫製業を続けていたからこそできること。耐久性も十分で、マスクは洗って再利用も可能です。
+表面はスレキ、内側はガーゼを使用しております。さらにフィルターポケットがつく三層構造となっております。フィルターポケットには、不織布や各種フィルター類を入れることができます。
+耳掛けは、通常のゴムではなく、ストレッチ性のあるエラストレインを使用し、長時間の着用にも配慮しております。長さは調節ください。
+色は白とブルーの2種類、大人用(横15㎝×縦9.5㎝)と子供用(横12.5㎝×縦8.5㎝)があります。
+こちらの寄附1件につき、学生2人以上に応援物資を届けます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/45205/4835744/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200420/pd_8db7e969d41ee5fccbf478fa4e1cb26d668a6539.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【学生支援GCF】オリジナルマスク8枚セット&lt;大人用&gt; GNF21</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※令和2年5月上旬から順次発送となります。
+※配送日と配送時間の指定はできません。レターパックでの配送になりますので、ポストへの投函となります。</p>
+</div>
+<p class="goods-col_textinfo pc">新型コロナウイルスのマスク不足を受けて、社員向けにマスクを作ったところ好評だったため、数量限定になりますが、一般向けにも提供を開始することとなりました。
+縫製業を続けていたからこそできること。耐久性も十分で、マスクは洗って再利用することも可能です。
+表面はスレキ、内側はガーゼを使用しております。さらにフィルターポケットがつく三層構造となっております。フィルターポケットには、不織布や各種フィルター類を入れることができます。
+耳掛けは、通常のゴムではなく、ストレッチ性のあるエラストレインを使用し、長時間の着用にも配慮しております。長さは調節ください。
+色は白とブルーの2種類、サイズは大人用(横15㎝×縦9.5㎝)となります。
+こちらの寄附1件につき、学生2人以上に応援物資を届けます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/45205/4835745/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200420/pd_4f5e59abf364cfa45f508176575016ba1e738cb7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【学生支援GCF】オリジナルマスク4枚セット&lt;子供用・大人用&gt; GNF22</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※令和2年5月上旬から順次発送となります。
+※配送日と配送時間の指定はできません。レターパックでの配送になりますので、ポストへの投函となります。</p>
+</div>
+<p class="goods-col_textinfo pc">新型コロナウイルスのマスク不足を受けて、社員向けにマスクを作ったところ好評だったため、数量限定になりますが、一般向けにも提供を開始することとなりました。
+縫製業を続けていたからこそできること。耐久性も十分で、マスクは洗って再利用も可能です。
+表面はスレキ、内側はガーゼを使用しております。さらにフィルターポケットがつく三層構造となっております。フィルターポケットには、不織布や各種フィルター類を入れることができます。
+耳掛けは、通常のゴムではなく、ストレッチ性のあるエラストレインを使用し、長時間の着用にも配慮しております。長さは調節ください。
+色は白とブルーの2種類、大人用(横15㎝×縦9.5㎝)と子供用(横12.5㎝×縦8.5㎝)があります。
+こちらの寄附1件につき、学生1人以上に応援物資を届けます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/45205/4835746/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200420/pd_4abf5635cb66502d0bca9e1dad25d22c3d46df71.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【学生支援GCF】オリジナルマスク4枚セット&lt;大人用&gt; GNF23</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※令和2年5月上旬から順次発送となります。
+※配送日と配送時間の指定はできません。レターパックでの配送になりますので、ポストへの投函となります。</p>
+</div>
+<p class="goods-col_textinfo pc">新型コロナウイルスのマスク不足を受けて、社員向けにマスクを作ったところ好評だったため、数量限定になりますが、一般向けにも提供を開始することとなりました。
+縫製業を続けていたからこそできること。耐久性も十分で、マスクは洗って再利用することも可能です。
+表面はスレキ、内側はガーゼを使用しております。さらにフィルターポケットがつく三層構造となっております。フィルターポケットには、不織布や各種フィルター類を入れることができます。
+耳掛けは、通常のゴムではなく、ストレッチ性のあるエラストレインを使用し、長時間の着用にも配慮しております。長さは調節ください。
+色は白とブルーの2種類、サイズは大人用(横15㎝×縦9.5㎝)となります。
+こちらの寄附1件につき、学生1人以上に応援物資を届けます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/45205/4835747/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200420/pd_34c53ce1f7320c95cfbb0353bc77839d430e1920.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【学生支援GCF】全額、学生への応援物資送付に充当 GKC01</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時お礼状と寄附金受領証明書を送付します。</p>
+</div>
+<p class="goods-col_textinfo pc">新型コロナウイルスの感染拡大を受けて、国の緊急事態宣言の対象地域が全国に拡大されました。
+市では、特定警戒都道府県はもとより、感染拡大につながる都市間の往来について、帰省を含め可能な限り控えていただくようホームページ等を介して広く協力を要請しています。
+この非常事態に親元を離れ、帰省自粛を余儀なくされている学生の皆さんの不安は計りしれません。
+学校が休校になったり、生計を支えるアルバイトができなくなったり、これまでの生活が一変している学生の皆さんに「何かできることはないのか」と市民の方からの声も寄せられています。
+そこで、「学生の皆さん、コロナに負けるな！ふるさと繋ぐ繋がるプロジェクト」として、帰省自粛に協力いただいている小林市出身の学生を対象に、ふるさと小林市からの応援を届けます。
+「ふるさとの味や香りを、一人でも多くの学生の皆さんに、皆様の温かい思いと共にお届けし、少しでも元気づけてあげることができたら」。そんな思いからこのプロジェクトを立ち上げました。
+募集期間は、国の緊急事態宣言が解除され、様々な自粛要請が緩和され、人々の自由な往来が再び可能になるまで。
+いただいた寄附をもとに、学生の皆さんにお米やマスクなどの応援物資をお届けします。
+３つの密を避けるなど人と人の距離は離れないといけませんが、この「ふるさと繋ぐ繋がるプロジェクト」を通して心と心の距離を近づけることができたら。
+こちらの寄附1件につき、学生2人以上に応援物資を届けます。
+ぜひとも、多くのご支援を賜りますよう、よろしくお願い申し上げます。</p>
+</div>
+</a>
+</li>
+</ul><ul class="goods_list">
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">宮崎県小林市</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">九州南部に位置する宮崎県小林市。南西部には霧島連山、北部には九州山地の山々が連なり、緑豊かな森林や高原が広がる風光明媚な田園都市です。<br/>
+<br/>
+数ある小林市の観光名所の中で最も多くの観光客が訪れているのが霧島連山の麓に広がる生駒高原。標高450メートルの高原に広がる12万平方メートルの広大な花畑が訪れる人を魅了します。<br/>
+<br/>
+涼やかな秋風に揺れる100万本のコスモスや暖かな春の日差しににきらめく25万本のポピーなど、ぜひ一度お立ち寄りいただきたい観光名所です（※生駒高原ポピーまつり2020は、新型コロナウイルス感染拡大防止のため、期間中のイベントが中止となりました。園内のポピーや菜の花など、約25万本の花々の鑑賞は可能です）。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">本当に尊い活動だと感じてます。<br/>
+寄付する側もありがたいです。<br/>
+皆で一緒に頑張りましょう！</p>
+<p class="gcf-bx-message__date">2020年5月9日 7:55</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/819">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">宮崎県小林市の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/45205/34?from=2&amp;gcf_project_id=819"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,521,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g819,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

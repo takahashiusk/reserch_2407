@@ -1,0 +1,1610 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/2587" />
+
+<title>未来へつなぐ。日本で最古級の「近江鉄道線」を守りたい！！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="未来へつなぐ。日本で最古級の「近江鉄道線」を守りたい！！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/2587" />
+<meta property="og:description" content="走る電車の音から「ガチャコン」の愛称で親しまれている近江鉄道は、創立から１２０年を超える全国でも最古級の鉄道として地域の人々の日常生活を支えてきました。しかし、近江鉄道の利用者数は最盛期から半減し、経営面でも赤字が続くなどその存続が心配されています。東近江市をはじめ、沿線のまちは近江鉄道とともに発展してきました。貴重な地域資源である近江鉄道線を末永く守り続けていくためにクラウドファンディング型の寄付を募集します。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230901/d_3de5de779b83f52500978ff1a0126bc8dfc9330c.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230901/d_3de5de779b83f52500978ff1a0126bc8dfc9330c.jpg" />
+<meta property="twitter:title" content="未来へつなぐ。日本で最古級の「近江鉄道線」を守りたい！！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="走る電車の音から「ガチャコン」の愛称で親しまれている近江鉄道は、創立から１２０年を超える全国でも最古級の鉄道として地域の人々の日常生活を支えてきました。しかし、近江鉄道の利用者数は最盛期から半減し、経営面でも赤字が続くなどその存続が心配されています。東近江市をはじめ、沿線のまちは近江鉄道とともに発展してきました。貴重な地域資源である近江鉄道線を末永く守り続けていくためにクラウドファンディング型の寄付を募集します。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,642,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="2587" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">未来へつなぐ。日本で最古級の「近江鉄道線」を守りたい！！</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">未来へつなぐ。日本で最古級の「近江鉄道線」を守りたい！！</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1020">観光・PR&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230901/d_3de5de779b83f52500978ff1a0126bc8dfc9330c.jpg" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E6%9C%AA%E6%9D%A5%E3%81%B8%E3%81%A4%E3%81%AA%E3%81%90%E3%80%82%E6%97%A5%E6%9C%AC%E3%81%A7%E6%9C%80%E5%8F%A4%E7%B4%9A%E3%81%AE%E3%80%8C%E8%BF%91%E6%B1%9F%E9%89%84%E9%81%93%E7%B7%9A%E3%80%8D%E3%82%92%E5%AE%88%E3%82%8A%E3%81%9F%E3%81%84%EF%BC%81%EF%BC%81&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F2587">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">3,615,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 36.1%;"></div>
+<p class="gcf-cht-detail-bar__number">36.1%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">10,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">36.1</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">26</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>滋賀県東近江市（しがけん ひがしおうみし）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="2587" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2023年10月13日～2023年12月31日（80日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1029" class="sorting-list__item">インフラ・交通・施設</a></li><li><a href="/gcf/project/tag/1038" class="sorting-list__item">観光・PR</a></li><li><a href="/gcf/project/tag/1052" class="sorting-list__item">伝統・文化</a></li><li><a href="/gcf/project/tag/1053" class="sorting-list__item">歴史</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1096" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_17.png 1x, /gcf/images_cf/sdg/sdg_icon_17@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_17.png" alt="SDGアイコン" decoding="async" />17.パートナーシップで目標を達成しよう</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="2587" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">滋賀県東近江市</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230901/o_81e856859cea8a673e51a20404b79fd2d96cec48.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">走る電車の音から「ガチャコン」の愛称で親しまれている近江鉄道は、創立から１２０年を超える全国でも最古級の鉄道として地域の人々の日常生活を支えてきました。<br/>
+しかし、近江鉄道の利用者数は最盛期から半減し、経営面でも赤字が続くなどその存続が心配されています。<br/>
+東近江市をはじめ、沿線のまちは近江鉄道とともに発展してきました。貴重な地域資源である近江鉄道線を末永く守り続けていくためにクラウドファンディング型の寄付を募集します。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">■通勤や通学を支える地域の鉄道を守る</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230901/gpfd_cd0c0ae73936fc7e78b12a1260026dd4e2214204.jpg" />
+<figcaption class="lyt-image__caption">通勤通学でにぎわう八日市駅</figcaption>
+</figure>
+<p class="gcf-txt-article">線路を走る電車の音に由来した「ガチャコン電車」で親しまれている近江鉄道は、1896年（明治29年）に創業された滋賀県の中東部地域５市５町を結ぶ全長59.5㎞の全国でも最古級の私鉄です。沿線住民をはじめ、年間約500万人が利用されています。<br/>
+<br/>
+近江鉄道には全線に33の駅があり、そのうち東近江市内は最も多い１３駅を有しています。通勤通学による利用が全体の約６割を占め、地域の生活を支える公共交通として欠かすことのできない地域鉄道となっています。<br/>
+<br/>
+東近江市は、地域とって不可欠の移動手段を守るため、また子ども達の未来を支えるために、「近江鉄道線」の再生にむけた様々な取り組みに挑戦しています。<br/>
+</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">■近江鉄道は地域鉄道再生のリーディングモデル</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230929/gpfd_b9fee23fa8589a9542a14504aa8131f16d27f12a.jpg" />
+</figure>
+<p class="gcf-txt-article">平成６年度以降、徐々に営業赤字が深刻化してきた近江鉄道。利用者はピークであった昭和40年代の年間約1,000万人から、現在は半分以下にまで落ち込んでいます。安全輸送や老朽化対策等に要する経費も削減は難しく、事業の継続性は困難を極めてきています。<br/>
+平成28年度から近江鉄道線の今後のあり方について滋賀県や沿線市町等による検討が始まり、令和元年度には活性化再生法に基づく「近江鉄道沿線地域公共交通再生協議会」が設置されました。議論が重ねられる中で、「令和6年度に上下分離方式による新たな運行形態に移行」して近江鉄道線全線を将来にわたって存続していくことが合意されました。<br/>
+このほか、車両や線路など鉄道施設を管理する団体として「一般社団法人近江鉄道管理機構」が令和5年1月に設立され、新たな運航形態にスムーズに移行できるように運営体制等の協議が進められています。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20231005/gpfd_4323f56de1b7ccbf26e850e31dec2cd7d4da2105.jpg" />
+</figure>
+<p class="gcf-txt-article">沿線で最も駅が多い東近江市は、この間、沿線住民をはじめ、1人でも多くの人に近江鉄道に乗ってもらおうと令和2年度から近江鉄道全線乗車キャンペーンを実施し、キャンペーン期間中は普段の2倍以上の利用がありました。<br/>
+近江鉄道も、改めて地域住民の方に近江鉄道の価値を感じてもらおうと、全国的に注目された「全線無料デー」を実施するなど、新たな挑戦を続けています。<br/>
+</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">■利用しやすく快適な駅施設に（これまでの取組）</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20231213/gpfd_f75bfb96e05c8b1b9c0164722db9a380a799aea8.jpg" />
+</figure>
+<p class="gcf-txt-article">多くの通勤通学利用がある新八日市駅のトイレが新しく生まれ変わりました。令和５年12月に竣工したこのトイレは女子、男子、バリアフリートイレを設けており、誰もが快適に利用できる環境整備を行いました。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230929/gpfd_003db935fe1e2fe2f8b9f76e1d6428b98f7abd86.jpg" />
+</figure>
+<p class="gcf-txt-article">近隣学校へ通学するため、多くの学生たちが利用する近江鉄道五箇荘駅。<br/>
+今まで自転車駐輪場は１か所のみで、自転車が駐輪場からあふれる状態が続いていました。２学期が始まる９月に合わせ、駐輪場を新設し、今までよりも２倍以上の自転車を停めることが可能となり、快適に駅を利用できるようになりました。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230929/gpfd_b9ead1bcb620d93b9e7c76c723a0d5af1ef225d9.jpg" />
+</figure>
+<p class="gcf-txt-article">さらに、既存駐輪場の塗装を行うなど、利用環境の改善を行っています。<br/>
+近江鉄道市辺駅のトイレは簡易水洗化されているものの、老朽化が進む和式トイレで使いづらい状況でした。11月末に洋式トイレに更新し、清潔で使いやすい駅トイレに生まれ変わり、通勤や通学、駅周辺に観光で訪れた方にも快適に駅を使っていただけるようになりました。<br/>
+</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230915/gpfd_82e7de5dd2c7e3ce23f10f3a0c17860a836fd157.jpg" />
+<figcaption class="lyt-image__caption">市辺駅</figcaption>
+</figure>
+<p class="gcf-txt-article">また、令和5年2月に近江鉄道八日市駅の男子トイレ小便器の改修も行いました。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20231002/gpfd_7f66174f5d884a78829d0bc2973452924316c600.jpg" />
+<figcaption class="lyt-image__caption">八日市駅</figcaption>
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">■地域鉄道のマイレール意識向上へ</span></h2>
+<p class="gcf-txt-article">昨年につづき「ガチャコンまつり2023in東近江市」と題して近江鉄道八日市駅周辺を会場に鉄道イベントが開催されました。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20231003/gpfd_ff485b7e085e52087498ed1674afc985bb7d6ce3.png" />
+</figure>
+<p class="gcf-txt-article">会場内では長さ30メートルの線路上をミニ電車が運行し、幅広い世代が楽しめるお祭りとなっています。この他にも、近江鉄道以外の鉄道会社によるグッズ販売や沿線市町からのブース出展、クイズラリーなどの催しも行われ、今年のガチャコンまつりも大いに盛り上がりました。こうしたイベントを通じ近江鉄道線をはじめとする地域公共交通をみんなで守り育てる「マイレール意識」の向上に取り組んでいます。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20231002/gpfd_d7217d84bdf805b6902013a5e641ecefcf0c7704.png" />
+</figure>
+<p class="gcf-txt-article">また、近江鉄道や路線バスを利用して通学する中高生を対象に「近江鉄道・路線バス通学利用促進補助金」として通学を支援しています。公共交通を利用した通学を促すことで、より多くの学生に近江鉄道線を利用してもらい、さらには地域鉄道に愛着を持ってもらうきっかけづくりにも繋がっています。</p>
+<h3 class="gcf-ttl-h3">大いに盛り上がるガチャフェス</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20231128/gpfd_8c457fd07643e545f66ab7b258573049ba54260b.png" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">　近江鉄道沿線の活性化やにぎわいづくりを目指し「ガチャフェス」が今年も開催。大人１００円で近江鉄道全線が１日乗り放題となり、当日は約２万人が近江鉄道を利用し、沿線21駅の周辺で行われたマルシェ等の地域イベントを満喫。多くの人でにぎわい、地域の魅力を感じる一日となりました。</p>
+</div>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">■自転車を持ち込めるサイクルトレイン</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230914/gpfd_2fc594e0eb6583dd09e147cc12e4bb729357e3da.jpg" />
+</figure>
+<p class="gcf-txt-article">「電車内にそのまま自転車を持ち込める「サイクルトレイン」。鉄道沿線のサイクリングや買物、名所旧跡めぐりなど気軽に利用いただこうと平成１４年からこの事業が行われています。また、沿線のグルメや隠れた名所など豊かな自然を感じてもらおうと近江鉄道社員がおすすめする自転車の旅「ガチャRIDE」と釘打ってサイクリングコースも紹介されています。</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">■ジャズを聴きながら車内を満喫</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20231003/gpfd_f3c1461e9445015843e8d6305d81476f55a81b4d.jpg" />
+</figure>
+<p class="gcf-txt-article">電車内でジャズが楽しめるその名もジャズトレイン。「びわこジャズ東近江」の数あるステージのうち、近江鉄道車内が演奏会場に変わりました。車内では約20分間の演奏が行われ、この一風変わった取り組みに、鉄道利用者から大きな人気を呼んでいます。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230914/gpfd_851a3f144faaec0a4fe5d5f37ff5682aa2f87b3b.jpg" />
+</figure>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">■車内で楽しめるイベント電車を運行</span></h2>
+<p class="gcf-txt-article">毎年夏の風物詩として運行している「近江ビア電」。近年は物価高騰等により開催が見送られていますが、車内で生ビール等が楽しめるイベント電車として人気を集めています。この他にも豊富な銘柄を取りそろえた「ワイン電車」や滋賀県内の酒蔵の地酒とあたたかいおでんを楽しみながら冬の近江路を走る「近江の地酒電車」など季節に合わせたイベント電車を運行しています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">寄附金の使い道</span></h3>
+<p class="gcf-txt-article">・近江鉄道を安心、安全に利用いただくための設備の修繕、更新費用等<br/>
+　鉄道で何よりも優先しなければならない安心、安全に係る費用として大切に使わせていただきます。<br/>
+・沿線住民をはじめとする近江鉄道線の利用機会の創出に係る企画、運営費用<br/>
+　近江鉄道全線乗車キャンペーンのように、一人でも多くの人に近江鉄道線を利用いただくきっかけとなる利用促進の取り組みに大切に使わせていただきます。<br/>
+<br/>
+<br/>
+※目標額を上回った場合、下回った場合も、本事業に活用させていただきます。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5949095/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231005/pd_84cba1c97f5c39ead27800a632afd40ad6b9d85d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">布引焼　近江鉄道「駅長がちゃこん」マグカップ</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">近江鉄道マスコット「駅長がちゃこん」が布引焼マグカップで登場。素焼きの生地を丁寧に磨き、焼き上がりをイメージしながら釉薬をかけ仕上げました。滋賀県東近江市が手掛ける、近江鉄道ガバメントクラウドファンディング限定商品です。(提供)布引焼窯元</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5949096/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231005/pd_1ce05bd9f5da5d5bb5fbb182b79adb714f7266fb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">布引焼　近江鉄道電車マグカップ</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">近江鉄道の車両をモチーフにした布引焼マグカップ。素焼きの生地を丁寧に磨き、焼き上がりをイメージしながら釉薬をかけ仕上げました。滋賀県東近江市が手がける、近江鉄道ガバメントクラウドファンディング限定商品です。(提供)布引焼窯元</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5949097/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231004/pd_39a75bcb6c81eab1aa83b3643b82fe320223f821.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">布引焼　近江鉄道箸置き6点セット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">近江鉄道の車両をモチーフにした布引焼箸置き。素焼きの生地を丁寧に磨き、焼き上がりをイメージしながら釉薬をかけ、仕上げました。滋賀県東近江市が手がける、近江鉄道ガバメントクラウドファンディング限定商品です。(提供)布引焼窯元</p>
+</div>
+</a>
+</li>
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5773250/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220930/pd_aac734ea7862db6c3a2bb0e5cf6fcb5d134f8181.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">G11 岩井亭 近江牛 味噌漬 雅 ヒレ 4枚 計480g ［髙島屋選定品］ （株）高島屋洛西店</h4>
+<p class="goods-col_price inline">70,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<p class="goods-col_textinfo pc">岩井亭厳選の美しいサシが入った近江牛の最高級部位であるヒレだけを西京味噌に漬け込みました。
+約400年の歴史を持つブランド牛・近江牛の中でも、東近江市産の雌牛にこだわって販売しています。
+先代から受け継がれる技と近江牛の魅力をお楽しみください。
+◆事業者より 「近江牛のおいしさを、誠心誠意で届けたい。」
+契約牧場から届く優れた近江牛を、最高の状態でお届けすることにこだわっています。
+よそにないものを作っていこう、開けた瞬間にキレイだと思っていただける品を提供することで、
+これからもお客様に喜んでいただけるよう取り組んでいきます。
+# 岩井亭 滋賀 東近江市 近江牛 ヒレ 希少部位 味噌漬け 丁寧 在宅確認 冷蔵 生産者直送 国産 牛肉 ブランド牛 お取り寄せグルメ おうち時間 【関連キーワード】 サシ 希少部位 西京味噌 人気 こだわり 自慢 謹製 お取り寄せ おうち時間 丁寧 冷蔵 お祝い 内祝い ギフト プレゼント 贈り物 出産祝い お見舞い 退院祝い 全快祝い 快気祝い ごあいさつ 引っ越し 合格祝い 成人式 卒業記念品 卒業祝い 入学祝い 就職祝い 社会人 幼稚園 新築内祝い 誕生日 バースデー 七五三 初節句</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5773240/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220930/pd_d1e2c88e4615ef02493d52abdf6d8736f86e7109.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">A-E16 岩井亭 近江牛 切り落とし500g[高島屋選定品]（株）高島屋洛西店</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<p class="goods-col_textinfo pc">上質な脂が口の中でとろける味わいが特徴の近江牛。食感も楽しめる赤身部分が入ったウデやモモの部位を、 調理しやすいように薄くスライスしています。煮物料理や炒め物などにおすすめです。 ◆事業者より 「近江牛のおいしさを、誠心誠意で届けたい。」 契約牧場から届く優れた近江牛を、最高の状態でお届けすることにこだわっています。 よそにないものを作っていこう、開けた瞬間にキレイだと思っていただける品を提供することで、これからもお客様に喜んでいただけるよう取り組んでいきます。 # 岩井亭 滋賀 東近江市 近江牛 切り落とし 500g スライス 冷凍 生産者直送 国産 牛肉 ブランド牛 お取り寄せグルメ おうち時間</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5773217/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231225/pd_fcbfa9b082b216e359211af3cd552027fd968ec4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">C25 令和4年度 全国肉用牛枝肉共励会 最優秀賞受賞 中川牧場の近江牛赤身焼肉用 500g[高島屋選定品] （株）高島屋洛西店</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<p class="goods-col_textinfo pc">東近江市の湖東平野で水・飼料・血統にこだわり育てた自社牧場の近江牛です。淡白で旨味のある赤身肉モモまたはウデを焼肉用にしてお届けします。 中川畜産の牛肉は良質の脂で、風味が強く、余韻が残る味わいをお楽しみいただけます。 ◆◆この度、令和4年度全国肉用牛枝肉共励会（和牛 牝牛部門）にて、滋賀県東近江市・中川牧場（中川畜産・近江肉牛協会所属）の近江牛が最優秀賞を受賞いたしました。 ◆生産者より 「牛の飼育は水が最も重要」という先祖代々の教えを守り、このかつて蒲生野と呼ばれた湖東平野で、鈴鹿山脈の伏流水を地下80ｍから汲みあげ、愛情たっぷりに育てています。 まろやかな水と近江米の稲わらを与えた牛は、肉質が良く、健康で穏やかに成長します。 これからも世界に近江牛ブランドを発信し、一人でも多くの人に、日本の本当においしい和牛を知ってもらいたいと願っています。 # 中川畜産 滋賀 東近江市 自社牧場 中川牧場 近江牛 赤身 モモ ウデ 焼肉 500g 丁寧 在宅確認 冷蔵 生産者直送 国産 牛肉 ブランド牛 お取り寄せグルメ 伏流水 水 こだわり おうち時間 令和4年度 全国肉用牛枝肉共励会 最優秀賞受賞 東近江市産 伝統 本場 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5773225/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221101/pd_80905ebea9a4e5e4ceb9e19a462814c7eb40c294.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">D19 令和4年度 全国肉用牛枝肉共励会 最優秀賞受賞 中川牧場の近江牛すき焼き用ｍｉｘ 800g[髙島屋選定品] （株）髙島屋洛西店</h4>
+<p class="goods-col_price inline">40,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<p class="goods-col_textinfo pc">中川牧場の歴史は、1850年代に牛の産地問屋を始めたことから始まります。東近江市の湖東平野で水・飼料・血統にこだわり育てた自社牧場の近江牛です。 様々な部位のすき焼き用をお届けします。部位指定はできませんが、部位ごとによって異なる肉の風味を食べ比べできます。 中川畜産の牛肉は良質の脂で、風味が強く、余韻が残る味わいをお楽しみいただけます。 ◆◆この度、令和4年度全国肉用牛枝肉共励会（和牛 牝牛部門）にて、滋賀県東近江市・中川牧場（中川畜産・近江肉牛協会所属）の近江牛が最優秀賞を受賞いたしました。 ◆生産者より 「牛の飼育は水が最も重要」という先祖代々の教えを守り、このかつて蒲生野と呼ばれた湖東平野で、鈴鹿山脈の伏流水を地下80ｍから汲みあげ、愛情たっぷりに育てています。 まろやかな水と近江米の稲わらを与えた牛は、肉質が良く、健康で穏やかに成長します。 これからも世界に近江牛ブランドを発信し、一人でも多くの人に、日本の本当においしい和牛を知ってもらいたいと願っています。 # 中川畜産 滋賀 東近江市 自社牧場 中川牧場 近江牛 ミックス すき焼き 800g 丁寧 在宅確認 冷蔵 生産者直送 国産 牛肉 ブランド牛 お取り寄せグルメ 伏流水 水 こだわり おうち時間 令和4年度 全国肉用牛枝肉共励会 最優秀賞受賞 東近江市産 伝統 本場 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5773244/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221001/pd_fe9003518c13de2ee5e00548fa3b2b970d95d0e6.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">D-E13 岩井亭 近江牛 味噌漬 サーロイン ヒレ 4枚 計400g[高島屋選定品]（株）高島屋洛西店</h4>
+<p class="goods-col_price inline">45,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<p class="goods-col_textinfo pc">岩井亭厳選の美しいサシが入った近江牛の最高級部位であるサーロインとヒレだけを西京味噌に漬け込みました。 約400年の歴史を持つブランド牛・近江牛の中でも、東近江市産の雌牛にこだわって販売しています。先代から受け継がれる技と近江牛の魅力をお楽しみください。 ◆事業者より 「近江牛のおいしさを、誠心誠意で届けたい。」 契約牧場から届く優れた近江牛を、最高の状態でお届けすることにこだわっています。 よそにないものを作っていこう、開けた瞬間にキレイだと思っていただける品を提供することで、これからもお客様に喜んでいただけるよう取り組んでいきます。 # 岩井亭 滋賀 東近江市 近江牛 ヒレ サーロイン 希少部位 味噌漬け 丁寧 在宅確認 冷蔵 生産者直送 国産 牛肉 ブランド牛 お取り寄せグルメ おうち時間 【関連キーワード】 岩井亭 近江牛 味噌漬 サーロイン ヒレ 高島屋選定品 お取り寄せ 霜降り 西京味噌 希少部位 牛肉 国産 ブランド牛 冷蔵 東近江市 楽天 返礼品 寄付 お歳暮 ギフト プレゼント お祝い 贈り物 故郷納税 御祝い 内祝い 結婚お祝い 内祝い 結婚式 引き出物 引出物 引き菓子 出産祝い お見舞い 退院祝い 全快祝い 快気祝い ごあいさつ 引っ越し 合格祝い 成人式</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5773252/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221001/pd_ae264517388860df88ece01bbc1b9d5044f10215.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">AH-E01 岩井亭 近江牛ヒレごのみ ヒレ味噌漬・ヒレビフカツ[高島屋選定品]（株）高島屋洛西店</h4>
+<p class="goods-col_price inline">185,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<p class="goods-col_textinfo pc">味噌漬「雅」とヒレのビフカツ。近江牛最高級部位であるヒレだけを使用した岩井亭自慢の贅沢なセットです。 約400年の歴史を持つブランド牛・近江牛の中でも、東近江市産の雌牛にこだわって販売しています。先代から受け継がれる技と近江牛の魅力をお楽しみください。 ◆事業者より 「近江牛のおいしさを、誠心誠意で届けたい。」 契約牧場から届く優れた近江牛を、最高の状態でお届けすることにこだわっています。 よそにないものを作っていこう、開けた瞬間にキレイだと思っていただける品を提供することで、これからもお客様に喜んでいただけるよう取り組んでいきます。 # 岩井亭 滋賀 東近江市 近江牛 ヒレ 希少部位 丁寧 在宅確認 冷蔵 生産者直送 国産 牛肉 ブランド牛 お取り寄せグルメ 人気 惣菜 ビフカツ おうち時間 おうちごはん</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5773257/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220930/pd_eb589c2be332759f8638430498732414530d64ab.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">CE05 岩井亭 定期便 近江牛ヒレ三昧（2カ月）[高島屋選定品]（株）高島屋洛西店</h4>
+<p class="goods-col_price inline">350,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_period">定期</li>
+</ul>
+<p class="goods-col_textinfo pc">岩井亭厳選の美しいサシが入った近江牛の最高級部位であるヒレを贅沢にカットしたシャトーブリアンステーキと、ヒレビフカツです。 近江牛のヒレ特有の大変まろやかで芳醇な風味を２カ月にわたってお楽しみください。 ◆事業者より 「近江牛のおいしさを、誠心誠意で届けたい。」 契約牧場から届く優れた近江牛を、最高の状態でお届けすることにこだわっています。 よそにないものを作っていこう、開けた瞬間にキレイだと思っていただける品を提供することで、これからもお客様に喜んでいただけるよう取り組んでいきます。 # 岩井亭 滋賀 東近江市 近江牛 ヒレ シャトーブリアン 希少部位 丁寧 在宅確認 冷蔵 生産者直送 国産 牛肉 ブランド牛 お取り寄せグルメ 毎月届く 簡単 便利 定期便 人気 惣菜 ビフカツ おうち時間</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5773258/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220930/pd_a29bca7bf7bf6af38e3d4e11dd41652724d7f80f.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">CE06 岩井亭 定期便 近江牛ヒレ三昧（2カ月）[高島屋選定品]（株）高島屋洛西店</h4>
+<p class="goods-col_price inline">350,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_period">定期</li>
+</ul>
+<p class="goods-col_textinfo pc">岩井亭厳選の美しいサシが入った近江牛の最高級部位であるヒレを贅沢にカットしたシャトーブリアンステーキと、ヒレ味噌漬です。 近江牛のヒレ特有の大変まろやかで芳醇な風味を２カ月にわたってお楽しみください。 ◆事業者より 「近江牛のおいしさを、誠心誠意で届けたい。」 契約牧場から届く優れた近江牛を、最高の状態でお届けすることにこだわっています。 よそにないものを作っていこう、開けた瞬間にキレイだと思っていただける品を提供することで、これからもお客様に喜んでいただけるよう取り組んでいきます。 # 岩井亭 滋賀 東近江市 近江牛 ヒレ シャトーブリアン 希少部位 味噌漬け 丁寧 在宅確認 冷蔵 生産者直送 国産 牛肉 ブランド牛 お取り寄せグルメ 毎月届く 簡単 便利 定期便 おうち時間</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5773260/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221001/pd_73c21ff02dabb95ee23170371b35ba10901c97d0.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">DE03 岩井亭 定期便 近江牛ヒレ三昧コース（３カ月）[高島屋選定品]（株）高島屋洛西店</h4>
+<p class="goods-col_price inline">450,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_period">定期</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から30日前後</p>
+</div>
+<p class="goods-col_textinfo pc">岩井亭厳選の美しいサシが入った近江牛の最高級部位であるヒレを贅沢に1本まるごと堪能できるコースです。 ほどけるようなやわらかい極上の食感とまろやかで芳醇な風味を３カ月間お楽しみください。 ◆事業者より 「近江牛のおいしさを、誠心誠意で届けたい。」 契約牧場から届く優れた近江牛を、最高の状態でお届けすることにこだわっています。 よそにないものを作っていこう、開けた瞬間にキレイだと思っていただける品を提供することで、これからもお客様に喜んでいただけるよう取り組んでいきます。 # 岩井亭 滋賀 東近江市 近江牛 ヒレ シャトーブリアン 希少部位 赤身 味噌漬け ビフカツ 丁寧 在宅確認 冷蔵 生産者直送 国産 牛肉 ブランド牛 お取り寄せグルメ 毎月届く 簡単 便利 定期便 人気 惣菜 おうち時間い。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5773261/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230426/pd_2e8f431e37e27474ee37774cee3973254f387f3d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">EO01 岩井亭 定期便 近江牛三昧オーダーコース（4カ月）[高島屋選定品]（株）高島屋洛西店</h4>
+<p class="goods-col_price inline">500,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_period">定期</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から30日前後</p>
+</div>
+<p class="goods-col_textinfo pc">岩井亭厳選の美しいサシが入った近江牛の最高級部位であるヒレや人気の赤身を堪能できる定期便4カ月コースです。 各月の予定や気分に合わせて、１カ月に一度お届けする商品の順番をオーダーできます。 ◆事業者より 「近江牛のおいしさを、誠心誠意で届けたい。」 契約牧場から届く優れた近江牛を、最高の状態でお届けすることにこだわっています。 よそにないものを作っていこう、開けた瞬間にキレイだと思っていただける品を提供することで、これからもお客様に喜んでいただけるよう取り組んでいきます。 # 岩井亭 滋賀 東近江市 近江牛 ヒレ シャトーブリアン オーダー 味噌漬け ビフカツ すき焼き しゃぶしゃぶ 希少部位 赤身 丁寧 在宅確認 冷蔵 生産者直送 国産 牛肉 ブランド牛 お取り寄せグルメ 毎月届く 簡単 便利 定期便 人気 惣菜 おうち時間 おうちごはん</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5773263/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230426/pd_c56f9fe878462b65af60297d0afeaf817eae1fbb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">AOO02 岩井亭 定期便 近江牛三昧オーダーコース（8カ月）[高島屋選定品]（株）高島屋洛西店</h4>
+<p class="goods-col_price inline">1,000,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_period">定期</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から30日前後</p>
+</div>
+<p class="goods-col_textinfo pc">岩井亭厳選の美しいサシが入った近江牛の最高級部位であるヒレとサーロインや人気の赤身を堪能できる定期便8カ月コースです。 各月の予定や気分に合わせて、一カ月に一度お届けする商品の順番をオーダーできます。 ◆事業者より 「近江牛のおいしさを、誠心誠意で届けたい。」 契約牧場から届く優れた近江牛を、最高の状態でお届けすることにこだわっています。 よそにないものを作っていこう、開けた瞬間にキレイだと思っていただける品を提供することで、これからもお客様に喜んでいただけるよう取り組んでいきます。 # 岩井亭 滋賀 東近江市 近江牛 ヒレ シャトーブリアン オーダー 希少部位 すき焼き しゃぶしゃぶ 赤身 味噌漬け ビフカツ ミニステーキ ステーキ サーロイン リブロース 丁寧 在宅確認 冷蔵 生産者直送 国産 牛肉 ブランド牛 お取り寄せグルメ 毎月届く 簡単 便利 定期便 人気 惣菜 おうち時間</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5788227/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220928/pd_6d7efb5da6d1445314f528cb353d9d72fd0a343a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">FE01 オフィスチェア RECARO 24H ファブリック（ナルドブラック、ナルドグレイ） レカロ株式会社</h4>
+<p class="goods-col_price inline">650,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>受注生産のため決済確認から１カ月程度発送にお時間をいただきます。</p>
+</div>
+<p class="goods-col_textinfo pc">長時間イスに座ったまま過ごされることの多い方へ。腰痛を科学するRECARO のオフィスチェア 24時間監視する全国の消防指令室などに採用されているRECARO 24H CHAIR。自動車シートで培ったRECARO 独自のシート哲学により開発したオフィスチェア。腰痛予防や疲労軽減を可能にする正しい着座姿勢をサポートします。 重すぎず、軽すぎない素材感とカラーリングでさまざまなオフィスに調和するファブリックシリーズ カラー：ナルドブラック、ナルドグレイ ※ご希望のカラーをお選びいただき、備考欄へご記入下さい。 【関連キーワード】 ギフト プレゼント 故郷納税 オフィスチェア 椅子 チェア 楽天 返礼品 寄付 お歳暮 ギフト プレゼント お祝い 贈り物 故郷納税 東近江 御祝い 結婚お祝い 内祝い お歳暮 ギフト プレゼント 贈り物 結婚式 引き出物 引出物 引き菓子 出産祝い お見舞い 退院祝い 全快祝い 快気祝い ごあいさつ 引っ越し 合格祝い 成人式 卒業記念品 卒業祝い 入学祝い 就職祝い 社会人 幼稚園 新築内祝い 誕生日 バースデー 七五三 初節句 お供え 法事 供養</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5580637/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221024/pd_aac3128cb98e55b84a1626688311a7c6ba0d0beb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">DE02 招福楼特別おまかせ会席　会席コースお食事券 2名様 株式会社招福楼</h4>
+<p class="goods-col_price inline">450,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>お電話にてお申込みください。受付時間：9:00～18:00（第1・3・5月曜日休み） ご予約はチケットがお届けしてから、お手元にご準備の上、お電話をお願いします。 ※食物アレルギーをお持ちの方は、必ずご予約の際にご申告ください。 施設へのお申し込みに関するお問い合わせは、ご招待カードがお手もとに届いてからお問い合わせください。 ※こちらのお食事券はいかなる理由があっても、有効期限の延長・コース内容の変更・払い戻しは出来ません。 ※こちらのお食事券は料金加算での人数プラスのご予約は出来ません。記載人数様の承りに限らせていただきます。 ※年末年始、貸切営業日はご利用いただけません。またお日付によりご利用いただけない場合がございます。</p>
+</div>
+<p class="goods-col_textinfo pc">旬の良質な食材と、代々受け継がれてきた名器、設えでもって、日本の伝統や文化、季節を感じていただける招福楼本店の最上級コースのペア御食事券です。御料理内容は月毎の趣向や食材によって変わりますので、おまかせとなります。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5579196/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221024/pd_028136d34850583242c6450db0ac14ba034dbc0f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">FF01 招福楼特別おまかせ会席 会席コースお食事券 3名様　株式会社招福楼</h4>
+<p class="goods-col_price inline">660,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>お電話にてお申込みください。受付時間：9:00～18:00（第1・3・5月曜日休み） ご予約はチケットがお届けしてから、お手元にご準備の上、お電話をお願いします。 ※食物アレルギーをお持ちの方は、必ずご予約の際にご申告ください。 施設へのお申し込みに関するお問い合わせは、ご招待カードがお手もとに届いてからお問い合わせください。 ※こちらのお食事券はいかなる理由があっても、有効期限の延長・コース内容の変更・払い戻しは出来ません。 ※こちらのお食事券は料金加算での人数プラスのご予約は出来ません。記載人数様の承りに限らせていただきます。 ※年末年始、貸切営業日はご利用いただけません。またお日付によりご利用いただけない場合がございます。</p>
+</div>
+<p class="goods-col_textinfo pc">旬の良質な食材と、代々受け継がれてきた名器、設えでもって、日本の伝統や文化、季節を感じていただける招福楼本店の最上級コースの３名様分の御食事券です。御料理内容は月毎の趣向や食材によって変わりますので、おまかせとなります。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5783722/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240401/pd_66542e13d7bb030f49a85cc32133a1f18ba7706e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">A-G08 湖のくに生チーズケーキ12個　社会福祉法人あゆみ福祉会(工房しゅしゅ)</h4>
+<p class="goods-col_price inline">17,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<p class="goods-col_textinfo pc">滋賀県にある六つの蔵元推薦の酒粕と地酒を使ったレアチーズケーキです。六種類の酒粕の豊かな風味と熟成、味の違いをきき酒のようにお楽しみください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/4418253/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230407/pd_2d6898dacf6e20d05109095d41c829e4fc8cd9ea.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">AG10　永源寺温泉 八風の湯 宿「八風別館」懐石料理付宿泊ペアチケット（一泊二食付）　永源寺温泉 八風の湯</h4>
+<p class="goods-col_price inline">170,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">都市部から離れた滋賀県の奥座敷で、どこか懐かしい風情漂う落ち着いた大人の空間を堪能できます。 全室露天風呂付客室です。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/4417948/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231013/pd_3f0beb12ca10fb9ef41b63c7919258b6a351cbf7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">A-D08 半月皿「フクロウと桜」ペア 　株式会社 布引焼窯元</h4>
+<p class="goods-col_price inline">14,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">淡く透明感のある布引焼独自の技法「七彩天目」で、日本の心・桜と可愛らしいフクロウを描いた半月形の銘々皿。
+縦12x横13.5xcm/2枚
+※商品によっては、色合いや風合いが異なる場合があります。
+◆事業者から
+布引焼の「七彩天目（ななさいてんもく）」と名付けられたその独特の色彩は、その豊かさゆえに、
+さまざまな風景や植物など自然の情景を自由な発想で陶器に描き込むくことができる画期的なものでした。
+布引焼は、この「七彩天目」という色鮮やかな絵付けの技法が切り開いた、新しい手描きの世界なのです。
+1970年代初めに小嶋太郎によって築かれた工房の周囲には大きな森が点在しており、それは工房のすぐ隣にも広がっていました。
+当時の森にはふくろうが棲み、いつも工房を見守ってくれているかのようでした。
+そこで、小嶋は「七彩天目（ななさいてんもく）」で焼上げたふくろうに「福籠(福がこもる)」と名付け、窯元のマスコットとしました。
+以来、今日に至るまで、「福籠」の置物は布引焼のシンボル的な作品となって多くの人々に親しまれてきました。
+さらに近年では地域のシンボルとして広く愛されるようになり、2004年には地元の市制50周年の記念モニュメントに採用され、市内9カ所に設置されています。
+＃布引焼窯元 七彩天目 小嶋一浩 ふくろう 手書き 陶器産地 癒し 福がこもる 東近江市 オブジェ 置物
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5773803/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231013/pd_4e5dda9ceac8894b500246b469dce47310f8482d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">B11 フリル角鉢「桜」（グリーン、ピンク）　株式会社 布引焼窯元</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">お色は「グリーン」「ピンク」からお選びいただき、備考欄にご記載ください。
+縦横17.5cm×高3cm
+※商品によっては、色合いや風合いが異なる場合があります。
+◆事業者から
+布引焼の「七彩天目（ななさいてんもく）」と名付けられたその独特の色彩は、その豊かさゆえに、
+さまざまな風景や植物など自然の情景を自由な発想で陶器に描き込むくことができる画期的なものでした。
+布引焼は、この「七彩天目」という色鮮やかな絵付けの技法が切り開いた、新しい手描きの世界なのです。
+1970年代初めに小嶋太郎によって築かれた工房の周囲には大きな森が点在しており、それは工房のすぐ隣にも広がっていました。
+当時の森にはふくろうが棲み、いつも工房を見守ってくれているかのようでした。
+そこで、小嶋は「七彩天目（ななさいてんもく）」で焼上げたふくろうに「福籠(福がこもる)」と名付け、窯元のマスコットとしました。
+以来、今日に至るまで、「福籠」の置物は布引焼のシンボル的な作品となって多くの人々に親しまれてきました。
+さらに近年では地域のシンボルとして広く愛されるようになり、2004年には地元の市制50周年の記念モニュメントに採用され、市内9カ所に設置されています。
+＃布引焼窯元 七彩天目 小嶋一浩 ふくろう 手書き 陶器産地 癒し 福がこもる 東近江市 オブジェ 置物
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/4418144/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231013/pd_7c0aa0a92cde91f332f40044d92084f9a5ef36d2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name"> F12 食器セット「桜」 株式会社 布引焼窯元</h4>
+<p class="goods-col_price inline">60,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">淡く透明感のある布引焼独自の技法「七彩天目」で、日本の心・桜を表現した食器セット。 角鉢：17.5×高さ3㎝/2個、茶碗：口径12×高さ8.5㎝/2個、湯のみ：口径7×高さ8.5㎝/2個、箸置：4.5cm/2個 ※商品によっては、色合いや風合いが異なる場合があります。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/4418030/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230714/pd_cf6c39b7b5a4db581b2ecd603687a584d90abbf5.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">C-E17 FORTYNINERS ワンピースオブロック ミニトートバッグ(MINI TOTE BAG)　有限会社ヨークハウス</h4>
+<p class="goods-col_price inline">35,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<p class="goods-col_textinfo pc">厳選された糸で作られたオリジナルインディゴデニム生地を使用し、東近江市で縫製されたミニトートバッグです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5592693/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230714/pd_625f9089ead2472bbb000801c71d76c8e516c1de.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">F-F03 FORTYNINERS ワンピースオブロック トートバッグ(TOTE BAG) 有限会社ヨークハウス</h4>
+<p class="goods-col_price inline">66,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<p class="goods-col_textinfo pc">ワンピースオブロックシリーズより、13oz(オンス)平織りデニムで作ったTOTE BAG。 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/4418031/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230714/pd_820009678799700744690922849d01afc7c4441c.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">B-E09 FORTYNINERS ワンピースオブロック PCケース(PC CASE) 有限会社ヨークハウス</h4>
+<p class="goods-col_price inline">25,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<p class="goods-col_textinfo pc">オリジナルの13.5ozデニム生地で作られたPCケースです。 ※クッションはPCの安全を確約するものではありません。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/4617850/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231013/pd_93fda457cb94b37067d7b1d98dbfffee85824ed9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">A17 フクロウ置物「市福」（ミニ） 株式会社 布引焼窯元</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">市役所をはじめ東近江市内に設置され、町の幸福を見守っている「市福フクロウ」のミニサイズ。 幅7.5×奥行き8.5×高さ9cm/4色：ブルー・ピンク・グリーン・イエロー ※商品によっては、色合いや風合いが異なる場合があります。 ※ご希望のカラーをお選びいただき、備考欄へご記入下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/4418076/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231013/pd_2856791df34c615a0a247b413cc7ce88b2ffaafe.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">A-G04 フクロウ置物「止まり木」 株式会社 布引焼窯元</h4>
+<p class="goods-col_price inline">17,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">淡く透明感のある布引焼独自の技法「七彩天目」で焼き上げた可愛らしいフクロウの置物。 幅13x奥行き14x高さ21cm ※商品によっては、色合いや風合いが異なる場合があります。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/4418039/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231013/pd_04b570a0fc54435a09168fbcce4ac98238dc1430.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">B-G02 フォトフレーム「桜」 株式会社 布引焼窯元</h4>
+<p class="goods-col_price inline">27,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">淡く透明感のある布引焼独自の技法「七彩天目」で、日本の心・桜を表現したフォトフレーム。 縦15x横21x奥行き1.5cm／飾り台付 ※商品によっては、色合いや風合いが異なる場合があります。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/4418078/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231013/pd_2b170655ddc0226cfb9d275f83d3b8c1f1d8193b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">C16 フクロウ置物「市福」ペア 株式会社 布引焼窯元</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">市役所をはじめ東近江市内に設置され、町の幸福を見守っている「市福フクロウ」のサイズ違いのミニチュアペアセットです。 ブルー(小)：幅11x奥行き13x高さ13cm/ピンク(ミニ)：幅7.5x奥行き8.5x高さ9cm ※商品によっては、色合いや風合いが異なる場合があります。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5773809/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231013/pd_da5180b6c09a760273f209e173c5103ce287557d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">E11 フクロウ置物「まなざし」（中） 株式会社 布引焼窯元</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">淡く透明感のある布引焼独自の技法「七彩天目」で焼き上げた、愛嬌のあるフクロウ。 ※商品によっては、色合いや風合いが異なる場合があります。 ※ご希望のカラーをお選びいただき、備考欄へご記入下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5773811/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230710/pd_edf1c3c17a72f0cae3665c955c2f28dba1054097.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">AA04 陶額「黄昏に翔ぶ」 株式会社 布引焼窯元</h4>
+<p class="goods-col_price inline">110,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">淡く透明感のある布引焼独自の技法「七彩天目」で焼き上げた、愛嬌のあるフクロウの陶額。 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5818912/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230709/pd_261f909fd36d749c9a9cc442a9b4f6ec98784723.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">A-E22 東近江市の地酒720㎖ 　3本セット　大治郎純米、近江藤兵衛純米、喜楽長上撰　大桝屋</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<p class="goods-col_textinfo pc">東近江市の地酒蔵「畑酒造」、「中澤酒造」の代表銘柄純米酒の生酒を飲み比べできるセットです。 ※20歳未満の飲酒は法律で禁止されています。 大治郎　純米　720ml瓶 近江藤兵衛　純米　720ml 喜楽長　上撰　720ml</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5818915/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230709/pd_a5b6ba379ca1f5a6447be7e6344d112e13b736ac.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">C31 東近江市の地酒 720㎖　５本セット　大治郎純米、一博純米、近江藤兵衛純米、喜楽長辛口純米吟醸、大治郎純米吟醸　大桝屋</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<p class="goods-col_textinfo pc">東近江市の地酒蔵「畑酒造」、「中澤酒造」の代表銘柄純米酒の生酒を飲み比べできるセットです。 ※20歳未満の飲酒は法律で禁止されています。 大治郎　純米　720ml瓶 一博　純米　720ml瓶 近江藤兵衛　純米　720ml瓶 喜楽長　辛口純米吟醸　720ml 大治郎　純米吟醸　720ml </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/5773802/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230816/pd_0c0ff4941a198d059284c11c01154472d83e0e1c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">B09 イタリアンジェラートミニカップ詰め合わせ18個入り 有限会社池田牧場 【 アイス アイスクリーム ジェラート 人気 滋賀 ランキング アイスキャンディー セット スイーツ お菓子 洋菓子 デザート デザートカップ デザート詰め合わせ デザートアイス 詰合せ 詰め合わせ 】</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<p class="goods-col_textinfo pc">池田牧場の朝搾りたて牛乳をふんだんに使用したイタリアンジェラート。香料や着色料は使用せず、素材本来の味をお楽しみいただけます。
+人気のジェラートを詰合せました。
+＼事業者より／
+池田牧場の乳牛は、鈴鹿山脈のきれいな水と地元農家が作った稲発酵粗飼料をはじめとする5種類の餌を与えて愛情たっぷりに育てています。朝搾りたての牛乳を成分無調整・無均質で低温殺菌し、栄養やおいしさをそのままお届けします。これからも牧場だからできる安心で本物の味を追求していきます。
+【関連キーワード】
+池田牧場 いけぼく あいきょうの森 東近江市 永源寺 搾りたて 安心 安全 こだわり オリジナル イタリアンジェラート 旬 素材 工房 フレーバー 豊富 本格的 冷凍
+※生ものですので住所不明やご不在でお受け取りいただけなかった場合、原則商品の再送や返金は不可となります。
+※配達希望日を、必ず備考欄へご記載ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/4836021/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230623/pd_5bc6967e5d22a7b1a212afe3edbe97e964b9bd1d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">BO05 永源寺温泉 八風の湯 宿「八風別館」近江牛すき焼きコース料理付 宿泊ペアチケット（一泊二食付）　永源寺温泉 八風の湯</h4>
+<p class="goods-col_price inline">200,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">都市部から離れた滋賀県の奥座敷で、どこか懐かしい風情漂う落ち着いた大人の空間を堪能できます。
+全室露天風呂付客室です。愛知川沿いに大浴場・露天風呂も完備、岩盤浴も利用でき、ゆったりとした時間を過ごせます。
+夕食時に口の中でとろけるような食感を堪能できる近江牛すき焼きコースが付いたプランです。
+＼事業者より／
+愛知川の自然が一望できる露天風呂をはじめ、地元の食材を使ったお料理もご用意しております。
+永源寺の四季を感じながら心やすらぐひとときをお楽しみください。
+【関連キーワード】
+永源寺温泉　八風の湯　永源寺　宿泊　温泉　露天風呂　露天風呂付客室　岩盤浴　宿　食事　チケット
+滋賀　奥座敷　愛知川　贈り物　ギフト　贈答　お祝い　プレゼント　記念日　母の日　父の日
+結婚祝い　長寿祝い　やすらぎ　四季</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25213/4736820/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231013/pd_632d6c65c89f009f9acdb95662d6d3ebb54d04af.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">AG04 尺皿「万葉の詠姫」 株式会社 布引焼窯元</h4>
+<p class="goods-col_price inline">170,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">東近江市に広がる蒲生野は、万葉集を代表する歌人 額田王が、大海人皇子と相聞歌を交わした場所です。 額田王の詠に秘めた切ない想いをイメージしたデザインは、令和の時代にときめきを伝えてくれます。 飾り皿として、お部屋のインテリアにおすすめです。 </p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">滋賀県東近江市</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">　滋賀県東近江市は、日本のほぼ中央部、近畿圏と中京圏の中間に位置しており、東の鈴鹿山脈から西は琵琶湖に面し、森・里・川・湖といった多様な姿を見ることができます。また、本市には創業120年を超える近江鉄道が走っており通勤通学をはじめ、観光等本市を訪れる人の移動手段として、地域における基幹交通として大変重要な役割を果たしています。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">滋賀県東近江市の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/25213/38?from=2&amp;gcf_project_id=2587"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,642,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g2587,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

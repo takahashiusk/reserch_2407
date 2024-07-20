@@ -1,0 +1,1751 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/2188" />
+
+<title>外国人を助けるマッチングアプリ「No Worries」を開発し、日本で魅力的な生活を送ってほしい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="外国人を助けるマッチングアプリ「No Worries」を開発し、日本で魅力的な生活を送ってほしい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/2188" />
+<meta property="og:description" content="みなさま、初めまして。山口県長門市に事業を採択して頂き、2023年に会社を設立する予定をしております、奥島輝也です。このページを見てくださり、ありがとうございます！私は京都で育ち、大学院生の時にアメリカのシアトルに在住していた経験があります。その時、自身が外国人となり、様々な生活の問題に直面して苦労しました。言語の壁や異国の文化や仕組みという、生活上のことが様々あります。そして日本では、日本人が異文化や外国語に興味を持っていても、生活の中でなかなか触れる機会がなく、歯がゆい思いをしています。本事業では、外国人と日本人の課題を経験をした私が、両者の問題に架け橋を繋げ、両者が助け合えるキッカケ作りをします。そして、日本人の働きかけによって、外国人の流入を更に促進させ、日本の経済悪化に貢献します。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221118/d_6dbb603ca66f5e92569103afb1a85d6d578d1b9d.png" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221118/d_6dbb603ca66f5e92569103afb1a85d6d578d1b9d.png" />
+<meta property="twitter:title" content="外国人を助けるマッチングアプリ「No Worries」を開発し、日本で魅力的な生活を送ってほしい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="みなさま、初めまして。山口県長門市に事業を採択して頂き、2023年に会社を設立する予定をしております、奥島輝也です。このページを見てくださり、ありがとうございます！私は京都で育ち、大学院生の時にアメリカのシアトルに在住していた経験があります。その時、自身が外国人となり、様々な生活の問題に直面して苦労しました。言語の壁や異国の文化や仕組みという、生活上のことが様々あります。そして日本では、日本人が異文化や外国語に興味を持っていても、生活の中でなかなか触れる機会がなく、歯がゆい思いをしています。本事業では、外国人と日本人の課題を経験をした私が、両者の問題に架け橋を繋げ、両者が助け合えるキッカケ作りをします。そして、日本人の働きかけによって、外国人の流入を更に促進させ、日本の経済悪化に貢献します。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,601,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="2188" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">外国人を助けるマッチングアプリ「No Worries」を開発し、日本で魅力的な生活を送ってほしい！</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">外国人を助けるマッチングアプリ「No Worries」を開発し、日本で魅力的な生活を送ってほしい！</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1022">健康・福祉&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221118/d_6dbb603ca66f5e92569103afb1a85d6d578d1b9d.png" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%82%92%E5%8A%A9%E3%81%91%E3%82%8B%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E3%82%A2%E3%83%97%E3%83%AA%E3%80%8CNo%20Worries%E3%80%8D%E3%82%92%E9%96%8B%E7%99%BA%E3%81%97%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%A7%E9%AD%85%E5%8A%9B%E7%9A%84%E3%81%AA%E7%94%9F%E6%B4%BB%E3%82%92%E9%80%81%E3%81%A3%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84%EF%BC%81&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F2188">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">751,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 14.6%;"></div>
+<p class="gcf-cht-detail-bar__number">14.6%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">5,120,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">14.6</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">32</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>山口県長門市（やまぐちけん ながとし）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="2188" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+<li>
+<a class="js-modal-not-available-in-mobile-app-trigger i-arrow" href="#" data-modal-id="contact">お問い合わせ先</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2022年12月1日～2023年2月28日（90日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1028" class="sorting-list__item">まちづくり・コミュニティ</a></li><li><a href="/gcf/project/tag/1047" class="sorting-list__item">健康・医療</a></li><li><a href="/gcf/project/tag/1049" class="sorting-list__item">福祉・障がい</a></li><li><a href="/gcf/project/tag/1051" class="sorting-list__item">不平等・格差</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1082" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_3.png 1x, /gcf/images_cf/sdg/sdg_icon_3@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_3.png" alt="SDGアイコン" decoding="async" />3.すべての人に健康と福祉を</a></li><li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li><li><a href="/gcf/project/sdgs/1096" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_17.png 1x, /gcf/images_cf/sdg/sdg_icon_17@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_17.png" alt="SDGアイコン" decoding="async" />17.パートナーシップで目標を達成しよう</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="2188" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">奥島輝也 × 山口県長門市</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221211/o_12474aab637244c916f1b401b4c3d8028cb69cd7.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">みなさま、初めまして。<br/>
+山口県長門市に事業を採択して頂き、2023年に会社を設立する予定をしております、奥島輝也です。このページを見てくださり、ありがとうございます！<br/>
+私は京都で育ち、大学院生の時にアメリカのシアトルに在住していた経験があります。<br/>
+その時、自身が外国人となり、様々な生活の問題に直面して苦労しました。言語の壁や異国の文化や仕組みという、生活上のことが様々あります。<br/>
+そして日本では、日本人が異文化や外国語に興味を持っていても、生活の中でなかなか触れる機会がなく、歯がゆい思いをしています。<br/>
+本事業では、外国人と日本人の課題を経験をした私が、両者の問題に架け橋を繋げ、両者が助け合えるキッカケ作りをします。<br/>
+そして、日本人の働きかけによって、外国人の流入を更に促進させ、日本の経済悪化に貢献します。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">外国人と日本人が交流ができ、両者にとって理想の生活が過ごせる日本でありたい</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221122/gpfd_560812216678032b6881c04703c9d1c4308060c9.jpg" />
+<figcaption class="lyt-image__caption">（日本は、海外にないさまざまな文化や魅力がある）</figcaption>
+</figure>
+<p class="gcf-txt-article">コロナによる入国制限が解かれ、今後は例年通り、多くの外国人が日本に訪れることが予想されます。現在、日本の文化は世界から非常に評価されており、古き良き建造物や歴史、アニメ、日本食など様々なことが外国人から求められています。日本という国は国としてのブランドが確立されつつあります。<br/>
+しかし、実は日本は、外国人に優しい国ではありません。言語の壁や外国人向けのサービスの少なさなど、困っている方が多数です。私は、日本での”生活の魅力”を外国人に発信していくべきだと思います。<br/>
+そこで”外国人との関わり”、”異文化との触れ合い”の場を求めている日本人が、外国人の困りごとを解決する場を作ろうと思っています。<br/>
+そうすることで、両者が思う”理想の日本での生活”が過ごせるのではないでしょうか。<br/>
+そしてそれがこれからの日本の経済にも大きく影響してくると考えています。</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">世界から見た日本という国</span></h3>
+<p class="gcf-txt-article">グローバル雑誌Conde Nast Travelerの「世界で最も魅力的な大都市」で日本は2020、2021年と続けて世界1位を獲得し、世界的に注目を浴びています。<br/>
+しかしそれと相反して、世界的コミュニティサイトInterNationsの「外国人が住みたい・働きたい国ランキング」では、2021年に世界ワースト6位という結果となっています。<br/>
+外国人は、日本に魅力を感じているにも関わらず、言語の難しさや外国人へのサービスの少なさなどが原因で、日本での生活に不便さを強く感じております。日本という国のことをただの旅行先の1つにしか思っていません。そのため、日本への長期間の滞在や、移住がしづらい状況となっています。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221129/gpfd_59b8d631b2917ab37e77818045d7a147b4132269.jpg" />
+<figcaption class="lyt-image__caption">（世界から見た日本の評価）</figcaption>
+</figure>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">外国人のお困り事を日本人が解決するアプリ「No Worries」</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221129/gpfd_2edb8ab4a8c3810517cf97c159c62916ae9cde9c.jpg" />
+<figcaption class="lyt-image__caption">（マッチングアプリ「No Worries」の仕組み）</figcaption>
+</figure>
+<p class="gcf-txt-article">外国人のお困りごとに対して日本人がそれを解決できる機会を作るマッチングアプリ「No Worries」を開発します。<br/>
+依頼者である外国人が日本の生活での困りごとをアプリに投稿し、日本人が投稿された依頼を選択して請負う仕組みです。<br/>
+全利用者は「No Worries」に会員登録し、プロフィールを作成します。そして外国人は必要としている人材を、日本人は自分のスキルや経験を掲載します。<br/>
+両者はアプリ上でマッチングした後、チャットのやり取りを行うことができ、直接日本人が外国人の困りごとの解決をおこないます。<br/>
+利用者には、運営側から様々な生活に利用できるクーポンを配布します。</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">私たちの目標</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">目標は、外国人が言語の壁に困ることなく、日本での生活に魅力を感じてもらうことです。<br/>
+それを実現することができれば、外国人の日本への渡航と移住がさらに促進され、日本の経済発展に直接影響すると考えています。<br/>
+同時に、日本人の語学力向上や日本人の新たな副業にも、本アプリが貢献できるかと考えています。<br/>
+<br/>
+<br/>
+【寄付金の使い道】<br/>
+アプリ開発費：3,000,000円<br/>
+通信費：300,000円<br/>
+広告費：600,000円<br/>
+賃借料：600,000円<br/>
+交通費：1,200,000円<br/>
+消耗品費：120,000円<br/>
+備品購入費：300,000円</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221118/offd_f8893869577914f2cbd900780dcef2966f695d6e.png" alt />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">プロジェクトを応援する声</span></h3>
+<h4 class="gcf-ttl-h4">株式会社アドリブワークス 代表取締役 山岡健人</h4>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">「ありそうで、なかった」を本気で見つめ直すとき</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">初めてこの新しいビジネスのアイデアを聞いたとき、まず思ったのは「でも、外国の人って普通に生活できてるんじゃ…」ということ。ですが、奥島さんの熱意のこもった説明を聞いてみると、自分の常識が覆されました。<br/>
+<br/>
+日本人の私たちが、もし海外で腹痛になったとき何とお医者さんに伝えるでしょうか？「盲腸ですね」と診断されたとしたら、激痛で意識が朦朧とする中でしっかり理解できるでしょうか？…これは、裏返すと日本にいる外国人の皆さんが”常に”さらされている、日常生活の苦労でした。<br/>
+<br/>
+病院にいきたい、でも伝え方が分からない。大変、だからギリギリまで診察を受けない。そんな状況が、実は至る所で起こっているのです。想像すればすぐに分かりそうなことを、僕たちは「見て見ぬふり」してないだろうか？「あー、ありそうで無かったよね…」で済まそうとしてないだろうか？No Worriesの構想を聞いたとき、そんな衝撃を受けました。<br/>
+<br/>
+一部では、日本に残された成長産業はインバウンド・観光産業しかないとも言われています。世界中でコロナ禍が空け、人々の移動がまた生まれ始めています。今こそ、起きている問題を棚上げせずに、真剣にグローバルコミュニケーションを見直す時が来ていると感じ、この事業を応援しています。<br/>
+<br/>
+少しでも多くの外国の方々が、日本で安心に暮らせる・観光できる日が来るよう、皆様のご協力をお願いします。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221118/offd_b3847f296504597832c4cd7495d1905e1779363e.jpg" alt="「ありそうで、なかった」を本気で見つめ直すとき" />
+</div>
+</div>
+</div>
+</div>
+<p class="gcf-txt-article">------------------------------------------------------------------------</p>
+<h4 class="gcf-ttl-h4">大手広告代理店　営業　栗山依子</h4>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">生活の中で異文化交流ができる！</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">本サービスは、外国人のために作られたサービスのように聞こえますが、私たち日本人にとっても、外国の方と友達になれる機会が増え、地元で過ごしていても異文化交流ができ、様々な価値観に触れ合える機会が訪れるサービスであると思いました。<br/>
+<br/>
+すでに外国の観光客が多数訪れ始めていますが、普通に暮らしていると、なかなか声をかけるきっかけはなく、国際交流をしたくても都度調べ、イベントに申し込んで参加したりと重い腰を上げなければできないですが、このサービスを利用することで、もっと海外がもっと身近になり、様々な価値観に触れ合え、さらに誰かの役に立てる経験ができるというのは、心の豊かさや教育上にもとても有意義であると思います。<br/>
+<br/>
+奥島さんはとても義理人情が熱く、熱意のある方ですので、応援して下さる皆さんや市民の皆さんと一緒にこのサービスをよりよく育ててくれると思います！</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221118/offd_91335dbd8e213e2d53744d103d8081c48e5d784e.jpg" alt="生活の中で異文化交流ができる！" />
+</div>
+</div>
+</div>
+</div>
+<p class="gcf-txt-article">------------------------------------------------------------------------</p>
+<h4 class="gcf-ttl-h4">株式会社Fun Japan Communications　　Coporate Div,マネージャー</h4>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">「日本とアジアの架け橋になる」　<br/>
+これが弊社のミッションです。<br/>
+<br/>
+今回、本プロジェクトについてのお話を伺った際、まさに日本人と日本好きの外国人との絆をつなぎ、外国人の課題解決につながる素晴らしいプロジェクトだと感じました。<br/>
+海外の方は、旅行で日本に来られるだけでなく、留学や就職など様々なシーンで日本に滞在されます。<br/>
+その際に感じられている様々な不安や対応事項についても本プロジェクトを通じて解消されていくのではないかと期待の気持ちを抱きました。<br/>
+<br/>
+本プロジェクトの成功を陰ながら応援しております。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221118/offd_5bbdf84a6a6e951566c0ab090df3b84a886ae03f.png" alt />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">支援者へのメッセージ</span></h3>
+<h4 class="gcf-ttl-h4">日本の人口減少や地域の過疎化が進む中、海外の人の力が今後の日本には必ず必要になると思っています。<br/>
+今回、そのような問題に直面している長門市様にも協力をして頂くこととなりました。<br/>
+また応援してくださる企業様にも協力を得て事業を進めて参ります。<br/>
+経済的にも下向きな日本に新しい風を吹かすためには、新しい考えや人種が日本を盛り上げていく必要があります。<br/>
+皆様の街も必ず今以上の活気が溢れるよう、全力で走っていきます。<br/>
+応援のほど、よろしくお願いいたします。</h4>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221211/gpfd_33f261df614738cde63dbeeb0c7c694e233bbc66.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/35211/5051830/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230804/pd_8fe511415f4da7d9f58f2f623ee1267b224fe2bf.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">(1197)手作り　少量生産　高級　焼抜かまぼこ　上ちくわ　各3本セット　計6本 冷蔵</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年申し込みを受け付けております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済より14日前後（年末年始を除く）</p>
+</div>
+<p class="goods-col_textinfo pc">千銀：昔ながらの製法で作られている高級焼抜蒲鉾です。
+特徴は、裸で蒸し上げるので表面でちりめんじわができることです。
+竹輪：黄金色に焼き上げた竹輪は、歯ごたえも良く、ビールのおつまみに最高です。
+人気商品2種各3本ずつのセットです。
+提供事業者：千銀蒲鉾株式会社</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/35211/5267846/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211006/pd_14aea7a5760852d1fa81cdfe4e3a212c35c948ee.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">(1021)焼き鳥　もも串　ネギ間　長州どり　大盛り　セット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年申し込みを受け付けております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済より14日前後で発送（年末年始を除く）
+</p>
+</div>
+<p class="goods-col_textinfo pc">人気の長州どりの焼き鳥を大盛りセットにしてみました。
+ご家族、ご友人とお召し上がりください。
+提供：深川養鶏農業協同組合</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/35211/5263530/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211101/pd_856a50755300e069e3f5bb19a9eac1847b481f72.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">(1031)ながと共通宿泊券3,000円分</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年申し込みを受け付けております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>簡易書留で発送いたします。（到着日時指定不可）
+発送目安：決済より14日前後（年末年始を除く）</p>
+</div>
+<p class="goods-col_textinfo pc">「ながと共通宿泊券」対象宿泊施設にて、宿泊料金の補助券としてご利用いただくことができます。
+【対象施設】令和4年9月21日時点　
+※詳細は長門市観光HP「ななび」にてご確認ください。
+・大谷山荘 　　　　0837-25-3300
+・大谷山荘　別邸　音信　0837-25-3377
+・山村別館 　　　　0837-25-3011
+・ホテル長門はらだ 　 0837-25-3521
+・湯本観光ホテル西京 0837-25-3111
+・玉仙閣 0837-25-3731
+・湯本ハイランドホテルふじ 0837-25-3711
+・泉屋旅館 0837-29-0231
+・明治屋旅館 0837-29-0055
+・田中旅館 0837-29-0155
+・ゲストハウスねる山 0837-29-5000
+・油谷湾温泉ホテル楊貴館 0837-32-1234
+・湯免観光ホテル 名湯　ゆめの郷 0837-43-2000
+・民宿　沖千鳥 0837-28-0507
+提供：観光コンベンション協会
+【注意事項】
+・本券1枚でご宿泊料金から3,000円（税込）を差引きいたします。使用枚数制限はありません。
+・本券は、「ながと共通宿泊券」対象宿泊施設に直接予約し、現地で宿泊料金を精算する際にご利用が可能です。
+・ご予約の際に本券利用の旨を宿泊施設へご連絡ください。
+・長門市観光コンベンション協会加盟でＨＰに掲載している宿泊施設が対象となります。
+・旅行会社、OTA（楽天トラベル、じゃらん等）を通しての宿泊については、本券の利用はできません。
+・本券は、現金と交換いたしません。
+・本券のご利用の際に生じた本券残額分は返金いたしません。
+・本券の払い戻しはできません。
+・本券の盗難・紛失または滅失等に対して長門市観光コンベンション協会は一切の責任は負いません。
+・本券のオークションでの転売は禁止しております。
+・本券は、偽造防止措置を施しています。
+・go toキャンペーンとも併用可能です。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/35211/5542232/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221014/pd_1f93279603afac91d875dd2ad7b0fab0cd276935.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">(1083)米粉 お米 米 こめ ごりやく米「東後棚田こしひかり」 米粉 2㎏ (米粉2㎏×1個) 棚田 こしひかり コシヒカリ 小分け 長門市 ごりやく </h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年申し込みを受け付けております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から14日前後で発送(年末年始を除く)</p>
+</div>
+<p class="goods-col_textinfo pc">棚田米ビスコッティで利用している米粉です。
+お米の粘りと甘みの特徴が活きて、お菓子作りとの相性の良い米粉です。
+「ごりやく米」は、長門市むかつく半島で有名な元乃隅稲成神社ふもとの東後畑棚田で採れた「ねばり」「甘み」「旨み」が特徴の棚田米「コシヒカリ」です。東後畑棚田は、日本海が望める場所にあり「日本の棚田百選」に選ばれています。
+中山間地域に階段状に広がる棚田は、生産以外にも治水による国土保全の役割や生態系維持の効果などで生存が見直しされているところであり、全国で117市町村、134地区の棚田が認定されています。
+海から潮風を受けることで、米にミネラル分が多くなり、粘土質の土壌、適度な寒暖差が、粘り・うまみが強く美味しいお米を育てます。また、安心して食べていただくために、農薬の使用量を減らし、化学肥料も必要最低限に抑えて栽培を行っています。少しでも新鮮な状態でお客様の素のお届けします。さらにミネラル分や新鮮さを求める方は玄米の販売も行っております。自信をもって提供する棚田米「コシヒカリ」を是非一度ご賞味ください。
+◎賞味期限・保存方法
+冷暗所に保存し、出来るだけ早くお召し上がりください。
+◎ギフト対応について
+のし・ギフト対応はしていません。
+※着日指定をご希望の方は、お買い物途中の「連絡蘭」にご希望の商品到着日をご記入ください。
+◎棚田支援　
+棚田100選の美しい棚田を守っていくため活動している「NPO法人　ゆや棚田景観保存会(山口県)」への支援につながる活動となっており、お米の購入により活動支援につながっていきます。
+提供：株式会社　元気移人研究所</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/35211/5133833/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231208/pd_b2c2d6993e4230b6924671dfaa7e47662426f7f8.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">(1006)国産 冷凍 合計1.8kg 長州どり もも肉 精肉 カット済 小分けパック（300g×6パック）</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年申し込みを受け付けております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済より14日前後で発送（年末年始を除く）
+</p>
+</div>
+<p class="goods-col_textinfo pc">長州どりは農業や漁業が盛んな山口県長門市近郊が主な産地です。
+海と山に囲まれた自然を身近に感じる地域で、ストレスを受けにくい「平飼い」でのびのびと飼育されています。
+平飼いは健康的に鶏を飼育するための重要な要素であり、鶏舎の中に鶏を放し飼い状態にすることで、鶏が自由に動き回る環境を整え、ストレスを極力与えないように育てられています。
+また、「安心・安全」というテーマの元、「薬品の残留が無い、安心して食べられる鶏肉」を目指し、「抗生物質・合成抗菌剤を一切飼料に添加しない」独自の飼料で育てられました。
+本品は小分けパックで冷凍発送いたしますので、使う分だけ解凍・加熱調理してお召し上がりください。
+提供：深川養鶏農業協同組合</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/35211/5667811/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221217/pd_9c8880c2b80109d02c3cc7727e8ad27a63560cab.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">(1098)鶏肉 小分け 地鶏 国産 冷凍 希少 合計1.6kg 長州黒かしわ むね肉 切身 パック 長門ゆずきち付き 深川養鶏 </h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年申し込みを受け付けております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から14日前後で発送（年末年始を除く）</p>
+</div>
+<p class="goods-col_textinfo pc">流通割合1%未満！超希少地鶏】脂肪含量が少なく、旨味成分多く、適度な歯ごたえを残しながらも柔らかく、ジューシーで臭みが少ない山口県産のオリジナル最高級ブランド地鶏です。長州黒かしわは、山口県で生産される農林水産物等で、味や品質を重視した独自の基準を設けて厳選された「やまぐちブランド登録商品」にもなっています。また、カボスやスダチの仲間でまろやかな酸味と爽やかで上品な香りが特徴の山口県オリジナル柑橘「長門ゆずきち」もセットします。是非合わせてお楽しみください。
+提供：深川養鶏農業協同組合</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/35211/5292550/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211126/pd_470ac066bf93695b832379e04068dc66535714e2.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">(1035)地鶏 入手困難 鶏肉 とりにく 国産 冷凍【流通割合1%未満！希少地鶏】合計1.2kg 長州黒かしわ もも肉 小分けパック 長門ゆずきち柚子こしょう付 </h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年申し込みを受け付けております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から14日程度で発送(年末年始は除く)
+</p>
+</div>
+<p class="goods-col_textinfo pc">天然記念物「黒柏鶏」から誕生した山口県初のオリジナル地鶏。
+旨味が濃く、ジューシーな肉質の栄養価の高い地鶏です。
+提供：深川養鶏農業協同組合</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/35211/5125490/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240313/pd_1ae2836986d0915c499ceaf218e2f86526006aa7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">(1004)手羽中 揚げるだけ 唐揚げ たっぷり チキンヒーロー 3kg 甘辛 スパイシー チキンバー からあげ お弁当 おかず おつまみ 大容量 </h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年申し込みを受け付けております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済より14日前後で発送（年末年始を除く）
+</p>
+</div>
+<p class="goods-col_textinfo pc">手羽中を食べやすいよう、カットし、スパイシーな唐揚げに仕上げました。
+山口県長門市では大定番、人気商品です。
+お子様にも大好評で、毎日のご飯やお誕生日、ご贈答にも最適です。
+提供：深川養鶏農業協同組合
+≪調理方法≫
+冷凍のまま170℃の油で3分間あげるだけの簡単調理です。
+※特定原材料：小麦・乳</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/35211/5667806/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240420/pd_210d902091f85f47da0100771ce0f7844c2378a2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">(1096)米 こめ お米 白米 精米 きぬむすめ ごりやく米 「東後畑棚田きぬむすめ」 白米5kg 棚田米 棚田 長門市</h4>
+<p class="goods-col_price inline">14,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年申し込みを受け付けております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から14日前後で発送(年末年始を除く)</p>
+</div>
+<p class="goods-col_textinfo pc">「ごりやく米」は、長門市むかつく半島で有名な元乃隅稲成神社ふもとの東後畑棚田で採れた「ねばり」「甘み」「旨み」が特徴の棚田米「きぬむすめ」です。東後畑棚田は、日本海が望める場所にあり「日本の棚田百選」に選ばれています。
+中山間地域に階段状に広がる棚田は、生産以外にも治水による国土保全の役割や生態系維持の効果などで生存が見直しされているところであり、全国で117市町村、134地区の棚田が認定されています。
+海から潮風を受けることで、米にミネラル分が多くなり、粘土質の土壌、適度な寒暖差が、粘り・うまみが強く美味しいお米を育てます。また、安心して食べていただくために、農薬の使用量を減らし、化学肥料も必要最低限に抑えて栽培を行っています。少しでも新鮮な状態でお客様の素のお届けします。さらにミネラル分や新鮮さを求める方は玄米の販売も行っております。自信をもって提供する棚田米「きぬむすめ」を是非一度ご賞味ください。
+◎美味しい食べ方
+シンプルに、こだわりの塩をかけておにぎりで食べていただき、お米の美味しさを堪能してください。
+◎賞味期限・保存方法
+冷暗所に保存し、出来るだけ早くお召し上がりください。
+◎ギフト対応について
+のし・ギフト対応はしていません。
+※着日指定をご希望の方は、お買い物途中の「連絡蘭」にご希望の商品到着日をご記入ください。
+◎棚田支援　
+棚田100選の美しい棚田を守っていくため活動している「NPO法人　ゆや棚田景観保存会(山口県)」への支援につながる活動となっており、お米の購入により活動支援につながっていきます。
+提供：株式会社　元気移人研究所</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/35211/5667807/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240420/pd_c7437d8e890936b0ac91c915ceec2759fc96c3d2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">(1097)米 こめ お米 白米 精米 無洗米 きぬむすめ ごりやく米 「東後畑棚田きぬむすめ」 無洗米5kg 棚田米 棚田 長門市</h4>
+<p class="goods-col_price inline">14,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年申し込みを受け付けております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から14日前後で発送(年末年始を除く)</p>
+</div>
+<p class="goods-col_textinfo pc">「ごりやく米」は、長門市むかつく半島で有名な元乃隅稲成神社ふもとの東後畑棚田で採れた「ねばり」「甘み」「旨み」が特徴の棚田米「きぬむすめ」です。東後畑棚田は、日本海が望める場所にあり「日本の棚田百選」に選ばれています。
+中山間地域に階段状に広がる棚田は、生産以外にも治水による国土保全の役割や生態系維持の効果などで生存が見直しされているところであり、全国で117市町村、134地区の棚田が認定されています。
+海から潮風を受けることで、米にミネラル分が多くなり、粘土質の土壌、適度な寒暖差が、粘り・うまみが強く美味しいお米を育てます。また、安心して食べていただくために、農薬の使用量を減らし、化学肥料も必要最低限に抑えて栽培を行っています。少しでも新鮮な状態でお客様の素のお届けします。さらにミネラル分や新鮮さを求める方は玄米の販売も行っております。自信をもって提供する棚田米「きぬむすめ」を是非一度ご賞味ください。
+◎美味しい食べ方
+シンプルに、こだわりの塩をかけておにぎりで食べていただき、お米の美味しさを堪能してください。
+◎賞味期限・保存方法
+冷暗所に保存し、出来るだけ早くお召し上がりください。
+◎ギフト対応について
+のし・ギフト対応はしていません。
+※着日指定をご希望の方は、お買い物途中の「連絡蘭」にご希望の商品到着日をご記入ください。
+◎棚田支援　
+棚田100選の美しい棚田を守っていくため活動している「NPO法人　ゆや棚田景観保存会(山口県)」への支援につながる活動となっており、お米の購入により活動支援につながっていきます。
+提供：株式会社　元気移人研究所</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/35211/4981103/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201106/pd_877169d1f657886fa518e888aa37bdf30ec57d27.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">(1243)国産 冷凍 たっぷり合計4kg‼ 山口県産 長州どり 精肉 もも肉・むね肉 セット</h4>
+<p class="goods-col_price inline">14,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年申し込みを受け付けております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済より14日前後で発送（年末年始を除く）
+</p>
+</div>
+<p class="goods-col_textinfo pc">お忙しいお母さんの見方！手軽においしい、人気の商品を詰め合わせてみました。
+長州どりは農業や漁業が盛んな山口県長門市近郊が主な産地です。海と山に囲まれた自然を身近に感じる地域で、ストレスを受けにくい「平飼い」でのびのびと飼育されています。
+平飼いは健康的に鶏を飼育するための重要な要素であり、鶏舎の中に鶏を放し飼い状態にすることで、鶏が自由に動き回る環境を整え、ストレスを極力与えないように育てられています。
+また、「安心・安全」というテーマの元、「薬品の残留が無い、安心して食べられる鶏肉」を目指し、「抗生物質・合成抗菌剤を一切飼料に添加しない」独自の飼料で育てられました。
+提供：深川養鶏農業協同組合</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/35211/5535803/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221014/pd_57c4a9c1eb163c94ea1b35a0165d797d3d3d564b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">(1080)米粉 お米 米 こめ ごりやく米「東後棚田こしひかり」 米粉 4㎏ (米粉2㎏×2個) 棚田 こしひかり コシヒカリ 小分け 長門市 ごりやく </h4>
+<p class="goods-col_price inline">17,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年申し込みを受け付けております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から14日前後で発送(年末年始を除く)</p>
+</div>
+<p class="goods-col_textinfo pc">棚田米ビスコッティで利用している米粉です。
+お米の粘りと甘みの特徴が活きて、お菓子作りとの相性の良い米粉です。
+「ごりやく米」は、長門市むかつく半島で有名な元乃隅稲成神社ふもとの東後畑棚田で採れた「ねばり」「甘み」「旨み」が特徴の棚田米「コシヒカリ」です。東後畑棚田は、日本海が望める場所にあり「日本の棚田百選」に選ばれています。
+中山間地域に階段状に広がる棚田は、生産以外にも治水による国土保全の役割や生態系維持の効果などで生存が見直しされているところであり、全国で117市町村、134地区の棚田が認定されています。
+海から潮風を受けることで、米にミネラル分が多くなり、粘土質の土壌、適度な寒暖差が、粘り・うまみが強く美味しいお米を育てます。また、安心して食べていただくために、農薬の使用量を減らし、化学肥料も必要最低限に抑えて栽培を行っています。少しでも新鮮な状態でお客様の素のお届けします。さらにミネラル分や新鮮さを求める方は玄米の販売も行っております。自信をもって提供する棚田米「コシヒカリ」を是非一度ご賞味ください。
+◎賞味期限・保存方法
+冷暗所に保存し、出来るだけ早くお召し上がりください。
+◎ギフト対応について
+のし・ギフト対応はしていません。
+※着日指定をご希望の方は、お買い物途中の「連絡蘭」にご希望の商品到着日をご記入ください。
+◎棚田支援　
+棚田100選の美しい棚田を守っていくため活動している「NPO法人　ゆや棚田景観保存会(山口県)」への支援につながる活動となっており、お米の購入により活動支援につながっていきます。
+提供：株式会社　元気移人研究所</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/35211/5292552/34">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211126/pd_73ed18b1fc8702ef2f5e76a221fba5d892b8ab36.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">(1272)【流通割合1%未満！希少地鶏】合計2.6kg 長州黒かしわ 鶏肉 もも肉 とりにく 小分けパック 長門ゆずきちこしょう付 大容量 入手困難 </h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年申し込みを受け付けております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から14日前後で発送(年末年始は除く)
+</p>
+</div>
+<p class="goods-col_textinfo pc">天然記念物「黒柏鶏」から誕生した山口県初のオリジナル地鶏。
+旨味が濃く、ジューシーな肉質の栄養価の高い地鶏です。
+提供：深川養鶏農業協同組合</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/35211/335078/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230508/pd_e2eb801d74d7a60f41d67f26ad67726a861247b6.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">(1210)天然ふぐ鍋とらふぐ刺身セット2人前 冷凍【山口県 ふぐ ふぐ刺し ふぐちり ふぐ鍋 ひれ酒 人気 国産 とらふぐ 宴会 板前 ポン酢 薬味 家族 配送日指定可能 日時指定可能】</h4>
+<p class="goods-col_price inline">21,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年申し込みを受け付けております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済完了から14日前後で発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>ふぐ皮ツミレの原材料の魚は「えび、かに」を食べており、小麦、乳、えび、かにを含む製品と同じ工場で製造しています。</p>
+</div>
+<p class="goods-col_textinfo pc">＼長門市のページをご覧いただきありがとうございます／
+山口県長門市のふるさと納税担当です！
+山口県と言えば特産品にふぐをイメージされる方も多いのではないでしょうか？
+長門市にて板前さんがおろしたふぐをぜひご賞味ください♪
+■私たちが加工しています！
+（有）きらくでございます。
+こちらのとらふぐコースのセットは、自社のネット販売ふぐ部門で人気はダントツ1位です！
+割烹料理店の熟練の板前によるボリュームたっぷりのコースとなっております
+どうぞご家庭で板前料理店の味をご堪能いただけます。
+■こだわりの3つのポイント！
+１）人気の品をセットにしました！「ふぐ刺し」「ふぐ鍋」「ヒレ酒」が一度に楽しめちゃう満足セットです！「オリジナルふぐ皮つみれ」も付いてます♪
+２）急速冷凍と真空パック技術によって、獲れたてのふぐがご家庭で楽しめます！
+３）地元の北長門海岸にて育った美味しいフグです。国産ですので安心してお召し上がりいただけます！
+■関連ワード
+ふぐ ふぐ刺し ふぐ鍋セット とらふぐ 刺身 ふぐ鍋 山口県 ふぐちり ふぐひれ ひれ酒 年内配送 年内発送 お正月 年末 人気 国産 宴会 板前 ポン酢 薬味 家族 配送日指定 日時指定
+提供：（有）きらく</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/35211/4911753/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200819/pd_858eae33ce22fefb4327c0a83a39c3d572a4c8b3.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">(1330)俵山温泉　白猿の湯入浴券11枚</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年申し込みを受け付けております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済より14日前後（年末年始を除く）</p>
+</div>
+<p class="goods-col_textinfo pc">古くから神経痛やリウマチに効く名湯とされ、高濃度の水素を含み還元力（抗酸化作用）が高いとされる泉質。
+日帰り入浴施設「白猿の湯」・「町の湯」どちらでもご入浴できる入浴券11枚セット。
+提供：(一社)長門市観光コンベンション協会</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/35211/335082/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231225/pd_d0898e64dd7827a6678fd4c285afc5feeb822235.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">(1306)天然ふぐ鍋とらふぐ刺身セット4～5人前 冷凍 ツミレ付き【山口県 ふぐ ふぐ刺し ふぐちり ふぐ鍋 ひれ酒 人気 国産 とらふぐ 宴会 板前 ポン酢 薬味 家族 配送日指定可能 日時指定可能】★レビューキャンペーン対象★</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年申し込みを受け付けております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から14日前後で発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>「ふぐ皮ツミレの原材料の魚は「えび、かに」を食べており、小麦、乳、えび、かにを含む製品と同じ工場で製造しています。」</p>
+</div>
+<p class="goods-col_textinfo pc">＼長門市のページをご覧いただきありがとうございます／
+山口県長門市のふるさと納税担当です！
+山口県と言えば特産品にふぐをイメージされる方も多いのではないでしょうか？
+長門市にて板前さんがおろしたふぐをぜひご賞味ください♪
+■私たちが加工しています！
+（有）きらくでございます。
+こちらのとらふぐコースのセットは、自社のネット販売ふぐ部門で人気はダントツ1位です！
+割烹料理店の熟練の板前によるボリュームたっぷりのコースとなっております
+どうぞご家庭で板前料理店の味をご堪能いただけます。
+■こだわりの3つのポイント！
+１）人気の品をセットにしました！「ふぐ刺し」「ふぐ鍋」「ヒレ酒」が一度に楽しめちゃう満足セットです！「オリジナルふぐ皮つみれ」も付いてます♪
+２）急速冷凍と真空パック技術によって、獲れたてのふぐがご家庭で楽しめます！
+３）地元の北長門海岸にて育った美味しいフグです。国産ですので安心してお召し上がりいただけます！
+■関連ワード
+ふぐ ふぐ刺し ふぐ鍋セット とらふぐ 刺身 ふぐ鍋 山口県 ふぐちり ふぐひれ ひれ酒 年内配送 年内発送 お正月 年末 人気 国産 宴会 板前 ポン酢 薬味 家族 配送日指定 日時指定
+提供：（有）きらく</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/35211/5537876/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221014/pd_5565b91373ddb3dbda15d92fc166a73a77fb6232.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">(1351)米粉 お米 米 こめ ごりやく米「東後棚田こしひかり」 米粉 8㎏ (米粉2㎏×4個) 棚田 こしひかり コシヒカリ 小分け 長門市 ごりやく </h4>
+<p class="goods-col_price inline">34,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年申し込みを受け付けております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から14日前後で発送(年末年始を除く)</p>
+</div>
+<p class="goods-col_textinfo pc">棚田米ビスコッティで利用している米粉です。
+お米の粘りと甘みの特徴が活きて、お菓子作りとの相性の良い米粉です。
+「ごりやく米」は、長門市むかつく半島で有名な元乃隅稲成神社ふもとの東後畑棚田で採れた「ねばり」「甘み」「旨み」が特徴の棚田米「コシヒカリ」です。東後畑棚田は、日本海が望める場所にあり「日本の棚田百選」に選ばれています。
+中山間地域に階段状に広がる棚田は、生産以外にも治水による国土保全の役割や生態系維持の効果などで生存が見直しされているところであり、全国で117市町村、134地区の棚田が認定されています。
+海から潮風を受けることで、米にミネラル分が多くなり、粘土質の土壌、適度な寒暖差が、粘り・うまみが強く美味しいお米を育てます。また、安心して食べていただくために、農薬の使用量を減らし、化学肥料も必要最低限に抑えて栽培を行っています。少しでも新鮮な状態でお客様の素のお届けします。さらにミネラル分や新鮮さを求める方は玄米の販売も行っております。自信をもって提供する棚田米「コシヒカリ」を是非一度ご賞味ください。
+◎賞味期限・保存方法
+冷暗所に保存し、出来るだけ早くお召し上がりください。
+◎ギフト対応について
+のし・ギフト対応はしていません。
+※着日指定をご希望の方は、お買い物途中の「連絡蘭」にご希望の商品到着日をご記入ください。
+◎棚田支援　
+棚田100選の美しい棚田を守っていくため活動している「NPO法人　ゆや棚田景観保存会(山口県)」への支援につながる活動となっており、お米の購入により活動支援につながっていきます。
+提供：株式会社　元気移人研究所</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/35211/335084/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231220/pd_f3b0cd97264c496c59e8b1adbdc388a7e00df81c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">(1508)とらふぐコース 5～6人前【山口県 ふぐ ふぐ刺し ふぐちり ふぐ鍋 ひれ酒 人気 国産 とらふぐ 宴会 板前 ポン酢 薬味 家族 配送日指定可能 日時指定可能】</h4>
+<p class="goods-col_price inline">56,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年申し込みを受け付けております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済完了から14日前後で発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>「ふぐ皮ツミレの原材料の魚は「えび、かに」を食べており、小麦、乳、えび、かにを含む製品と同じ工場で製造しています。」</p>
+</div>
+<p class="goods-col_textinfo pc">＼長門市のページをご覧いただきありがとうございます／
+山口県長門市のふるさと納税担当です！
+山口県と言えば特産品にふぐをイメージされる方も多いのではないでしょうか？
+長門市にて板前さんがおろしたふぐをぜひご賞味ください♪
+■私たちが加工しています！
+（有）きらくでございます。
+こちらのとらふぐコースのセットは、自社のネット販売ふぐ部門で人気はダントツ1位です！
+割烹料理店の熟練の板前によるボリュームたっぷりのコースとなっております
+どうぞご家庭で板前料理店の味をご堪能いただけます。
+■こだわりの3つのポイント！
+１）人気の品をセットにしました！ふぐ刺し、ふぐちり、ひれ酒まで楽しめちゃう満足セットです！
+２）急速冷凍と真空パック技術によって、獲れたてのふぐがご家庭で楽しめます！
+３）地元の北長門海岸にて育った美味しいフグです。国産ですので安心してお召し上がりいただけます！
+■関連ワード
+ふぐ ふぐ刺し ふぐ鍋セット とらふぐ 刺身 ふぐ鍋 山口県 ふぐちり ふぐひれ ひれ酒 年内配送 年内発送 お正月 年末 人気 国産 宴会 板前 ポン酢 薬味 家族 配送日指定 日時指定
+提供：（有）きらく</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/35211/4499995/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231225/pd_fc3466aba1142fcdab24c89eecce1fd597dfd96e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">(1532)刺身 てっさ とらふぐ 鍋 あら とらふぐフルコース 4〜5人前（お刺身・ちり用「あら」と「切身」干しひれ付き（冷蔵） 配達指定可能 日時指定可能</h4>
+<p class="goods-col_price inline">62,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年申し込みを受け付けております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済より14日前後で発送（年末年始を除く）</p>
+</div>
+<p class="goods-col_textinfo pc">仙崎の海で育ったとらふぐの刺身と鍋の豪華セットです。ふぐの歯ごたえと旨みをお楽しみください。
+提供：大小早川商店
+※原則として、日・祝日の発送は行っておりません。
+また、当該品は生もので消費期限が短い（発送日含め４日）ため、寄付者様のご都合を確認したのちに発送を行っておりますので、必ず配達ご希望日をご指定ください。
+ご希望日を指定いただきましても、天候状況や配送ルートの混雑状況等により、ご希望通りお届け出来ない場合がございます。
+ご了承ください。
+なお、寄附者様のご都合によりお受け取りいただけない場合等の再送は行いませんので、ご了承願います。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/35211/5269721/34">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211101/pd_856a50755300e069e3f5bb19a9eac1847b481f72.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">(100002)ながと共通宿泊券3,000円分10枚</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年申し込みを受け付けております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>簡易書留で発送いたします。（到着日時指定不可）</p>
+</div>
+<p class="goods-col_textinfo pc">「ながと共通宿泊券」対象宿泊施設にて、宿泊料金の補助券としてご利用いただくことができます。
+【対象施設】令和4年9月21日時点　
+※詳細は長門市観光HP「ななび」にてご確認ください。
+・大谷山荘 　　　　0837-25-3300
+・大谷山荘　別邸　音信　0837-25-3377
+・山村別館 　　　　0837-25-3011
+・ホテル長門はらだ 　 0837-25-3521
+・湯本観光ホテル西京 0837-25-3111
+・玉仙閣 0837-25-3731
+・湯本ハイランドホテルふじ 0837-25-3711
+・泉屋旅館 0837-29-0231
+・明治屋旅館 0837-29-0055
+・田中旅館 0837-29-0155
+・ゲストハウスねる山 0837-29-5000
+・油谷湾温泉ホテル楊貴館 0837-32-1234
+・湯免観光ホテル 名湯　ゆめの郷 0837-43-2000
+・民宿　沖千鳥 0837-28-0507
+提供：観光コンベンション協会
+【注意事項】
+・本券1枚でご宿泊料金から3,000円（税込）を差引きいたします。使用枚数制限はありません。
+・本券は、「ながと共通宿泊券」対象宿泊施設に直接予約し、現地で宿泊料金を精算する際にご利用が可能です。
+・ご予約の際に本券利用の旨を宿泊施設へご連絡ください。
+・長門市観光コンベンション協会加盟でＨＰに掲載している宿泊施設が対象となります。
+・旅行会社、OTA（楽天トラベル、じゃらん等）を通しての宿泊については、本券の利用はできません。
+・本券は、現金と交換いたしません。
+・本券のご利用の際に生じた本券残額分は返金いたしません。
+・本券の払い戻しはできません。
+・本券の盗難・紛失または滅失等に対して長門市観光コンベンション協会は一切の責任は負いません。
+・本券のオークションでの転売は禁止しております。
+・本券は、偽造防止措置を施しています。
+・go toキャンペーンとも併用可能です。</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">山口県長門市</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">本州の最西北端、山口県の西北部に位置する長門市。東は萩市、南は下関市、美祢市に接し、北側には北長門海岸国定公園に指定される美しい日本海の風景が広がっています。<br/>
+日本海沿岸一帯の豊かな漁場では、古くから捕鯨や漁業が盛んに行われ、多くの漁港が点在しています。北長門海岸国定公園に指定される海岸線では、日本海の荒波に浸食された岩と白い砂浜が出入りし、変化に富んだ雄大な自然景観を生み出しています。中でも紺碧の海上に奇岩怪石が連なる海上アルプス「青海島」、遥か日本海を展望できる「千畳敷」、海に浮かぶ「棚田」のシルエット、本州最西北端に突き出した「川尻岬」の緑青色の海などは、訪れる人々を魅了します。<br/>
+また、長門市は温泉に恵まれ、風情も効能も異なる５つの温泉郷があります。清流にホタルが舞いカジカの声が響く「湯本温泉」、山間の湯治場「俵山温泉」、長閑に効能を楽しむ「湯免温泉」、美しい海を臨む「黄波戸温泉」や「油谷湾温泉」があり、多くの人が訪れています。<br/>
+一方、いのちと心を大切にした童謡詩人「金子みすゞ」、シベリヤ・シリーズで知られる画家「香月泰男」、長門出生伝承の残る劇作家「近松門左衛門」といった人たちの存在は、長門の文化を深く魅力あるものにしてくれます。歴史の舞台では大内氏終焉の地として語り継がれ、楊貴妃伝説など浪漫溢れる物語も数多くあります。<br/>
+どうぞ御家族連れで長門市にお運びいただきますようお願い申し上げます。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>申し込み後の内容変更・寄附金受領証明書・ワンストップ特例申請書</h3>
+<p>＜返礼品・配送についてのお問い合わせ先＞<br/>
+ながと物産合同会社　EC・ふるさと納税係（市委託事業者）<br/>
+〒759-4106 　山口県長門市仙崎祇園町1033　2階<br/>
+(TEL)　0837-27-0560<br/>
+(Mail)　furusato@nagatobussan.net<br/>
+<br/>
+<br/>
+＜寄附受領証明書・ワンストップ特例申請のお問い合わせ先＞<br/>
+<br/>
+長門市産業戦略課<br/>
+〒759-4192　山口県長門市東深川1339-2<br/>
+(TEL)　 0837-23-1177<br/>
+(Mail)　furusato@city.nagato.lg.jp</p>
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</section>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">山口県長門市の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/35211/34?from=2&amp;gcf_project_id=2188"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,601,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g2188,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

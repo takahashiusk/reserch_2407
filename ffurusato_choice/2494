@@ -1,0 +1,2626 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/2494" />
+
+<title>天保の居蔵　令和再生プロジェクト｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="天保の居蔵　令和再生プロジェクト｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/2494" />
+<meta property="og:description" content="江戸末期から昭和初期にかけての古い町並みが残る八女福島地区は、どこか 「おばあちゃん家に遊びに来たような故郷」をおもわせます。しかし、空き家となった町家は朽ちていき解体の危機に瀕しており、古き良き景観が失われつつあります。私たちは、所有者による再生活用が困難な空き町家をリノベーションし、新たな人に活用してもらう活動をしております。今回のプロジェクトは、八女市福島地区の居蔵造の始まりとされる「今里家住宅」のリノベーションに取り組みます。空き町家を甦らせ活用していくために、何とか皆様のお力をお貸しください！" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230830/d_b72fb2f98ae21dd341471838d0e8b20a037c5674.png" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230830/d_b72fb2f98ae21dd341471838d0e8b20a037c5674.png" />
+<meta property="twitter:title" content="天保の居蔵　令和再生プロジェクト｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="江戸末期から昭和初期にかけての古い町並みが残る八女福島地区は、どこか 「おばあちゃん家に遊びに来たような故郷」をおもわせます。しかし、空き家となった町家は朽ちていき解体の危機に瀕しており、古き良き景観が失われつつあります。私たちは、所有者による再生活用が困難な空き町家をリノベーションし、新たな人に活用してもらう活動をしております。今回のプロジェクトは、八女市福島地区の居蔵造の始まりとされる「今里家住宅」のリノベーションに取り組みます。空き町家を甦らせ活用していくために、何とか皆様のお力をお貸しください！" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,618,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="2494" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">天保の居蔵　令和再生プロジェクト</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">天保の居蔵　令和再生プロジェクト</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1017">まちづくり&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230830/d_b72fb2f98ae21dd341471838d0e8b20a037c5674.png" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E5%A4%A9%E4%BF%9D%E3%81%AE%E5%B1%85%E8%94%B5%E3%80%80%E4%BB%A4%E5%92%8C%E5%86%8D%E7%94%9F%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F2494">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">1,081,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 7.3%;"></div>
+<p class="gcf-cht-detail-bar__number">7.3%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">14,710,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">7.3</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">48</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>福岡県八女市（ふくおかけん やめし）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="2494" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2023年10月2日～2023年12月31日（91日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1028" class="sorting-list__item">まちづくり・コミュニティ</a></li><li><a href="/gcf/project/tag/1029" class="sorting-list__item">インフラ・交通・施設</a></li><li><a href="/gcf/project/tag/1038" class="sorting-list__item">観光・PR</a></li><li><a href="/gcf/project/tag/1052" class="sorting-list__item">伝統・文化</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li><li><a href="/gcf/project/sdgs/1091" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_12.png 1x, /gcf/images_cf/sdg/sdg_icon_12@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_12.png" alt="SDGアイコン" decoding="async" />12.つくる責任 つかう責任</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="2494" class="gcf-nv-tab__button js-tab">進捗情報
+<span class="gcf-nv-tab__button-progress-number">1</span>
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">福岡県八女市×ＮＰＯ法人まちづくりネット八女</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230830/o_236c896043c3c8f8b1cf0c85d247e40c4f4bbafa.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">江戸末期から昭和初期にかけての古い町並みが残る八女福島地区は、どこか 「おばあちゃん家に遊びに来たような故郷」をおもわせます。<br/>
+しかし、空き家となった町家は朽ちていき解体の危機に瀕しており、古き良き景観が失われつつあります。<br/>
+私たちは、所有者による再生活用が困難な空き町家をリノベーションし、新たな人に活用してもらう活動をしております。<br/>
+今回のプロジェクトは、八女市福島地区の居蔵造の始まりとされる「今里家住宅」のリノベーションに取り組みます。<br/>
+<br/>
+空き町家を甦らせ活用していくために、何とか皆様のお力をお貸しください！</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<figure class="lyt-image">
+<a target="_blank" href="https://www.furusato-tax.jp/gcf/2494#products_list">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220912/gpfd_fbf3e3a69c3bd971710979828f552adea788e846.jpg" alt />
+</a>
+</figure>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">始まりの町家「今里家住宅」をリノベーション！</span></h2>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">このプロジェクトの内容</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">今回のプロジェクトでは、いよいよ八女福島で最初の「居蔵」とされる市指定文化財「今里家住宅」の再生に取組みます。<br/>
+今里家住宅は、八女福島伝統的建造物群（平成14年国選定）保存地区内のやや西に旧往還道に面して建つ町家建築で、八女福島の町家の特徴である「居蔵（いぐら）」と呼ばれる白壁土蔵造の最古（天保9年）の建物で、八女福島の「居蔵造の始まり」とされ、貴重な町家です。<br/>
+<br/>
+私たちNPO法人は、所有者が何らかの事情で空き家を改修し活用ができない場合に、所有者に代わって改修から活用までを代行して事業します。<br/>
+しかしながら、私たちも潤沢な資金があるわけではありません。<br/>
+空き家の修理には市から補助はあるものの、内部改修を含めてかなりの自己負担を伴います。<br/>
+<br/>
+自己負担分は金融機関等から借入し、賃貸して返済していくというリスクを背負いながら挑戦しています。<br/>
+このクラウドファンディングの成功によって、NPO法人が背負うリスクと店子の家賃負担の低減を目指します。</p>
+</div>
+</div>
+</div>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230830/gpfd_cd9abec169801496ec674cd2db3463603e044e48.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">ロードマップ・寄付の使い道</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">今里家住宅の保存修理事業の費用の一部<br/>
+・工事費等　65,050千円（2024年度工事分）<br/>
+（内、ガバメントクラウドファンディングによる資金調達　14,710千円）<br/>
+<br/>
+※寄附の内、返礼品や諸手数料を差し引いた金額が事業に充てられます。<br/>
+※目標金額に達しなかった場合であっても、当ＮＰＯ法人が銀行からの融資額を増額して事業を実施します。<br/>
+※目標金額を上回った場合は当該事業にかかる金融機関からの融資額の低減や過年度融資分の繰上返済に充てます。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">今回改修する物件の現状</span></h2>
+<p class="gcf-txt-article">この物件は、天保9(1838）年に福島で最初の「居蔵」に改築されたことがわかっている町並みを代表する建物で、大正期の離れ座敷とともに「今里家住宅」として八女市文化財に指定されています。<br/>
+<br/>
+昭和初期に提灯の房の製造・卸を営む今里家が買い取り、平成７年まで店舗兼住居として使われていました。<br/>
+その後は町並み保存のまちづくり団体の事務所としてイベント時に八女の伝統工芸を紹介するなど活用され、地元で「房屋」の屋号で親しまれていました。<br/>
+しかし、近年急速に老朽化が進んだため使われなくなっていました。<br/>
+<br/>
+現状は、瓦や漆喰壁が落ち、屋根全面にシートをかぶせるなど応急処置をしてきましたが、雨漏りによる白蟻被害や地盤沈下による梁の歪みなどが限界に達しています。<br/>
+奥の離れ座敷についても同様の状況です。<br/>
+<br/>
+老朽化が著しい規模の大きな大壁造の建物であり、また指定文化財として、八女福島の代表的町家建築として、後世に残す正確な復原修理を目指しており、多額の修復費用が必要となっています。<br/>
+<br/>
+修復後は町家ホテル・レストランとして活用し、一部一般公開も予定しています。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230831/gpfd_82513f36fe69cddc5943bb2b98ed6125fce637d8.jpg" />
+<figcaption class="lyt-image__caption">老朽化が著しい「今里家住宅」</figcaption>
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">NPO法人 まちづくりネット八女　北島 力</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">今里家住宅は、八女福島の匠が粋を凝らした町家建築の一丁目一番地</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230829/gpfd_ede1668c35c43e22d1998c9188eff008d4c64b9e.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">2019年度からガバメントクラウドファンディングに挑戦しており、<br/>
+これまでに多くの皆様にご協力をいただき、心より御礼申し上げます。<br/>
+お陰様で、これまでのプロジェクトで３件の空き家の改修を実現することができました。<br/>
+<br/>
+私は、３０年前から様々なまちづくり団体と響きあう協働の活動を追求し、自身も八女福島の町家に移住して地域に寄り添いながら、日本の伝統文化である八女福島の町家建築を後世に伝えるため、空き家を再生し、町家の継手、まちの担い手の確保に全力で取組んできました。<br/>
+<br/>
+まちの人口減少が深刻になる中、空き家を再生し移住者や出店者を温かく受入れることは、地域の活力とコミュニティの持続に繋げることができます。<br/>
+<br/>
+是非、皆様の厚いご支援をお願いします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<figure class="lyt-image">
+<a target="_blank" href="https://www.furusato-tax.jp/gcf/1868#products_list">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220912/gpfd_4c2f3875b47b1e18c040d7223f624205b63aaabb.jpg" alt />
+</a>
+</figure>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">修理した後は町家ホテルなどに活用し、賑わいを取り戻します</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220912/gpfd_b9f521a6a480f08adff2fc6b63d6f9c8d92e2609.jpg" />
+<figcaption class="lyt-image__caption">代行リノベーションのスキーム</figcaption>
+</figure>
+<p class="gcf-txt-article">私たちNPO法人は、空き家をただ単に改修するだけではなく、町家の魅力を感じて希望される「借り手」の方に空き家を紹介してマッチングを行っています。<br/>
+このような私たちの取り組みに賛同して遠くから移住してこられる方もたくさんおり、これまで40軒以上のマッチングを行ってきました。<br/>
+空き家が活用され魅力的な出店が増えることで、まちの魅力が増し来訪者が増え、まちの活力が高まるものと確信しています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<figure class="lyt-image">
+<a target="_blank" href="https://www.furusato-tax.jp/gcf/1868#products_list">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220912/gpfd_3d0410b0e32127fe01128a76d8febc1f4053f01a.jpg" alt />
+</a>
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nhMsos-k894?si=dtArnyRwdD1MlStq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">これまでのガバメントクラウドファンディングの取組み</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220916/gpfd_a980fe3694fc492d1196851a408dd65a066cafbc.jpg" />
+<figcaption class="lyt-image__caption">2019年　旧倉富家修理・改修工事（完了）</figcaption>
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220916/gpfd_36d92302b6275d25db3771e45849452011bd9f98.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220912/gpfd_2038e0ba89884ce9c0822ddc1c1210a442a22a30.jpg" />
+<figcaption class="lyt-image__caption">2020年　旧大坪家（前平野家）修理・改修工事（完了）</figcaption>
+</figure>
+<figure class="lyt-image">
+<a target="_blank" href="https://rita-yame-fukushima.jp/">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220912/gpfd_0639ea34c69ae19824075af0a36f81cfc850606b.jpg" alt="町家ホテル「RITA八女福島」" />
+</a>
+<figcaption class="lyt-image__caption">町家ホテル「RITA八女福島」</figcaption>
+</figure>
+<p class="gcf-txt-article">この事業によって再生された町家が、あらたな賑わいの場所となり八女市を訪れる方の楽しみが増えることが期待されます。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<figure class="lyt-image">
+<a target="_blank" href="https://www.furusato-tax.jp/gcf/1868#products_list">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220912/gpfd_9bf1fd8f610024ff2ab6ff38753a7637ec8ef1f6.jpg" alt />
+</a>
+</figure>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">八女福島で起業者の声</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">RITA八女福島(町家ホテル) 支配人　玉垣綾子　さん</span></h3>
+<h3 class="gcf-ttl-h3">■　八女福島の空き町家を再生し、新しい生業をつくりましょう!</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230901/gpfd_2a08c54bdb3aa2028537a86f223fd32d8dca9e13.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">私たちは、地域に継承されている町並みや歴史的な建築物（古民家）を中心に、その価値を地域の人たちと再認識し、次世代に継承するため、地域の歴史・文化とともに持続する再生活用を地域の人たちとともに模索しながら、その実践のお手伝いをしています。<br/>
+５年前から、八女福島の町並みの魅力に引き付けられて生業の新たな創造実践を進め、町家ホテル「RITA八女福島」を２０２２年８月に起業して、地域とともに歩んでいます。<br/>
+<br/>
+ぜひ、この新たなプロジェクトに賛同いただき、町家の歴史文化を現代に活かしながら、未来へ続けていける歩みの輪を大きくして、みんなで八女福島を盛り上げましょう !</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">八女福島の応援者の声</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">ＮＰＯ法人 全国町並み保存連盟 理事長　福川　裕一　さん</span></h3>
+<h3 class="gcf-ttl-h3">■　八女福島は、全国の町並み保存運動の希望の星です。</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230901/gpfd_643a9f35285e21d3d032b333926a64c953da2ac7.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">北島力さんたちのNPOが、リノベーションを手がけた町家は40軒を超えます。空き家の増加など、全国の歴史的町並みが直面している課題に、所有者と利用者のマッチング、職人集団の組織化、新しい資金調達の手法などに取り組み、しっかりと成果をあげてこられました。なによりも、歴史的な町並みの価値や意味を確実に継承し、それを現代に活かすという基本の哲学が貫かれていることがすばらしいところです。たとえば、リノベーションにあたっては、せっかく出店した店舗が万一撤退することになっても、いつでももとにもどせるように、改修には細心の注意を払い、歴史的な建物のクオリティを守るという基本方針が貫かれています。その活動ぶりは、ドキュメンタリー「まちや紳士録」に克明に描き出されています。<br/>
+<br/>
+　昨年は、重要伝統的建造物群保存地区20周年をむかえ「日本の文化、民家、町家を残し伝えよう」をテーマに、全国各地で歴史的な町並みの保存・活性化に取り組む人々が集結し、八女福島の実践を学びました。<br/>
+　今後もさまざまな困難が待ち受けていると思いますが、八女福島のまちづくりはきっと乗り越えていくと確信しています。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<figure class="lyt-image">
+<a target="_blank" href="https://www.furusato-tax.jp/gcf/1868#products_list">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220912/gpfd_69238ae3f3dc6da88065d323e61ebe149b87d964.jpg" alt />
+</a>
+</figure>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">寄附者の皆様へ</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">NPO法人 まちづくりネット八女からのメッセージ</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20201105/gpfd_5b7921797ae8a3358db7c03d44cfcbc44047431d.jpg" />
+</figure>
+<p class="gcf-txt-article">失ってしまったものは二度と元には戻りませんが、伝統的建造物にご理解いただいた方、私たちの活動に共感していただいた方からのあたたかいご支援に、心よりお礼申し上げます。<br/>
+<br/>
+今、八女市は町家の再生でちょっとずつ面白くなりつつあります。閑散としていた町に人が増え始め、かつて都市圏に送り出した若者は、町家の良さに気づき戻ってくれる人もいます。<br/>
+<br/>
+よそ者のイノベーションが地の者を刺激し、地の者はよそ者を暖かく迎え入れる良い循環がゆっくりと流れています。<br/>
+<br/>
+そのような面白くあたたかい八女市に是非おいでください。お待ちしております。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">お礼の品一覧</span></h2>
+<p class="gcf-txt-article">このプロジェクトは、八女市内のたくさんの事業者様から趣旨にご賛同いただき返礼品の提供にご協力いただいております。<br/>
+≪ご協力いただいた事業者（敬称略）≫<br/>
+矢部屋許斐本家、カワグチサプライズ株式会社　かわぐち酒店、株式会社アルノ、八女の鶴製茶園、地域商社八女、株式会社千賀屋、晩酌を三倍おいしくする酒屋　坂口酒店、株式会社アルノ、うなぎの寝床、一般社団法人地域商社ふるさぽ、Craft Inn 手</p>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5413543/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240515/pd_46d5d85a012e25ed36716e814a32ced12b9c8f6e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">千賀屋謹製 2025年 迎春おせち料理「おもいやり」和風三段重 3人前 全37品</h4>
+<p class="goods-col_price inline">27,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>期間限定：～2024年12月22日まで
+※12月16日以降のご寄附は、北海道・青森県・秋田県・長崎県・宮崎県・鹿児島県・沖縄県は配送不可となります。
+上記地域へ配送希望の方は、12月15日までにお申込みください。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>12月30日または12月31日のお届けとなります。どちらかお選びください。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※仕入れの都合により、予告なく変更する場合がございます。あらかじめご了承ください。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">＜初めてのお取り寄せに最適な本格おせち＞
+おせちに欠かせない縁起物の食材はもちろん、お正月の定番料理まで丁寧に盛り付けた本格和風おせちです。
+おせちの千賀屋は、料亭の味と技、おもてなしの心を継承しつつ
+長年培った経験に新しい発想を加え、真心を込めておせち作りに取り組んでおります。
+最新鋭のおせち専用工場を持ち、重箱も衛生管理の行き届いた自社工場で製造することで
+安心安全のおせち料理をお届けいたします。
+＜おせちの特徴＞
+■毎年品切れ必至！世代を超えて不動の人気の定番おせち
+■一切妥協せず、伝統の味を継承したこだわり料理全37品
+■お正月に欠かせない縁起物の料理を多彩に盛り付けました
+【保存方法】
+要冷蔵（10℃以下）にて保存ください。
+【注意事項】
+・本品は、冷蔵での配送になります。
+・一部離島にはお届けできない場合がございます。
+　お申込み前に一度、千賀屋（TEL:0120-373-047）までお問い合わせください。
+・時間帯指定は、年末の交通事情等により承れません。
+・仕入れの状況により、盛付・食材・内容が変わる場合がございます。予めご了承くださいませ。
+・12月16日(月)以降のご寄付は「12月31日お届け」のみ対応可能となります。
+「12月30日お届け」希望の方は、12月15日(日)までにお申込みください。
+・配送先住所の変更は12月11日(水)正午までにご連絡ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/4521692/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230724/pd_fee2cbc3df63bf27e89d1981f22bc61caf1d1e23.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">かの蜂 ピュアハニー【AR2kg】たっぷり使えるコクのある純粋蜂蜜　ハチミツ 純粋はちみつ 大容量 業務用 アルゼンチン産</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備が整い次第順次発送致します。
+※ご注文状況により発送までにお時間をいただく場合がございます。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">雄大な自然に囲まれたアルゼンチン採蜜された百花蜂蜜です。
+濃厚でコクのある美味しさが特徴です。
+たっぷり使えるサイズです。
+※外国産の原料を使用しておりますが製造・加工は八女市の工場で行っております。
+※原料高騰のため、規格が変更（2.5kg→2.0kg）となりました。
+【保存方法】
+直射日光を避け、涼しい所で常温保存。自然のままのハチミツですので結晶する場合がありますが、品質になんら影響ありません。
+【返礼品・配送に関するお問い合わせ】
+事業者名：株式会社アルノ
+連絡先：0120-17-3838</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/4746790/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230721/pd_76746fea05415db116fdf0efee9b0895b5b12af5.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">＜国産＞かの蜂 百花蜂蜜2kg（1kg×2本）養蜂一筋60年自慢の一品　純粋はちみつ ハチミツ 非加熱 ハニー 大容量 瓶タイプ</h4>
+<p class="goods-col_price inline">18,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備が整い次第順次発送
+※ご注文状況により発送までにお時間をいただく場合がございます</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">国産の百花蜂蜜です。舌触りまろやかでクセがなく、後味もスッキリしています。
+口の中いっぱいに花の香りと上品な甘味が広がります。
+百花蜂蜜とは「百の花から採れた蜜」という意味です。
+かの蜂の蜂蜜は完熟した蜂蜜を一切加工しない非加熱の蜂蜜です。
+【保存方法】
+直射日光を避け、涼しい所で常温保存。
+自然のままのハチミツですので結晶する場合がありますが、品質にはなんら影響ございません。
+【注意事項】
+返礼品到着後、すぐに開梱いただき、配達時に万が一破損などがございましたら、
+破棄せずに3日以内に運送業者へお戻しください。
+その他、破損以外の不自然な状態等がございましたら、7日以内に下記までご連絡ください。
+※お客様のご判断で破棄されますと、補償対象外となる場合がございますので、予めご了承ください。
+【返礼品・配送に関するお問い合わせ】
+事業者名：株式会社アルノ
+連絡先：0120-17-3838</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5413539/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240515/pd_d43518bf97f6fe98d25669be34fa0dd3ebe69029.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">千賀屋謹製 2025年 迎春おせち料理「おもてなし」和風三段重 4～5人前 全57品</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>期間限定：～2024年12月22日まで
+※12月16日以降のご寄附は、北海道・青森県・秋田県・長崎県・宮崎県・鹿児島県・沖縄県は配送不可となります。
+上記地域へ配送希望の方は、12月15日までにお申込みください。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>12月30日または12月31日のお届けとなります。どちらかお選びください。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※仕入れの都合により、予告なく変更する場合がございます。あらかじめご了承ください。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">＜毎年多数の高評価！千賀屋で一番人気のおせち＞
+品数が多く、様々な料理が楽しめると大好評。
+その名の通り「おもてなし」の心を込めて丁寧に盛り付けました。
+おせちの千賀屋は、料亭の味と技、おもてなしの心を継承しつつ
+長年培った経験に新しい発想を加え、真心を込めておせち作りに取り組んでおります。
+最新鋭のおせち専用工場を持ち、重箱も衛生管理の行き届いた自社工場で製造することで
+安心安全のおせち料理をお届けいたします。
+＜おせちの特徴＞
+■おせち選びに迷ったら千賀屋人気No.1「おもてなし」がお薦め
+■縁起物はもちろん、お子様が楽しめる料理からお酒のおつまみまで全57品入り
+■味もボリュームもご満足いただけるこだわり料理は、職人の技が光る逸品です
+【保存方法】
+要冷蔵（10℃以下）にて保存ください。
+【注意事項】
+・本品は、冷蔵での配送になります。
+・一部離島にはお届けできない場合がございます。
+　お申込み前に一度、千賀屋（TEL:0120-373-047）までお問い合わせください。
+・時間帯指定は、年末の交通事情等により承れません。
+・仕入れの状況により、盛付・食材・内容が変わる場合がございます。予めご了承くださいませ。
+・12月16日(月)以降のご寄付は「12月31日お届け」のみ対応可能となります。
+「12月30日お届け」希望の方は、12月15日(日)までにお申込みください。
+・配送先住所の変更は12月11日(水)正午までにご連絡ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/4988486/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230725/pd_89bc29ab5fc0bad180a341bf8b006988ef7864d4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">福岡・八女の有名パン工房直送！訳あり焼きたてパン詰め合わせ【約17個入】　隆勝堂 冷凍パン 食事パン 菓子パン 惣菜パン ロスパン</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、１か月～２か月で発送予定</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">福岡・八女の老舗菓子屋「隆勝堂」が運営する地元で人気のパン工房「SANTA cafe Bakery」から、80サイズの箱にボリュームたっぷり17個前後のパンを詰めて冷凍便でお届けいたします！
+【「隆勝堂」「SANTA cafe Bakery」とは？】
+創業大正十三年の和菓子店で、福岡の茶どころ「八女」で永く愛され続けているお店です。
+八女市内を中心に、福岡の百貨店にも出店をする隆勝堂が手掛ける焼き立てパン屋が「SANTA cafe Bakery」特にお店のある八女・筑後地区は小麦文化が根付く土地。
+「お客様に1番美味しい焼きたてを味わっていただきたい」との想いから食パンから惣菜パン・菓子パンまで、手作業で毎日60から80種類のパンを夕方近くまで焼いています。
+いつ訪れてもたくさんのパンでお客様をお迎えしたい！
+そのため、どうしても売れ残ってしまうパンが出てきてしまいます。
+売れ残ってしまった「ロスパン」は翌日同じようにお客様へお出しできません。
+そのため、廃棄しなければならないのです。まだまだおいしく食べられるのに・・・
+そんな、まだまだおいしく食べられるけれど、「訳あり」なパンたちを閉店後すぐ冷凍保存し、おいしさを保った状態で皆さんの元へお届けいたします！
+何が入っているかは開けてからのお楽しみ！
+焼きたてパンにこだわった「SANTA cafe Bakery」のおいしいパンを、ご家庭でぜひお召し上がりください。
+【おいしいお召上がり方】
+冷凍のままレンジ500Wにて1分温め、アルミホイルに包んでトースターで５～７分焼いてください。
+外は「カリッと」中は「モチッと」焼きたてパンが味わえます。
+※商品がまだ冷たい場合は再度アルミホイルに包んでトースターで焼いてください。
+※解凍後は当日中にお召し上がりください。
+【注意事項】■お申し込みの前に必ずお読みください■
+・配達日のご指定は承れませんのでご了承ください。
+・配送上の都合により、事前にお届け予定をお知らせいたしかねます。
+・12月のお申し込みにつきましては、店舗繁忙期となりますため1月以降の発送となる場合がございます。
+・ご不在、ご住所不明等により保管期限を過ぎた品の返品につきましては、再送・ご連絡をいたしかねますためご了承ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/4521699/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240514/pd_1266073989b0d46fe3ea4b1a67ed18925996f8d4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">かの蜂 国産 百花蜂蜜 1kg（とんがり容器500g×2本）養蜂一筋60年自慢の一品　ハチミツ 非加熱 純粋はちみつ ハニー</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備が整い次第順次発送致します。
+※ご注文状況により発送までにお時間をいただく場合がございます。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">福岡県八女市で半世紀以上続く、鹿野養蜂園の国産「百花蜂蜜」です。
+舌触りまろやかでクセがなく、後味もスッキリしています。
+口の中いっぱいに花の香りと上品な甘味が広がります。
+百花蜂蜜とは「百の花から採れた蜜」という意味です。
+ハチミツの製造・販売を手掛ける「かの蜂」は、一切加工しない非加熱の国産ハチミツを中心に販売しています。
+【保存方法】
+直射日光を避け、涼しい所で常温保存。自然のままのハチミツですので結晶する場合がありますが、品質になんら影響ありません。
+【注意事項】
+返礼品到着後、すぐに開梱いただき、配達時に万が一破損などがございましたら、破棄せずに3日以内に運送業者へお戻しください。
+その他、破損以外の不自然な状態等がございましたら、7日以内に下記までご連絡ください。
+※お客様のご判断で破棄されますと、補償対象外となる場合がございますので、予めご了承ください。
+【返礼品・配送に関するお問い合わせ】
+　事業者名：株式会社アルノ
+　連絡先：0120-17-3838</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5561354/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230724/pd_d26f92e2cad26fab9251ef8dbc9ebb2ccb69922a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【ギフト用】繁桝　大吟醸箱入娘（720ml×1本）</h4>
+<p class="goods-col_price inline">16,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2022年10月1日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">地元が誇る銘醸蔵、繁桝でおなじみの高橋商店。その蔵で、酒造りの技を極めた蔵人たちが、名前の通り手塩にかけて育てた娘がこの作品です。日本酒の神髄を贅沢に感じられる逸品です。特別な時間に特別な人と、この酒から立ち上る吟醸香と深い味わいを体験してください。
+＜こちらは、ギフト包装対応の品となります＞
+・包装してお届けいたします。
+・包装紙はおまかせとなります。
+・複数のお礼の品をまとめて包装することはできません。
+・メッセージカード・熨斗の対応はしておりません。
+・自治体によっては送り状内に『ふるさと納税のお礼の品』と明記される場合がありますので、あらかじめご了承ください。
+・贈り主は [寄附者] 様になります。
+20歳未満の飲酒は法律で禁止されています
+事業者名：カワグチサプライズ株式会社（0943-22-2628）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/4521700/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230721/pd_cfdb1e2a1b21f77a744ad4fb460f9c7d9efdc47b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">かの蜂 国産里山蜂蜜【500g×2本】セット　養蜂一筋60年自慢の一品</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備が整い次第順次発送　※ご注文状況により発送までにお時間をいただく場合がございます</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">国産里山蜂蜜は、国内の野の花、山の花から採れた希少な百花蜜です。
+蜂蜜一筋半世紀以上の徹底した蜂蜜づくりによる、こだわりの純粋蜂蜜です。自然の美味しさがたっぷり詰まった味です。
+花の香り、甘みをお届けいたします。
+【返礼品・配送に関するお問い合わせ】
+　事業者名：株式会社アルノ
+　連絡先：0120-17-3838
+★12/18(月)決済完了分まで年内発送</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/4823773/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240124/pd_81e144e9f1a9dbb3ea4da98c940d15c3861df740.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【自宅用日本茶 緑茶】＜八女茶＞許斐本家 玉露白折・かぶせ他 飲み比べ徳用セット</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">事業者名：矢部屋許斐本家（TEL：0943-24-2020）
+八女の風土を感じられるような玉露白折・かぶせ・煎茶・煎茶白折のお得な飲み比べ4本セットです。
+希少な玉露白折など普段のお茶とは一味違う八女茶４種をお楽しみ下さい。
+＊箱は付きません。ご自宅用の簡易包装となります。
+・玉露白折は、希少な「玉露の茎」の緑茶です　
+機械摘みされた玉露から茎の部分を選り分けました。
+まろやかな味わいと芳醇な香りが楽しめます。
+茎特有のフルーツのような臭いはありますが、旨味がつよく、
+玉露の味を手軽に味わって頂ける商品となっております。
+また茎の部分はアミノ酸が通常の茶葉より多く含まれており、
+熱湯で淹れて頂いても渋みが出にくくなっております。
+・かぶせ茶は、茶摘み前に茶木に被せる「覆下栽培」をして、旨みを高めたお茶です
+4月下旬から5月初旬の1～2週間程度、日光を遮ります。(茶の木に寒冷紗などの化学繊維、または藁などの覆いなどを被せる)
+そうすることにより光合成を抑え、茶の木がカテキンなどの渋み成分を生成するのを抑制します。
+結果、旨み成分(テアニンなど)が通常の煎茶より多くなります。渋みが苦手な方も美味しく飲んでいただけます。
+・「八女の国」は、当家の上煎茶です
+5月初旬に摘んだ旬の八女茶を選りすぐり、江戸時代から伝わる秘伝の調合で合組し爽やかな薫りと滋味(渋みと旨味)のある緑茶に仕上げました。
+・「煎茶白折　里」は、特上煎茶の茎部分の緑茶になります
+特上煎茶の製造工程で出来た茎茶と芽茶を原料に仕上げて製造します。
+爽やかな香りとさっぱりとした旨味をお楽しみ下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5561368/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231010/pd_78d09ecf784a569c6810320f4a82f9c2ff741efb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">八女が誇る純米大吟醸トリオ</h4>
+<p class="goods-col_price inline">45,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2022年10月1日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">八女産の酒造好適米「吟のさと」を使い、丁寧に醸した純米大吟醸「飛形（とびかた）。
+同じく「吟のさと」で醸した純米大吟醸「八峰（やっほう）」。
+発売以来、地元では人気を得ている純米大吟醸「可也（かや）」。
+銘醸蔵で名高い、繁桝でおなじみの（株）高橋商店で「飛形」「可也」を、チャンピオン・サケを獲得したことのある（株）喜多屋で「八峰」それぞれを造ってもらいました。
+吟醸香と洗練された味わいは、蔵元の技術の粋を集めた日本酒です。
+いずれも地元でさえも扱っている酒販店は少なく、まさに八女にしかない逸品です。
+全国的な知名度は低いですが、品質に関しては自信を持ってお勧めできる日本酒に仕上がっています。
+八女の水と田んぼと自然と人に思いを馳せて、トリオでお楽しみください。
+事業者名：カワグチサプライズ株式会社　かわぐち酒店
+連絡先：0943-22-2628
+20歳未満の飲酒は法律で禁止されています</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5561370/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230721/pd_abd1b239364695a952c2e73bd5d2d3d6a749712c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">純米大吟醸「飛形」「可也」720mlセット</h4>
+<p class="goods-col_price inline">17,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2022年10月1日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">八女産の酒造好適米「吟のさと」を使い、丁寧に醸した純米大吟醸「飛形（とびかた）。
+発売以来、地元では人気を得ている純米大吟醸「可也（かや）」。
+銘醸蔵で名高い、繁桝でおなじみの（株）高橋商店で醸されました。
+吟醸香と洗練された味わいは、蔵元の技術の粋を集めた日本酒です。
+いずれも地元でさえも扱っている酒販店は少なく、まさに八女にしかない逸品です。
+全国的な知名度は低いですが、品質に関しては自信を持ってお勧めできる日本酒に仕上がっています。
+八女の水と田んぼと自然と人に思いを馳せてお楽しみください。
+事業者名：カワグチサプライズ株式会社　かわぐち酒店
+連絡先：0943-22-2628
+20歳未満の飲酒は法律で禁止されています</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5577436/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230721/pd_ab79272ffe1003b1caa46dc38721302820753796.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">限定流通【八峰（やっほう）】720mlセット</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">【純米大吟醸・純米吟醸　八峰】
+八女産の酒造好適米を使い、丁寧に醸した八峰（やっほう）の純米大吟醸と純米吟醸のセット。まさに八女の逸品です！八女産の「吟のさと」しか酒造好適米に認定されておらず、その米を使って、チャンピオン・サケを生んだ喜多屋が丁寧に醸しました。コストパフォーマンスに優れた、地元でも限定流通の日本酒です。
+※20歳未満の飲酒は法律で禁止されています。
+事業者名：カワグチサプライズ株式会社　かわぐち酒店
+連絡先：siro@wakarazuya.com</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5319987/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230721/pd_edbb280e01189b81b8c8e950f4ad9e3dadfdd2c6.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">横町町家交流館セレクト 便利な缶入り八女茶 ティーバッグ３種 玉露・ほうじ茶・和紅茶</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金後1～2ヵ月で発送開始予定（ご入金のタイミング等により前後する場合がございます）</p>
+</div>
+<p class="goods-col_textinfo pc">高級茶の産地、八女。日本一の玉露の産地として
+全国に「八女茶」を発信しております。
+そんな八女茶の、かわいい缶に入った使いやすいティーバッグ３種をお届けいたします。
+■ティーバッグでお手軽に飲めます■
+茶処八女のお茶をティーバッグに詰めました。
+マグカップさえあれば急須がなくても八女茶が飲める、便利なティーバッグタイプです。
+横町ロゴをあしらったかわいらしい缶入り。茶葉の種類によってカラーが違います。
+ご家庭や職場ではもちろん、旅先にでもお好みのお茶を持参できます。
+玉露・ほうじ茶・和紅茶の３個セット。気分に合わせてお楽しみください。
+■八女の文化を伝承する横町町家交流館セレクトの返礼品です■
+国の重要伝統的建造物群保存地区に指定されている
+「八女福島白壁の町並み」にある、八女市横町町家交流館は
+江戸末期に建てられた元造り酒屋の建物をリノベーションした交流施設。
+八女市に根付く伝統文化を発信し、町歩きの休憩スポットとしても人気です。
+町並みの歴史を学べるだけでなく、国の地理的表示保護制度（ＧＩ）に登録認定を受けた
+八女伝統本玉露が味わえるカフェも併設しております。
+■お礼の品発送に関するお知らせ■
+※発送の都合上、事前にお届け予定をお知らせいたしかねます。また、日付指定は承れませんのでご了承ください。
+※長期のご不在や転居等ございましたら、お早めにご連絡ください。保管期限を超えた長期不在等につきましては再送をいたしません。
+【保存方法】高温多湿を避け、移り香にご注意ください。
+【原材料】緑茶（国産）
+☆八女市内で製造・加工しております☆</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5134779/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230725/pd_d99ee15eb81b2d0a8ee80b257d48afd2e8b85458.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">八女ブルワリー　クラフト味わいセット＜4種6本入り＞</h4>
+<p class="goods-col_price inline">14,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送（冷蔵配送）</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">自然豊かな八女の地で醸造された人気のクラフトビール。
+それぞれの味わいをお楽しみください。
+【ピルスナー】
+世界で最も飲まれているスタイルで、低温での発酵によりさっぱりとした飲み口に仕上がっています。
+地元特産の八女茶を使用しています。
+【深蒸しIPA】
+最近人気が出てきたスタイルで、強い柑橘系ホップの香りと心地よい苦みが特徴です。
+副原料に深蒸し八女茶を使用しています。
+IPAとは、インディア・ペール・エールの略称で、大航海時代に起源をもちます。
+【ブラック】
+ロースト麦芽の香ばしさと豊かなコクが心地良く、のどごしが飲みやすい「ドライスタウト」風に仕上がっています。
+【ぶどうIPA】
+福岡県産ぶどうを使用したフルーティーなIPAで、ホップの程よい苦みと、ぶどうのほんのりとした甘みとのバランスが絶妙です。
+事業者名：カワグチサプライズ(株)　かわぐち酒店
+連絡先：0943-22-2628
+20歳未満の飲酒は法律で禁止されています</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5134780/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230822/pd_0cffc074131a5c85cbcc56c4fe20443c9b40334c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">八女ブルワリー　ピルスナーセット＜6本入り＞</h4>
+<p class="goods-col_price inline">14,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送（冷蔵配送）</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">自然豊かな八女の地で醸造された人気のクラフトビールです。
+【ピルスナー】
+世界で最も飲まれているスタイルで、低温での発酵によりさっぱりとした飲み口に仕上がっています。
+地元特産の八女茶を使用しています。このブルワリーで1番の人気です。
+事業者名：カワグチサプライズ(株)　かわぐち酒店
+連絡先：0943-22-2628
+20歳未満の飲酒は法律で禁止されています</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5134781/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230725/pd_4ec8564bf51a0dc503136ad80f2c5d6f5c90bea9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">八女ブルワリー　深蒸しIPAセット＜6本入り＞</h4>
+<p class="goods-col_price inline">14,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送（冷蔵配送）</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">自然豊かな八女の地で醸造された人気のクラフトビールです。
+【深蒸しIPA】
+最近人気が出てきたスタイルで、強い柑橘系ホップの香りと心地よい苦みが特徴です。
+副原料に深蒸し八女茶を使用しています。
+IPAとは、インディア・ペール・エールの略称で、大航海時代に起源をもちます。
+事業者名：カワグチサプライズ(株)　かわぐち酒店
+連絡先：0943-22-2628
+20歳未満の飲酒は法律で禁止されています</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5561322/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231006/pd_04ca9dac63ff6bca1135d7d2b6b1928677c4e4bd.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【ギフト用】＜純米大吟醸＞飛形・＜純米吟醸＞麹屋720mlセット（ギフト対応）</h4>
+<p class="goods-col_price inline">14,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2022年10月1日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">八女市にある銘醸蔵、繁桝の蔵元(株)高橋商店の銘酒です。
+■純米大吟醸　飛形（とびかた）　720ml
+　地元産の酒造好適米「吟のさと」を使い、それを45％まで磨いた地元が誇る純米大吟醸です。
+■純米吟醸　麹屋（こうじや）　720ml
+　純米吟醸ならではのコクと旨みと爽やかな吟醸香を醸しだした味わい深い逸品です。
+※いずれも限定流通品です！
+＜こちらは、ギフト包装対応の品となります＞
+・包装してお届けいたします。
+・包装紙はおまかせとなります。
+・複数のお礼の品をまとめて包装することはできません。
+・メッセージカード・熨斗の対応はしておりません。
+・自治体によっては送り状内に『ふるさと納税のお礼の品』と明記される場合がありますので、あらかじめご了承ください。
+・贈り主は [寄附者] 様になります。
+20歳未満の飲酒は法律で禁止されています
+事業者名：カワグチサプライズ(株)　かわぐち酒店（0943-22-2628）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5646167/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230721/pd_53d81b45f0e2a9138e82f7a91ded24418dfeb1fe.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">純米大吟醸飛形・美味辛子明太子セット</h4>
+<p class="goods-col_price inline">23,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">八女の銘酒、純米大吟醸飛形と定番のやまや辛子明太子のセットです。
+■純米大吟醸　飛形（とびかた）　720ml　精米歩合45％
+　八女の誇る蔵元が、八女産の酒造好適米を使い、丁寧に醸した純米大吟醸飛形。まさに八女の逸品です！八女産の「吟のさと」しか酒造好適米に認定されておらず、その米を使用し、箱入娘で有名な繁桝の蔵元高橋商店で、それは丁寧に醸していただきました。
+■やまや　美味辛子明太子
+　長年愛されるやまやの定番明太子。一腹一腹がほどよい大きさで、168時間じっくり熟成させた「美味」は辛子明太子の美味しさが充分楽しめる人気の一品。創業以来、継ぎ足しながら守り続ける漬け込みたれは、水を一滴も使用せず、喜多屋のお酒をベースに、辛さが後を引かない先辛ブレンド唐辛子、まろやかな旨みを引き出す羅臼昆布、隠し味に九州産柚子を加え、コク深く、風味豊かに仕上げています。
+※20歳未満の飲酒は法律で禁止されています。
+事業者　：カワグチサプライズ株式会社　かわぐち酒店
+連絡先　：siro@wakarazuya.com</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5658180/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230721/pd_194db066a9bfa6b8e2aa35ea64a711d520d02674.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">クラフトビールともつ鍋セット</h4>
+<p class="goods-col_price inline">23,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">博多名物もつ鍋と八女のクラフトビールセットです！
+■八女ブルワリーがお届けする、自然豊かな八女の地で醸造された人気のクラフトビール。それぞれの味わいをお楽しみください。
+【ピルスナー】
+世界で最も飲まれているスタイルで、低温での発酵によりさっぱりとした飲み口に仕上がっています。地元特産の八女茶を使用しています。
+【深蒸しIPA】
+最近人気が出てきたスタイルで、強い柑橘系ホップの香りと心地よい苦みが特徴です。
+副原料に深蒸し八女茶を使用しています。IPAとは、インディア・ペール・エールの略称で、大航海時代に起源をもちます。
+【ブラック】
+ロースト麦芽の香ばしさと豊かなコクが心地良く、のどごしが飲みやすい「ドライスタウト」風に仕上がっています。
+【ぶどうIPA】
+福岡県産ぶどうを使用したフルーティーなIPAで、ホップの程よい苦みと、ぶどうのほんのりとした甘みとのバランスが絶妙です。
+■博多の味　もつ鍋　醤油味・味噌味セット
+もつ鍋の人気店、「博多もつ鍋　やまや」監修の常温もつ鍋セットです。
+加熱済みの「味付もつ肉」、コクと旨みにとことんこだわった自慢の「特製スープ」、「ちゃんぽん麺」、「薬味（にんにく・唐辛子）」がセットになっているので、ご自宅でもお好きな野菜をいれるだけで、手軽に博多の味をお楽しみいただけます。
+醤油味は深みのある上品な味に仕上げました。焼きあごの旨みを活かし、スッキリとした甘口の深みのある味わいです。
+また、まろやかさとコクにこだわった味噌味は、上品な甘さの味噌とねりごま、にんにくを加えコク深い味わいに仕上げました。
+※20歳未満の飲酒は法律で禁止されています。
+事業者名：カワグチサプライズ株式会社　かわぐち酒店
+連絡先：siro@wakarazuya.com</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5658181/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230724/pd_00a819bc9421d9857006e2b4207959333dd66141.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">クラフトビールと長浜ラーメン5食入り2個セット</h4>
+<p class="goods-col_price inline">23,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">自然豊かな八女の地で醸造された人気のクラフトビールと、大人気のやまや博多長浜ラーメンのセットです。
+【ピルスナー】
+世界で最も飲まれているスタイルで、低温での発酵によりさっぱりとした飲み口に仕上がっています。地元特産の八女茶を使用しています。
+【深蒸しIPA】
+最近人気が出てきたスタイルで、強い柑橘系ホップの香りと心地よい苦みが特徴です。副原料に深蒸し八女茶を使用しています。
+IPAとは、インディア・ペール・エールの略称で、大航海時代に起源をもちます。
+【ブラック】
+ロースト麦芽の香ばしさと豊かなコクが心地良く、のどごしが飲みやすい「ドライスタウト」風に仕上がっています。
+【ぶどうIPA】
+福岡県産ぶどうを使用したフルーティーなIPAで、ホップの程よい苦みと、ぶどうのほんのりとした甘みとのバランスが絶妙です。
+■やまや博多長浜ラーメン5食入り×2箱
+独自の製法と技術で作り上げた半生麺と、丹精込めて仕上げたコクのある本格的なとんこつスープの博多のラーメンです。
+博多の味をご家庭でお楽しみいただけます。
+※20歳未満の飲酒は法律で禁止されています。
+事業者名：カワグチサプライズ株式会社　かわぐち酒店
+連絡先：siro@wakarazuya.com</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/4823775/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230725/pd_d3bb43ee22e13ddd9ac0d6ecaf3ec0d7b66b13a0.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【ギフト用】日本茶 緑茶＜高級八女茶＞許斐本家　高級玉露と特上煎茶の３本詰合せ</h4>
+<p class="goods-col_price inline">19,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">事業者名：矢部屋許斐本家（有限会社　このみ園）（TEL：0943-24-2020）
+八女の風土を感じられるような玉露と特上煎茶2種の詰合せです。
+色よくコクのある玉露と香り旨味ともに整った煎茶の味をお楽しみ下さい。
+玉露とは新芽が2ー3枚開き始めたころ、茶園をヨシズやワラで覆い、
+4月中旬から5月初旬の3週間ほど日光を遮ります。
+被膜することで茶カテキンなどの渋み成分の生成を抑え、
+テアニンなどの旨み成分が通常の煎茶より多くなります。
+(テアニンは脳内の神経を活発に働かせ、リラックス効果があるとされるアミノ酸の一種です。)
+普段煎茶を飲まれる方は、茶葉の量を1.5～2倍ほど急須に入れ、
+ぬるま湯を茶葉が浸る程度に注ぎ入れてください。
+2分ほど蒸らしますと、茶葉が僅かに開き、贅沢な一滴が味わえます。
+玉露特有の甘さ、旨味、コク、トロリとしたのどごしを御楽しみください。
+煎茶「誉」、煎茶「宝の翠」は、当家の高級煎茶です
+早場に摘み取られた新芽から香味の優れたものを厳選し、江戸時代から伝わる秘伝の調合で合組しました。
+茶の爽やかな香りやしっかりとした茶味(旨味と渋み)を感じて頂ける高級茶です。　
+奥深い味わいの緑茶をお楽しみ下さい。
+贈答用としてもおすすめです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5160602/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230721/pd_ddce0d8dfa8f01e3194ccfe5b34c514d6e3bb786.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">八女産ヒノヒカリ 10kg！ 清流矢部川と大地の恵み</h4>
+<p class="goods-col_price inline">18,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">事業者名：創業昭和元年　自園自製　八女の鶴製茶園（TEL:0943-22-4755）
+飛形山と清流矢部川からなる肥沃な大地は、
+お茶、みかん、キウイフルーツ、筍といった様々な恵みをもたらし、
+八女地域ならではの寒暖差と真心栽培は、米作りにも適しています。
+私たちが作るお米（ヒノヒカリ）は、粒がしっかりふっくらして、
+粘り、甘味とコクがあり、カレーライス、丼物、卵かけご飯など、料理を選びません。
+お米が美味しいと食事も楽しくなります。
+美味しく召し上がっていただくために、4人家族食べきりサイズ10kgで提供します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/4810978/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230724/pd_02751639ef6a261552e5ae70f2d838fd0e63b178.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【産地直送】福岡の八女茶 煎茶ペットボトル（500ml×24本）</h4>
+<p class="goods-col_price inline">14,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2023年2月16日 ～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">／
+JAふくおか八女　農産物直売所　よらん野　人気NO.２
+産地直送でお待たせしないのは、八女市だけ！
+＼
+“福岡の八女茶”をもっとお手軽にどんな場面でも皆様に飲んでいただけるよう、
+JAふくおか八女から八女茶（ペットボトル飲料）をお届けします。
+「安心システム」の認証を受けたJAふくおか八女の農家の茶葉のみを100％使用しました。
+香料など一切使用せず、本来のおいしさを低温でじっくり引き出した八女茶は、
+さっぱりとした甘みと渋味のバランスの良い味に仕上がっています。
+こだわりのポイント
+・福岡八女産の八女茶葉を100％使用!!
+・美味しい八女茶は土づくりから・・・「福岡の八女茶」は茶栽培農家の一貫した技術により生産
+・原料には全農安心システムにより認証を受けた県内産茶葉のみを使用しており、お茶本来の味わいと原料茶葉の安全性を大切にしています。
+・八女茶の生産地、八女市から直送します。
+自然なお茶の風味をゆっくりお楽しみください。
+【注意事項】
+・高温、直射日光を避け、常温・暗所で保存してください。
+・開封後は早めにお飲みください。
+※2023年2月16日より、資材高騰によりお申込み額を変更させていただきました。
+販売者：福岡八女農業協同組合（JAふくおか八女）
+事業者名：創業昭和元年　自園自製　八女の鶴製茶園（TEL:0943-22-4755）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5561302/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231006/pd_8679dda7a2ec94e61ec97a4e1fbf874487f456fb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【ギフト用】＜純米大吟醸＞飛形＜特別純米酒＞可也 1.8Lセット（ギフト対応）</h4>
+<p class="goods-col_price inline">28,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2022年10月1日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">八女が誇る銘醸蔵「箱入娘」でおなじみの(株)高橋商店が、
+「飛形」は八女産の酒造好適米「吟のさと」を45％、「可也」は糸島産の「雄町」を60％に精米し、
+精魂込めて醸した銘酒のセットです。
+いずれも限定流通の商品で、地元でもなかなか手に入らない日本酒です。
+季節により冷酒や冷、寒い季節はぬる燗で味わうと、一層香りが引き立ちます。
+＜こちらは、ギフト包装対応の品となります＞
+・包装してお届けいたします。
+・包装紙はおまかせとなります。
+・複数のお礼の品をまとめて包装することはできません。
+・メッセージカード・熨斗の対応はしておりません。
+・自治体によっては送り状内に『ふるさと納税のお礼の品』と明記される場合がありますので、あらかじめご了承ください。
+・贈り主は [寄附者] 様になります。
+20歳未満の飲酒は法律で禁止されています
+事業者名：カワグチサプライズ(株)　かわぐち酒店(0943-22-2628）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/4823774/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230721/pd_b8133cfb112ba017fc3e801002f3bae5cf367dba.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【ギフト・ご自宅兼用日本茶 緑茶】＜八女水出し茶＞玉露・焙じ茶ティーバッグ2本と水出しボトルセット</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2021年07月13日～</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">事業者名：矢部屋許斐本家（TEL：0943-24-2020）
+下記商品を化粧箱に入れてお送りします。
+薫り高い八女茶を手軽なティーバッグの水出し茶にしました。
+テトラタイプのティーバッグの中で茶葉が広がり、お茶の香りと旨みが十分に引き出された、
+まろやかなお茶が楽しめます。
+氷を浮かべてご家族やお友だちとの涼感あふれるひとときを。
+◆HARIO 750mlフィルターインボトル（色：オリーブ）日本製
+耐熱ガラスボトルにティーバッグまたは茶葉を直接入れ、手軽においしい水出し茶をお作り頂けます。
+◆水出し玉露ティーバッグ(6g×10パック)
+玉露の美味しさ、翡翠色の鮮やかさをお楽しみください。
+◆水出し焙じ茶ティーバッグ(5g×10パック)
+焙じ茶の香ばしさ、まろやかな旨みをお楽しみください。低カフェインでお子さまにも安心です。
+◇冷水ポットに入れるだけ!手軽な水出し茶
+冷水ポットに水とティーバッグを入れ、冷蔵庫で2ー3時間冷やせば出来上がり!
+氷を浮かべてお召し上がりください。
+◇まろやかですっきりとした味
+茶葉は水で抽出すると、苦味成分(カフェイン)・渋み成分(カテキン類)が抑えられ、
+茶葉に含まれるテアニン、アルギニン、グルタミン酸などの天然アミノ酸の旨み成分が強く感じられるまろやかで
+すっきりとした味わいになります。
+◇茶葉が広がるテトラタイプ
+ピラミッド型のティーバッグを使用しておりますので、
+茶葉がよくひらいてお茶の美味しさを十分に引き出します。
+※お作りになられた水出し茶はお早めにお召し上がり下さい。
+※贈答・ご自宅用とも簡易包装となります。
+※熨斗の対応もございますので、直接矢部屋許斐本家までご相談ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/4981780/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240229/pd_ec30411f3419975fa31daa19a1f755ba48ee7d22.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">MONPE 十字模様 ブラック</h4>
+<p class="goods-col_price inline">53,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">事業者名：うなぎの寝床（TEL：0943-24-9836）
+伝統的な久留米絣の文様でもある、十字。
+全面に配置するのではなく片側だけに使い、無地の生地と組み合わせて、ポップでかわいい、人気の定番MONPEになっています。
+生地は広川・八女で生産される久留米絣。着心地がよく、使い込んでいくほどクタッとして体に馴染んできます。
+「もんぺ」というと腰回りのゆったりした農作業着のイメージがありますが、普段履きしやすい様に、既存のもんぺと比較して腰回りをすっきりさせ細身にしています。もちろん農作業着としてもご使用いただけます。
+吸水性がよく、乾きも早いので、夏は特に大活躍！
+腰紐と裾ゴム付きなので調整可能です。
+☆S・M・Lの3サイズからお選び下さい。☆
+※膝下が特に細めの形をしています。運動をしている方などはふくらはぎがぴったりになる場合が多いのでワンサイズ上をおススメしております。
+※サイズ測量の多少の誤差はご了承下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/4981781/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240229/pd_46172cb9b54223f3ff5125826efdbfbeda8aad8c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">MONPE 十字模様 グレー</h4>
+<p class="goods-col_price inline">53,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">事業者名：うなぎの寝床（TEL：0943-24-9836）
+伝統的な久留米絣の文様でもある、十字。
+全面に配置するのではなく片側だけに使い、無地の生地と組み合わせて、ポップでかわいい、人気の定番MONPEになっています。
+生地は広川・八女で生産される久留米絣。着心地がよく、使い込んでいくほどクタッとして体に馴染んできます。
+「もんぺ」というと腰回りのゆったりした農作業着のイメージがありますが、普段履きしやすい様に、既存のもんぺと比較して腰回りをすっきりさせ細身にしています。もちろん農作業着としてもご使用いただけます。
+吸水性がよく、乾きも早いので、夏は特に大活躍！
+腰紐と裾ゴム付きなので調整可能です。
+☆S・M・Lの3サイズからお選び下さい。☆
+※膝下が特に細めの形をしています。運動をしている方などはふくらはぎがぴったりになる場合が多いのでワンサイズ上をおススメしております。
+※サイズ測量の多少の誤差はご了承下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/4981792/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240229/pd_179661b283baac4ef0184b1a77211ff87418d49c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">MONPE ずらしストライプ ブラック 厚地</h4>
+<p class="goods-col_price inline">58,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">事業者名：うなぎの寝床（TEL：0943-24-9836）
+普通のストライプ柄かと思いきや、よく見てみると、ずれている・・・。
+糸を括って染めて柄をつくる、久留米絣の技法だからこそ生まれた、ずらしストライプの現代風MONPEです。生地の厚さは厚地タイプです。
+生地は広川・八女で生産される久留米絣。着心地がよく、使い込んでいくほどクタッとして体に馴染んできます。
+「もんぺ」というと腰回りのゆったりした農作業着のイメージがありますが、普段履きしやすい様に、既存のもんぺと比較して腰回りをすっきりさせ細身にしています。もちろん農作業着としてもご使用いただけます。
+吸水性がよく、乾きも早いので、夏は特に大活躍！
+腰紐と裾ゴム付きなので調整可能です。
+☆S・M・Lの3サイズからお選び下さい。☆
+※膝下が特に細めの形をしています。運動をしている方などはふくらはぎがぴったりになる場合が多いのでワンサイズ上をおススメしております。
+※サイズ測量の多少の誤差はご了承下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/4981796/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240229/pd_4ca2213da2dcb5a4e5c6ca153ed70c9b112418e4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">MONPE バンブーストライプ ブルー</h4>
+<p class="goods-col_price inline">58,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">事業者名：うなぎの寝床（TEL：0943-24-9836）
+平織ばかりの久留米絣には珍しく、綾織という技法で織られる、サラッとした肌触りのシャリ感と、竹の節のようなプツプツ模様のストライプが特徴の、着心地抜群のMONPE。着回ししやすく、普段使いにも最適です。
+生地は広川・八女で生産される久留米絣。着心地がよく、使い込んでいくほどクタッとして体に馴染んできます。
+「もんぺ」というと腰回りのゆったりした農作業着のイメージがありますが、普段履きしやすい様に、既存のもんぺと比較して腰回りをすっきりさせ細身にしています。もちろん農作業着としてもご使用いただけます。
+吸水性がよく、乾きも早いので、夏は特に大活躍！
+腰紐と裾ゴム付きなので調整可能です。
+☆S・M・Lの3サイズからお選び下さい。☆
+※膝下が特に細めの形をしています。運動をしている方などはふくらはぎがぴったりになる場合が多いのでワンサイズ上をおススメしております。
+※サイズ測量の多少の誤差はご了承下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/4981508/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240301/pd_7c96c43bfe8a8f6b17a71d054a7260747157734e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">MONPE 無地 厚地 ブラック</h4>
+<p class="goods-col_price inline">45,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">事業者名：うなぎの寝床（TEL：0943-24-9836）
+久留米絣の織元で織られる無地は、普通の無地とは一味違います。
+ヴィンテージもののシャトル織機で空気を含みながら、ゆったりやわらかく織られた生地は、とにかくさらっと通気性よく、着心地が抜群です。生地の厚さは厚地タイプです。
+生地は広川・八女で生産される久留米絣。着心地がよく、使い込んでいくほどクタッとして体に馴染んできます。
+「もんぺ」というと腰回りのゆったりした農作業着のイメージがありますが、普段履きしやすい様に、既存のもんぺと比較して腰回りをすっきりさせ細身にしています。もちろん農作業着としてもご使用いただけます。
+吸水性がよく、乾きも早いので、夏は特に大活躍！
+腰紐と裾ゴム付きなので調整可能です。
+☆S・M・Lの3サイズからお選び下さい。☆
+※膝下が特に細めの形をしています。運動をしている方などはふくらはぎがぴったりになる場合が多いのでワンサイズ上をおススメしております。
+※サイズ測量の多少の誤差はご了承下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/4981511/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240301/pd_df48fdf42f2a07822a52478da43452405d53186c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">MONPE 無地 厚地 ブルー</h4>
+<p class="goods-col_price inline">45,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">事業者名：うなぎの寝床（TEL：0943-24-9836）
+久留米絣の織元で織られる無地は、普通の無地とは一味違います。
+ヴィンテージもののシャトル織機で空気を含みながら、ゆったりやわらかく織られた生地は、とにかくさらっと通気性よく、着心地が抜群です。生地の厚さは厚地タイプです。
+生地は広川・八女で生産される久留米絣。着心地がよく、使い込んでいくほどクタッとして体に馴染んできます。
+「もんぺ」というと腰回りのゆったりした農作業着のイメージがありますが、普段履きしやすい様に、既存のもんぺと比較して腰回りをすっきりさせ細身にしています。もちろん農作業着としてもご使用いただけます。
+吸水性がよく、乾きも早いので、夏は特に大活躍！
+腰紐と裾ゴム付きなので調整可能です。
+☆S・M・Lの3サイズからお選び下さい。☆
+※膝下が特に細めの形をしています。運動をしている方などはふくらはぎがぴったりになる場合が多いのでワンサイズ上をおススメしております。
+※サイズ測量の多少の誤差はご了承下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/4981510/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240301/pd_40ad9c2845c5a3ccc23cc31f025551f0d1173d41.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">MONPE 無地 厚地 ネイビー</h4>
+<p class="goods-col_price inline">45,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">事業者名：うなぎの寝床（TEL：0943-24-9836）
+久留米絣の織元で織られる無地は、普通の無地とは一味違います。
+ヴィンテージもののシャトル織機で空気を含みながら、ゆったりやわらかく織られた生地は、とにかくさらっと通気性よく、着心地が抜群です。生地の厚さは厚地タイプです。
+生地は広川・八女で生産される久留米絣。着心地がよく、使い込んでいくほどクタッとして体に馴染んできます。
+「もんぺ」というと腰回りのゆったりした農作業着のイメージがありますが、普段履きしやすい様に、既存のもんぺと比較して腰回りをすっきりさせ細身にしています。もちろん農作業着としてもご使用いただけます。
+吸水性がよく、乾きも早いので、夏は特に大活躍！
+腰紐と裾ゴム付きなので調整可能です。
+☆S・M・Lの3サイズからお選び下さい。☆
+※膝下が特に細めの形をしています。運動をしている方などはふくらはぎがぴったりになる場合が多いのでワンサイズ上をおススメしております。
+※サイズ測量の多少の誤差はご了承下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5456019/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240515/pd_07676e353b920e476df74ce238bece4d2d10eed5.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">千賀屋謹製 2025年 迎春おせち料理「華千歳」和洋中三段重 2～3人前 全32品</h4>
+<p class="goods-col_price inline">51,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>期間限定：～2024年12月22日まで
+※12月16日以降のご寄附は、北海道・青森県・秋田県・長崎県・宮崎県・鹿児島県・沖縄県は配送不可となります。
+上記地域へ配送希望の方は、12月15日までにお申込みください。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>12月30日または12月31日のお届けとなります。どちらかお選びください。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※仕入れの都合により、予告なく変更する場合がございます。あらかじめご了承ください。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">＜老若男女に愛される白い重箱が美しい和洋中おせち＞
+伝統の味わいを守りながらも、現代のニーズに応えた味付けと盛り付けが特徴です。
+新年の幸せを呼び込むおせちをお届けします。
+おせちの千賀屋は、料亭の味と技、おもてなしの心を継承しつつ
+長年培った経験に新しい発想を加え、真心を込めておせち作りに取り組んでおります。
+最新鋭のおせち専用工場を持ち、重箱も衛生管理の行き届いた自社工場で製造することで
+安心安全のおせち料理をお届けいたします。
+＜おせちの特徴＞
+■和洋中の料理が白い重箱に映える洗練された美しいおせち
+■おせちに欠かせない定番料理に加え、オードブルとしても最適な32品
+■普段と少し違う新年を迎えたい方や、お子様、若い世代にもおすすめ！
+【保存方法】
+要冷蔵（10℃以下）にて保存ください。
+【注意事項】
+・本品は、冷蔵での配送になります。
+・一部離島にはお届けできない場合がございます。
+　お申込み前に一度、千賀屋（TEL:0120-373-047）までお問い合わせください。
+・時間帯指定は、年末の交通事情等により承れません。
+・仕入れの状況により、盛付・食材・内容が変わる場合がございます。予めご了承くださいませ。
+・12月16日(月)以降のご寄付は「12月31日お届け」のみ対応可能となります。
+「12月30日お届け」希望の方は、12月15日(日)までにお申込みください。
+・配送先住所の変更は12月11日(水)正午までにご連絡ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5413541/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240515/pd_2cfd126df4bf29425691e3bf019b1ccfe3f2d8bc.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">千賀屋謹製 2025年 迎春おせち料理「祝華千」和風三段重 3人前 全41品</h4>
+<p class="goods-col_price inline">40,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>期間限定：～2024年12月22日まで
+※12月16日以降のご寄附は、北海道・青森県・秋田県・長崎県・宮崎県・鹿児島県・沖縄県は配送不可となります。
+上記地域へ配送希望の方は、12月15日までにお申込みください。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>12月30日または12月31日のお届けとなります。どちらかお選びください。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※仕入れの都合により、予告なく変更する場合がございます。あらかじめご了承ください。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">＜海の幸・山の幸をふんだんに使った華やかな人気のおせち＞
+年々、高評価のお声が増えている「祝華千」。
+厳選された素材と熟練の技で作り上げられた贅沢な41品を彩り豊かに盛り付けました。
+おせちの千賀屋は、料亭の味と技、おもてなしの心を継承しつつ
+長年培った経験に新しい発想を加え、真心を込めておせち作りに取り組んでおります。
+最新鋭のおせち専用工場を持ち、重箱も衛生管理の行き届いた自社工場で製造することで
+安心安全のおせち料理をお届けいたします。
+＜おせちの特徴＞
+■毎年高評価が続々！千賀屋の6.5寸で大好評おせち！
+■味も見た目もこだわった贅沢料理41品を美しく盛り付けました
+■祝い海老、金箔黒豆、伊達巻、数の子、田作り等、お正月定番料理も！
+【保存方法】
+要冷蔵（10℃以下）にて保存ください。
+【注意事項】
+・本品は、冷蔵での配送になります。
+・一部離島にはお届けできない場合がございます。
+　お申込み前に一度、千賀屋（TEL:0120-373-047）までお問い合わせください。
+・時間帯指定は、年末の交通事情等により承れません。
+・仕入れの状況により、盛付・食材・内容が変わる場合がございます。予めご了承くださいませ。
+・12月16日(月)以降のご寄付は「12月31日お届け」のみ対応可能となります。
+「12月30日お届け」希望の方は、12月15日(日)までにお申込みください。
+・配送先住所の変更は12月11日(水)正午までにご連絡ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5268146/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230724/pd_5d32a28ee7f74b7b621132131a04918896be8d18.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">九州・福岡の上質なイノシシ肉を使用　八女ジビエイノシシカレー　お試し２食セット【中辛・辛口】</h4>
+<p class="goods-col_price inline">7,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確定から１～２か月程度で発送予定</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">■八女の大地で育った天然イノシシ肉１００％使用のスパイシーなカレーです■
+捕獲されたイノシシを地域資源として利活用しようと、八女商工会議所を中心に発足した「八女ジビエ・プロジェクト」。そのプロジェクトの中で商品開発されたのがこのイノシシカレー。
+自然豊かな里山で育った八女のイノシシ肉は料理人からの評価も高く、丁寧に処理されたイノシシ肉のミンチを贅沢に使用したカレーです。
+高たんぱく・ヘルシーなイノシシの旨味と、試作を重ねて作り上げたスパイシーなカレーの風味をお楽しみください。
+＜受賞歴＞
+・2013福岡デザインアワード入賞
+・2014フードアクションニッポンアワード審査員特別賞
+■八女から伝える、山の食文化復興―八女ジビエ・プロジェクト■
+畜産の発展以降、狩猟と共に衰退した日本古来のジビエ文化。近年は
+ハンターの高齢化などでイノシシによる農産物被害が拡大しています。
+害獣駆除と食文化の復興のため、八女ジビエ・プロジェクトは始まりました。
+■八女の文化を伝承する　横町町家交流館セレクトの返礼品です■
+国の重要伝統的建造物群保存地区に指定されている「八女福島白壁の町並み」にある、八女市横町町家交流館は江戸末期に建てられた元造り酒屋の建物をリノベーションした交流施設。
+八女市に根付く伝統文化を発信し、町歩きの休息スポットとしても人気のスポットです。
+町並みの歴史を学べるだけでなく、八女伝統本玉露が味わえるカフェも併設しています。
+【保存方法】
+直射日光を避けて常温で保存
+【原材料】
+■中辛：玉葱、人参、セロリ、ニンニク、生姜、猪肉、カレー粉、香辛料、小麦粉、植物油、バター、ショートニング、チリソース、ウスターソース、りんご、フルーツチャツネ、醤油、砂糖、塩、生クリーム、鶏肉、牛骨、調味料（アミノ酸等）、甘味料（サッカリン）（原材料の一部に乳成分、大豆も含む）
+■辛口：玉葱、人参、セロリ、ニンニク、生姜、猪肉、カレー粉、焙煎香辛料ペースト、牛脂豚脂配合油、酒精、香辛料、小麦粉、植物油、バター、ショートニング、チリソース、ウスターソース、りんご、フルーツチャツネ、醤油、砂糖、塩、生クリーム、鶏肉、牛骨、調味料（アミノ酸等）、甘味料（サッカリン）（原材料の一部に乳成分、大豆も含む）
+☆八女市内で製造された商品です☆</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5454532/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230724/pd_9a0001b04ce45a91fd475889c90c11a83eb49f47.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【チャンピオンSAKE】大吟醸 極醸 喜多屋 1800ml</h4>
+<p class="goods-col_price inline">45,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備が整い次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">華やかで品のある香りと余韻の美しさ、
+喜多屋らしく爽やかに色気を感じさせるボディー感が表現されております。
+今では伝説の2013年度大会と語り継がれるIWC世界大会の日本酒部門。
+500以上の日本酒が出品したこの大会で、見事に1位チャンピオン酒を受賞したこの大吟醸極醸喜多屋。
+福岡の地酒が日本中に、世界での評価がさらに高くなるきっかけにもなった大会でもありました。
+この大吟醸には、喜多屋酒造りチームの奥義と呼ばれる技の数々が散りばめられております。
+例えば『限定吸水』と言われるお米に含まれる水分量の調整。
+ストップウォッチを使い秒単位でお米と向き合い行われるこの作業は『喜多屋の限定吸水はすごい』とファンの間では噂される技術となっております。
+さらには洗練さと上品さを表現するために行われる『しずく搾り』
+長時間の労力と力仕事でもあるこの作業は、喜多屋の表現力をさらなる高みへと押し上げる技術として、全国の専門家達からも評価される技となりました。
+それもこれも、杜氏と蔵人達との関係性、チームワークがなせる技の数々です。
+喜多屋の一番の強みはそのチームワークかもしれません。
+【坂口酒店】
+全国地酒ファンの皆様へ日本酒のおもしろさを提供する酒屋坂口酒店。
+企業理念は『晩酌を三倍楽しくする酒屋』
+店主である日本酒の先生、酒塾塾長キノハチ先生の秘密基地でもあり、全国酒塾総本山。
+キノハチ先生が主催する酒塾は常に満員御礼であり、日本酒のおもしろさ、酒蔵が伝えたいことをわかりやすく楽しめると評判。全国から地酒のイベントをしてほしいとオファー殺到でてんてこまいのキノハチ。
+そのキノハチ先生がオススメするふるさとの地酒『喜多屋』らしい爽やかに芳醇に仕上がったお酒を
+どうぞお楽しみください。
+日本酒のご質問はメールをくださいませ。
+sake.sakaguchi@gmail.com
+Instagram：@sakejuku_sakaguchi_sake
+【注意事項】※20歳未満の飲酒は法律で禁止されています。
+【保存方法】冷暗所
+【原材料】米（国産）、米麹（国産）、醸造アルコール
+【事業者名】晩酌を三倍おいしくする酒屋　坂口酒店（TEL0943-41-0161）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/40210/5574563/48">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230721/pd_c18060d5a1f2cadceb1ab1a8eb96ee8ba6e84f5d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">九州の手仕事を体感する宿 Craft Inn 手｜１泊朝食付きペア宿泊券</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附からお届けまで最大７日ほど頂戴します。万が一、お申し込みから7日を過ぎてもメールが届かない場合は下記の通り、ご確認およびお問い合わせください。
+（１）迷惑メールボックスをご確認ください。
+（２）下記、問合せ先（八女市ふるさと納税サポート室）までご連絡ください。
+〜ご注意事項〜
+寄付をされたサイトに登録されているメールアドレス宛に送信します。
+迷惑メール対策などでドメイン指定受信を設定されている方は、メールを受け取ることができません。
+お手数ですが、「@yame.furusato-lg.jp」のドメイン指定解除を行ってください。
+～宿泊の予約方法～
+・Craft Inn 手の公式サイト、またはお電話、またはEmailより、ご予約を承ります。
+・お手元に、メールに記載の「ギフト番号」をご用意ください。</p>
+</div>
+<p class="goods-col_textinfo pc">◯１泊朝食付き1室2名様ご利用いただける宿泊券です。（夕食はついておりません）八女の街にある飲食店をお楽しみください。
+※追加料金を直接お支払いいただくことで、一室あたり合計4名様までの宿泊が可能になります。
+◯ご利用可能日：平日（日～木曜日）
+※追加料金を直接お支払いいただくことで、休前日（金土曜日や特定日など）の宿泊が可能になります。
+◯特定日（年末年始・5月ゴールデンウィーク・8月お盆）は利用できません。
+◯福岡県宿泊税条例に基づく宿泊税（お1人ご1泊につき200円）込みの金額です。
+◯ご寄附後、宿より宿泊ギフト券（メール）をお送りしますので、到着後、寄附者様ご自身でご予約をお取りください。
+◯お電話、Eメール、公式ホームページからご予約いただけます。
+◯お電話またはEメールで「ふるさと納税1泊朝食付ペア宿泊ギフト券」をご利用の旨と「ギフト番号」をお申し出のうえ、ご予約下さい。
+◯ネットからのご予約の場合、予約ページにて「クーポンコード」、ご要望・ご質問の欄に「ギフト番号」をご入力ください。なお、決済額が0円の場合も、システム上、クレジットカードの番号が必須となります。ご了承ください。
+◯いずれの予約方法の場合も、ご宿泊当日に宿泊ギフト券（メール本文）をフロントスタッフにお渡しください。
+◯紛失、破損時の再発行はいたしかねますので、ご注意ください。寄附の返金もできません。
+◯有効期限は、365日です。有効期限の開始日は、ご注文より7日後です。
+（例：2023年8月1日ご寄付、2023年8月8日有効期限開始、2024年8月7日有効期限終了）
+有効期限より前のご使用はできません。あらかじめご了承お願いいたします。
+◯有効期間はいかなる場合でも延長等はお受けいたしかねますので必ず有効期間内にご使用願います。
+◯休館日（不定休）はご利用頂けません。(休館日はHPでご確認ください）
+◯満室により本券の有効期間内にご予約が取りづらくなる場合がございますので、ご宿泊予約はお早めにご検討ください。
+◯転売や現金との引き換えはできません。
+◯お釣りは出ません。発行者印のないものは無効です。</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<ul class="gcf-lst-bx" id="progress_list">
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年12月20日 08:37</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">プロジェクト終了まであと12日！</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">応援してくださったみなさま、誠にありがとうございます！<br/>
+皆様から頂いた温かい応援メッセージも、随時拝見しております。<br/>
+プロジェクトを開始するまでは、このように感じて応援してくださる方が<br/>
+こんなにもいらっしゃるなんて、夢にも思いませんでした。<br/>
+みなさまの応援の声とご支援が、私達とプロジェクトの原動力になっています。<br/>
+残りの募集期間も頑張ってまいりますので、ぜひお知り合いやご友人に<br/>
+本プロジェクトを紹介いただけますと幸いです。<br/>
+拡散用のプロジェクトURLはこちら【 https://www.furusato-tax.jp/gcf/2494】<br/>
+どうにか達成させたい想いです！<br/>
+引き続きよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="2949" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="2949">4</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="2949">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2494%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+</ul>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">福岡県八女市</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__image"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230830/m_640546996c0896e42a9218dc0585b593b2d6c6ef.jpg" /></div>
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">八女市は中南部に平野、北東部には森林が広がり、県内２番目となる広大な面積を有しています。古くから近辺農村地域の商工業の中心地で、農業と伝統工芸の里として栄えてきました。昔ながらの情緒はもちろん、江戸時代の文化を残す白壁の町屋の町並み、山間部の棚田など、たっぷりの風情が今も町なかや村々に息づいています。<br/>
+八女市では、ガバメントクラウドファンディングをとおしてNPO法人の活動を支援しています。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">福岡県八女市の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/40210/48?from=2&amp;gcf_project_id=2494"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,618,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g2494,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

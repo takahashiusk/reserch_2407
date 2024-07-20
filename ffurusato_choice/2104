@@ -1,0 +1,1757 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/2682" />
+
+<title>廃線駅に命を吹き込め！信号、ポイントを復活し、より楽しく、より安全にトロッコを走らせる口羽駅再生プロジェクト！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="廃線駅に命を吹き込め！信号、ポイントを復活し、より楽しく、より安全にトロッコを走らせる口羽駅再生プロジェクト！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/2104" />
+<meta property="og:description" content="島根県邑南町を走っていたJR三江線が廃線となってから4年半が経過しました。過疎と高齢化で人口減少が止まらない地域ですが、この地域に誇りを取り戻し、この地域を盛り上げていくため、ＮＰＯ法人江の川鐵道は、廃線になった跡地（口羽駅、宇都井駅及びその周辺）を活用して、トロッコ型車両を走らせ、地域に賑わいを取り戻す取り組みを進めています。昨年のガバメントクラウドファンディング型ふるさと納税で、全国の皆さんから多くのご支援をいただき、トロッコは2両から6両に増え、3両編成が2編成運行できるようになりました。このため、口羽駅を発着するコースで、2編成を同時に、しかも安全に運行するために、口羽駅構内でかつて利用されていた信号システム（構内信号、踏切警報、ポイントが集中制御により運用できる）を復活させます。また、口羽駅を保存・活用するために必要な枕木を購入します。宇都井駅、口羽駅で安全に多数の乗客を迎え、地域の観光振興を進めていくために、皆様のご支援、ご協力をどうぞよろしくお願いいたします。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221108/d_eca2aa69ae261bb23847fff9ddd609b6b2c1e848.png" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221108/d_eca2aa69ae261bb23847fff9ddd609b6b2c1e848.png" />
+<meta property="twitter:title" content="廃線駅に命を吹き込め！信号、ポイントを復活し、より楽しく、より安全にトロッコを走らせる口羽駅再生プロジェクト！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="島根県邑南町を走っていたJR三江線が廃線となってから4年半が経過しました。過疎と高齢化で人口減少が止まらない地域ですが、この地域に誇りを取り戻し、この地域を盛り上げていくため、ＮＰＯ法人江の川鐵道は、廃線になった跡地（口羽駅、宇都井駅及びその周辺）を活用して、トロッコ型車両を走らせ、地域に賑わいを取り戻す取り組みを進めています。昨年のガバメントクラウドファンディング型ふるさと納税で、全国の皆さんから多くのご支援をいただき、トロッコは2両から6両に増え、3両編成が2編成運行できるようになりました。このため、口羽駅を発着するコースで、2編成を同時に、しかも安全に運行するために、口羽駅構内でかつて利用されていた信号システム（構内信号、踏切警報、ポイントが集中制御により運用できる）を復活させます。また、口羽駅を保存・活用するために必要な枕木を購入します。宇都井駅、口羽駅で安全に多数の乗客を迎え、地域の観光振興を進めていくために、皆様のご支援、ご協力をどうぞよろしくお願いいたします。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,601,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="2104" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">廃線駅に命を吹き込め！信号、ポイントを復活し、より楽しく、より安全にトロッコを走らせる口羽駅再生プロジェクト！</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">廃線駅に命を吹き込め！信号、ポイントを復活し、より楽しく、より安全にトロッコを走らせる口羽駅再生プロジェクト！</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1020">観光・PR&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221108/d_eca2aa69ae261bb23847fff9ddd609b6b2c1e848.png" alt="main_img" decoding="async" />
+<img class="gcf-lyt-detail__complete" src="/gcf/images_cf/icon_goal_brown.png" alt="達成" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E5%BB%83%E7%B7%9A%E9%A7%85%E3%81%AB%E5%91%BD%E3%82%92%E5%90%B9%E3%81%8D%E8%BE%BC%E3%82%81%EF%BC%81%E4%BF%A1%E5%8F%B7%E3%80%81%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%92%E5%BE%A9%E6%B4%BB%E3%81%97%E3%80%81%E3%82%88%E3%82%8A%E6%A5%BD%E3%81%97%E3%81%8F%E3%80%81%E3%82%88%E3%82%8A%E5%AE%89%E5%85%A8%E3%81%AB%E3%83%88%E3%83%AD%E3%83%83%E3%82%B3%E3%82%92%E8%B5%B0%E3%82%89%E3%81%9B%E3%82%8B%E5%8F%A3%E7%BE%BD%E9%A7%85%E5%86%8D%E7%94%9F%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%EF%BC%81&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F2104">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">2,955,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph2" style="width: 147.7%;"></div>
+<p class="gcf-cht-detail-bar__number">147.7%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">2,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">147.7</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">119</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>島根県邑南町（しまねけん おおなんちょう）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="2104" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2022年11月10日～2023年1月10日（62日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1028" class="sorting-list__item">まちづくり・コミュニティ</a></li><li><a href="/gcf/project/tag/1038" class="sorting-list__item">観光・PR</a></li><li><a href="/gcf/project/tag/1039" class="sorting-list__item">起業</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="2104" class="gcf-nv-tab__button js-tab">進捗情報
+<span class="gcf-nv-tab__button-progress-number">5</span>
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">島根県邑南町</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221102/o_3ae1b33dd15e6dbdadc1eb32eff277958cc0a331.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">島根県邑南町を走っていたJR三江線が廃線となってから4年半が経過しました。過疎と高齢化で人口減少が止まらない地域ですが、この地域に誇りを取り戻し、この地域を盛り上げていくため、ＮＰＯ法人江の川鐵道は、廃線になった跡地（口羽駅、宇都井駅及びその周辺）を活用して、トロッコ型車両を走らせ、地域に賑わいを取り戻す取り組みを進めています。<br/>
+<br/>
+昨年のガバメントクラウドファンディング型ふるさと納税で、全国の皆さんから多くのご支援をいただき、トロッコは2両から6両に増え、3両編成が2編成運行できるようになりました。<br/>
+<br/>
+このため、口羽駅を発着するコースで、2編成を同時に、しかも安全に運行するために、口羽駅構内でかつて利用されていた信号システム（構内信号、踏切警報、ポイントが集中制御により運用できる）を復活させます。また、口羽駅を保存・活用するために必要な枕木を購入します。<br/>
+<br/>
+宇都井駅、口羽駅で安全に多数の乗客を迎え、地域の観光振興を進めていくために、皆様のご支援、ご協力をどうぞよろしくお願いいたします。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">口羽駅は、駅の機能を失った！</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">信号、ポイント、警報装置はもはや動かないのか、、、</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221031/gpfd_f6bcb9d382dc5d1aa6b5790767efdf2ee3445785.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221031/gpfd_a0ca9514401fdcf8fccc24c2f63854c1cba766c5.jpg" />
+</figure>
+<p class="gcf-txt-article">口羽駅は1963年に開業した駅です。かつては、三江南線の終着駅として、開業し、多くの住民達が生活のために乗り、多くのお客様を地域外から迎える、文字通り地域の「玄関」でした。<br/>
+<br/>
+鉄道は、列車が安全に運行できるために、駅構内にある信号、ポイントを制御しながら、万一の事故が起きないようなシステムを構築しています。また、口羽駅には五つの信号と、電気で動くポイントが4カ所に設置され、それぞれが関連し合いながら、事故防止のために働いてくれていました。また、口羽駅の待合所からホームに向かう線路には遮断機はありませんでしたが、列車が近づくと音で知らせる警報装置が備え付けられていました。<br/>
+<br/>
+これらのシステムは、2018年3月31日の廃線をもって、運用が止まり、口羽駅はホームは線路などを除き、駅としての機能を失いました。<br/>
+<br/>
+この駅に廃線跡、「過疎地域から新しい挑戦を」と始めたトロッコが走るようになり、出発の際には、手信号や手旗などを使って運行しています。安全運行を行うためにはどうしても人員が必要で、信号システムが稼働すれば、より少ない人数でも安全な運行が可能となり、トロッコ運行事業の持続性が高まります。<br/>
+<br/>
+さらに、廃線跡の駅が命を吹き返すことで得られる観光面でのインパクトも強く、三江線を愛する全国のファンに口羽駅が復活した勇姿をお見せできることは、私たちにとって大きな喜びです。将来的には、駅の信号システムの操作を来場者に体験してもらえることも是非、実現したいと考えています。　</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">トロッコを通じて地域に関わる人の輪を拡大する！</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">過疎地から始まる、新しい挑戦始まってます！</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221108/gpfd_74fcf09434db1b2337636613af3437d21e1abb82.jpg" />
+</figure>
+<p class="gcf-txt-article">2018年3月末をもって廃線となったＪＲ三江線。「三江線を守りたい」と、頑張ってきた仲間達が廃線決定後に集まり、「鉄道がなくなっても、地域がなくなるわけではない」と、目標を切り替え、廃線跡にトロッコを走らせるプロジェクトがスタートしました。その仲間が、廃線の2ヶ月後の2018年5月に設立したのが、ＮＰＯ法人江の川鐵道です。<br/>
+<br/>
+江の川鐵道を運営するメンバーは、地元住民と町外に住む鉄道や三江線を愛するファン達で構成されています。現在、江の川鐵道の会員は100人で、このうち約40人が実際にトロッコを動かすプロジェクトに参加しています。<br/>
+<br/>
+活動の舞台は、島根県邑南町内にある、口羽駅と宇都井駅です。三江線が廃線となった後、邑南町が駅舎や周辺の線路、トンネルなどをＪＲから譲渡を受けていただき、2021年4月には「三江線鉄道公園」として、廃線跡に入れる鉄道公園として生まれ変わりました。<br/>
+<br/>
+現在は、年間50日程度、週末や祝日を中心に、1日6便（1便あたり10人乗車可能）ほどトロッコを運行しています。近隣の家族連れや、三江線にもう一度乗ってみたいという全国の鉄道ファンが訪れてくれています。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221031/gpfd_faf885b248703c4f696c7021cfb26a2893bf9d17.png" />
+</figure>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">寄附金の使い道</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">口羽駅の機能をよみがえらせるためのインフラ整備に充てます。<br/>
+</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">【内訳】<br/>
+・口羽駅の信号システムの改修、機器の購入、運行に必要な講習実施費用：150万円<br/>
+・口羽駅の線路メンテナンスに必要な枕木の購入：20万円<br/>
+・口羽駅構内にトロッコが格納できる簡易な車庫を建設（材料費）：30万円<br/>
+<br/>
+【目標金額に達しなかった場合の取扱い等】<br/>
+目標金額に達しなかった場合、江の川鐵道で基金として積み立て、2023年度以降、可能な限り、少しずつ、信号システムの復活を目指します。また、目標金額以上の寄付をいただいた場合、信号システムの口羽駅以外の運用に向けた機器整備に充てさせていただきます。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">廃線による地域の沈滞ムードを吹き飛ばしたい！</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">やればできる！やれば元気になる！</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221031/gpfd_9c953bbcb6527192019137a1ac1e3cd99282ad62.png" />
+</figure>
+<p class="gcf-txt-article">ＮＰＯ法人江の川鐵道は、ＪＲ三江線の廃線によって「全国の鉄道網から切り離された」という喪失感を払拭し、廃線になるほどの過疎地であっても、「やればできる」という気持ちを住民に持ってもらいたいという願いを込めて活動を続けています。<br/>
+<br/>
+実際、最初は継続できるか、懐疑的な声も住民の間にはありました。「そんなことをやって続くのか」「誰もこんな何もないところ来やしないよ」という言葉を幾度となく、聞きました。<br/>
+<br/>
+しかし、廃線から4年が経ち、江の川鐵道のトロッコは2022年度には年間50日間の運行の目標に向けて、順調に稼働し続けています。江の川鐵道は、地域住民と地域外に住む関係人口のコラボにより、過疎地では難しいと思われた新しい事業の創出を少しずつですが実現してきました。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221031/gpfd_bb4f10aa5ddc4202db20a4efdfd4151b0a014fa3.png" />
+</figure>
+<p class="gcf-txt-article">うれしいのは、江の川鐵道がトロッコを運行する日に、地域の商店などが出店してくれるようになったことです。<br/>
+<br/>
+また、昨年のガバメントクラウドファンディングでは私たちの取り組みに共感してくれた全国の人たちのほか、地元に住む住民たち、特にインターネットの使い方が分からないという高齢の方々が役場に現金を持って寄付に訪れてくれました。<br/>
+<br/>
+小さな変化ですが、江の川鐵道の取り組みによって、「やればできる！」「頑張っている人たちを応援しよう」と、地域の失われかけていた「自信」や「誇り」が少しずつ再生していることを実感しています。<br/>
+<br/>
+この口羽駅の再生プロジェクトを通じて、私たち江の川鐵道の取り組みが一層加速することは、廃線によってしぼみかけていた地域再生の機運を再び盛り上げていくことにつながると信じています。<br/>
+<br/>
+このプロジェクトが成就したときには、口羽駅を含む、三江線鉄道公園の来場者は、ツアーなどの参加者も含めて、2022年度の2000人の見込みから、3000人に増やしていくという目標を達成したいと考えています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">口羽駅の信号システム、枕木、車庫の整備で駅の機能を再生！</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">自分たちの手で、廃線跡の駅をよみがえらせたい！</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221102/gpfd_f211d9309ef039c3013562b6c636691b1d0cbcc8.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">事業実施スケジュール</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">2023年4月〜　駅システムの調査・設計、枕木の購入、車庫の設計<br/>
+2023年5月　枕木交換作業の開始<br/>
+2023年8月〜　　駅システムの運用講習会の開催<br/>
+2023年10月　駅信号システムの運用試験開始<br/>
+2024年3月〜　駅信号システムの本格運用開始</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">江の川鐵道に携わる方の思い</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">邑南町　町長　石橋良治</span></h3>
+<h3 class="gcf-ttl-h3">江の川鐵道の活動を通じて地域に元気を！</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221031/gpfd_b6d8e4fbdd81c8d8ab0ffae0fde7bc1a1a237383.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">ＪＲ三江線が廃線となってから、4年半が経過しました。廃線は残念で、地域にも大きなショックがありました。しかし、邑南町ではこの廃線を逆手にとり、「天空の駅と呼ばれている宇都井駅」と「口羽(くちば)駅とその周辺」の鉄道資産をJRから譲り受け、ここに鉄道があった歴史を後世に伝えていくことを目指して、令和3年4月に「邑南町三江線鉄道公園」としてオープンしました。<br/>
+<br/>
+こうした鉄道資産の保存・活用の動きは、地域住民や鉄道を愛する人たちでつくる「ＮＰＯ法人江の川鐵道」の皆さんの熱意が原点にあり、廃線直後から、ＪＲ西日本の協力、指導をいただきながら、トロッコ運行などの実証実験を行い、持続可能な事業の構築に向けて頑張っておられます。<br/>
+<br/>
+今回の口羽駅再生プロジェクトを実現させ、ＮＰＯ法人江の川鐵道と一緒に地域が元気になっていくよう、町としてもしっかり応援していきますので、全国の皆様の温かいご協力とご支援を宜しくお願いします。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">ＮＰＯ法人江の川鉄道　理事長　日高弘之</span></h3>
+<h3 class="gcf-ttl-h3">多くの方に喜んでもらえる口羽駅に！</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221031/gpfd_6463355988a42ed9976037ad6c32a0643177456c.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">私たち江の川鐵道は、旧三江線の鉄道資産を活用してトロッコを走らせるなど、廃線後も人口減少が続くこの地域に少しでも賑わいを取り戻したいと活動を続けています。ＪＲから邑南町が譲渡を受け、公園化された口羽駅と宇都井駅の管理を行っています。<br/>
+<br/>
+私たちの夢は、口羽駅〜伊賀和志駅〜宇都井駅の3駅間（全長約5キロ）をトロッコで行き来することです。この実現に向けて、仲間が智恵を出し合って、活動しています。<br/>
+<br/>
+人口減少によって三江線は廃線となりましたが、鉄道を愛する人たちが訪れたい場所に育てながら、観光で訪れる交流人口、地域に関心を保ってもらいお手伝いに参加していただく関係人口を地域外から呼び込む「交流装置」として、この鉄道資産を保存活用したいと考えています。<br/>
+<br/>
+このうち、口羽駅公園は三江線の中でもターミナル機能を持つ駅として、開通当初は駅員が常駐したほか、廃線まで列車のすれ違いもありました。しかし廃線になった後、信号、ポイントなどの機器は停止したままです。昨年のガバメントクラウドファンディングで、トロッコ車両が増え、今後、口羽駅を発着する際には、より安全に、より楽しく、滞在していただけるための駅の機能を再生し、1人でも多くの方々に喜んでいただける駅にしていきたいと考えています。ぜひ、ご支援をよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">江の川鐵道　会員　にしむらみさおさん</span></h3>
+<h3 class="gcf-ttl-h3">口羽駅の再生で、多くの人を迎えたい！</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221102/gpfd_046f977dbaee44d70f90f8ea55c8ce07b1db8ae4.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">私は、三江線廃止前は、県外から観光客として三江線に乗ったり三江線沿線を訪れていました。それが縁で廃線直前には、地元の方に交じって観光客をもてなす側になり、廃線直後から、後にNPO法人江の川鐡道の仲間になる方々と一緒に、宇都井駅近くでグッズを販売したりカフェをしたりしていました。NPO法人江の川鐡道の立ち上げと同時に会員になり、トロッコの運行時には駅長や運転手をしたり、宇都井駅の階段を使ったそうめん流しのスタッフなど、「関係人口」として関わるようになりました。<br/>
+<br/>
+口羽駅には、信号やポイントや引込線路など多くの鉄道資産があり、枕木が木製からコンクリート製に変わる個所を見ることもできます。現在「邑南町三江線鉄道公園・口羽駅公園」として一般開放していますが、口羽駅の魅力はもっと高めていくことができると感じます。口羽駅が再生していくことで、訪れてくださる方々がさらに楽しんでいただければ、口羽駅が本当の意味で息を吹き返すことになると思います。より駅が身近に感じられ、みなさまと一緒にいろいろなことをしていきたいと考えています。<br/>
+全国のみなさまの温かいご協力とご支援をどうぞよろしくお願いします。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">ゲストハウス「コイサイド」オーナー　河野光也さん</span></h3>
+<h3 class="gcf-ttl-h3">江の川鐵道と一緒に楽しい地域をつくりたい！</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221102/gpfd_03c1405787088688bca3764c2f30961c00883b64.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">わたしは口羽駅の近くで、古民家をリノベーションし、つどえる拠点&amp;ゲストハウス「コイサイド」を運営しています。<br/>
+口羽駅の近くで生まれ育ち、小学生のころ、三江線が全線開通したのですが、駅前にはお店があり、多くの人が行き交い、賑やかだった記憶があります。<br/>
+<br/>
+夏休みには、広島から臨時列車「わんぱく列車」がやってきて、子供たちが駅の近くにあったフィールドアスレチックで遊ぶなど、それはにぎやかでした。しかし、地域の人口が次第に減り、三江線は廃線になってしまいました。<br/>
+<br/>
+廃線跡に江の川鐵道さんが、トロッコを走らせるプロジェクトを始められると、口羽駅にすこしずつ人が訪れるようになり、コイサイドも利用してもらう機会がだんだん増えてきました。<br/>
+<br/>
+この地域は人口減少が今後も続いていくと思いますが、江の川鐵道さんと協力しながらいろいろなチャレンジを続けることで、ここを訪れ、関係してもらえる人が増えていけば、面白い地域になると思っています。<br/>
+<br/>
+口羽駅はこの地域の玄関でもあります。口羽駅再生プロジェクトが成功し、一人でも多くの人にこの地域を訪れていただきたいと思います。わたしも応援します。全国の皆さんも、ぜひ、応援してください。<br/>
+どうぞ、よろしくお願いします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">口羽駅再生プロジェクトは地域の誇りの再生につながります！</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221102/gpfd_4523dec89838c8a19eb5df6ad67ce110c29d842d.jpg" />
+</figure>
+<p class="gcf-txt-article">私たち江の川鐵道は、廃線跡を活用したトロッコの運行等を通じて、地域住民と関係人口が相互に理解を深め、地域内外の人たちが出会い、行き交うような、過疎地であっても賑やかな地域に再生していくために活動を続けています。<br/>
+<br/>
+廃線は、この地域が従来の経済の仕組みでは立ち行かない現実を地域に突きつけました。しかし、ここで諦めてしまっては、先人達がこの三江線をなんとか開通させ、地域を盛り上げていきたいと頑張ってきたことが無に帰してしまいます。<br/>
+<br/>
+私たちは一つ一つの再生プロジェクトを通じて、1人でも多くの方に共感いただき、一緒に鉄道のこと、地域のこと、みんなの将来のことを一緒に考えていきたいと考えています。<br/>
+　<br/>
+この口羽駅で再び、信号機に灯りが点き、ポイントが作動し、線路はきれいに整備され、トロッコが安全に行き交う姿を地域の人たちや、訪れた人たちに見に来てもらえたらと思います。<br/>
+<br/>
+この口羽駅再生プロジェクトをぜひ、応援してください！</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">お礼の品の紹介</span></h2>
+<p class="gcf-txt-article">このプロジェクトへご寄附をいただいた方には、ご寄附にご協力いただいた記念となる返礼品をご用意しております。<br/>
+<br/>
+※邑南町内にお住いの方には、こちらの返礼品をご用意することができません。寄附だけのご協力となります。</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">10,000円以上のご寄附をいただいた方</span></h3>
+<p class="gcf-txt-article">　　・三江線オリジナルグッズ（5種）</p>
+<p class="gcf-txt-article">　　・チモハ（トロッコ）型米粉クッキー</p>
+<p class="gcf-txt-article">　　・邑南町産ハーブ米コシヒカリ　5㎏</p>
+<p class="gcf-txt-article">　　・江の川鐵道トロッコペア乗車券</p>
+<p class="gcf-txt-article">　　・お礼のメール（ご寄附の全額をプロジェクトに充てさせていただきます）</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">30,000円以上のご寄附をいただいた方</span></h3>
+<p class="gcf-txt-article">　　・江の川鐵道ペア乗車券+三江線オリジナルグッズ （5種）+ チモハ型米粉クッキー</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">50,000円以上のご寄附をいただいた方</span></h3>
+<p class="gcf-txt-article">　　・ 江の川鐵道貸切運行(10人まで）+三江線オリジナルグッズ（5種） + チモハ型米粉クッキー</p>
+<p class="gcf-txt-article">　　・邑南町産コシヒカリ　25㎏</p>
+<p class="gcf-txt-article">　　・江の川鐵道トロッコ運転体験講習参加権</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">100,000円以上のご寄附をいただいた方</span></h3>
+<p class="gcf-txt-article">　　・邑南町産コシヒカリ25㎏ + 江の川鐵道トロッコ運転体験講習参加権</p>
+<p class="gcf-txt-article">　　・邑南町産コシヒカリ　50㎏　</p>
+<p class="gcf-txt-article">　　・口羽駅に寄附を頂いた方のご芳名板を掲示</p>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32449/5604068/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221104/pd_8176bcf06efd69ad51b2afe1e1577206b6447da9.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">三江線オリジナルグッズ（全5点）</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>募集期間終了から2週間前後</p>
+</div>
+<p class="goods-col_textinfo pc">邑南町は、島根県の中南部、中国山地の真ん中に位置しています。古来から鉄や銀などの地下資源や広葉樹の森を持続的に活用し、さらには、江の川流域の舟運や街道交通の結節点として栄えてきました。現在は、人口約１万人が住み、「日本一の子育て村」を掲げ、子育てに優しい町を目指すと共に、地域の食の資源を磨き上げる「Ａ級グルメ立町」を目指しております。
+町内を走る旧ＪＲ三江線の宇都井駅は高さ20メートルの「天空の駅」と呼ばれ、毎年11月には住民の手造りによるライトアップイベント「ＩＮＡＫＡイルミ」が開かれています。三江線は、2018年に残念ながら廃線となりましたが、邑南町では宇都井駅、口羽駅を含む跡地を「邑南町三江線鉄道公園」として保存活用をしており、多くのファンが訪れています。江の川鐵道がオリジナルで制作した三江線グッズのセットです。地元でしか入手できないグッズばかりです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32449/5604069/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221104/pd_3c6c7d98b8c1e44cda1e812c40a789b54c0747fe.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">チモハ（トロッコ）型米粉クッキー</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>募集期間終了から2週間前後</p>
+</div>
+<p class="goods-col_textinfo pc">邑南町は、島根県の中南部、中国山地の真ん中に位置しています。古来から鉄や銀などの地下資源や広葉樹の森を持続的に活用し、さらには、江の川流域の舟運や街道交通の結節点として栄えてきました。現在は、人口約１万人が住み、「日本一の子育て村」を掲げ、子育てに優しい町を目指すと共に、地域の食の資源を磨き上げる「Ａ級グルメ立町」を目指しております。
+町内を走る旧ＪＲ三江線の宇都井駅は高さ20メートルの「天空の駅」と呼ばれ、毎年11月には住民の手造りによるライトアップイベント「ＩＮＡＫＡイルミ」が開かれています。三江線は、2018年に残念ながら廃線となりましたが、邑南町では宇都井駅、口羽駅を含む跡地を「邑南町三江線鉄道公園」として保存活用をしており、多くのファンが訪れています。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32449/5604070/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221104/pd_121d9fa6833f4444b6e0c99fd1fb0a07bcd62a2a.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">邑南町産ハーブ米コシヒカリ　5㎏</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>募集期間終了後から2週間前後</p>
+</div>
+<p class="goods-col_textinfo pc">邑南町は、島根県の中南部、中国山地の真ん中に位置しています。古来から鉄や銀などの地下資源や広葉樹の森を持続的に活用し、さらには、江の川流域の舟運や街道交通の結節点として栄えてきました。現在は、人口約１万人が住み、「日本一の子育て村」を掲げ、子育てに優しい町を目指すと共に、地域の食の資源を磨き上げる「Ａ級グルメ立町」を目指しております。
+町内を走る旧ＪＲ三江線の宇都井駅は高さ20メートルの「天空の駅」と呼ばれ、毎年11月には住民の手造りによるライトアップイベント「ＩＮＡＫＡイルミ」が開かれています。三江線は、2018年に残念ながら廃線となりましたが、邑南町では宇都井駅、口羽駅を含む跡地を「邑南町三江線鉄道公園」として保存活用をしており、多くのファンが訪れています。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32449/5604071/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221104/pd_838f420a08eebcf0370d6fcf341b19a1ab92aa9b.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">江の川鐵道トロッコペア乗車券</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>募集期間終了から2週間前後</p>
+</div>
+<p class="goods-col_textinfo pc">邑南町は、島根県の中南部、中国山地の真ん中に位置しています。古来から鉄や銀などの地下資源や広葉樹の森を持続的に活用し、さらには、江の川流域の舟運や街道交通の結節点として栄えてきました。現在は、人口約１万人が住み、「日本一の子育て村」を掲げ、子育てに優しい町を目指すと共に、地域の食の資源を磨き上げる「Ａ級グルメ立町」を目指しております。
+町内を走る旧ＪＲ三江線の宇都井駅は高さ20メートルの「天空の駅」と呼ばれ、毎年11月には住民の手造りによるライトアップイベント「ＩＮＡＫＡイルミ」が開かれています。三江線は、2018年に残念ながら廃線となりましたが、邑南町では宇都井駅、口羽駅を含む跡地を「邑南町三江線鉄道公園」として保存活用をしており、多くのファンが訪れています。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32449/5604072/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221104/pd_95b1e985d64dbf9b297ba7b66d1d46b7c216be47.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">江の川鐵道トロッコペア乗車券・三江線オリジナルグッズ・チモハ型米粉クッキー（全3点）</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>募集期間終了から2週間前後</p>
+</div>
+<p class="goods-col_textinfo pc">邑南町は、島根県の中南部、中国山地の真ん中に位置しています。古来から鉄や銀などの地下資源や広葉樹の森を持続的に活用し、さらには、江の川流域の舟運や街道交通の結節点として栄えてきました。現在は、人口約１万人が住み、「日本一の子育て村」を掲げ、子育てに優しい町を目指すと共に、地域の食の資源を磨き上げる「Ａ級グルメ立町」を目指しております。
+町内を走る旧ＪＲ三江線の宇都井駅は高さ20メートルの「天空の駅」と呼ばれ、毎年11月には住民の手造りによるライトアップイベント「ＩＮＡＫＡイルミ」が開かれています。三江線は、2018年に残念ながら廃線となりましたが、邑南町では宇都井駅、口羽駅を含む跡地を「邑南町三江線鉄道公園」として保存活用をしており、多くのファンが訪れています。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32449/5604073/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221107/pd_e7ce5004a71524a2b6de9cdfadcd70c483361d93.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">トロッコ1便貸切運行（定員10人まで）・三江線オリジナルグッズ・チモハ型米粉クッキー（全3点）</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>募集期間終了から2週間前後</p>
+</div>
+<p class="goods-col_textinfo pc">邑南町は、島根県の中南部、中国山地の真ん中に位置しています。古来から鉄や銀などの地下資源や広葉樹の森を持続的に活用し、さらには、江の川流域の舟運や街道交通の結節点として栄えてきました。現在は、人口約１万人が住み、「日本一の子育て村」を掲げ、子育てに優しい町を目指すと共に、地域の食の資源を磨き上げる「Ａ級グルメ立町」を目指しております。
+町内を走る旧ＪＲ三江線の宇都井駅は高さ20メートルの「天空の駅」と呼ばれ、毎年11月には住民の手造りによるライトアップイベント「ＩＮＡＫＡイルミ」が開かれています。三江線は、2018年に残念ながら廃線となりましたが、邑南町では宇都井駅、口羽駅を含む跡地を「邑南町三江線鉄道公園」として保存活用をしており、多くのファンが訪れています。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32449/5604074/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221105/pd_ca9fc2becee50ec0bd510fdde66e3aec0f415b76.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">邑南町産コシヒカリ　25㎏</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>募集期間終了後、配送希望日をお伺いします。</p>
+</div>
+<p class="goods-col_textinfo pc">邑南町は、島根県の中南部、中国山地の真ん中に位置しています。古来から鉄や銀などの地下資源や広葉樹の森を持続的に活用し、さらには、江の川流域の舟運や街道交通の結節点として栄えてきました。現在は、人口約１万人が住み、「日本一の子育て村」を掲げ、子育てに優しい町を目指すと共に、地域の食の資源を磨き上げる「Ａ級グルメ立町」を目指しております。
+町内を走る旧ＪＲ三江線の宇都井駅は高さ20メートルの「天空の駅」と呼ばれ、毎年11月には住民の手造りによるライトアップイベント「ＩＮＡＫＡイルミ」が開かれています。三江線は、2018年に残念ながら廃線となりましたが、邑南町では宇都井駅、口羽駅を含む跡地を「邑南町三江線鉄道公園」として保存活用をしており、多くのファンが訪れています。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32449/5604075/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221107/pd_a7bf74afe17c6c33a01e7d3668e6ce8facb13280.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">トロッコ運転体験講習参加権</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>募集期間終了から2週間前後</p>
+</div>
+<p class="goods-col_textinfo pc">邑南町は、島根県の中南部、中国山地の真ん中に位置しています。古来から鉄や銀などの地下資源や広葉樹の森を持続的に活用し、さらには、江の川流域の舟運や街道交通の結節点として栄えてきました。現在は、人口約１万人が住み、「日本一の子育て村」を掲げ、子育てに優しい町を目指すと共に、地域の食の資源を磨き上げる「Ａ級グルメ立町」を目指しております。
+町内を走る旧ＪＲ三江線の宇都井駅は高さ20メートルの「天空の駅」と呼ばれ、毎年11月には住民の手造りによるライトアップイベント「ＩＮＡＫＡイルミ」が開かれています。三江線は、2018年に残念ながら廃線となりましたが、邑南町では宇都井駅、口羽駅を含む跡地を「邑南町三江線鉄道公園」として保存活用をしており、多くのファンが訪れています。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32449/5604076/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221107/pd_775316023a6a594dfc4de1792f443decc0b2e3a3.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">邑南町産コシヒカリ25㎏・トロッコ運転体験講習参加権（全2点）</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>募集期間終了から2週間前後
+募集期間終了後、配送希望日をお伺いします。</p>
+</div>
+<p class="goods-col_textinfo pc">邑南町は、島根県の中南部、中国山地の真ん中に位置しています。古来から鉄や銀などの地下資源や広葉樹の森を持続的に活用し、さらには、江の川流域の舟運や街道交通の結節点として栄えてきました。現在は、人口約１万人が住み、「日本一の子育て村」を掲げ、子育てに優しい町を目指すと共に、地域の食の資源を磨き上げる「Ａ級グルメ立町」を目指しております。
+町内を走る旧ＪＲ三江線の宇都井駅は高さ20メートルの「天空の駅」と呼ばれ、毎年11月には住民の手造りによるライトアップイベント「ＩＮＡＫＡイルミ」が開かれています。三江線は、2018年に残念ながら廃線となりましたが、邑南町では宇都井駅、口羽駅を含む跡地を「邑南町三江線鉄道公園」として保存活用をしており、多くのファンが訪れています。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32449/5604077/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221105/pd_114a5c6b3a6cede06e385268d9ead8c992e3efa5.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">邑南町産コシヒカリ　50㎏</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>10㎏づつ5回、ご希望日にお送りします。
+募集期間終了後、配送希望日をお伺いします。</p>
+</div>
+<p class="goods-col_textinfo pc">邑南町は、島根県の中南部、中国山地の真ん中に位置しています。古来から鉄や銀などの地下資源や広葉樹の森を持続的に活用し、さらには、江の川流域の舟運や街道交通の結節点として栄えてきました。現在は、人口約１万人が住み、「日本一の子育て村」を掲げ、子育てに優しい町を目指すと共に、地域の食の資源を磨き上げる「Ａ級グルメ立町」を目指しております。
+町内を走る旧ＪＲ三江線の宇都井駅は高さ20メートルの「天空の駅」と呼ばれ、毎年11月には住民の手造りによるライトアップイベント「ＩＮＡＫＡイルミ」が開かれています。三江線は、2018年に残念ながら廃線となりましたが、邑南町では宇都井駅、口羽駅を含む跡地を「邑南町三江線鉄道公園」として保存活用をしており、多くのファンが訪れています。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32449/5604078/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221105/pd_46760c7890c8128c5a792a9ca2fb2564035025c7.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">口羽駅にご芳名板を掲示</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>募集期間終了後、準備ができ次第掲示いたします。</p>
+</div>
+<p class="goods-col_textinfo pc">邑南町は、島根県の中南部、中国山地の真ん中に位置しています。古来から鉄や銀などの地下資源や広葉樹の森を持続的に活用し、さらには、江の川流域の舟運や街道交通の結節点として栄えてきました。現在は、人口約１万人が住み、「日本一の子育て村」を掲げ、子育てに優しい町を目指すと共に、地域の食の資源を磨き上げる「Ａ級グルメ立町」を目指しております。
+町内を走る旧ＪＲ三江線の宇都井駅は高さ20メートルの「天空の駅」と呼ばれ、毎年11月には住民の手造りによるライトアップイベント「ＩＮＡＫＡイルミ」が開かれています。三江線は、2018年に残念ながら廃線となりましたが、邑南町では宇都井駅、口羽駅を含む跡地を「邑南町三江線鉄道公園」として保存活用をしており、多くのファンが訪れています。</p>
+</div>
+</a>
+</li>
+</ul><ul class="goods_list">
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<ul class="gcf-lst-bx" id="progress_list">
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年01月16日 16:56</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">プロジェクト終了の報告とお礼 ～たくさんのご支援をいただきありがとうございました！～</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230116/t_dfb30663698eee7f72d0c963fa7f042d83baed39.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">2022年10月10日から寄附受付を開始しました本プロジェクトにつきまして、2023年1月10日をもってプロジェクトが終了いたしました。<br/>
+<br/>
+目標額を上回るご寄附と、多くの温かい応援メッセージをいただき、誠にありがとうございました。<br/>
+<br/>
+皆さまからご支援頂きましたご寄附は、口羽駅の機能をよみがえらせるためのインフラ整備に充て、地上からの高さ約20メートルの日本一の高架駅と呼ばれている「天空の駅」宇都井駅、口羽駅をそれぞれ発着する２編成でのトロッコを安全に運行し、多数の乗客を迎え、地域の観光振興を進めていきたいと考えています。<br/>
+<br/>
+本プロジェクトにご賛同いただき、応援いただきました全国の皆さま、本当にありがとうございました！</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="1955" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="1955">2</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="1955">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2104%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2022年12月20日 12:51</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">目標金額達成のお礼　　～多くのご支援ありがとうございます！～</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221220/t_1545646841cd2900dd77609a75fe7d78fa3e9851.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">12月18日をもちまして、目標金額2００万円を達成することができました。<br/>
+皆様からの温かいご支援を賜りましたこと、心よりお礼申し上げます。<br/>
+ご寄附は、宇都井駅、口羽駅で安全に多数の乗客を迎え、地域の観光振興を進めていくため、口羽駅を発着するコースで、2編成を同時に、そして安全に運行するために、口羽駅構内でかつて利用されていた信号システム（構内信号、踏切警報、ポイントが集中制御により運用できる）を復活させ、口羽駅を保存・活用するために必要な枕木を購入するる費用に活用させて頂く予定です。<br/>
+目標額以上のご寄附は信号システムの口羽駅以外の運用に向けた機器整備に充てさせていただく予定ですので、<br/>
+引き続き応援いただきますようよろしくお願い申し上げます。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="1894" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="1894">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="1894">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2104%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2022年11月10日 17:23</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">3両編成トロッコの２両目はガバメントクラウドファンディングで支援いただいたトロッコで運行しています！</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221110/t_b6da5cbd83d6d0a982e73c5c1ea81d7d8a308c71.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">現在3両編成で運行しているトロッコの２両目はガバメントクラウドファンディングで支援いただいたトロッコです。現在はモーターや電子部品の到着を待ちながら、客車として運用しています</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="1811" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="1811">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="1811">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2104%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2022年11月10日 17:13</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">完成に向けてボディ組み立て中のトロッコ</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221110/t_f833d29f5d873f03293c3a2e162fbdd362c1bf88.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">二両目の動力車の電子部品の到着を待っている状況です。また、既存の動力車2両と、新造の客車2両を合わせて、2,023年春には、6両が稼働できる体制が整う予定です。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="1810" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="1810">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="1810">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2104%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2022年11月10日 16:52</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">ＮＰＯ法人江の川鉄道として、２回目のガバメントクラウドファンディング（ＧＣＦ）への挑戦が始まりました！</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221110/t_fc03a04b5c8c785acf6d9064f90fd4315122e7e6.png" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">ＮＰＯ法人江の川鉄道として、２回目のガバメントクラウドファンディング（ＧＣＦ）への挑戦を始めさせていただきました。廃線跡の活用を通じて、地域に元気を取り戻すために引き続きみんなで楽しみながら頑張っていきたいと思っております。<br/>
+<br/>
+昨年は、トロッコの新造のために全国の340人から合計816万6千円の寄付をいただきました。ＧＣＦ終了後、2022年1月に動力車（バッテリーとモーターを搭載）2両と、江の川鐵道が自己資金で2両の客車、合わせて4両を発注をいたしました。<br/>
+しかし、その後、ウクライナへのロシアの軍事侵攻の影響で、トロッコの製造に必要な電子部品、鋼材等の調達が非常に難しくなった影響を受け、当初予定から完成・納車が遅れている状況です。<br/>
+ただ、7月末には、1両目の電子部品を除く部分が完成し、客車として活用を始めております。従来走らせていた2両の動力車の間に挟んで運行することで、定員がこれまでの6人から10人に増加しました。みなさまのお力添えによってできたトロッコが、江の川鐵道の大きな力となっています。<br/>
+現在は、二両目の動力車の電子部品の到着を待っている状況です。また、既存の動力車2両と、新造の客車2両を合わせて、2,023年春には、6両が稼働できる体制が整う予定です。前回のＧＣＦでご支援いただいたトロッコが完全に完成しない状況で、さらにご協力をいただくことは大変心苦しく思っておりますが、状況をご理解の上、ご支援いただきますようお願い申し上げます。<br/>
+</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="1809" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="1809">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="1809">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2104%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+</ul>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">島根県邑南町</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__image"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221031/m_365261fc80f29999bac75f858cd9dac9fce4867e.png" /></div>
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">邑南町は、島根県の中南部、中国山地の真ん中に位置しています。古来から鉄や銀などの地下資源や広葉樹の森を持続的に活用し、さらには、江の川流域の舟運や街道交通の結節点として栄えてきました。現在は、人口約１万人が住み、「日本一の子育て村」を掲げ、子育てに優しい町を目指すと共に、地域の食の資源を磨き上げる「Ａ級グルメ立町」を目指しております。<br/>
+<br/>
+町内を走る旧ＪＲ三江線の宇都井駅は高さ20メートルの「天空の駅」と呼ばれ、毎年11月には住民の手造りによるライトアップイベント「ＩＮＡＫＡイルミ」が開かれています。三江線は、2018年に残念ながら廃線となりましたが、邑南町では宇都井駅、口羽駅を含む跡地を「邑南町三江線鉄道公園」として保存活用をしており、多くのファンが訪れています。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">応援します❗邑南町</p>
+<p class="gcf-bx-message__date">2023年1月10日 22:06</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">江の川鐵道トロッコ運行、口羽駅再生プロジェクトを応援します。</p>
+<p class="gcf-bx-message__date">2023年1月10日 19:14</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">またトロッコに乗車できるのを楽しみにしています！</p>
+<p class="gcf-bx-message__date">2023年1月10日 9:43</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">三江北線と三江南線がつながったのが高校生の時だったと思います。<br/>
+大学生の時には、朝早く出かけ、三次駅から江津駅行きに全線乗車しました。そのときのことは今も鮮やかに思い出されます。<br/>
+「三江線」の運営がＪＲでなくなっても、いつまでも地域社会の中で、皆様のお力により存続し続けてください。<br/>
+私も「三江線」の思い出をこれからも是非大切にしていきたいと思います。<br/>
+皆様の活動にこれからも注目し、心からのエールを送り続けさせていただきます。</p>
+<p class="gcf-bx-message__date">2023年1月9日 19:03</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">邑南町の先進的な取り組みは、全国の自治体の希望です。今後もいろいろな特色ある取り組みを期待しています。</p>
+<p class="gcf-bx-message__date">2023年1月9日 10:47</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">旧　三江線を応援しています。</p>
+<p class="gcf-bx-message__date">2022年12月31日 23:21</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">口羽駅、応援しています！</p>
+<p class="gcf-bx-message__date">2022年12月31日 14:22</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">島根県と広島県の広域連携がますます発展するよう、願います。</p>
+<p class="gcf-bx-message__date">2022年12月31日 8:20</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">三次市との連携を深め、是非早期に口羽駅と宇都井駅の間の全線直通運転を実現させていただければと思います。応援しています。</p>
+<p class="gcf-bx-message__date">2022年12月31日 4:12</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">たのしみにしています◎</p>
+<p class="gcf-bx-message__date">2022年12月29日 5:24</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">鐵道公園が継続し、地域のシンボルになってもらうための第一歩として、口羽駅再生プロジェクト頑張って下さい。応援していますよ‼️</p>
+<p class="gcf-bx-message__date">2022年12月27日 14:37</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">三江線がいつまでも残りますように。</p>
+<p class="gcf-bx-message__date">2022年12月26日 21:39</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">三江線は何度も乗りました。また、江の川鉄道会員の黒田さんとは学生時代からの友人で、邑南町には何度も足を運んでいます。今は３児の父親業で忙しくなかなかいけませんが、ふるさと納税で是非応援させてください！子供たちがもう少し成長したら必ず行きますね！</p>
+<p class="gcf-bx-message__date">2022年12月24日 22:32</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">今後も江の川鐵道を応援していきます。</p>
+<p class="gcf-bx-message__date">2022年12月21日 10:10</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">芸備線・姫新線ほか中国山地の赤字鉄道維持に、良い意味で大きな影響を与えてくれていると思います。応援しています。</p>
+<p class="gcf-bx-message__date">2022年12月21日 9:54</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">いつも状況の報告ありがとうございます。<br/>
+楽しみに読んでいます。<br/>
+これからのこと、期待しています。</p>
+<p class="gcf-bx-message__date">2022年12月20日 20:48</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">邑南町・・・東京からとにかくはるかに遠い町ですが、江の川鐵道へ再び行くためのモチベーションを保つためにも、心ばかりの支援をさせて頂きます。がんばれ、江の川鐵道、がんばれ、邑南町！</p>
+<p class="gcf-bx-message__date">2022年12月20日 20:30</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">皆さん「三江線」の為によろしくお願いいたします。</p>
+<p class="gcf-bx-message__date">2022年12月20日 16:53</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">これからも江の川鐡道をともに盛り上げてまいりましょう。<br/>
+次は伊賀和志をめざして！</p>
+<p class="gcf-bx-message__date">2022年12月19日 6:44</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">三江線の廃止は残念ですが、トロッコの復活に期待し、微力ながら応援します。</p>
+<p class="gcf-bx-message__date">2022年12月18日 16:21</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/2104">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">島根県邑南町の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/32449/32?from=2&amp;gcf_project_id=2104"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,601,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g2104,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

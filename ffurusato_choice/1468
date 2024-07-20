@@ -1,0 +1,2167 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/1640" />
+
+<title>競走馬を引退し、新たな世界へ！「リトレーニング」を通して人と馬がともに幸せな社会をめざして｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="競走馬を引退し、新たな世界へ！「リトレーニング」を通して人と馬がともに幸せな社会をめざして｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/1468" />
+<meta property="og:description" content="年間7,000頭が生産される競走馬。そのうち引退する馬は5,000頭と言われています。日本ではまだ引退馬をサポートする仕組みが充分ではありません。 私たちのプロジェクトでは、こうした引退競走馬のセカンドキャリアを支援するためのリトレーニングを実施しています。乗馬倶楽部・伝統行事継承・町おこし・地方創生などあらゆる社会問題を解決するものが引退競走馬の活躍の場であると思っています。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20210927/d_7b6e9f1f7be63f6feef45158f61daf2e6105143f.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20210927/d_7b6e9f1f7be63f6feef45158f61daf2e6105143f.jpg" />
+<meta property="twitter:title" content="競走馬を引退し、新たな世界へ！「リトレーニング」を通して人と馬がともに幸せな社会をめざして｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="年間7,000頭が生産される競走馬。そのうち引退する馬は5,000頭と言われています。日本ではまだ引退馬をサポートする仕組みが充分ではありません。 私たちのプロジェクトでは、こうした引退競走馬のセカンドキャリアを支援するためのリトレーニングを実施しています。乗馬倶楽部・伝統行事継承・町おこし・地方創生などあらゆる社会問題を解決するものが引退競走馬の活躍の場であると思っています。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,554,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="1468" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">競走馬を引退し、新たな世界へ！「リトレーニング」を通して人と馬がともに幸せな社会をめざして</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">競走馬を引退し、新たな世界へ！「リトレーニング」を通して人と馬がともに幸せな社会をめざして</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1026">動物&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20210927/d_7b6e9f1f7be63f6feef45158f61daf2e6105143f.jpg" alt="main_img" decoding="async" />
+<img class="gcf-lyt-detail__complete" src="/gcf/images_cf/icon_goal_brown.png" alt="達成" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E7%AB%B6%E8%B5%B0%E9%A6%AC%E3%82%92%E5%BC%95%E9%80%80%E3%81%97%E3%80%81%E6%96%B0%E3%81%9F%E3%81%AA%E4%B8%96%E7%95%8C%E3%81%B8%EF%BC%81%E3%80%8C%E3%83%AA%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%80%8D%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6%E4%BA%BA%E3%81%A8%E9%A6%AC%E3%81%8C%E3%81%A8%E3%82%82%E3%81%AB%E5%B9%B8%E3%81%9B%E3%81%AA%E7%A4%BE%E4%BC%9A%E3%82%92%E3%82%81%E3%81%96%E3%81%97%E3%81%A6&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F1468">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">54,513,797</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph2" style="width: 121.1%;"></div>
+<p class="gcf-cht-detail-bar__number">121.1%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">45,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">121.1</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">1,338</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>岡山県吉備中央町（おかやまけん きびちゅうおうちょう）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="1468" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+<li>
+<a class="js-modal-not-available-in-mobile-app-trigger i-arrow" href="#" data-modal-id="contact">お問い合わせ先</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2021年10月4日～2022年3月31日（179日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1057" class="sorting-list__item">動物</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="1468" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">吉備中央町協働推進課</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20210924/o_df5d7ab09e6ca63bdc01a83500a22f89e2d42930.png" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">年間7,000頭が生産される競走馬。そのうち引退する馬は5,000頭と言われています。日本ではまだ引退馬をサポートする仕組みが充分ではありません。<br/>
+<br/>
+私たちのプロジェクトでは、こうした引退競走馬のセカンドキャリアを支援するためのリトレーニングを実施しています。乗馬倶楽部・伝統行事継承・町おこし・地方創生などあらゆる社会問題を解決するものが引退競走馬の活躍の場であると思っています。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">角居勝彦の「想い」</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210925/gpfd_6284fcc0eac3a660f75e8e1fc1c28f04aab76c06.jpg" />
+</figure>
+<p class="gcf-txt-article">当法人、認定NPO法人サラブリトレーニング・ジャパンの理事長である角居勝彦氏は、石川県金沢市出身。競馬とは無縁の家庭に育つ。<br/>
+石川県の高校を卒業後、北海道のグランド牧場に就職。約3年間働きその中で「競馬場の馬たちの実際に触れてみたい」という想いが強くなり、JRA競馬学校を経て栗東トレーニングセンターの厩舎で調教助手を務め、2000年に調教師免許を取得する。翌2001年に念願の厩舎を開業した。2021年2月末にJRA調教師を勇退するまでの20年間でデルタブルース、カネヒキリ、ウオッカなど数々の名馬を育てあげた。<br/>
+調教師として競馬に深く携わるなかで、引退後の競走馬の環境をサポートする引退馬支援活動を行う「サンクスホースプロジェクト」（※現在はサンクスホースプラットフォーム）を立ち上げ、代表理事を務める。2020年2月に当法人の代表理事を兼任。その傍ら、ホースセラピー活動にも力を入れている。<br/>
+調教師引退後は故郷の石川県にて引退馬を通じ観光や農業や福祉を連携していく新たな活動を始めている。<br/>
+<br/>
+角居代表理事はこう話す。<br/>
+「競走馬を引退した馬は長い馬だと30年近く生きる。これまでその競走馬の引退後の環境をサポートする仕組みがなかった。そのためにどこへ行ってしまったのかわからない馬が存在する。その行方不明になってしまう馬を一頭でもなくしたい。競馬ファン・馬ファン・乗馬ファンの皆さまの多くがその現状を悲しんでいる。引退馬支援の活動を始めて6年目になるが、少しづつ活動や認知が広がりを見せている。わたしたちの活動を通して、馬の持つ可能性をもっと多くの人に知っていただき、人が馬に癒され、馬も人に癒される。そんな社会を目指していきたい。「リトレーニング」とは引退した競走馬が人とより距離が近づくために必要なこと。サラブリトレーニングという学校で人との関わり方や乗用馬としての体づくりを学び、覚えていく。乗馬クラブで人を乗せるという仕事や、ホースセラピーで人を癒す仕事。伝統行事の神馬の仕事。これまでの卒業生は全国の乗馬クラブなどで今日も活躍している。コロナ禍で人同士の関わり方も変化をしているが、競馬は変わらずに毎週開催され、引退馬も毎週出てくる。継続した活動が大切。ふるさと納税という仕組みは少ない負担で税金の控除が受けられます。これからもご支援をいただけると幸いです。」<br/>
+</p>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMWLjB_Cc8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">あなたの「推し馬」は？SNSも要チェック！！</span></h3>
+<h3 class="gcf-ttl-h3">岡山県吉備中央町で馬たちは毎日次のステージに向けてリトレーニングをしています。</h3>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><center><iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fthoroughbret&amp;tabs=timeline&amp;width=320&amp;height=500&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=true&amp;show_facepile=false&amp;appId=969732516733810" width="320" height="500" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></center></p>
+</div>
+<p class="gcf-txt-article">現在リトレーニング中の馬はおよそ15頭。<br/>
+facebookやTwitter、Instagramで馬たちの様子を発信中！！あなたのお気に入りの馬を見つけませんか？</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">競走馬が引退したあとのこと…多くの方が知りません。</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210917/gpfd_bf219e68c761fb7b43b2627d464ae8fca745a720.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">競馬で活躍した後、引退した競走馬たちがどこへ行くのか、皆さんは知っていますか？骨折などの怪我、能力の限界、そもそもデビューすら叶わない・・・など引退理由は様々で、中には３歳や４歳など人間で言うとまだほんの中学生くらいの年齢で引退していく馬も少なくありません。<br/>
+<br/>
+馬の寿命は平均で２５歳から３０歳と言われています。現役で走っていた時より、引退後の方が長いのです。サラブレッドは速く走るために品質改良をされ、その分とても繊細で臆病な気質を持っています。<br/>
+<br/>
+もともと競走馬としてトレーニングを受けてきている馬たちは引退後すぐに乗馬クラブへ行ってもその扱いが難しく、犬や猫などに比べて体も大きく、食費や装蹄、怪我や病気の際の治療費などお世話をするのに費用がかなりかかります。</p>
+</div>
+</div>
+</div>
+<figure class="lyt-image">
+<a target="_blank" href="https://www.thoroughbret.org/">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210917/gpfd_0e719d214bdeb0482b220a0fbf681b44108e77a9.jpg" alt="暑い日も寒い日も雨の日も風の日も。ほぼ毎日リトレーニング。" />
+</a>
+<figcaption class="lyt-image__caption">暑い日も寒い日も雨の日も風の日も。ほぼ毎日リトレーニング。</figcaption>
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">引退した競走馬をセカンドキャリアに繋げて馬をもっと身近な存在に</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2--reverse">
+<div class="lyt-image2__content">
+<p class="gcf-txt">私たち認定特定非営利活動法人サラブリトレーニング・ジャパンは岡山県吉備中央町の吉備高原の大自然が広がる場所に位置しています。そこで、引退した競走馬をセカンドキャリアに繋げるべくリトレーニングを実施しています。<br/>
+<br/>
+競走馬を引退したあとおよそ半年～1年間のリトレーニングを経て、再び皆様のところで活躍できるようにするのが私たちのお仕事です。<br/>
+<br/>
+乗馬倶楽部や観光乗馬、町おこし・伝統行事の継承など、ホースセラピーとして福祉活動で活躍するなど多くの馬を輩出して参りました。これからも1頭でも多くの引退競走馬を活躍のステージに繋げられるように日々活動を強化して参ります。</p>
+</div>
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200411/gpfd_277a0f41bbc6874036bc4f71b4db5190e62447b5.jpg" />
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">馬の心理学を使ったトレーニングを専門的に行うスタッフ</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20201016/gpfd_d35907f013345061ae1358012bd7d5746b45fb7a.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">リトレーニングマネージャーの監修の元、毎日のリトレーニングは複数のスタッフで行なっています。<br/>
+<br/>
+～リトレーニングマネージャー　宮田朋典〜<br/>
+1971年5月生まれ。ホースクリニシャン。<br/>
+米国などで馬の心理学、行動学、装蹄学、ロジックトレーニングを学び、競走馬、乗用馬、競技馬、セラピーホースなどの調教や悪癖矯正を行っている。<br/>
+<br/>
+初心者からプロのドレッサージュライダー、競馬ジョッキーにいたる騎乗者を対象にしたクリニックやウィスパリングを軸としたナチュラルホースマンシップの講習会を全国各地で開催している。2012年、全米のトップクリにシャンが集うRoad to the Horseにてインターナショナル・ホースクリニシャンとして認定される。<br/>
+<br/>
+また、元看護師の経験とホースクリニシャンの経験を元に、病院での馬を使った人事研修講師を約７年間務めた。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">競走馬の再調教（リトレーニング）とは？</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">どんな人ともコミュニケーションが取れるように、まずは人との信頼関係を作り上げます。</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">馬は草食動物なので、肉食動物（ライオンやチーターなど）から逃げる習性を持っています。また馬は群れで行動をすることから、そこには安心・安全・快適を伝えるリ―ダ―が必ず必要となります。<br/>
+<br/>
+第１段階では、グラウンドワークで人との信頼関係やリーダー（人）のそばにいると安心で安全ということを馬に教えていきます。競走馬のメンタルや筋肉を乗用馬のメンタルや筋肉に作り変える・・・いわばF1マシーンをファミリーカーへ、というイメージです。<br/>
+<br/>
+第2段階では、騎乗してのトレーニングになります。競走馬の時は体重が60㎏以下のプロの騎手が乗っていましたが、引退競走馬たちのセカンドキャリアでは、子供から大人、乗馬をしたことのない人から乗馬経験者まで幅広い層の人たちを乗せ、関わりあっていくことになります。<br/>
+グラウンドワークで築き上げた信頼関係を下地に、リーダー（人）を乗せてゆっくり歩く常歩（なみあし）から始め、そのあと速歩（はやあし）、駈歩（かけあし）の乗馬の基本の3種の歩様を練習します。そこから馬の適性を見ながら、障害飛越の練習をしたり、人を乗せての引馬の練習をしたりと特性に合わせたトレーニングへ移っていきます。<br/>
+<br/>
+「リトレーニング」と聞いてあなたはどのようなイメージを持ちますか？<br/>
+話だけ聞くと簡単そうに思えるかもしれません。ですが、思考のある生き物相手のことなので馬自身の気分が乗らなかったり、1日でも空いてしまうと教えたことがリセットされてしまうため、また最初から教える・・・という気の遠くなるような時間と忍耐が必要な作業なのです。リトレーニングマネージャーである宮田朋典氏をはじめとするリトレーニングスタッフたちはほぼ毎日、雨の日も風の日も、暑い日も寒い日も関係なく馬たちと向き合いながらリトレーニングに取り組んでいるのです。<br/>
+<br/>
+「競走馬」といえば気性が荒かったり、闘争心が激しい印象が強いと思いますが、私たちはリトレーニングを通して乗馬初心者の方や障害を持った方などどんなひとでも安心して乗ったり触れたりすることのできる「乗用馬」や「セラピーホース」としてその馬の個性や適性に合ったセカンドキャリアへ送り出すことを第一の活動としています。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20201016/offd_eec059f23d62af73d419d200eba74d19df76a8e6.jpg" alt="どんな人ともコミュニケーションが取れるように、まずは人との信頼関係を作り上げます。" />
+</div>
+</div>
+</div>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210917/gpfd_f122e2f38197e74fffa356eef1c52f12f61fc0f7.jpg" />
+<figcaption class="lyt-image__caption">2頭でのスクーリングの様子。馬同士の社会性を身に付けるトレーニング。</figcaption>
+</figure>
+<h3 class="gcf-ttl-h3">馬たちの日常を少しだけお届け♪</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DwT-uGv_Ioc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">全国から支援者の方が見学に訪れてくれています。</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2--reverse">
+<div class="lyt-image2__content">
+<p class="gcf-txt">全国から支援者の声が届いています。北海道から沖縄まで支援者の方は延べ1万人を越えました！本当にありがとうございます。このプロジェクトのお礼の品として、リトレーニング施設の見学とふれあいを体験できるチケットをお返ししております。<br/>
+<br/>
+いつか岡山に行ってみたかった！リトレーニングの現場を見学できて感動です！など反響も大きく、多くの方からの支援を実感しております。ご支援ありがとうございます。<br/>
+<br/>
+毎月1回のペースで宮田朋典氏のリトレーニングの実演と施設見学ができる見学デーも開催しております。引退した馬たちを間近で見学できるまたとない機会です。<br/>
+参加者の方からも、「こんな近くで引退馬を見られてうれしかった」「宮田さんの実演やお話をもっと深く聞いてみたい」「引退馬の支援についてもっと多くの人に知ってもらいたい」などとメッセージをいただいており、毎回好評をいただいております。ぜひ一度ご参加してみてください。<br/>
+馬たちの姿を近くで見て感じることでより身近に感じていただけると思います。その優しさと温もりに触れてみてください♪</p>
+</div>
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210917/gpfd_9afae0591c801fb559805d1cc5bc0be2d72faf09.jpg" />
+</div>
+</div>
+</div>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://thoroughbret.peatix.com/">見学デーのお申し込みはこちらのリンクよりお願いいたします。</a></p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">この活動をやめるわけにはいかない・・・</span></h3>
+<h3 class="gcf-ttl-h3">競馬場を賑わせたあの馬はどこへ？</h3>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article">競走馬となるべく、<span style="color: #ff0000;">毎年7,000頭</span>生まれるという馬たち。その一方で、事故やケガにより、年齢に関係なく引退を余儀なくされる馬は、<span style="color: #ff0000;"><b>年間5,000頭</b></span>にものぼります。「引退」と聞くと、年齢を想像しますが、もともと競走馬に向いていなかった子たちや、事故やケガをきっかけにレースで良い成績を残せなくなり、引退するケースがほとんどです。<b>まだまだ子どもである3歳や4歳で引退を余儀なくされる</b>馬も少なくありません。<br/><b>引退した馬たちは行き先がほとんどありません</b>。基本的には乗馬クラブへ乗用馬として渡っていきますが、その後その多くが<b>行方不明</b>になっています。<br/><br/><b>毎年5,000頭の引退馬を受け入れるには、乗馬クラブだけでは、受け口が圧倒的に足りていないのです。</b></p>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">競走馬から乗用馬へ・・・リトレーニングを通して生まれ変わる</span></h3>
+<p class="gcf-txt-article">競走馬として、とにかく少しでも速く走れるようにと調教された馬たちは、乗馬クラブへ行ってもその習慣が抜けません。カッポカッポとゆっくり歩くためのリトレーニングが必要なのです。<br/>
+<br/>
+体の大きい馬は食費や治療費もかさんでしまいます。競走馬はそのまま、乗馬クラブへ行っても乗馬初心者の方はもちろん、経験のある方でも扱うことが難しいという問題も起きています。<br/>
+<br/>
+だからこそ、時間をかけて競走馬から乗用馬へなるためのメンタル・フィジカル共に「リトレーニング」をすることが大切なのです。期間はおよそ半年～1年間。馬によって個体差がありますのでさらに時間のかかる馬もいます。ですがそれだけ時間をかけないとずっと教えられて染みついてきた習慣や癖は簡単に治すことができないのです。<br/>
+わたしたちも右利きを左利きにするのは大変ですよね。<br/>
+人間は言語でコミュニケーションできるので意志を伝えれば何のためのものなのかを理解することができます。しかし馬は言語というコミュニケーションができないためなぜ「リトレーニング」をするのかがわかりません。なので人が時間をかけて丁寧に「人の近くにいるとなんだか安心できて楽しいんだよ」と馬に教えていくのです。<br/>
+</p>
+<figure class="lyt-image">
+<a target="_blank" href="https://thankshorseplatform.com/thanks/?id=122">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210917/gpfd_adc152fd6bce36e7f2fb37c0df9494234ef8e1a9.jpg" alt="リトレーニングを経て第２のステージを歩み始めたコパノマルティーノ号" />
+</a>
+<figcaption class="lyt-image__caption">リトレーニングを経て第２のステージを歩み始めたコパノマルティーノ号</figcaption>
+</figure>
+<p class="gcf-txt-article">今年の4月に広島大学馬術部様での新たなセカンドキャリアを手にしたコパノマルティーノ号。<br/>
+現在は名前も「清円」（せいえん）と変わり、「マル」という愛称で部員の皆さまに可愛がっていただいています。<br/>
+8月には競技会にも同行し、テスト走行で経験を積ませてもらったようです。甘えん坊の性格はそのままで場所が変わっても大事にされている姿や頑張っている姿を見られてとても嬉しく思います。<br/>
+</p>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">とある馬主さんの想い</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">2020年秋に、事務所を一人の馬主さんが訪れました。その方は医療や教育に携わっていらっしゃる山藤賢さん。<br/>
+山藤さんの知人との共同所有馬のグレイトサンディー号が2020年9月に競走馬を引退し、サンクスホースとして岡山でリトレーニングをすることになり、会いに来てくださったのです。<br/>
+グレイトサンディー号との出会いは北海道のサマーセール。その後競走馬としてデビューしましたが勝つことができず、引退が決まりました。山藤さんにとって初めての愛馬ということで思い入れが強く、引退後のサンディーの幸せはなんだろう？と考えられ、ご自身や周りの方がサンディーに会いたいときに行き、乗れ、ふれあえるように、という希望を叶えるため岡山でのリトレーニングを始めました。<br/>
+サンディーはまだ3歳（2020年当時）。犬や猫と違い、体も大きい馬はエサ代や装蹄、必要な際には獣医診療などの毎月の管理費や、最後まで自分で面倒をみるとなると30年近く生きるので多額の費用が必要です。ですが初めての所有馬という特別な存在であるグレイトサンディー号を自身の手で幸せにしたいという想いに感銘を受けました。<br/>
+山藤さんは、「自分だけでなく、たくさんの人がサンディーにふれたり乗れたり関わっていけたらいいと思う。馬自身に何が幸せかを問うことはできないし、独りよがりかもしれないが多くの人と関わりを持つ機会を増やすことでみんなが喜びや幸せ、癒しを感じられる。引退馬にはそんな存在になれる可能性があるのではないか。」と話してくださいました。<br/>
+さらにリトレーニングを頑張るサンディーに会いに来る中でご自身も乗馬を始められサンディーと共にレッスンをされています。馬と人との素敵な関わり方だと思いました。<br/>
+<br/>
+人と馬との共生。幸せな気持ちをお互いが共有できることこそが馬にとっても人にとっても幸せなことなのかなと感じました。<br/>
+馬との関わりは乗ることだけではありません。見たり、ふれたりするだけでもじゅうぶんに人を幸せに満たしてくれます。<br/>
+これまでの受け皿として乗馬クラブが主でしたが、セラピーやふれあいとしての需要がこれからは増えてくるのではないかと思います。人とのつながりや距離がより近いものになり多くの人に馬の魅力や優しさを感じてもらえ、必然的に馬たちのセカンドキャリアの可能性もより広がるのではないでしょうか。<br/>
+<br/>
+</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210917/offd_129103d3bb5e1b2763851f9d2f3cab119ae20ca4.jpg" alt="とある馬主さんの想い" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">リトレーニングマネージャー　宮田朋典氏の想い</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210313/gpfd_d67ca600f96576d6f52f7d04fbd72052da0f5d6d.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">競走馬としては花開かなかった馬たちをなんとかセカンドキャリアで頑張って欲しいという調教師の方、馬主さん、生産者の方・・・多くの人の想いを引退後も乗せて馬たちは再スタートを切るのです。<br/>
+<br/>
+年間5,000頭引退していく中で我々の救ってきた馬はのべ100頭を超えますがまだまだ氷山の一角です。リトレーニングや毎日のお世話に毎月約15万円ほどかかります。より多くの馬を救うためには皆さまからの温かいご支援が必要です。<br/>
+<br/>
+新型コロナウィルス感染拡大に伴い、私たちの生活は一変しました。競馬も無観客での開催になりましたが、毎週途絶えることなく開催されております。引退馬も毎日のように出ています。引退馬がいる限りこの活動を止めるわけにはいきません。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">たくさんの応援メッセージをいただいております</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">&quot;一口馬主で出資していますが、引退する度にその後を心配しています。幸福な余生を願って微力ながら応援させていただきます。&quot;<br/>
+<br/>
+&quot;町づくりでの馬の活用素晴らしいと思います。施設見学が楽しみであるとともに、町を訪れるのも楽しみです。&quot;<br/>
+<br/>
+&quot;競馬が好きで、競走馬の引退後が気になっていました。<br/>
+馬の幸せな余生に、少しでも貢献できるなら<br/>
+こんなにうれしいことはありません。&quot;<br/>
+<br/>
+&quot;昨年、見学に伺いました。<br/>
+リトレーニングの様子を間近で見て、感動しました。<br/>
+スタッフの皆様、いつもありがとうございます。<br/>
+馬達の幸せを心より願っています。&quot;<br/>
+<br/>
+&quot;競走馬たちの悲しい行く末を初めて知りました。幸せな一生を過ごせる馬が１頭でも多くなることを願っています。&quot;<br/>
+<br/>
+&quot;引退馬の支援を町を上げて力を入れていらっしゃることを知り、素晴らしいと感動しました。<br/>
+些少ではありますが、今後も一頭でも多くの引退馬の命を救って欲しいです。&quot;<br/>
+<br/>
+ほんの一部ですが多くの皆さまから温かいメッセージをいただいており、毎日嬉しく読ませていただいております。<br/>
+これだけ多くの方がわたしたちの活動を支えてくださっていることに感謝を忘れず、馬たちをセカンドキャリアに繋げるための活動を今後も続けていきたいと思っております。<br/>
+</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190731/offd_2f00ee8437a622ca4dc0fb312c40c1668b9200ee.jpg" alt="たくさんの応援メッセージをいただいております" />
+</div>
+</div>
+</div>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210313/gpfd_c3bacb2057dfea06b88eb3a5fcc2e3cda66a35ba.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">引退競走馬のリトレーニングをするための活動資金となります。</span></h3>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article">このプロジェクトの<b>80%を超える資金は、このふるさと納税型クラウドファンディング</b>で賄っています。 <br/><br/>リトレーニングには馬房管理の水道光熱費やえさ代、リトレーニング人件費、馬の輸送費、去勢手術費・医療費、設備費など多くの費用がかかっております。<br/> <br/> <b>皆様の支援なくしては馬たちを救うことができません。</b><br/><br/>強くて、賢くて、優しい馬たちにセカンドキャリアを提供することは、<b>人の生活にも必ず豊かさをもたらします。皆様からの温かい支援をよろしくお願いいたします。</b></p>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210925/gpfd_353317bd7dd8f8b9cf12cb4667d2ba2ff260177d.jpg" />
+<figcaption class="lyt-image__caption">こんな表情を見ると思わず口元が緩んでしまいます</figcaption>
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">皆様からの寄附金の使い道</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">みなさまから頂いたふるさと納税は、引退競走馬をセカンドキャリアにつなぐためのためのリトレーニング費用となります。<br/>
+<br/>
+◆引退競走馬のリトレーニング費用<br/>
+毎日のえさ代・おが代のほか、馬房清掃を支えるスタッフの人件費、リトレーニングを毎日実施する費用となります。<br/>
+<br/>
+◆ホースセラピー 馬の育成、養老牧場調査費等<br/>
+馬の多様な利活用方法を見出すべく、ホースセラピー 馬の育成にも挑戦しています。子供から大人の方まで安心して騎乗できる馬を育成してくための費用となります。<br/>
+<br/>
+◆治療のため馬を運ぶ輸送費および手術代<br/>
+リトレーニングする馬たちの中には、片金といって開腹手術をしなければ去勢ができない馬もいます。<br/>
+乗馬界では未去勢馬を引き受けてくれる場所が少ないため、岡山から輸送・手術費となります。<br/>
+<br/>
+◆管理費<br/>
+NPO活動を行うための事務局費用・事業報告書を作成する費用に充当させて頂きます。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">100頭以上の馬に「セカンドキャリア」を</span></h3>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="clearfix border-gray1 border-radius_10 pL20 pR20 bg-white mT30 mB30 pT20">
+<h3 class="fs_20 mB20 center "><b>≪ご寄附を頂いた皆さまへ≫</b></h3>
+<h4 class="lineU1d text-choice-green"><b>ご支援本当にありがとうございます！</b></h4>
+<p>サンクスホースプラットフォームはこれまでに、<b>166頭（2021年3月31日時点）を超えるサラブレッド</b>をセカンドキャリアに繋げてきました。 これも多くが皆様からのふるさと納税のおかげです。<br/><br/>引退競走馬達は今日も楽しく元気に暮らし、<b>リトレーニングを積んだサラブレッドは全国で活躍をしています。</b> <br/><br/>まだまだ充実しているとは言い切れませんが、今年は<b>「1頭でも多く！」</b>を念頭にリトレーニング30頭を目標にしています。皆様からの善意が私たちの源です。ぜひともご支援をよろしくお願いいたします。<br/><br/></p>
+認定特定非営利活動法人サラブリトレーニング・ジャパン<br/>理事長　角居勝彦　</div></p>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210920/gpfd_6f5dd807d2090a780cae89d7da0bf694672b106c.jpg" />
+<figcaption class="lyt-image__caption">鹿児島県のホーストラストで余生を送るレッドアルティスタ号</figcaption>
+</figure>
+<p class="gcf-txt-article">2019年に引退し岡山へやってきたレッドアルティスタ号。グラウンドワークでのトレーニング中に柵に脚をぶつけてしまい乗用馬としてのキャリアが難しいとの獣医師からの診断により鹿児島県にあるNPO法人ホーストラストでの余生を送ることとなりました。2020年の10月末に鹿児島へ移動し、今は仲間たちと放牧に出て草を食みながら毎日のんびりと過ごしています。<br/>
+わたしたちのプロジェクトでは皆さまからのご支援を活用させていただきリトレーニングをして引退馬たちをセカンドキャリアに繋げることが主な事業ですが、今後は養老牧場などセカンドキャリアを終えた馬たちやリトレーニング中にケガなどでセカンドキャリアが難しくなった馬たちも余生を過ごしていけるような仕組みを作っていく予定です。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210920/gpfd_9cfcb6e12d5394d7771e1eea51fcf4a6b01e3369.jpg" />
+<figcaption class="lyt-image__caption">リトレーニングのお披露目として競技会にも出場しています</figcaption>
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210920/gpfd_e3a875dcbb8e871b0ff252ca3781f683a378a05e.jpg" />
+</figure>
+<p class="gcf-txt-article">リトレーニングの成果のお披露目として、馬場馬術や障害飛越の競技の競技に出場しています。<br/>
+セカンドキャリア先でも乗馬クラブで会員さんのレッスンや、競技会で活躍している馬たちもたくさんいます。サラブリトレーニング卒業生たちがどこの乗馬クラブにいるのかはサンクスホースプラットフォームのホームページよりご確認ください。<br/>
+そして近くにいる馬たちに会いに行ってみてくださいね♪</p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://thankshorseplatform.com/">サンクスホースプラットフォーム</a></p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">岡山県のど真ん中「吉備中央町」</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210925/gpfd_d2f0850e298b68962a53f9ec35b8ad786b3f2900.jpg" />
+<figcaption class="lyt-image__caption">自然豊かで馬にも人にも優しい町「吉備中央町」</figcaption>
+</figure>
+<p class="gcf-txt-article">岡山県の真ん中に位置するその名も吉備中央町。<br/>
+高原都市で自然が豊かでどこか懐かしい、まるでおじいちゃんの家に遊びに来たかのような感覚を覚える町です。<br/>
+お米や野菜、ピオーネやブルーベリーなどの特産品も豊富です。<br/>
+鳥や虫の鳴き声以外は聞こえてこない、まるで自然と一体になっているかのような静かで優しい環境に中で引退競走馬たちは日々トレーニングを積んでいます。<br/>
+<br/>
+日本で初めて行政と連携しふるさと納税を活用しての取り組みは吉備中央町町長である山本雅則氏の、引退馬の支援活動を通して吉備中央町の名を全国の方々に知ってもらいたいという想いがあったからこそ実現しました。<br/>
+ぜひ一度、吉備中央町に訪れてみてください。</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">このクラウドファンディングは『ふるさと納税』対象事業です！</span></h3>
+<h3 class="gcf-ttl-h3">ふるさと納税とは？</h3>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article">ふるさと納税とは、ふるさとや応援したい自治体に寄附ができる制度のことです。手続きをすると、所得税や住民税の還付・控除が受けられ、<b>「実質の負担が2,000円」</b>になります。<br/><br/> 多くの自治体では地域の名産品などのお礼の品も用意！ 寄附金の「使い道」が指定でき、お礼の品もいただける魅力的な仕組みです。</p>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20180702/gpfd_98b91f54efb804b47d99994e42ba3511430fb00d.png" />
+</figure>
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><h3 class="ttl-h3 align-center mt-l" style="text-align: center;"><span class="ttl-h3__text">控除の仕組み<small>（確定申告の場合）</small></span></h3></p>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20180702/gpfd_5d0a688733d97d550f265c83a46a525f42bbcbe7.png" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ZGXpx0l5CFU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">※法人様からも寄附を受け付けております</span></h3>
+<h4 class="gcf-ttl-h4">企業・団体様からの寄附も受け付けております。</h4>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article">企業様からの寄附金については、全額損金として参入が出来ます。<br/><br/>問い合わせ先：サラブリトレーニング・ジャパン<br/>TEL：0867-34-9222&nbsp;<br/>Mail:：info@thoroughbret.org</p>
+</div>
+<div class="exlink01 mT8 text-right txt-link"><a target="_blank" class="inline i-arrow" href="https://www.thoroughbret.org/contact/">法人からの寄附に関する問い合わせはこちら▶</a></div><div style="clear: both;"></div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">お礼の品をご紹介！</span></h3>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5301287/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211201/pd_b5cefc27bd743aeded20c1d5a10a8071e01def8b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【黒】JAMMINコラボＴシャツ1枚【Sサイズ】</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附ご入金確認後、順次発送いたします。（約1ヶ月～3ヶ月）</p>
+</div>
+<p class="goods-col_textinfo pc">京都発のチャリティファッションブランドJAMMINとコラボしたTシャツが再登場！！
+シンプルにかっこいいロゴ、センスのいいデザインなのでシーンを選ばずに着ていただけます♪
+「THE SUN」のロゴには「日が昇るたび新しい1日がはじまる」という意味が込められており、引退した競走馬たちも、「引退が終わりではなく、新たな可能性と素晴らしい未来がまっている」というメッセージが込められています。
+Sサイズ 肩幅:42 身幅:48 着丈:65 袖丈:19 (cm)
+Mサイズ 肩幅:45 身幅:52 着丈:69 袖丈:20 (cm)
+Lサイズ 肩幅:48 身幅:56 着丈:73 袖丈:22 (cm)
+XLサイズ 肩幅:52 身幅:61 着丈:75 袖丈:24 (cm)
+表記寸法 表記寸法より1cmから2cm程度の誤差が生じる場合がございます。
+素材 コットン100%</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5301288/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211201/pd_b5cefc27bd743aeded20c1d5a10a8071e01def8b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【黒】JAMMINコラボＴシャツ1枚【Mサイズ】</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附ご入金確認後、順次発送いたします。（約1ヶ月～3ヶ月）</p>
+</div>
+<p class="goods-col_textinfo pc">京都発のチャリティファッションブランドJAMMINとコラボしたTシャツが再登場！！
+シンプルにかっこいいロゴ、センスのいいデザインなのでシーンを選ばずに着ていただけます♪
+「THE SUN」のロゴには「日が昇るたび新しい1日がはじまる」という意味が込められており、引退した競走馬たちも、「引退が終わりではなく、新たな可能性と素晴らしい未来がまっている」というメッセージが込められています。
+Sサイズ 肩幅:42 身幅:48 着丈:65 袖丈:19 (cm)
+Mサイズ 肩幅:45 身幅:52 着丈:69 袖丈:20 (cm)
+Lサイズ 肩幅:48 身幅:56 着丈:73 袖丈:22 (cm)
+XLサイズ 肩幅:52 身幅:61 着丈:75 袖丈:24 (cm)
+表記寸法 表記寸法より1cmから2cm程度の誤差が生じる場合がございます。
+素材 コットン100%</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5301289/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211201/pd_b5cefc27bd743aeded20c1d5a10a8071e01def8b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【黒】JAMMINコラボＴシャツ1枚【Lサイズ】</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附ご入金確認後、順次発送いたします。（約1ヶ月～3ヶ月）</p>
+</div>
+<p class="goods-col_textinfo pc">京都発のチャリティファッションブランドJAMMINとコラボしたTシャツが再登場！！
+シンプルにかっこいいロゴ、センスのいいデザインなのでシーンを選ばずに着ていただけます♪
+「THE SUN」のロゴには「日が昇るたび新しい1日がはじまる」という意味が込められており、引退した競走馬たちも、「引退が終わりではなく、新たな可能性と素晴らしい未来がまっている」というメッセージが込められています。
+Sサイズ 肩幅:42 身幅:48 着丈:65 袖丈:19 (cm)
+Mサイズ 肩幅:45 身幅:52 着丈:69 袖丈:20 (cm)
+Lサイズ 肩幅:48 身幅:56 着丈:73 袖丈:22 (cm)
+XLサイズ 肩幅:52 身幅:61 着丈:75 袖丈:24 (cm)
+表記寸法 表記寸法より1cmから2cm程度の誤差が生じる場合がございます。
+素材 コットン100%</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5301290/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211201/pd_ee99c2aee723f526749ede4775e0ae3a8b414b4b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【黒】JAMMINコラボＴシャツ2枚【白】</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附ご入金確認後、順次発送いたします。（約1ヶ月～3ヶ月）</p>
+</div>
+<p class="goods-col_textinfo pc">京都発のチャリティファッションブランドJAMMINとコラボしたTシャツが再登場！！
+シンプルにかっこいいロゴ、センスのいいデザインなのでシーンを選ばずに着ていただけます♪
+「THE SUN」のロゴには「日が昇るたび新しい1日がはじまる」という意味が込められており、引退した競走馬たちも、「引退が終わりではなく、新たな可能性と素晴らしい未来がまっている」というメッセージが込められています。
+※サイズは寄付受付後の翌月にメールにてご連絡いたしますのでその際ご希望のサイズをお伝えください。
+Sサイズ 肩幅:42 身幅:48 着丈:65 袖丈:19 (cm)
+Mサイズ 肩幅:45 身幅:52 着丈:69 袖丈:20 (cm)
+Lサイズ 肩幅:48 身幅:56 着丈:73 袖丈:22 (cm)
+XLサイズ 肩幅:52 身幅:61 着丈:75 袖丈:24 (cm)
+表記寸法 表記寸法より1cmから2cm程度の誤差が生じる場合がございます。
+素材 コットン100%</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5301291/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211201/pd_42d771e726e23285d8dc6a85559903a622dba2b4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">JAMMINコラボＴシャツ2枚【白】</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附ご入金確認後、順次発送いたします。（約1ヶ月～3ヶ月）</p>
+</div>
+<p class="goods-col_textinfo pc">京都発のチャリティファッションブランドJAMMINとコラボしたTシャツが再登場！！
+シンプルにかっこいいロゴ、センスのいいデザインなのでシーンを選ばずに着ていただけます♪
+「THE SUN」のロゴには「日が昇るたび新しい1日がはじまる」という意味が込められており、引退した競走馬たちも、「引退が終わりではなく、新たな可能性と素晴らしい未来がまっている」というメッセージが込められています。
+※サイズは寄付受付後の翌月にメールにてご連絡いたしますのでその際ご希望のサイズをお伝えください。
+Sサイズ 肩幅:42 身幅:48 着丈:65 袖丈:19 (cm)
+Mサイズ 肩幅:45 身幅:52 着丈:69 袖丈:20 (cm)
+Lサイズ 肩幅:48 身幅:56 着丈:73 袖丈:22 (cm)
+XLサイズ 肩幅:52 身幅:61 着丈:75 袖丈:24 (cm)
+表記寸法 表記寸法より1cmから2cm程度の誤差が生じる場合がございます。
+素材 コットン100%</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5301292/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211201/pd_cb2981f1eef1659fede98b69b56d8549dd3ed16c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">JAMMINコラボＴシャツ2枚【黒】</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附ご入金確認後、順次発送いたします。（約1ヶ月～3ヶ月）</p>
+</div>
+<p class="goods-col_textinfo pc">京都発のチャリティファッションブランドJAMMINとコラボしたTシャツが再登場！！
+シンプルにかっこいいロゴ、センスのいいデザインなのでシーンを選ばずに着ていただけます♪
+「THE SUN」のロゴには「日が昇るたび新しい1日がはじまる」という意味が込められており、引退した競走馬たちも、「引退が終わりではなく、新たな可能性と素晴らしい未来がまっている」というメッセージが込められています。
+※サイズは寄付受付後の翌月にメールにてご連絡いたしますのでその際ご希望のサイズをお伝えください。
+Sサイズ 肩幅:42 身幅:48 着丈:65 袖丈:19 (cm)
+Mサイズ 肩幅:45 身幅:52 着丈:69 袖丈:20 (cm)
+Lサイズ 肩幅:48 身幅:56 着丈:73 袖丈:22 (cm)
+XLサイズ 肩幅:52 身幅:61 着丈:75 袖丈:24 (cm)
+表記寸法 表記寸法より1cmから2cm程度の誤差が生じる場合がございます。
+素材 コットン100%</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5226886/37">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211004/pd_d1375bfcf7fc880001a4eee83b8f7b648e65aa52.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">オリジナルトートバッグ</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>商品が用意出来次第発送いたします。</p>
+</div>
+<p class="goods-col_textinfo pc">リトレーニング中のレッドロジンカ号、ナインテイルズ号、フランクリン号、プラトン号の可愛いイラスト入りのトートバッグです。持つだけでテンションの上がるアイテム。ぜひお手元で可愛がってあげてください♪
+サイズはタテ：約37.5㎝　ヨコ：約35.5㎝　底マチ：約10㎝</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5226887/37">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211004/pd_ce767563fa5f0e21a2c381e63547aed25b171dcb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">オリジナルTシャツ【ｓサイズ】</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>商品の到着次第発送いたします。</p>
+</div>
+<p class="goods-col_textinfo pc">オリジナルのイラスト入りのTシャツです。サイズは男女共通サイスです。画像でご確認ください。カラー：アイボリー　リトレーニング中のレッドロジンカ号・ナインテイルズ号・フランクリン号・プラトン号のオリジナルイラスト入りTシャツです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5226888/37">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211004/pd_ce767563fa5f0e21a2c381e63547aed25b171dcb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">オリジナルTシャツ【Mサイズ】</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>商品の到着次第発送いたします。</p>
+</div>
+<p class="goods-col_textinfo pc">オリジナルのイラスト入りのTシャツです。サイズは男女共通サイスです。画像でご確認ください。カラー：アイボリー　リトレーニング中のレッドロジンカ号・ナインテイルズ号・フランクリン号・プラトン号のオリジナルイラスト入りTシャツです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5226889/37">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211004/pd_ce767563fa5f0e21a2c381e63547aed25b171dcb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">オリジナルTシャツ【Lサイズ】</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>商品の到着次第発送いたします。</p>
+</div>
+<p class="goods-col_textinfo pc">オリジナルのイラスト入りのTシャツです。サイズは男女共通サイスです。画像でご確認ください。カラー：アイボリー　リトレーニング中のレッドロジンカ号・ナインテイルズ号・フランクリン号・プラトン号のオリジナルイラスト入りTシャツです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220752/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201025/pd_0274791365c73517f75b8a8cb1a857bd2093cc06.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">サラブリトレーニング・ジャパンの2020年度活動事業報告のメール</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">認定特定非営利活動法人サラブリトレーニング・ジャパンの2020年度に行なった活動や受け入れた馬の紹介など、活動をまとめた事業報告をメールにてお送り致します。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220753/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210320/pd_ab14343ec24b89ea05d1755f977c1a8a5326ef44.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">幸せを呼ぶ蹄鉄（馬の蹄を守るもの）のお守り【お部屋のインテリアにも】</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">馬といえば蹄鉄。蹄鉄と言えば馬。人間の近くにいる馬は競走馬にしても乗用馬にしても、必ず蹄鉄が必要です。人を乗せたり荷物を載せたり、野生の馬とは違って人間と共に生きる馬はやはりどうしても日々の運動が激しくなるため、ひづめの磨耗も早くなります。だから蹄鉄で馬の脚を守るというわけです。ちなみに、明治以前の日本の馬は蹄鉄ではなく馬用のわらじをつけていました。面白いですよね。
+蹄鉄の素材はいろいろですが、その仕組みはどれも同じ。馬のひづめの形に合わせて用意した蹄鉄を、釘で打ち付けます。
+その馬達が使った蹄鉄を再活用してお守りにしています。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220784/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210701/pd_bc1dc3b3684fc1ae3b924e2fca6346c127973993.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">オリジナルタオル3枚セット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">2018年・2019（令和元年）年・2020年のタオルが大集合！豪華なセットになりました♪
+これからの暑い季節に欠かせない必需品なのでぜひ、引退馬支援活動をアピールしながらご活用いただけるとうれしいです。
+2018・2019年はJRAジョッキーたちのサイン、2020年は「ウマデザイナー」ショーゴさんデザインです！！
+この機会にぜひ手に入れてくださいね！</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220778/37">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210320/pd_4713fc2aa22ccb10a0fc6d6f3c58486049c28b7f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">毎月変わる！馬たちからのお手紙をお届けします！</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">リトレーニング中のあの馬からふるさと納税でご支援してくださった方へ、お便りをお届けします！毎月お便りの馬は違いますので、ぜひ継続して支援頂けますと幸いです。ぜひお楽しみにお待ちください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220782/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210701/pd_ddae1c40deb43b84558f404a86466c147127ca1f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">サラブリトレーニング・ジャパンのオリジナルステッカーセット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">リトレーニング中の馬やサラブリトレーニング・ジャパンのロゴマークをステッカーにしました。スマホやタンブラー、ノートなどに貼って引退馬支援の輪を広げませんか？</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220785/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210704/pd_ab1538347292ee172c28a13ce729ea733b4d7a31.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">リトレーニング中の馬の写真セット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">リトレーニング中の馬たちの写真を3枚セットにしてお届けいたします♪毎月ランダムに変わりますのでどんな写真が届くのかお楽しみに！！</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5308527/37">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211202/pd_dff4d40e2591216dee9cd6bd512e91796df3411d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【引退馬へのおやつを提供】お礼の品として馬へのご褒美をプレゼント＆馬たちの写真を寄付者の方へお届け</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">リトレーニング中の馬たちにホーストリーツをご褒美としてプレゼントします♪その様子を写真にしてお届けいたします。ぜひお楽しみにお待ちください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220755/37">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20191212/pd_62f1e9386ba68e6b5ec2093c34bb7d39f8def3b9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">サラブリトレーニング施設見学＆ハンバーグランチセット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">サラブリトレーニング・ジャパンの施設見学のご案内と昼食ランチ（ハンバーグ）がセットになった嬉しい見学ツアーを企画しました。引退競走馬のリトレーニングを間近に見ていただけます。複数の人数でもご案内は可能となっております。1名様分のランチもお付けしています。（※アレルギーの関係でハンバーグが難しいお客様は、それに代替するメニューをご提供致します。）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220757/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211124/pd_8ba7ffa72540333f7326218e2a91ac6c5dcd109d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【家庭菜園に】引退馬の馬糞を活用した堆肥15L</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">私たちのサラブリトレーニング・ジャパンでリトレーニングしている馬の馬糞を加工した堆肥を15Lパッケージでお届けします。野菜や花木など家庭菜園に使っていただけます。
+普段乾草を食べている馬たちの馬糞は植物性有機物たっぷり含まれているため土壌改良効果が非常に期待できます。
+リトレーニングを頑張る馬たちの馬糞をじゅうぶんに発酵させ堆肥にします。捨ててしまう馬糞を活用し、野菜や花を育て、私たちの生活にも還元されています。持続可能な社会を目指すうえでも馬糞堆肥でおいしい野菜を作ってみませんか？においも少なく使いやすいです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220761/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201025/pd_607a7be1943a45195d01b1d572c93103990b8d97.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">岡山県吉備中央町産の季節に応じた商品Aセット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">晴れの国岡山のど真ん中の吉備中央町産の特産品・加工品など、その季節に応じた商品をお届けします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220754/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20191205/pd_2954ff478b1f08257b86bbf1381cad56dcd760dc.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">サラブリトレーニングジャパンオリジナルトートバック</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">サラブリトレーニングジャパンとJAMMINがコラボしたトートバック「THE SUN」日が昇るたび、また新しい人生が始まるという意味が込められています。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220767/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201025/pd_90ce294359ac92e845af55da9721dd184084c6e2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【吉備中央町の野菜セット】吉備中央町のおいしい野菜Aセット</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">引退馬支援と合わせて吉備中央町のおいしい野菜セットをお届けします。野菜の種類はお客様の寄付時期に合わせて新鮮なお野菜をお届けいたします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220779/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210320/pd_8f8f3bdd0c5ba240e2ba309c8bd0071d9190dcc0.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【お馬さんと仲良くなれる】ホーストリーツ　にんじん味300g</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">リトレーニング中の馬たちも大好きなご褒美おやつ、「ホーストリーツ」。吉備高原パカラの就労支援事業所の利用者さんたちが心を込めて作ったトリーツです。ぜひ気になる馬にあげてみてはいかがでしょう？</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220780/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210320/pd_bf43184eed3608704d0a802a1d50d0e6d88a72c6.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【お馬さんと仲良くなれる】ホーストリーツ　さつまいも味300g</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">リトレーニング中の馬たちも大好きなご褒美おやつ、「ホーストリーツ」。吉備高原パカラの就労支援事業所の利用者さんたちが心を込めて作ったトリーツです。ぜひ気になる馬にあげてみてはいかがでしょう？</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220783/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210320/pd_da3b964462ac88443c8b52300ba331ec7d846c5e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【9月下旬からの随時お届け】岡山県産のおいしいお米（約2kg）をお届けします。</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">岡山県産のおいしいお米（2㎏）をお届けします。引退馬支援とご自宅でおいしいお米をお楽しみ下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220756/37">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210320/pd_549d8e206a67fe94dc1231f3ea7698f02c402ccb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">リトレーニング施設見学ご案内＋ランチセット＋えさやりふれあい体験</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附ご入金確認後、順次発送いたします。</p>
+</div>
+<p class="goods-col_textinfo pc">サラブリトレーニング・ジャパンの施設見学のご案内と昼食ランチ、更にはえさやり体験などのふれあいができる嬉しい見学ツアープラン</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220758/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211124/pd_5a2bb087375b357d7421743062b2fc73ff5baa79.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【家庭菜園に】引退馬の馬糞を活用した堆肥30L</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">私たちのサラブリトレーニング・ジャパンでリトレーニングしている馬の馬糞を加工した堆肥を15Lパッケージをおふたつお届けします。野菜や花木など家庭菜園に使っていただけます。
+普段乾草を食べている馬たちの馬糞は植物性有機物たっぷり含まれているため土壌改良効果が非常に期待できます。
+リトレーニングを頑張る馬たちの馬糞をじゅうぶんに発酵させ堆肥にします。捨ててしまう馬糞を活用し、野菜や花を育て、私たちの生活にも還元されています。持続可能な社会を目指すうえでも馬糞堆肥でおいしい野菜を作ってみませんか？においも少なく使いやすいです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220762/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201025/pd_7fa2972764ab0cc552ba60f1dbaa63a071833398.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">岡山県吉備中央町産の季節に応じた商品Bセット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">晴れの国岡山のど真ん中の吉備中央町産の特産品・加工品など、その季節に応じた商品をお届けします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220769/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211201/pd_0ab50b9082b198287474b1f830a7e07bd3c8f524.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【吉備中央町の特産品】ブルーベリーの加工品Aセット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">引退馬支援と合わせて岡山県吉備中央町の特産品「ブルーベリー」の加工品セットをお届けします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220781/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210320/pd_beafa71d343d89220a1d4e9880b3d6c9576ea440.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【お馬さんと仲良くなれる】ホーストリーツ　さつまいも味・にんじん味セット</h4>
+<p class="goods-col_price inline">40,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">リトレーニング中の馬たちも大好きなご褒美おやつ、「ホーストリーツ」。吉備高原パカラの就労支援事業所の利用者さんたちが心を込めて作ったトリーツです。ぜひ気になる馬にあげてみてはいかがでしょう？</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220759/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201025/pd_45da7e5b515eeddf7e1184b01ff145e4aaa6d866.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">サンクスホースプラットフォームのロゴデザインネックレス（白）</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">サンクスホースプラットフォームのロゴをあしらったネックレスとなります。寄付のお礼にお届け致します。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220760/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201025/pd_45da7e5b515eeddf7e1184b01ff145e4aaa6d866.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">サンクスホースプラットフォームのロゴデザインネックレス（黒）</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">サンクスホースプラットフォームのロゴをあしらったネックレスとなります。寄付のお礼にお届け致します。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220763/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201025/pd_9a713fb7d32b9483c703a1a221b035e3815dc365.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">岡山県吉備中央町産の季節に応じた商品Cセット</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">晴れの国岡山のど真ん中の吉備中央町産の特産品・加工品など、その季節に応じた商品をお届けします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220764/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210320/pd_0227465d5f3d127ec68822ad2b4506f566c28ae7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【9月下旬からの随時お届け】岡山県産のおいしいお米（5kg）をお届けします。</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">岡山県産のおいしいお米（5㎏）をお届けします。引退馬支援とご自宅でおいしいお米をお楽しみ下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220765/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210320/pd_25f61626f8a34cb101bcac3041c94773e2e0ca92.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【9月下旬からの随時お届け】岡山県産のおいしいお米（10kg）をお届けします。</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">岡山県産のおいしいお米（10㎏）をお届けします。引退馬支援とご自宅でおいしいお米をお楽しみ下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220766/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201025/pd_e1e469ca86677dc1c9e74dbabb8a0f32d313e681.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【9月下旬からの随時お届け】岡山県産のおいしいお米（30kg）をお届けします。</h4>
+<p class="goods-col_price inline">300,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">岡山県産のおいしいお米（30㎏）をお届けします。引退馬支援とご自宅でおいしいお米をお楽しみ下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220768/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201025/pd_567e968ef399da4d6a71385ea2d97c3db098a83a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【吉備中央町の野菜セット】吉備中央町のおいしい野菜Bセット</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">引退馬支援と合わせて吉備中央町のおいしい野菜セットをお届けします。野菜の種類はお客様の寄付時期に合わせて新鮮なお野菜をお届けいたします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220770/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211201/pd_61145798514f2cdf0949bb4aed16535c7d2b6595.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【吉備中央町の特産品】ブルーベリーの加工品Bセット</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">引退馬支援と合わせて岡山県吉備中央町の特産品「ブルーベリー」の加工品セットをお届けします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220771/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201025/pd_ec8259a73ee781233a5d1ccf533c39b86b36a772.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">宮田塾[1回分]（引退馬を活用したリトレーニング技術講習会　毎月１回程程度開催予定）</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">サラブリトレーニング・ジャパンのリトレーニングを監修しているホースクリニシャンの宮田朋典先生による、引退馬を活用したリトレーニング技術講習会の講習会利用チケットをお送りします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220772/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201025/pd_cf3c2f96ae6b097b8357c4bfb2364d3e0cbaaf26.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">宮田塾[３回分]（引退馬を活用したリトレーニング技術講習会　毎月１回程程度開催予定）</h4>
+<p class="goods-col_price inline">300,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">サラブリトレーニング・ジャパンのリトレーニングを監修しているホースクリニシャンの宮田朋典先生による、引退馬を活用したリトレーニング技術講習会の講習会利用チケットをお送りします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220773/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201025/pd_69777228a5f193be777a5b41bc8d5ceaf55d75a2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">宮田塾[ 5回分]（引退馬を活用したリトレーニング技術講習会　毎月１回程程度開催予定</h4>
+<p class="goods-col_price inline">500,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">サラブリトレーニング・ジャパンのリトレーニングを監修しているホースクリニシャンの宮田朋典先生による、引退馬を活用したリトレーニング技術講習会の講習会利用チケットをお送りします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220774/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201025/pd_09cb1284199d099f5d81e586f8841f83cd95347c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">宮田塾[ 10回分]（引退馬を活用したリトレーニング技術講習会　毎月１回程程度開催予定</h4>
+<p class="goods-col_price inline">1,000,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">サラブリトレーニング・ジャパンのリトレーニングを監修しているホースクリニシャンの宮田朋典先生による、引退馬を活用したリトレーニング技術講習会の講習会利用チケットをお送りします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220775/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/00000.gif" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【馬主様特別企画】馬輸送費（栗東〜岡山）１回分</h4>
+<p class="goods-col_price inline">300,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">競走馬が引退し、サラブリトレーニング・ジャパンに入厩する際の、輸送費をこちらのお礼の品として充当をさせていただきます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220776/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/00000.gif" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【馬主様特別企画】馬輸送費（美浦〜岡山）1回分</h4>
+<p class="goods-col_price inline">1,000,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">競走馬が引退し、サラブリトレーニング・ジャパンに入厩する際の、輸送費をこちらのお礼の品として充当をさせていただきます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5220777/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/00000.gif" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">引退競走馬のリトレーニングチケット（４ヶ月分）</h4>
+<p class="goods-col_price inline">3,000,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">競走馬が引退し、サラブリトレーニング・ジャパンに入厩した際の、リトレーニング料と預託料金をお礼の品として提供させて頂きます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/33681/5301371/37">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201025/pd_e1e469ca86677dc1c9e74dbabb8a0f32d313e681.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【9月下旬からの随時お届け】岡山県産のおいしいお米（60kg）をお届けします。【定期便】</h4>
+<p class="goods-col_price inline">500,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">岡山県産のおいしいお米（60㎏）をお届けします。引退馬支援とご自宅でおいしいお米をお楽しみ下さい。</p>
+</div>
+</a>
+</li>
+</ul><ul class="goods_list">
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">岡山県吉備中央町</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text"></p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">これからも頑張って下さい応援してます。</p>
+<p class="gcf-bx-message__date">2022年3月31日 23:54</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">引退後のサラブレッドの応援がしたくて、寄付をさせて頂きます。引退された角井調教師も関わっていらっしゃるのでしょうか？一頭でも多くの馬の幸せを願っています。</p>
+<p class="gcf-bx-message__date">2022年3月25日 14:38</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">1頭でも多くこれからの馬生を送ることが出来るよう願っております。</p>
+<p class="gcf-bx-message__date">2022年3月14日 10:14</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">引退競走馬のことがとても気になっています。一頭でも多くの子を救ってあげて下さい。</p>
+<p class="gcf-bx-message__date">2022年3月6日 19:07</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">コロナが明けたらお馬さんの見学に行きたいです。</p>
+<p class="gcf-bx-message__date">2022年2月22日 19:15</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">サラブリトレーニングにお邪魔した際に、素晴らしく丁寧に対応いただき、感激しました。<br/>
+これからも、素敵なプロジェクトの継続と発展をお祈りしております。</p>
+<p class="gcf-bx-message__date">2022年2月16日 11:05</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">競走馬としては輝けなかったかもしれないけど、引退後の馬生で乗馬だったりホースセラピーとして人のために役立つ場面は必ずあるのでその活躍の場を増やす支援をしている吉備中央町のことをこれからも応援し続けます。</p>
+<p class="gcf-bx-message__date">2022年2月16日 10:40</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">馬のお世話は大変だけど頑張ってください。</p>
+<p class="gcf-bx-message__date">2022年2月3日 18:32</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">大好きな馬たちのために少しでも力になれたらの気持ちです。<br/>
+少しばかりですが役に立ててください。<br/>
+お願いいたします。</p>
+<p class="gcf-bx-message__date">2022年1月28日 19:53</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">引退馬達が幸せな余生を過ごせる用な環境造りにご協力宜しくお願い致します。</p>
+<p class="gcf-bx-message__date">2022年1月24日 3:40</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">引退後のお馬さんたちが幸せに暮らせますように。今年も微力ながら応援させていただきます。</p>
+<p class="gcf-bx-message__date">2022年1月21日 15:35</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">競馬でいろいろな夢を見させてもらった。超一流の馬しか生きれない状況が少しでも打開されればいいと思います。少しの寄付ですがよろしくお願いします</p>
+<p class="gcf-bx-message__date">2022年1月4日 9:08</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">追加で寄付させていただきます。<br/>
+既に写真は送っていただいていますので不要です。<br/>
+馬達のことを宜しくお願いいたしますとお伝えください。</p>
+<p class="gcf-bx-message__date">2021年12月31日 23:48</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">昨年も寄付しました。<br/>
+競馬が趣味なので、引退馬の支援は義務のように感じています。<br/>
+出来るだけ多くの馬が、幸せな余生を送れることを祈っています。</p>
+<p class="gcf-bx-message__date">2021年12月31日 23:44</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">馬のためによろしくお願いします！</p>
+<p class="gcf-bx-message__date">2021年12月31日 23:33</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">一頭でも多く馬を幸せにしてください。応援してます。</p>
+<p class="gcf-bx-message__date">2021年12月31日 23:16</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">大好きな馬達の馬生が幸せなものになりますように。応援してます。頑張ってください。いつかリトレーニングを見学したいです。</p>
+<p class="gcf-bx-message__date">2021年12月31日 22:53</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">大好きな馬達の馬生が幸せなものになりますように。応援してます。頑張ってください。いつかリトレーニング見学したいです。</p>
+<p class="gcf-bx-message__date">2021年12月31日 22:50</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">すべての引退馬に幸せを！</p>
+<p class="gcf-bx-message__date">2021年12月31日 22:39</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">乗馬がきっかけで引退競走馬の現状を知りました。<br/>
+関わっている馬たちは厳しい世界を生き抜いてここにいることを知った時、とても切なくなりました。<br/>
+大切に慈しみたい命です。何もできずもどかしいですが、この活動に携わっている方々には本当に感謝したいです。ぜひ1頭でも多くの馬たちが、天寿を全うできる道が見つかるように祈っています。</p>
+<p class="gcf-bx-message__date">2021年12月31日 22:22</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/1468">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>申し込み後の内容変更・寄附金受領証明書・ワンストップ特例申請書</h3>
+<p>【年末年始のお問い合わせ受付】<br/>
+年末：12月28日　17：15まで<br/>
+年始：1月4日　8時30分から<br/>
+<br/>
+【お問い合わせ先】<br/>
+吉備中央町協働推進課<br/>
+TEL：0866-54-1301<br/>
+mail：kyoudou@town.kibichuo.lg.jp<br/>
+特設サイトお問い合わせフォーム<br/>
+https://furusato-kibichuo.jp/contact/index.php</p>
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</section>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">岡山県吉備中央町の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/33681/37?from=2&amp;gcf_project_id=1468"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,554,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g1468,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

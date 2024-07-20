@@ -1,0 +1,1983 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/473" />
+
+<title>自治会輸送～高齢者の移動手段の確保に向けて、地域が動き出した～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="自治会輸送～高齢者の移動手段の確保に向けて、地域が動き出した～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/473" />
+<meta property="og:description" content="【自治会輸送～高齢者の移動手段の確保に向けて、地域が動き出した～】大田市では、安心して住みなれた地域で暮らし続けるために、住民が主体となって課題を解決する取り組みを支援しています。住みなれた地域で暮らし続けるためには、生活交通の確保は重要な課題です。人口が減少する中、バス路線の廃止や減便などが避けられない状況にあり、高齢者や障がい者などの交通弱者にとって、買い物や通院などの外出にも困っている人が少なくありません。またバス停までの距離も遠く、歩いてバス停に行くことが困難な人もたくさんいます。現在、大田市の久利地区で取り組もうとしている「自治会輸送」は、自宅まで迎えに行き、目的地まで送ることで、生活交通の確保を目指しています。この「自治会輸送」を導入することで、これまで外出がしにくかった人も外出できるようになります。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20181128/d_e2de58900328ea8ddc4aa77346f0d0b0995e4653.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20181128/d_e2de58900328ea8ddc4aa77346f0d0b0995e4653.jpg" />
+<meta property="twitter:title" content="自治会輸送～高齢者の移動手段の確保に向けて、地域が動き出した～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="【自治会輸送～高齢者の移動手段の確保に向けて、地域が動き出した～】大田市では、安心して住みなれた地域で暮らし続けるために、住民が主体となって課題を解決する取り組みを支援しています。住みなれた地域で暮らし続けるためには、生活交通の確保は重要な課題です。人口が減少する中、バス路線の廃止や減便などが避けられない状況にあり、高齢者や障がい者などの交通弱者にとって、買い物や通院などの外出にも困っている人が少なくありません。またバス停までの距離も遠く、歩いてバス停に行くことが困難な人もたくさんいます。現在、大田市の久利地区で取り組もうとしている「自治会輸送」は、自宅まで迎えに行き、目的地まで送ることで、生活交通の確保を目指しています。この「自治会輸送」を導入することで、これまで外出がしにくかった人も外出できるようになります。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,516,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="473" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">自治会輸送～高齢者の移動手段の確保に向けて、地域が動き出した～</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">自治会輸送～高齢者の移動手段の確保に向けて、地域が動き出した～</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1022">健康・福祉&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20181128/d_e2de58900328ea8ddc4aa77346f0d0b0995e4653.jpg" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E8%87%AA%E6%B2%BB%E4%BC%9A%E8%BC%B8%E9%80%81%EF%BD%9E%E9%AB%98%E9%BD%A2%E8%80%85%E3%81%AE%E7%A7%BB%E5%8B%95%E6%89%8B%E6%AE%B5%E3%81%AE%E7%A2%BA%E4%BF%9D%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6%E3%80%81%E5%9C%B0%E5%9F%9F%E3%81%8C%E5%8B%95%E3%81%8D%E5%87%BA%E3%81%97%E3%81%9F%EF%BD%9E&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F473">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">787,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 22.4%;"></div>
+<p class="gcf-cht-detail-bar__number">22.4%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">3,500,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">22.4</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">39</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>島根県大田市（しまねけん おおだし）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="473" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2018年12月4日～2019年2月28日（87日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1028" class="sorting-list__item">まちづくり・コミュニティ</a></li><li><a href="/gcf/project/tag/1029" class="sorting-list__item">インフラ・交通・施設</a></li><li><a href="/gcf/project/tag/1047" class="sorting-list__item">健康・医療</a></li><li><a href="/gcf/project/tag/1049" class="sorting-list__item">福祉・障がい</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1082" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_3.png 1x, /gcf/images_cf/sdg/sdg_icon_3@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_3.png" alt="SDGアイコン" decoding="async" />3.すべての人に健康と福祉を</a></li><li><a href="/gcf/project/sdgs/1089" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_10.png 1x, /gcf/images_cf/sdg/sdg_icon_10@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_10.png" alt="SDGアイコン" decoding="async" />10.人や国の不平等をなくそう</a></li><li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="473" class="gcf-nv-tab__button js-tab">進捗情報
+<span class="gcf-nv-tab__button-progress-number">1</span>
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">島根県大田市</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20181109/o_c4401177888f7988a78e810c977ac68dca79f764.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">【自治会輸送～高齢者の移動手段の確保に向けて、地域が動き出した～】<br/>
+大田市では、安心して住みなれた地域で暮らし続けるために、住民が主体となって課題を解決する取り組みを支援しています。<br/>
+住みなれた地域で暮らし続けるためには、生活交通の確保は重要な課題です。<br/>
+人口が減少する中、バス路線の廃止や減便などが避けられない状況にあり、高齢者や障がい者などの交通弱者にとって、買い物や通院などの外出にも困っている人が少なくありません。またバス停までの距離も遠く、歩いてバス停に行くことが困難な人もたくさんいます。<br/>
+現在、大田市の久利地区で取り組もうとしている「自治会輸送」は、自宅まで迎えに行き、目的地まで送ることで、生活交通の確保を目指しています。<br/>
+この「自治会輸送」を導入することで、これまで外出がしにくかった人も外出できるようになります。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">住みなれた久利町で、暮らし続けたい。</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">移動手段の確保が、暮らしていくための必須条件!!</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181116/gpfd_81b63fae99e2990547ae3d28ca82d6a7bc587044.jpg" />
+</figure>
+<p class="gcf-txt-article">久利町では、数年前に唯一営業していた地元商店が無くなりました。<br/>
+そのため、食料品や日用品の購入も、自動車を利用して市街地へ出かけなければいけなりません。<br/>
+また高齢の住民も多く、他の地域へ通院している方もたくさんいます。<br/>
+しかし、近年では自動車運転免許を返納する高齢者も多く、移動に困っている住民が増えてきています。<br/>
+久利町には路線バスは通っていますが、住民の中には、バス停まで徒歩で２～３キロの移動を余儀なくされている状況にあります。<br/>
+<br/>
+生活していく上で買い物や通院は必要で、そのためには「移動手段の確保」が必須の項目となっています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">みんながいきいきと暮らすために</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">自治会輸送（買い物、通院etc・・・）</span></h3>
+<p class="gcf-txt-article">高齢者などの交通弱者のための「移動手段の確保」とその仕組みづくりが必要です。<br/>
+その取り組みのひとつが「自治会輸送」です。<br/>
+移動手段を地域主体となって確保することにより、住みなれた地域で今後も安心して住みつづけることができるまちづくりを目指します。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181115/gpfd_8bef1f28f435ef14fc972344785b33f4fb1f581a.jpg" />
+</figure>
+<h3 class="gcf-ttl-h3">■試験運行開始！</h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">１１月より試験運行を開始しました</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">はじめての試験運行には３名の利用がありました。目的はスーパーでの買い物。<br/>
+普段は移動手段もなく、買い物にも一苦労。気兼ねしながら近所の方に頼んだり、遠いバス停まで歩いてバスに乗ったり・・・。<br/>
+でも今日は違います。久利まちづくり推進協議会がリースした車が家まで迎えに来てくれます。<br/>
+もちろん運転も久利まちづくり推進協議会メンバーが安全運転で行います。<br/>
+スーパーでの買い物をし終えた利用者には笑顔の花が咲きました。こんな笑顔をいつまでも。<br/>
+<br/>
+今後の本格運行に向けて車両の購入が必要です。皆様よりのご支援をお待ちしております。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181115/offd_b3d90712497c56839e330da9e498ea72ea89871f.jpg" alt="１１月より試験運行を開始しました" />
+</div>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">■本格運行を目指して</h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">住民の移動手段は地域で担う</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">【活動内容】<br/>
+買い物や通院などの移動に困っている人を自宅まで迎えに行き、目的地まで送ることで、生活交通の確保を目指します。<br/>
+目的地は、病院やスーパー、郵便局などの施設をはじめ、近隣のバス停も設定し、バスに乗り換えることもできます。<br/>
+バスに乗り換えることで、バス事業者と連携した地域住民の移動手段の確保に取り組みます。<br/>
+また久利まちづくりセンターで行われている介護予防事業「高齢者通いの場」への送迎としても運行します。<br/>
+<br/>
+【利用対象】<br/>
+高齢者（75歳以上）や障がい者など<br/>
+※久利町の人口は1,333人で、うち75歳以上の高齢者は約250人（住民基本台帳・平成30年4月現在）<br/>
+<br/>
+【実施主体】<br/>
+久利まちづくり推進協議会（運転手5名　事務局2名）<br/>
+<br/>
+【実施地域】<br/>
+大田市久利町<br/>
+<br/>
+【スケジュール（予定）】<br/>
+・Ｈ30.11月～Ｈ31.1月：試行運行<br/>
+・Ｈ31.3月：車両購入<br/>
+・Ｈ31.4月：本格運行開始</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181109/offd_bfd536cf37c81aa91e9163ba91bcd809b3f75605.jpg" alt="住民の移動手段は地域で担う" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">持続可能なまちづくりの推進</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">住民主体の地域課題の解決</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181116/gpfd_1488b3300afba7c515773324cfc404084c01998b.jpg" />
+</figure>
+<p class="gcf-txt-article">「地域住民が住みなれた地域で、今後も安心して住み続けることができるまち」を目指して、大田市では、持続可能なまちづくりの推進に取り組んでいます。<br/>
+<br/>
+人口減少や若者の流出、高齢化の進展に伴い、近所にあった商店や診療所、金融機関がなくなったり、公共交通機関が不便になったり、地域にあった身近なサービスが受けられなくなっています。<br/>
+<br/>
+地域での買い物や通院ができなくなる中で、地域での「生活交通の確保」は、住みなれた地域で安心して住み続けるための柱となる重要な取組みの一つと考えています。<br/>
+<br/>
+この取り組みを久利町の地域住民が自ら主体となって行うことで、同様の課題を抱える他の地域の先進事例となり、大田市全域の持続可能なまちづくりの推進につながっていくものと期待しています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">事業に携わる方の思い</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">久利まちづくり推進協議会 会長　森山 護さん</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181115/gpfd_bd818559e3a468b2df9e0a236efd95ba6ba78080.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">久利町で暮らす高齢者や障がい者の生活機能の確保と利便性の向上を、地域住民が主体となって継続して取り組むことで、今後も住みなれた久利町で住みつづけることが可能な地域づくり（持続可能なまちづくり）が期待できます。<br/>
+<br/>
+また、自治会輸送を既存バス路線に結節することで路線バスの利用促進につなげ、交通事業者と連携した持続可能なまちづくりの取組みを目指していきます。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">利用希望者の声</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181109/gpfd_56b7f9d30d6b98b96bf817d0db33154a8e9c5fe4.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">・自分は、介護認定を受けていて、近くのバス停へ歩いていくことが困難な状況です。通院などのために、利用させてもらいたいです。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">・自分は高齢（88才）であり、今後運転免許証の返納を予定しています。通院や買い物のための外出に、利用したいです。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">・自宅からバス停までは2㎞以上あり、通院や買い物など外出のたびに大変です。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">・地元には魚屋さんがありません。買い物に行きたいです。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">寄附者の皆様へ</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">ごあいさつ　～大田市長 楫野 弘和～</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2--reverse">
+<div class="lyt-image2__content">
+<p class="gcf-txt">地域住民が主体となって生活交通の確保に向けた、久利地区の「自治会輸送」の取り組みへのご支援に、心より御礼申し上げます。<br/>
+<br/>
+住みなれた地域で暮らし続けるためには、生活交通の確保は重要な課題であり、大田市としても、この「自治会輸送」の取り組みに全力で協力していきたいと考えています。<br/>
+<br/>
+お寄せいただきましたご芳志に対しまして、感謝申し上げますとともに有効に活用させていただきます。ご期待に沿えるように頑張ってまいりますので、今後とも応援をお願い申し上げます。</p>
+</div>
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181130/gpfd_75b371dcbddb03b917cc8c75892a701562a4d0cb.jpg" />
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">お礼の品一覧</span></h3>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/346788/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220830/pd_f9180e8245bd212d3139e3448b110abaed9bbfa9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">特大 あなご一夜干し 1尾 250g 「天女の羽衣」【250g 穴子干物 魚介類 魚 穴子 アナゴ 干物 特大 50cm 無添加 天日塩 新鮮 冷凍 真空パック 贈答 ギフト 父の日 母の日】</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認（決済完了）から2週間程度</p>
+</div>
+<p class="goods-col_textinfo pc">漁獲量3年連続1位の島根県沖で獲れた活ジメの特大あなごを一夜干に仕上げました！
+島根県沖「一日漁」で漁獲された穴子を買付から製造まで自社一貫体制で行うことで、原料の状態によって漬込みや乾燥時間を調節し品質を一定に保っています。
+天日塩のみを使用した無添加商品で、塩分も一般的な干物の塩分2～3％よりも少ない0.5％です。
+関東では20～30cmの煮穴子が有名ですが、この商品は50cmの一夜干です。
+大きさのインパクトと穴子の新しい食べ方を提案できる品となっております。
+穴子はその魚体の長さから健康長寿を願う縁起の良い魚でもあります。
+敬老の日、父の日母の日などの贈り物にもぴったりです。
+【原材料】
+マアナゴ（島根県産）、天日塩
+【原産地】
+島根県
+【加工地】
+島根県大田市
+【提供企業】
+有限会社岡富商店
+【1尾 1枚 250g 穴子干物 魚介類 魚 穴子 アナゴ あなご マアナゴ 干物 一夜干し 一夜干 特大 50cm 一日漁 低塩熟成 低塩 うす塩 天日塩 化学調味料不使用 着色料不使用 無添加 新鮮 ちらし寿司 恵方巻き 巻きずし 蒲焼き 天ぷら 穴子天 あなご天 素焼き 冷凍 真空パック 自宅用 家庭用 贈答 贈答用 ギフト プレゼント お歳暮 父の日 母の日】</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/430328/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230728/pd_a577825b17cb99d24585051b28b476217e55df89.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">おおだの名産！す巻き蒲鉾バラエティーセット（合計7本）【7本 セット かまぼこ 蒲鉾 す巻き蒲鉾 ストかま 食べ比べ 松下蒲鉾店 上野屋蒲鉾店 詰め合わせ 家庭用 贈答 ギフト 父の日 母の日】</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認（決済完了）から2週間程度</p>
+</div>
+<p class="goods-col_textinfo pc">※写真はイメージです。
+上野屋蒲鉾店、松下蒲鉾店の詰合せ商品です。
+（合計7本のセットです）
+内容：
+・す巻き蒲鉾　合計7本（上野屋蒲鉾店、松下蒲鉾店）
+※配達時に不在でお受け取り出来ない可能性がありましたら、配達日指定をお願いします。（初回配達日より３日～４日程度が賞味期限となります。）
+===================
+【原材料】
+上野屋蒲鉾店：魚肉すり身、食塩、魚介エキス、でん粉（馬鈴薯）、清酒、卵白（卵を含む）、砂糖／調味料（アミノ酸等）、保存料（ソルビン酸）
+松下蒲鉾店：魚肉、でん粉、卵白(卵を含む)、食塩、砂糖、みりん、清酒/調味料(アミノ酸等)、保存料(ソルビン酸)
+【原産地】
+上野屋蒲鉾店：外国製造（魚肉すり身）、島根県産（魚肉すり身）
+松下蒲鉾店：外国製造(魚肉すり身)、島根県産(魚肉すり身)
+【加工地】
+上野屋蒲鉾店：大田市
+松下蒲鉾店：大田市
+【提供企業】
+道の駅ロード銀山
+【7本 セット かまぼこ 蒲鉾 す巻き蒲鉾 すまきかまぼこ ストかま すとかま ストローかまぼこ ストロー蒲鉾 食べ比べ 松下蒲鉾店 松下屋蒲鉾 上野屋蒲鉾店 上野屋蒲鉾 お土産 定番 おつまみ 詰め合わせ 自宅用 家庭用 贈答用 贈答 お祝い プレゼント ギフト 父の日 母の日】</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/289626/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220809/pd_ab6d1e1f0ea40153fadc760e60bdb8e0054d682b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【熟成】銀山赤どり精肉定期便（１羽分×５回お届け）【鶏肉 1羽分 まるごと 1kg～1.2kg 5回 合計5羽分 定期便 定期 鶏 地鶏 赤鶏 赤どり 熟成 真空パック 真空 国産 島根県 大田市】</h4>
+<p class="goods-col_price inline">70,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_period">定期</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>人気商品につき、鶏の生育状況によっては、初回お届けまで2か月～3か月程度お時間をいただく場合がございます。
+2回目以降は、初回配達日より約2ヶ月～3ヶ月毎にお届けします。
+鶏の生育状況によって予定より遅くなる場合もございますので、予めご了承ください。</p>
+</div>
+<p class="goods-col_textinfo pc">※写真は１羽分です。
+※2020年4月からのリニューアルにより寄附金額が変更されました。
+※こちらの鶏肉はドライエイジング処理・ウエットエイジング処理による熟成加工を行っており、熟成加工を行っていないものと比べて、寄付額が高くなっております。予めご了承ください。
+【国産地鶏】地鶏の銀山赤どり精肉
+定期的に送ってほしい！そんなご要望にお応えして５ヶ月間の定期便を追加しました！
+大江高山のふもとの大自然の中で発酵飼料を与えてのびのびと育てた銀山赤どり（地鶏）の精肉をたっぷり１羽分×５回お送りします！
+ブロイラーの約3倍の日数をかけ育てた銀山赤どりのお肉には甘みがあり、匂いもなく、くせの無い美味しいお肉です。
+鍋物、唐揚げ、焼き鳥、すき焼きなどさまざまな料理でお楽しみいただけます。
+100％無薬なので安心・安全！！
+ ※人気商品につき、鶏の生育状況によっては、初回お届けまで2か月～3か月程度お時間をいただく場合がございます。
+通常のブロイラーの約3倍～4倍以上の日数をかけて育てた鶏は、ジビエのように肉が引き締まり、お肉がもつ本来の味が際立ちます。
+みなさまの食卓に、安全でおいしいお肉をお届けできるよう日々奮闘しておりますので、予めご了承ください。
+（品切れにより配達希望日のご希望に沿えない場合がございます。遅れる場合は発送元よりご連絡いたします。）
+【鶏肉 1羽分 まるごと 1kg～1.2kg 5回 合計5羽分 定期便 定期 鶏 地鶏 真空パック】
+【ご注意】
+こちらのお品物につきましては、オス、メスのご指定は出来かねます。
+その月の美味しいと思える状態のものをオス、メス関係なくお届けいたします。
+オスが続く月もあれば、メスが続く月もございますのでご了承くださいませ。
+お肉にオス、メスがわかるようにシールを貼りますので、食べ比べていただけましたら幸いです。
+熟成の工程は、朝引き鶏をその日のうちに熟成シートに包み－2℃の冷蔵庫で3～4日熟成させます。
+その後真空にして－20℃にて冷凍したものをお届けいたします。
+オスはコクが深まり程よい弾力に、メスは脂がまろやかで優しい味わいになります。
+ぜひ定期便にてご賞味いただけますようご検討いただけましたら幸いです。
+【提供企業】
+（株）ササダ直販</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/437902/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220802/pd_89ef9d6266484807c08bfa476696e01fa38ea62d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">島根県沖！大ぶり「のどぐろ一夜干」定期便（３回お届け）【大ぶり のどぐろ一夜干 2尾×3回 国産 島根県産 大田市 高級魚 ノドグロ アカムツ 白身魚 トロ 無添加 冷凍 真空 特産品 お取り寄せ】</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_period">定期</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認（決済完了）から2週間程度
+※2回目以降のお届け日については、お届け時に案内の紙を同梱いたしますのでご確認ください。
+※魚の漁獲状況によっては、初回お届けまで2か月～3か月程度お時間をいただく場合がございます。
+（品切れにより発送期日に沿えない場合がございます。遅れる場合は発送元よりご連絡いたします。）</p>
+</div>
+<p class="goods-col_textinfo pc">※写真はイメージです。
+※人気のお品につき、初回お届けまで2か月～3か月程度お時間をいただく場合がございます。
+（品切れにより発送期日に沿えない場合がございます。遅れる場合は発送元よりご連絡いたします。）
+一回だけでなく何度も大きくて脂たっぷりの「のどぐろ」を食べてみたい！という声にお答えして定期便が登場！
+お一人で一尾召し上がるのにちょっと大きいくらいの大きさかもしれませんが、これならしっかり”のどぐろ”が堪能できます！
+もちろん魚は地元島根県沖産、深層海水の天日塩だけで仕上げた100％無添加仕上げで貴重なのどぐろの旨さをしっかり引き出しています。
+【島根県沖 大ぶり のどぐろ一夜干 2尾 毎月お届け 国産 島根県産 大田市 人気 魚介類 魚 高級魚 ノドグロ アカムツ 白身魚 トロ 贅沢 無添加 冷凍 真空 特産品 お取り寄せ グルメ 厳選 熟練 極上 干物 大ぶり ノドグロ 一夜干し 定期便 おつまみ 酒の肴 おかず 一品 無添加 ギフト プレゼント 贈答 贈り物 計6尾 定期 3回 】
+内容：
+・のどぐろ一夜干（176～200g）×２尾×３回お届け
+※要冷凍
+※2回目以降のお届け日については、お届け時に案内の紙を同梱いたしますのでご確認ください。
+＝＝＝＝＝＝＝＝＝＝
+【原材料】
+ノドグロ（アカムツ）、天日塩
+【原産地】
+島根県
+【加工地】
+島根県大田市
+【提供企業】
+有限会社岡富商店</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/4457666/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230711/pd_fc031e692194268ddfafcede4bcf97cc2e671147.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">濃厚なおいしさ！のどぐろの姿煮（4尾）【1尾あたり100～140g 内容量 180g 魚介類 魚 のどぐろ ノドグロ のど黒 あかむつ アカムツ 煮魚 姿煮 冷凍 個包装 真空パック 父の日 母の日】</h4>
+<p class="goods-col_price inline">24,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認（決済完了）から2週間程度
+</p>
+</div>
+<p class="goods-col_textinfo pc">※2024年5月からのリニューアルにより寄附金額が変更されました。
+※写真はイメージです。
+【”のどぐろ&quot;姿煮】島根県
+高級魚・のどぐろの濃厚なおいしさが楽しめるもうひとつの食べ方が煮付けです。
+和田珍味では、旬の脂ののったのどぐろをこだわりのタレで味付けし、ふっくらとした姿煮に仕上げました。
+湯煎するだけで、お手軽にお楽しみいただけます。
+＝＝＝＝＝＝＝＝＝＝
+【ご注意】
+※要冷凍
+【原材料】
+国産ノドグロ（アカムツ）、醤油、みりん、清酒、砂糖、昆布（一部に小麦・大豆を含む）
+【原産地】
+島根県・山口県
+【加工地】
+島根県大田市
+【提供企業】
+株式会社和田珍味
+【1尾あたり100～140g 内容量 180g 4袋 魚介類 魚 のどぐろ ノドグロ のど黒 あかむつ アカムツ 惣菜 煮魚 姿煮 煮つけ 煮付 和食 日本食 贅沢 ご褒美 おかず 湯煎だけ 簡単 簡単調理 簡単料理 冷凍 個包装 真空パック 父の日 母の日】</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/2134/16">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20150101/p_2134a16e0ba26c38d40e28f51ac657cd3961.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【新米】米米５ｋｇセット【新米 令和4年産 2022年産 さんべ浮布米 コシヒカリ 無洗米 5kg 米粉麺 遊牧麺 80g×12食分 めんつゆ 12食分 島根県産 大田市産 米 詰め合わせ セット】</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>《10月7日お申込み分より新米にてお届けします》
+9月中旬頃より新米ができ次第発送いたします。</p>
+</div>
+<p class="goods-col_textinfo pc">※写真はイメージです。
+三瓶の大自然の恵みをたっぷり受けた、つややかでもちもちと甘いこしひかりの特徴が引き立つ美味しいお米！
+そんなさんべ浮布米を、どうぞご賞味ください。
+【新米 令和4年産 2022年産 さんべ浮布米 コシヒカリ 無洗米 5kg 米粉麺 遊牧麺 80g×12食分 めんつゆ 12食分 島根県産 大田市産 米 ブランド米 こしひかり 麺類 米粉 ヘルシー 調味料 つゆ 詰め合わせ セット】
+内容:
+さんべ浮布米(無洗米)5kg
+米粉麺(遊牧麺)80g×12食分
+めんつゆ12食分
+提供企業：ファーム浮布株式会社
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/2136/16">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20150101/p_2136a5af461c6dba294c5e9e07e917eeff34.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【新米】米米３ｋｇ＆ごはんのお伴セット【新米 令和4年産 さんべ浮布米 コシヒカリ 無洗米 3kg 米粉麺 遊牧麺 12食分 めんつゆ 12食分 板わかめふりかけ 15g わさび茶漬け 70g】</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>《10月7日お申込み分より新米にてお届けします》
+9月中旬頃より新米ができ次第発送いたします。</p>
+</div>
+<p class="goods-col_textinfo pc">※写真はイメージです。
+三瓶の大自然の恵みをたっぷり受けた、つややかでもちもちと甘いこしひかりの特徴が引き立つ美味しいお米！
+そんなさんべ浮布米を、どうぞご賞味ください。
+【新米 令和4年産 2022年産 さんべ浮布米 コシヒカリ 無洗米 3kg 米粉麺 遊牧麺 12食分 めんつゆ 12食分 板わかめふりかけ 15g わさび茶漬け 70g 島根県産 大田市産 米 ブランド米 こしひかり 麺類 米粉 ヘルシー 調味料 つゆ 加工食品 わかめ ふりかけ 山葵 お茶漬け 詰め合わせ セット】
+内容:
+さんべ浮布米(無洗米)3kg
+米粉麺(遊牧麺)×12食分
+めんつゆ12食分
+板わかめふりかけ15g
+わさび茶漬け70g
+提供企業：ファーム浮布株式会社
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/351151/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230616/pd_dd6ee801aaac636c9cbab8866370eb720afb9487.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">さんべバーガーのこだわりハンバーグセット（配達指定日不可）【ハンバーグ 200g 3個 ハンバーグステーキ 170g 3個 手作り デミソース 簡単 レンジ 湯せん 人気 セット 詰め合わせ 冷凍】</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>【12月22日以降のご寄附分は、1月5日（木）より順次発送となります】
+入金確認（決済完了）から2週間程度</p>
+</div>
+<p class="goods-col_textinfo pc">※2023年12月からのリニューアルにより寄附金額が変更されました。
+※写真はイメージです。
+【子供にも人気のハンバーグ】
+【12月22日以降のご寄附分は、1月5日（木）より順次発送となります】
+【配達指定日不可！配達希望日を入力されても無効となります！】
+SANBE BURGERで人気メニューのハンバーグを真空冷凍で商品にしました。
+島根県産肉１００％使用で、成形からソース作りまで１つ１つ手作りしています。
+デミグラスソース入りなので、温めてそのままお皿に乗せればすぐお店の味です。
+冷凍庫にストックしておけるのでとっさの時に大活躍します。
+《こだわりポイント》
+ハンバーグ：島根県産肉（牛・豚）を100％で使用し、成形からデミグラスソース作りまで1つ1つ手作りで商品にしています。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ハンバーグステーキ：島根県産肉をダイレクトに味わえるようにちょっと大きめのプレーンタイプのハンバーグを作りました。
+《食べ方やレシピ》
+デミグラスソース入りなので、温めてお皿に出すだけでお店の味です。
+ごはんの上にかけて、デミグラスハンバーグ丼・パスタにかけてハンバーグパスタ・カレーの上にかけてハンバーグカレー。
+ハンバーグステーキ：ご家庭でお気に入りのソースや大根おろしとポン酢で和風ハンバーグにもアレンジできます。
+《生産者の想い》
+私たちは、お客様に喜んで頂く為に島根県の豊富な食材に、たくさんの愛情を注ぎ込み、心に残るハンバーグをご用意致します。
+島根の澄んだ空気、豊かな自然、三瓶の美しい景色と共に、恵みいっぱいの食材で丁寧に仕上げた、こだわりハンバーグでおいしい笑顔をお届け致します。
+＝＝＝＝＝＝＝＝＝＝
+【ご注意】
+－１５℃以下で保存して下さい
+【内容】
+さんべバーガーのハンバーグ（デミグラスソース含め200g）×3個
+さんべバーガーのハンバーグステーキ（170g）×3個
+※要冷凍
+【提供企業】
+(有)SANBE BURGER</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/4480316/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20180905/pd_72d0a18e0dadee86bae934277dd7f7d89e121133.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ロード銀山特製三瓶そばセット【そば 蕎麦 三瓶そば 細麺 詰め合わせ セット】</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<p class="goods-col_textinfo pc">※写真はイメージです。
+【田舎ならではこだわりそば】
+地にこだわる。だからおいしい。～三瓶で採れたそばの実の香りがやさしい、細麺タイプのそば！
+初秋の朝夕の冷え込みの激しい三瓶高原で栽培されたそばの実のみを使用し、石臼で丹念に挽いたそば粉で作られたロード銀山限定の三瓶そばです。
+三瓶で収穫されるそばの実は大量生産されておらず、希少価値の高いそばとなっております。
+香り高いそばをぜひ一度ご賞味ください。
+内容：
+三瓶そば（二人前：麺160ｇ、つゆ40ｇ×2）×3個
+【原材料】
+めん(小麦粉(小麦(国内産))、そば粉(そば(三瓶産))、食塩)、つゆ(しょうゆ、砂糖、果糖ぶどう糖液糖、魚介エキス、食塩、発酵調味料、昆布エキス、かつおぶし、さばぶし/調味料(アミノ酸等)、カラメル色素)、(一部にそば・小麦・大豆・さばを含む)
+【原産地】
+小麦粉：国内産
+そば粉：三瓶産
+【提供企業】
+道の駅ロード銀山
+【そば 蕎麦 三瓶そば 細麺 細めん 乾麺 地物 島根県 大田市 三瓶在来種 つゆ付き 2人前 3個入り 6人前 限定 ざるそば もりそば かけそば 天ぷらそば ニシンそば きつねそば 田舎蕎麦 更科蕎麦 二八そば 引っ越し蕎麦 年越しそば 蕎麦湯 ランチ 夕食 夜食 郷土料理】</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/361600/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230707/pd_15d1867fff217ed4925f1619378e3b1e6c520483.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">「旨みたっぷり」のどぐろ一夜干し（3尾）【1尾あたり101～130g のどぐろ干物 ノドグロ のど黒 あかむつ アカムツ 干物 個包装 小分け 真空パック 冷凍 父の日 母の日】</h4>
+<p class="goods-col_price inline">16,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認（決済完了）から2週間程度
+</p>
+</div>
+<p class="goods-col_textinfo pc">※リニューアルにより2024年5月より寄附金額が変更になりました
+※写真はイメージです
+【”のどぐろ”一夜干し】島根県干物
+脂ののりが良く、白身のトロと言われるほど大変美味しいのどぐろを新鮮なうちに一枚一枚丁寧に開き、一夜干にしました！
+しっとりと柔らかな上質の白身からにじみ出るホクホクとした旨みたっぷりののどぐろ一夜干をぜひご家庭でお楽しみください！
+＝＝＝＝＝＝＝＝＝＝
+【ご注意】
+※要冷凍
+【原材料】
+アカムツ（国産）、食塩
+【原産地】
+島根県、山口県
+【加工地】
+島根県大田市
+【提供企業】
+株式会社和田珍味
+【1尾あたり101～130g のどぐろ干物 魚介類 魚 ノドグロ のど黒 あかむつ アカムツ 新鮮 干物 個包装 小分け 真空パック 冷凍 父の日 母の日】</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/25620/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211108/pd_1006da329cf6d8885d6327280bb54395bb960f0e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ごろっと島根和牛カレー（8個）【カレー 8個 1食 220g レトルト食品 レトルトカレー レトルト ビーフカレー 中辛 肉 和牛 しまね和牛 詰め合わせ セット 備蓄用 災害備蓄 島根県 大田市】</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認（決済完了）から１ヶ月以内</p>
+</div>
+<p class="goods-col_textinfo pc">深いコクとスパイスのきいた香り高いカレーに、神話の国島根県で育った「しまね和牛」をごろっと食べごたえのある大きさでたっぷり詰め込みました！ぜひご賞味ください。
+《こだわりポイント》
+ごろっと島根和牛が入っている肉感たっぷりのビーフカレーです。
+《食べ方やレシピ》
+【お湯で温める場合】
+　封を切らずにそのまま熱湯の中に入れ、5～6分間フタをせずに沸騰させたお湯で温めてください。
+【電子レンジで温める場合】
+　必ず深めの電子レンジ対応容器に移し、ラップをかけて温めてください。加熱時間は機種・W(ワット)数により異なりますので、電子レンジの説明書などを参考に加減してください。600Wの場合約2分、500Wの場合約2分30秒
+《生産者の想い》
+美味しい島根和牛を手軽に食べられるようにカレーに仕上げました。
+【カレー 8個 1食 220g レトルト食品 レトルトカレー レトルト 手軽 簡単 中辛 肉 和牛 しまね和牛 詰め合わせ セット 保存食 備蓄用 災害備蓄 島根県 大田市】
+＝＝＝＝＝＝＝＝＝＝
+【原材料】
+牛肉(島根県産)、ソテーオニオン、カレールウ(小麦粉、食用油脂、砂糖、食塩、カレー粉、その他)、カレー粉、にんじん、トマトペースト、ウスターソース、ポークエキス、バター、砂糖、ソテーガーリック、バナナフレーク、食塩、香辛料、酵母エキス/カラメル色素、調味料(アミノ酸等)、(一部に乳成分・小麦・オレンジ・牛肉・大豆・バナナ・豚肉・りんご・ごまを含む）
+【原産地】
+牛肉（島根県産）
+【加工地】
+鳥取県
+【提供企業】
+（有）島根農場
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/348313/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230911/pd_d5d4bda2f4b6a0a7faf4b2931906a38d6c424457.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ごろっと島根和牛カレー（4個）【カレー 4個 1食 220g レトルト食品 レトルトカレー レトルト ビーフカレー 中辛 肉 和牛 しまね和牛 詰め合わせ セット 備蓄用 災害備蓄 島根県 大田市】</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認（決済完了）から１ヶ月以内</p>
+</div>
+<p class="goods-col_textinfo pc">深いコクとスパイスのきいた香り高いカレーに、神話の国島根県で育った「しまね和牛」をごろっと食べごたえのある大きさでたっぷり詰め込みました！ぜひご賞味ください。
+《こだわりポイント》
+ごろっと島根和牛が入っている肉感たっぷりのビーフカレーです。
+《食べ方やレシピ》
+【お湯で温める場合】
+　封を切らずにそのまま熱湯の中に入れ、5～6分間フタをせずに沸騰させたお湯で温めてください。
+【電子レンジで温める場合】
+　必ず深めの電子レンジ対応容器に移し、ラップをかけて温めてください。加熱時間は機種・W(ワット)数により異なりますので、電子レンジの説明書などを参考に加減してください。600Wの場合約2分、500Wの場合約2分30秒
+《生産者の想い》
+美味しい島根和牛を手軽に食べられるようにカレーに仕上げました。
+【カレー 4個 1食 220g レトルト食品 レトルトカレー レトルト 手軽 簡単 中辛 肉 和牛 しまね和牛 詰め合わせ セット 保存食 備蓄用 災害備蓄 島根県 大田市】
+＝＝＝＝＝＝＝＝＝＝
+【原材料】
+牛肉(島根県産)、ソテーオニオン、カレールウ(小麦粉、食用油脂、砂糖、食塩、カレー粉、その他)、カレー粉、にんじん、トマトペースト、ウスターソース、ポークエキス、バター、砂糖、ソテーガーリック、バナナフレーク、食塩、香辛料、酵母エキス/カラメル色素、調味料(アミノ酸等)、(一部に乳成分・小麦・オレンジ・牛肉・大豆・バナナ・豚肉・りんご・ごまを含む）
+【原産地】
+牛肉（島根県産）
+【加工地】
+鳥取県
+【提供企業】
+（有）島根農場</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/4503398/16">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230823/pd_e17e727e9a806a6def3f6b1039e73e8818ee50af.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">わかめ三昧</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<p class="goods-col_textinfo pc">※2023年8月からのリニューアルにより内容量が変更されました。
+※写真はイメージです。
+【乾燥わかめ詰め合わせ】島根県
+島根県産のわかめのいろいろな味を楽しめる詰合せです。
+●島根県産板わかめ・天然板わかめ
+早春の海から採ったわかめをきれいに水洗いし、板状にのばして乾燥しました。このままでも焙っても美味しく召し上がれます。
+おにぎりに、お茶請けに、おつまみに、崩してふりかけに、熱いご飯に混ぜ込んでわかめご飯に。
+原料はわかめだけ、塩分は加えていません。生のわかめを洗ったあとに残った海の塩味です。
+賞味期限は300日、光と湿気に弱いので直射日光や高湿を避けて保存してください。
+天然板わかめはわかめの胞子が岩に付いて自然にできた天然のわかめで作りました。
+天然板わかめをご賞味ください。
+●焙りわかめ・天然焙りわかめ
+その板わかめをお手軽に召し上がれるように味と香りを大切に焙り、チャック付きの袋に入れました。
+賞味期限は1年、開封後はなるべく早くお召し上がりください。
+天然焙りわかめは自然に芽生えた天然わかめで作っています。
+●味付板わかめ
+胡麻の風味とパリパリの食感、ちょっと甘い味が付いたわかめです。お茶請けにおやつに。
+材料は島根県産板わかめとごま、味付けのタレは砂糖、ゼラチン、鯵煮干抽出液、飛魚煮干抽出液、寒天、昆布粉末、唐辛子、調味料（アミノ酸等）を使用しています。
+賞味期限は1年、湿気を嫌いますので高湿を避けて保存してください。
+開封後は湿りますのでお早くお召し上がりください。
+●板わかめふりかけ
+島根県産の板わかめを焙って茎を取り小さく崩しました。
+ご飯に掛けたり、混ぜたりするにはとっても便利な一品です。
+原料はわかめだけ、賞味期限は1年、チャックの袋入りですので必要なだけ使えます。
+湿らないようにご注意下さい。
+＝＝＝＝＝＝＝＝＝＝
+【ご注意】
+開封前：直射日光のあたるところや高湿を避け常温で保存してください
+開封後：袋の口を閉じ、なるべく早くお召し上がりください
+※量目は予告なしに変更することがあります
+【提供企業】
+株式会社渡邊水産食品</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/348329/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230620/pd_70de443e29ac2eabac5d48cb86ab96a7f4a8d889.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">「志学のおだし」子三瓶セット【出汁パック 50袋入り 1個 10袋入り 2個 出汁 だし 原木椎茸 しいたけ 贅沢 万能和風 調味料 だしの素 出汁の素 だしパック 島根県 大田市】</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<p class="goods-col_textinfo pc">※2023年8月からのリニューアルにより寄附金額が変更されました。
+三瓶町特産の原木椎茸を贅沢に使った万能和風だしの素です。
+≪こだわりポイント≫
+『志学のおだし』に使われている三瓶町産原木椎茸は、うま味以外にもコクや複雑味といった要素が多く、奥行きや厚みのある味わいが特長です。
+その原木栽培の椎茸に、本枯れ鰹節・利尻昆布・枯れ鯖節を加え、さらに鰹節を上回るほどの旨味で上品なだしが取れるあご削り節を使った、万能和風だしの素です。
+≪食べ方やレシピ≫
+『基本のだしの取り方』（※料理によって異なります）
+水4カップ（800㎖）につき、だしパック1袋を入れて火にかけ、沸騰したら中火にして1～2分間煮出し、だしパックを取り出します。
+≪生産者の想い≫
+寒さの中で、うま味が凝縮した三瓶の原木椎茸を使っています。
+下味が調えてありますので、手軽に美味しく仕上がります。
+和食のみならず、いろいろな料理にご利用ください。
+【出汁パック 50袋入り 1個 10袋入り 2個 出汁 だし 原木椎茸 しいたけ 贅沢 万能和風 だしの素 出汁の素 かつお節 鰹節 利尻昆布 昆布 枯れ鯖節 鯖節 あご削り節 だしパック みそ汁 煮物 かけそば かけうどん 割子そば ざるそば 島根県 大田市】
+＝＝＝＝＝＝＝＝＝＝
+【ご注意】
+開封後はパッケージに入れたまま、チャックを閉じて常温保存してください。
+【原材料】
+食塩（国内製造）、砂糖、鰹節粉末、鯖節粉末、鰹だし顆粒、煮干うるめ鰯粉末、粉末醤油、飛魚粉末、椎茸粉末、昆布粒／調味料（アミノ酸等）、乳酸カルシウム（一部に小麦・さば・大豆を含む）
+【原産地】
+大田市三瓶町産他
+【加工地】
+大田市
+【提供企業】
+株式会社さんべ開発公社</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/196263/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230620/pd_64245b7a5cc4e98184137c8a1f7785af14f09e27.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">「志学のおだし」親三瓶セット【出汁パック 50袋入り 2個 10袋入り 4個 出汁 だし 原木椎茸 しいたけ 贅沢 万能和風 調味料 だしの素 出汁の素 だしパック 島根県 大田市】</h4>
+<p class="goods-col_price inline">22,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<p class="goods-col_textinfo pc">※2023年8月からのリニューアルにより寄附金額が変更されました。
+三瓶町特産の原木椎茸を贅沢に使った万能和風だしの素です。
+≪こだわりポイント≫
+『志学のおだし』に使われている三瓶町産原木椎茸は、うま味以外にもコクや複雑味といった要素が多く、奥行きや厚みのある味わいが特長です。
+その原木栽培の椎茸に、本枯れ鰹節・利尻昆布・枯れ鯖節を加え、さらに鰹節を上回るほどの旨味で上品なだしが取れるあご削り節を使った、万能和風だしの素です。
+≪食べ方やレシピ≫
+『基本のだしの取り方』（※料理によって異なります）
+水4カップ（800ml）につき、だしパック1袋を入れて火にかけ、沸騰したら中火にして1～2分間煮出し、だしパックを取り出します。
+≪生産者の想い≫
+寒さの中で、うま味が凝縮した三瓶の原木椎茸を使っています。
+下味が調えてありますので、手軽に美味しく仕上がります。
+和食のみならず、いろいろな料理にご利用ください。
+【出汁パック 50袋入り 2個 10袋入り 4個 出汁 だし 原木椎茸 しいたけ 贅沢 調味料 万能和風 だしの素 出汁の素 かつお節 鰹節 利尻昆布 昆布 枯れ鯖節 鯖節 あご削り節 だしパック みそ汁 煮物 かけそば かけうどん 割子そば ざるそば 島根県 大田市】
+＝＝＝＝＝＝＝＝＝＝
+【ご注意】
+開封後はパッケージに入れたまま、チャックを閉じて常温保存してください。
+【原材料】
+食塩（国内製造）、砂糖、鰹節粉末、鯖節粉末、鰹だし顆粒、煮干うるめ鰯粉末、粉末醤油、飛魚粉末、椎茸粉末、昆布粒/調味料（アミノ酸等）、乳酸カルシウム（一部に小麦・さば・大豆を含む）
+【原産地】
+大田市三瓶町産他
+【加工地】
+大田市
+【提供企業】
+株式会社さんべ開発公社</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/381716/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200312/pd_e321c10ceccd190f5d2a4126b3613f66b74c3ca9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">原醤油の醤油セットA【醤油 さしみ醤油 特級醤油 うまくち醤油 しょうが醬油 えごまと米の醬 ひしお しょうゆ エゴマ 濃口醤油 調味料 5種 詰め合わせ セット ギフト 贈り物 贈答 プレゼント】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<p class="goods-col_textinfo pc">※2023年7月からのリニューアルにより寄附金額と内容量が変更されました。
+※写真はイメージです。
+原醤油のタイプの違う2種類の濃口醤油と加工醤油のセットです。
+▼こだわりポイント
+天然醸造
+▼食べ方やレシピ
+お刺身用、煮物用、かけ醤油用、豚の生姜焼き等
+▼生産者の想い
+タイプの違う醤油を食べ比べてみてください。
+＝＝＝＝＝＝＝＝＝＝
+【ご注意】
+直射日光を避けて常温で保管。開栓後は10℃以下で保存。
+【原材料】
+・さしみ醤油：脱脂加工大豆（国内製造）、小麦、アミノ酸液、食塩、糖類（砂糖、水飴）、米醗酵調味料/アルコール、調味料（アミノ酸等）、甘味料（甘草、ステビア）、増粘剤（キサンタンガム）ビタミンＢ₁
+・特級醤油：脱脂加工大豆（国内製造）、小麦、食塩、砂糖/アルコール、調味料（アミノ酸等）、甘味料（甘草、ステビア）、ビタミンＢ₁
+・うまくち醤油：アミノ酸液（国内製造）、脱脂加工大豆、小麦、食塩、糖類（砂糖、水飴）、米醗酵調味料/アルコール、調味料（アミノ酸等）、甘味料（甘草、ステビア）、ビタミンＢ₁
+・しょうが醬油：しょうゆ（小麦、大豆を含む、国内製造）、米醗酵調味料、砂糖、生姜（島根県産）/アルコール、調味料（アミノ酸等）、甘味料（甘草、ステビア）、ビタミンＢ₁
+・えごまと米の醬：脱脂えごま（島根県産）、食塩、米（国産）、砂糖
+【原産地】
+国内製造、生姜（島根県産）、えごま（島根県産）、米（国産）
+【加工地】
+島根県大田市
+【提供企業】
+原醤油有限会社
+【醤油 さしみ醤油 特級醤油 うまくち醤油 しょうが醬油 えごまと米の醬 ひしお しょうゆ エゴマ 濃口醤油 調味料 5種 詰め合わせ セット ギフト 贈り物 贈答 プレゼント お歳暮 お中元】</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/366056/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220722/pd_711f9a5b2375de2f53823072358fa1bbb91468df.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ナチュラルミネラルウォーター「さひめの泉」2L×6本×2箱【2L 天然水 ミネラルウォーター 軟水 シリカ水 シリカ ペットボトル】</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認（決済完了）から2週間程度
+※夏季休業のため8/10～8/16のお申込分は8/17以降に順次発送いたします。</p>
+</div>
+<p class="goods-col_textinfo pc">※2024年4月からのリニューアルにより、寄附金額が変更されました。
+※写真はイメージです。
+国立公園三瓶山より豊饒な自然が生んだ最高品質の天然水をお届けします！
+三瓶山の麓で採水した、まろやかな良質の天然水。
+コラーゲン形成に欠かせない「シリカ」を多く含む、女性にやさしいシリカ水です。
+モンドセレクション2年連続金賞受賞（2012年度初出品・初受賞、2013年度受賞）
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+【ご注意】
+※夏季休業のため8/10～8/16のお申込分は8/17以降に順次発送いたします。
+※常温（直射日光を避けて保存してください）
+【原材料】
+水
+【原産地】
+大田市
+【加工地】
+大田市
+【事業者】
+山陰クボタ水道用材株式会社
+大田市 シリカ水 天然水</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/2122/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230202/pd_79a266e8a3ae47509d48778efef529cc07088053.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">開春「西田（生もと純米）」＆開春生もと純米大吟醸セット【日本酒 2本 セット 飲み比べ 純米酒 開春 西田 生もと純米 生もと純米大吟醸 大吟醸 冷や 燗 熱燗 お酒 酒 父の日】</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認（決済完了）から2週間程度</p>
+</div>
+<p class="goods-col_textinfo pc">【飲みやすい日本酒純米大吟醸】
+江戸時代に確立した伝統的な日本酒の製法「生もと」で醸した純米酒のセットです。
+酒に力があるのが特徴で冷やでも燗でも美味しく召し上がれます。
+《開春 西田　生もと純米》
+西田とは温泉津にある土地の名前です。生もとらしい重厚さもありながら穏やかで旨味も感じられます。
+《開春 生もと純米大吟醸》
+辛口な味わいながら生もとらしいコクと大吟醸らしい繊細な味わいがマッチしたお酒です。
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+【原料米】
+開春「西田(生もと純米)」：山田錦100％
+開春 生もと純米大吟醸：山田錦100％
+【アルコール度数】
+開春 西田(生もと純米)：17％
+開春 生もと純米大吟醸：16％
+【原産地】
+島根県
+【加工地】
+島根県大田市温泉津町
+【提供企業】
+若林酒造有限会社
+【日本酒 2本 セット 飲み比べ 純米酒 開春 西田 生酛純米 きもと純米 生もと純米大吟醸 生きもと純米大吟醸 大吟醸 生もと きもと 冷や 燗 熱燗 瓶 お酒 酒 キレ味 含み香 父の日】</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/12193/16">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20150101/p_121932ad52a54b65f6bc48140a856132519e8.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">陸の燈台プロジェクト利用券</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認（決済完了）から2週間程度</p>
+</div>
+<p class="goods-col_textinfo pc">内容:
+陸の燈台プロジェクト利用券
+ 大田にあるご実家の草刈り、庭掃除や墓掃除を行います。
+●作業内容
+・墓掃除、草刈りなど
+●作業時間
+・半日程度の作業を受託しています。
+※事業団より連絡し、作業の日程や内容を調整します。終了後は、完了写真を届けます。
+提供企業：労協しまね事業団</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/2135/16">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200915/pd_3cb2d04073f735469ab6f40a2c357a7b7fe30688.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">遊牧麺24食セット</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<p class="goods-col_textinfo pc">三瓶山の草原のゆったりとした自然の恵みを麺に込めて作りました。
+さんべ浮布米の米粉を配合することで《つるん》とした食感で優しいのどごしに仕上がりました。
+めんつゆやスープ、鍋のしめなど和風料理にはもちろん中華料理やイタリアンなど、幅広い調理方法でお召し上がりください。
+内容:
+米粉麺(遊牧麺)80g×24食分
+めんつゆ24食分
+提供企業：ファーム浮布株式会社
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/32205/4422608/16">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230210/pd_e74acb8c6e4dc8ece7b3da8f8d48ef804f409681.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">石見銀山大吟醸＆純米吟醸（改良八反流）セット</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<p class="goods-col_textinfo pc">※写真はイメージです。
+自分へのご褒美におすすめの大吟醸と、食卓でもお楽しみいただける純米吟醸のセットです。
+どちらも冷やしてお楽しみいただけます。
+島根県産の原料にこだわり、女性杜氏が醸したこだわりのお酒です。
+内容：
+石見銀山　大吟醸720ml×1本
+石見銀山　純米吟醸「改良八反流」720ml×1本
+＝＝＝＝＝＝＝＝＝＝
+【ご注意】
+※20歳未満の飲酒は法律で禁⽌されています。
+【原材料】
+純米吟醸「改良八反流」：米（国産）、米麹（国産米）
+大吟醸：米（国産）、米麹（国産米）、醸造アルコール
+【原産地】
+島根県
+【加工地】
+島根県大田市
+【提供企業】
+一宮酒造有限会社</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<ul class="gcf-lst-bx" id="progress_list">
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2019年06月30日 18:00</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">寄附募集期間の終了と寄附の御礼</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">本プロジェクトは2019年2月28日を持って、寄附募集期間を終了しました。<br/>
+たくさんの寄附を頂き、誠にありがとうございました。<br/>
+今回、寄附者の皆様からの応援メッセージにとても勇気づけられました。<br/>
+<br/>
+皆様からの寄附金は、本事業の購入費の一部として活用させていただきました。<br/>
+2019年4月より久利町内では自治会輸送車輌が運行しております。<br/>
+地元の方々も非常に喜んでおります！<br/>
+<br/>
+今後とも大田市を応援いただけますと幸いです！</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="275" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="275">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="275">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F473%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+</ul>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">島根県大田市</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">大田市は、島根県のほぼ中央に位置しています。日本海に面し、海岸線は約46ｋｍにおよび、岩場と砂場が交互に存在することから、漁業はもちろん、風光明媚な自然景観、海水浴、釣り、マリンスポーツなどの観光に適しています。また世界遺産となった「石見銀山遺跡」、隠岐大山国立公園に属する「三瓶山」や多くの温泉があります。世界遺産「石見銀山遺跡」をシンボルに産業・歴史・文化・自然など豊富にある地域特性を活かしながら、魅力あるまちづくりに取り組んでいます。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">島根県大田市の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/32205/16?from=2&amp;gcf_project_id=473"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,516,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g473,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

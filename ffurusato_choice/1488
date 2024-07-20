@@ -1,0 +1,2858 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/1488" />
+
+<title>”こころ”と”からだ”をつくる​一汁一菜｜シングルファミリーの子どもたちのための料理教室COMPASSを開催し続けたい｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="”こころ”と”からだ”をつくる​一汁一菜｜シングルファミリーの子どもたちのための料理教室COMPASSを開催し続けたい｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/1488" />
+<meta property="og:description" content="poco a bocco（ポコ・ア・ボッコ）は、女性が健やかに生きることで家庭や地域、社会全体が元気になる未来を目指して活動するNPO法人です。ココロと身体は密接につながっていて、どちらか一方に不調が出ると、もう片方もバランスを崩してしまいます。現代のストレス社会の中で、私たち女性は、日々「ゆらぎ」とともに生きています。　そんな女性たちが不安や悩みを分かち合い、解決策を学び合い、そして自分自身を愛おしむ機会を提供する活動に取り組んでいます。パパの役割もママの役割も一人でこなすシングルファミリーの親御さん。 お子さんが自分で料理が出来ると心強いですよね。 でも、ゆっくり教える時間もない… そんな声から料理教室COMPASSが生まれました。この活動を通して様々なことを目で見て、耳で聞き、舌で味わい、こころを震わせ、料理は楽しい！と知った子ども達は、きっと将来、自分のために、誰かのために、繰り返し愛情たっぷりのご飯を作るでしょう。 また、小さな子どもでも、役割を持ち、家族の一人として貢献し「ありがとう」と言われることは、生きるうえで最も大切な自己肯定感を育みます。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20211025/d_88f9c42f1f09be30fe1274b2efaa2d4fa5f16d56.png" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20211025/d_88f9c42f1f09be30fe1274b2efaa2d4fa5f16d56.png" />
+<meta property="twitter:title" content="”こころ”と”からだ”をつくる​一汁一菜｜シングルファミリーの子どもたちのための料理教室COMPASSを開催し続けたい｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="poco a bocco（ポコ・ア・ボッコ）は、女性が健やかに生きることで家庭や地域、社会全体が元気になる未来を目指して活動するNPO法人です。ココロと身体は密接につながっていて、どちらか一方に不調が出ると、もう片方もバランスを崩してしまいます。現代のストレス社会の中で、私たち女性は、日々「ゆらぎ」とともに生きています。　そんな女性たちが不安や悩みを分かち合い、解決策を学び合い、そして自分自身を愛おしむ機会を提供する活動に取り組んでいます。パパの役割もママの役割も一人でこなすシングルファミリーの親御さん。 お子さんが自分で料理が出来ると心強いですよね。 でも、ゆっくり教える時間もない… そんな声から料理教室COMPASSが生まれました。この活動を通して様々なことを目で見て、耳で聞き、舌で味わい、こころを震わせ、料理は楽しい！と知った子ども達は、きっと将来、自分のために、誰かのために、繰り返し愛情たっぷりのご飯を作るでしょう。 また、小さな子どもでも、役割を持ち、家族の一人として貢献し「ありがとう」と言われることは、生きるうえで最も大切な自己肯定感を育みます。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,554,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="1488" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">”こころ”と”からだ”をつくる​一汁一菜｜シングルファミリーの子どもたちのための料理教室COMPASSを開催し続けたい</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">”こころ”と”からだ”をつくる​一汁一菜｜シングルファミリーの子どもたちのための料理教室COMPASSを開催し続けたい</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1018">子ども・教育&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20211025/d_88f9c42f1f09be30fe1274b2efaa2d4fa5f16d56.png" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E2%80%9D%E3%81%93%E3%81%93%E3%82%8D%E2%80%9D%E3%81%A8%E2%80%9D%E3%81%8B%E3%82%89%E3%81%A0%E2%80%9D%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%E2%80%8B%E4%B8%80%E6%B1%81%E4%B8%80%E8%8F%9C%EF%BD%9C%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%81%AE%E5%AD%90%E3%81%A9%E3%82%82%E3%81%9F%E3%81%A1%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%96%99%E7%90%86%E6%95%99%E5%AE%A4COMPASS%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E7%B6%9A%E3%81%91%E3%81%9F%E3%81%84&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F1488">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">870,275</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 87%;"></div>
+<p class="gcf-cht-detail-bar__number">87%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">1,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">87</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">21</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>佐賀県NPO支援（さがけん えぬぴーおーしえん）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="1488" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2021年11月17日～2022年2月15日（91日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1028" class="sorting-list__item">まちづくり・コミュニティ</a></li><li><a href="/gcf/project/tag/1033" class="sorting-list__item">子ども・教育</a></li><li><a href="/gcf/project/tag/1034" class="sorting-list__item">食</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1082" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_3.png 1x, /gcf/images_cf/sdg/sdg_icon_3@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_3.png" alt="SDGアイコン" decoding="async" />3.すべての人に健康と福祉を</a></li><li><a href="/gcf/project/sdgs/1083" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_4.png 1x, /gcf/images_cf/sdg/sdg_icon_4@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_4.png" alt="SDGアイコン" decoding="async" />4.質の高い教育をみんなに</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="1488" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">佐賀県NPO支援 × NPO法人poco a bocco</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20211025/o_44a9ac6071490955eee5d8e6d85889907902fc54.png" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">poco a bocco（ポコ・ア・ボッコ）は、女性が健やかに生きることで家庭や地域、社会全体が元気になる未来を目指して活動するNPO法人です。<br/>
+<br/>
+ココロと身体は密接につながっていて、どちらか一方に不調が出ると、もう片方もバランスを崩してしまいます。現代のストレス社会の中で、私たち女性は、日々「ゆらぎ」とともに生きています。<br/>
+　<br/>
+そんな女性たちが不安や悩みを分かち合い、解決策を学び合い、そして自分自身を愛おしむ機会を提供する活動に取り組んでいます。<br/>
+<br/>
+パパの役割もママの役割も一人でこなすシングルファミリーの親御さん。 お子さんが自分で料理が出来ると心強いですよね。 <br/>
+<br/>
+でも、ゆっくり教える時間もない… そんな声から料理教室COMPASSが生まれました。<br/>
+<br/>
+この活動を通して様々なことを目で見て、耳で聞き、舌で味わい、こころを震わせ、料理は楽しい！と知った子ども達は、きっと将来、自分のために、誰かのために、繰り返し愛情たっぷりのご飯を作るでしょう。 <br/>
+<br/>
+また、小さな子どもでも、役割を持ち、家族の一人として貢献し「ありがとう」と言われることは、生きるうえで最も大切な自己肯定感を育みます。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">皆さまと手を取り合い、少しずつ</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">COMPASSを始めた背景と思い</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211025/gpfd_f590c18f1b56753becd34e38a6c3ad125d7c5297.png" />
+</figure>
+<p class="gcf-txt-article">結婚した3組のうち1組が、そして、その60%ほどが結婚から10年以内に、離婚を選択している現代。女性の“こころ”と“からだ”の健康をサポートする当団体（NPO法人poco a bocco）が、一人で家計を担いつつ、子育てや家事に奮闘するひとり親家庭の親御さんの支援活動を始めるにあたり、どのようなサービスならば喜んでいただけるのか、だいぶ考えました。<br/>
+<br/>
+そうして2018年に始めた全国にも例の少ない本事業が、参加してくださったそれぞれのご家庭にどのような変化をもたらすか、まずは長く続けてみることが大切！との想いで、参加者の声に耳を傾け、いくつもの団体様のお力もお借りしながら、これまで続けてまいりました。<br/>
+<br/>
+出来ましたら、水面に出来た波紋のように、他地域の団体様と手を取り合い、少しずつでもこの活動を全国へ広めていければ、これほど嬉しいことはありません。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">身近な食材で作るからだにやさしい一汁一菜</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">自分で考えて作れるようになることを目指す</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211025/gpfd_4d08e75baaab0fe9bf04b3cd8a7fa799e2195288.jpg" />
+</figure>
+<p class="gcf-txt-article">COMPASSはシングルファミリーのための子ども料理教室です。<br/>
+　<br/>
+ただみんなで調理をして楽しく食べることが目的なのではなく、子ども達が料理の基本を何度も繰り返して身に着ける、自分で出来た！喜んでもらえた！という経験を通して充実感や自信を育むことを大切にしています。<br/>
+<br/>
+そのため、毎回の講師はキッズ食育の専門家にお願いし、レシピの作成から、食材の準備、一人一人の年齢や発達段階に応じた調理のサポートまで、専門家の知見と経験を存分に発揮していただいています。<br/>
+<br/>
+ボランティアスタッフにも、安全の確保から子どもへの声のかけ方まで細かくアドバイスを受けることで、3歳から小学校6年生まで幅広い年齢の子ども達を受け入れることが出来ています。<br/>
+<br/>
+佐賀県立男女共同参画センターアバンセの調理室にて、毎月1回、日曜日に開催しています。1名の講師の他、ボランティアスタッフが6名ほど、そして地元の大学から派遣された学生ボランティアにも活躍してもらっています。<br/>
+<br/>
+親は調理には参加せず、離れた場所で子どもを見守るか、部屋を出て自由に過ごせるようにし、調理が終わったら親子で一緒に食事をします。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">寄付金の使い道</span></h2>
+<h3 class="gcf-ttl-h3">■2022年度も毎月1回のペースで開催</h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">「バイバイ」じゃなく「またね！」</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">■寄付金の使い道<br/>
+今回のご支援は2022年4月〜2023年3月に開催するCOMPASSの財源の一部に充てさせていただきます。<br/>
+<br/>
+【内訳】<br/>
+・講師、スタッフ　謝金：35万円<br/>
+・食材費：17万円<br/>
+・レシピ保管ファイル他：7万円<br/>
+・会場費等：4万円　　　　<br/>
+・ふるさと納税の募集に要する費用：35万円<br/>
+<br/>
+※目標金額に達しなかった場合、不足額は別財源から充当することで本プロジェクトを実施します。また、目標金額以上の寄付を頂いた場合、次年度の運営費へと繰り越し事業を継続していきます。<br/>
+<br/>
+■事業実施のスケジュール<br/>
+2022年4月〜2023年3月まで毎月1回、日曜日に定期開催。<br/>
+<br/>
+【当日のタイムスケジュール】<br/>
+・スタッフ集合：9:30　→　食材の下ごしらえ<br/>
+・参加者集合：10:30　→　調理開始<br/>
+・食事開始：12:00<br/>
+・解散：13:30</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211025/offd_caf3c338c5f4cc22f33a0fdf8c3c7b9e93fe6620.png" alt="「バイバイ」じゃなく「またね！」" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">COMPASSで出来る３つのこと</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">「経験する」「知る」「味わう」</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211025/gpfd_80aa8551f3b407b3b5d5f00f28c633d5071b62f5.png" />
+</figure>
+<p class="gcf-txt-article">COMPASSでは、知識や技術を教え込むのではなく、まずは「楽しい」と感じてもらうことを目指します。<br/>
+<br/>
+子ども達から「また参加したい！」という声が聞こえて、少しずつスタッフとの信頼関係が築けてくると、子ども達はどんどん自主的に調理に参加をするようになります。<br/>
+<br/>
+COMPASSで出来る以下の３つのことを通して、子ども自身が考えて自分で作れるようになるのです。<br/>
+<br/>
+実際に小学校中学年から参加し始めた子どもが現在、中学1年生となりスタッフとして参加をしてくれるようになりスタッフ一同とても感激しています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">●経験する</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">親の手を借りることなく、子ども自身が米をとぎ、出汁を取り、美味しいごはんを完成させる一連の流れをくり返し経験すること自体が一生の財産となるでしょう。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">​●知る</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">農産物の宝庫である佐賀で育まれた米や野菜について知り、旬の野菜を選んで調理することが出来るようになることを目指しています。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">●​味わう</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">挑戦し成し遂げる達成感、仲間と協力して作り上げる充実感、そして大切な人が自分のつくった料理で笑顔を見せてくれた時の喜びを味わいます。</p>
+</div>
+</div>
+</div>
+</div>
+<p class="gcf-txt-article">スタッフの多くは、ひとり親家庭で育った当事者や、ひとり親家庭の親として子どもを育ててきたメンバーです。<br/>
+<br/>
+そこにCOMPASSに長く通ってくれた子ども達が中学生、高校生、そして大人となりスタッフとして加わってくれる、そんな未来を目標としています。<br/>
+<br/>
+そのためには、何より、事業を続けていくことが重要との強い決意のもとGCFに挑戦することと致しました。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">事業に携わる方の思い</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">NPO法人poco a bocco 理事長　寺野 幸子</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211025/gpfd_758ad389f7ce154b813d0bc2a44be2525ae4a83d.png" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">わたしは人の「気持ち」にとても興味があります。<br/>
+前職は市役所の職員で、ひとり親家庭やＤＶ被害者のサポート、児童虐待防止などを担当していたこともあります。たくさんの「気持ち」に触れる仕事でした。当時よく思ったことがあります。「気持ち」はまるで木製の玉みたい。丁寧に磨かれたまあるい玉はすべすべで、触れると心地いいから、みんなが撫でる。どこへでもコロコロと転がっていく。でも誰からも磨いてもらえないトゲトゲの玉は、痛いから誰も触れない。あっちこっちで引っかかるから、どこにも行けない。トゲトゲの家庭で育つ子どもの気持ちが、まあるくすべすべになることは難しいなあ、と。<br/>
+<br/>
+女性の人生には、自分の努力や意志だけではどうにもならない出来事が起こりがちです。<br/>
+離婚もその一つ…父親と母親の役割、両方を一人で担うシングルファミリーの親御さんが、COMPASSを通して我が子の新しい一面に触れ、成長を感じ、家族で食べる食事の時間がより楽しいものになっていけばとても嬉しいです。<br/>
+<br/>
+COMPASSが続く限り、私達スタッフはいつもあの場所で、ご参加くださる親子をお迎えします。毎回参加しなくても、何か月も、何年も参加しなくても、ふと思い出した時にまた気軽に参加できる、そんな雰囲気を大切にしていきたいと考えています。<br/>
+ぜひGCFを通じて、そんな居場所の継続を応援してくださいますようお願い致します。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">キッズ食育講師　黒田 香織</span></h3>
+<h3 class="gcf-ttl-h3">■「一緒にごはん作って食べよう！」</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211025/gpfd_cccff39cd78d773d1d72bcce18083b5a22a3bfe0.png" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">私自身、物心ついた頃からひとり親家庭で育ってきました。「COMPASS」講師のお話をいただいてすぐにお引き受けしようと決めたのは、食育の専門家としてというより「シングルファミリーの子だったひとり」として、私だからこそ伝えられることがあるのではないか、子どもたちの心に寄り添えるのではないかと思ったからです。<br/>
+<br/>
+子どもの頃は「立場がちがうからきっとわかってもらえないだろうな」と思い自分の家庭のことを友だちにもあまり話せなかったりしましたが、今はそんな子の心のカーテン越しに「一緒にごはん作って食べよう！」と言えるようになったと思います。　<br/>
+<br/>
+COMPASSで身に着けた料理が、子どもたちの将来の可能性を伸ばし、シングルファミリーの家庭生活に楽しさを添えるきっかけになれたら嬉しいです。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">スチューデント・サポート・フェイス　谷口 仁史さん</span></h3>
+<h3 class="gcf-ttl-h3">■「思いやりとやさしさの循環」が生まれる場</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211025/gpfd_95f3b8daf1133fc057d1293f743687847bb3d80c.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">私たちは、不登校や非行など不適応問題を抱える子どもと若者をサポートする活動を行っている団体です。「家族まるごと支えていく」考え方を大切に、継続的に家庭にお伺いするアウトリーチを中心とした活動を行っています。​<br/>
+<br/>
+この事業のことを聞いて私たちのスタンスと相通じるものがあると思ったのは、親と子の両方に寄り添ったサポートを提供している点です。シングルファミリーの親は時として一人二役をこなさなくてはならず、毎日忙しくなりがちです。子どもも親を見て「しっかりしなくちゃ」と甘える機会を見いだせずにいるかもしれません。そんな親子が「COMPASS」に参加することにより、親は子どもが料理している間にゆっくり休んだりおしゃべりしたりできますし、子どももそんな親を見てホッとした気持ちになれるのではないかと思います。シングルファミリーという共通項があるからこそ思いを分かち合える仲間もきっとできるでしょう。<br/>
+<br/>
+価値観の多様化が進んでいる今の時代、理想と現実のギャップに苦しんだり人との関わり方に悩んだりする人も多い中、「COMPASS」は、大人や学生、さまざまな年齢の子どもたちとのつながりを通して、自分は一人ではないこと、支えられていることを実感し、次は自分が支えたいという気持ちが湧いてくる「思いやりとやさしさの循環」が生まれる場になる可能性を持っています。こうした取り組みが全国のいろいろなところに広がっていけば、その地域の中でひとつのモデルケースとなり、既存のコミュニティの在り方にも良い影響を与えていく存在になるかもしれません。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">自立して「生きる力」を身に着けてほしい</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">参加者 Ｆさん（お子さん：11歳・12歳）</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211101/gpfd_9c9a03b3e446180862985f578846a515f51ab26f.jpg" />
+</figure>
+<h3 class="gcf-ttl-h3">■子どもが家庭で作れる「ふつうのごはん」がいい</h3>
+<p class="gcf-txt-article">娘たちはもともと料理をしたがるほうでしたが、後片付けまで含めて最初から最後までやりきるようになったのは、COMPASSに通うようになってから。<br/>
+<br/>
+ここで習ったものは、だいたい家でも一度は作っているんですよ。レシピがあるから助かります。<br/>
+<br/>
+決して特別ではなく、どこでも手に入る材料で「ふつうのごはん」が作れるのがいいですよね。<br/>
+<br/>
+子どもが料理をしているのを見ていると、どうしても「危なくないかな」「それ分厚く切りすぎじゃない？」とか(笑)つい気になってしまいますが、この教室では敢えて親が口を出せない環境というのがいいと思います。<br/>
+<br/>
+失敗したとしても、なぜそうなったのかを自分で考えて、次は同じ失敗をしないようになってほしいです。 </p>
+<h3 class="gcf-ttl-h3">■いろいろな子のことを気にかけるようになったみたい</h3>
+<p class="gcf-txt-article">娘は少し人見知りな面があり、仲の良い子以外とは普段そんなに話さないほうなのですが、ここに来て、いろいろな子の様子を気にかけるようになったなと感じています。<br/>
+<br/>
+私も、シングル家庭の方たちとたくさん会えて、情報交換したりできるのはうれしいです。<br/>
+<br/>
+子どもたちには、自分でごはんを作る、仕事をする、自立して自分の足で歩いていくという、「生きる力」を身に着けていってほしいです。<br/>
+<br/>
+シングル家庭で育ったからそれができないというふうにはなってほしくないから。これからいろいろな場面で学んでくれたらいいなと思います。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">寄付者のみなさまへ</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">子ども達のチャレンジを応援してください</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211025/gpfd_a09412ba194067f73b9d2dea0ce90d91d434950e.png" />
+</figure>
+<p class="gcf-txt-article">子どもは一朝一夕で成長するものではありません。<br/>
+<br/>
+ましてや大人との信頼関係を築いていくには時間がかかるものです。<br/>
+<br/>
+それでも、私達スタッフは、急がず焦らず、子ども達の話をじっくり聞き、やる気を促し、小さな成長の一歩を共に喜びながら、活動を続けてまいります。<br/>
+<br/>
+COMPASSが、子ども達にとって「楽しく」て「美味しく」て「安心できる」居場所であり続けられるよう、お力添えいただきますよう心よりお願い申し上げます。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">お礼の品一覧</span></h2>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4481656/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_4a3df494b6e26dfdbb37584b3967952fa21377b8.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】ローススライスしゃぶすき用 500g《贈答用可能》</h4>
+<p class="goods-col_price inline">35,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、3万5千円以上のご寄附をいただいた方
+佐賀の肥沃な大地で育った和牛は、きめ細やかなサシ（霜降り）と甘く深みのある上品な香りが自慢のお肉です。
+今回はしゃぶしゃぶ・すき焼きに最適なローススライスでご用意しました。
+“脂”が美味しい佐賀牛をぜひご贈答用・ご家庭用でお楽しみ下さい。
+提供：(株)ミートフーズ華松
+告示第5条第1号:佐賀県内で肥育された佐賀牛をJAさがより仕入れ、三養基郡上峰町内にある精肉店で加工されている</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4481657/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_4290f46413183623dbcc70ff38ceb23f6e580065.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】ローススライスしゃぶすき用 900g《贈答用可能》</h4>
+<p class="goods-col_price inline">63,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、6万3千円以上のご寄附をいただいた方
+佐賀の肥沃な大地で育った和牛は、きめ細やかなサシ（霜降り）と甘く深みのある上品な香りが自慢のお肉です。
+今回はしゃぶしゃぶ・すき焼きに最適なローススライスでご用意しました。
+“脂”が美味しい佐賀牛をぜひご贈答用・ご家庭用でお楽しみ下さい。
+提供：(株)ミートフーズ華松
+告示第5条第1号:佐賀県内で肥育された佐賀牛をJAさがより仕入れ、三養基郡上峰町内にある精肉店で加工されている</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4481658/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_69c05f9096022179b337544c7afffde6a8ddd8ed.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】ロース焼肉用 500g《贈答用可能》</h4>
+<p class="goods-col_price inline">35,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、3万5千円以上のご寄附をいただいた方
+佐賀の肥沃な大地で育った和牛は、きめ細やかなサシ（霜降り）と甘く深みのある上品な香りが自慢のお肉です。
+今回は焼肉用でご用意しました。
+“脂”が美味しい佐賀牛をぜひご贈答用・ご家庭用でお楽しみ下さい。
+提供：(株)ミートフーズ華松
+告示第5条第1号:佐賀県内で肥育された佐賀牛をJAさがより仕入れ、三養基郡上峰町内にある精肉店で加工されている</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4481659/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_a30815748157c5738bd09e8947b9341032eaf95a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】ロース焼肉用 900g</h4>
+<p class="goods-col_price inline">63,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、6万3千円以上のご寄附をいただいた方
+佐賀の肥沃な大地で育った和牛は、きめ細やかなサシ（霜降り）と甘く深みのある上品な香りが自慢のお肉です。
+今回は焼肉用でご用意しました。
+“脂”が美味しい佐賀牛をぜひご贈答用・ご家庭用でお楽しみ下さい。
+提供：(株)ミートフーズ華松
+告示第5条第1号:佐賀県内で肥育された佐賀牛をJAさがより仕入れ、三養基郡上峰町内にある精肉店で加工されている</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4481660/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_5613f4de21a299cfbe7d3d61e244de1e6a309a5f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】サーロインステーキ 200g×2枚</h4>
+<p class="goods-col_price inline">35,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、3万5千円以上のご寄附をいただいた方
+佐賀の肥沃な大地で育った和牛は、きめ細やかなサシ（霜降り）と甘く深みのある上品な香りが自慢のお肉です。
+今回はお肉の中でも王様と呼ばれるサーロインをステーキでご用意しました。
+“脂”が美味しい佐賀牛をぜひご贈答用・ご家庭用でお楽しみ下さい。
+提供：(株)ミートフーズ華松
+告示第5条第1号:佐賀県内で肥育された佐賀牛をJAさがより仕入れ、三養基郡上峰町内にある精肉店で加工されている</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4481661/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_1eaf00db32316caea1806f6d44bdd28b5a46685f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】サーロインステーキ 200g×3枚</h4>
+<p class="goods-col_price inline">54,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、5万4千円以上のご寄附をいただいた方
+佐賀の肥沃な大地で育った和牛は、きめ細やかなサシ（霜降り）と甘く深みのある上品な香りが自慢のお肉です。
+今回はお肉の中でも王様と呼ばれるサーロインをステーキでご用意しました。
+“脂”が美味しい佐賀牛をぜひご贈答用・ご家庭用でお楽しみ下さい。
+提供：(株)ミートフーズ華松
+告示第5条第1号:佐賀県内で肥育された佐賀牛をJAさがより仕入れ、三養基郡上峰町内にある精肉店で加工されている</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4481662/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_efc71c77a1680e4c7c3fd4e6122628fb3138588d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】サーロインステーキ 200g×4枚</h4>
+<p class="goods-col_price inline">63,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、6万3千円以上のご寄附をいただいた方
+佐賀の肥沃な大地で育った和牛は、きめ細やかなサシ（霜降り）と甘く深みのある上品な香りが自慢のお肉です。
+今回はお肉の中でも王様と呼ばれるサーロインをステーキでご用意しました。
+“脂”が美味しい佐賀牛をぜひご贈答用・ご家庭用でお楽しみ下さい。
+提供：(株)ミートフーズ華松
+告示第5条第1号:佐賀県内で肥育された佐賀牛をJAさがより仕入れ、三養基郡上峰町内にある精肉店で加工されている</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4481663/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_d1b8bd5fe4c624d2459ade3983c79f3b3566a6fd.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】サーロインブロック 1400g</h4>
+<p class="goods-col_price inline">110,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄付入金確認後、1〜2か月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、11万円以上のご寄附をいただいた方
+佐賀の肥沃な大地で育った和牛は、きめ細やかなサシ（霜降り）と甘く深みのある上品な香りが自慢のお肉です。
+今回はお肉の中でも王様と呼ばれるサーロインをブロックでご用意しました。
+お好みの厚さで切ったり、サイコロステーキにしたり楽しみ方は色々。
+“脂”が美味しい佐賀牛をぜひご贈答用・ご家庭用でお楽しみ下さい。
+提供：(株)ミートフーズ華松
+告示第5条第1号:佐賀県内で肥育された佐賀牛をJAさがより仕入れ、三養基郡上峰町内にある精肉店で加工されている</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4481664/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_bfd2b72e74e09380449bc021f2f9bab19970ea3d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】サーロインブロック 2800g</h4>
+<p class="goods-col_price inline">220,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、20万円以上のご寄附をいただいた方
+佐賀の肥沃な大地で育った和牛は、きめ細やかなサシ（霜降り）と甘く深みのある上品な香りが自慢のお肉です。
+今回はお肉の中でも王様と呼ばれるサーロインをブロックでご用意しました。お好みの厚さで切ったり、サイコロステーキにしたり楽しみ方は色々。
+“脂”が美味しい佐賀牛をぜひご贈答用・ご家庭用でお楽しみ下さい。
+提供：(株)ミートフーズ華松
+告示第5条第1号:佐賀県内で肥育された佐賀牛をJAさがより仕入れ、三養基郡上峰町内にある精肉店で加工されている</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4481665/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_6e9fa5b36983a906a519eeb4c7a2e602f8ac542b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】ヒレステーキ 150g x 2枚</h4>
+<p class="goods-col_price inline">43,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、4万3千円以上のご寄附をいただいた方
+佐賀の肥沃な大地で育った和牛は、きめ細やかなサシ（霜降り）と甘く深みのある上品な香りが自慢のお肉です。
+その中でもヒレは、柔らかさなら牛肉随一。
+サーロインが王様なら、ヒレは肉の女王と称されることも。
+脂肪も少なく、肉質はきめ細やかなので舌触りはまろやかな。
+“脂”が美味しい佐賀牛をぜひご贈答用・ご家庭用でお楽しみ下さい。
+提供：(株)ミートフーズ華松
+告示第5条第1号:佐賀県内で肥育された佐賀牛をJAさがより仕入れ、三養基郡上峰町内にある精肉店で加工されている</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4481666/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_db6da92abe43bc6198abe6e9d1f8a354b09ff79d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】ヒレステーキ 150g x 3枚</h4>
+<p class="goods-col_price inline">58,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、5万8千円以上のご寄附をいただいた方
+佐賀の肥沃な大地で育った和牛は、きめ細やかなサシ（霜降り）と甘く深みのある上品な香りが自慢のお肉です。
+その中でもヒレは、柔らかさなら牛肉随一。サーロインが王様なら、ヒレは肉の女王と称されることも。
+脂肪も少なく、肉質はきめ細やかなので舌触りはまろやかな。
+“脂”が美味しい佐賀牛をぜひご贈答用・ご家庭用でお楽しみ下さい。
+提供：(株)ミートフーズ華松
+告示第5条第1号:佐賀県内で肥育された佐賀牛をJAさがより仕入れ、三養基郡上峰町内にある精肉店で加工されている</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4481667/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_f2a066b5a9ff6685f3b215e23059267f2aec13d5.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】ヒレステーキ 150g x 4枚</h4>
+<p class="goods-col_price inline">78,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、7万8千円以上のご寄附をいただいた方
+佐賀の肥沃な大地で育った和牛は、きめ細やかなサシ（霜降り）と甘く深みのある上品な香りが自慢のお肉です。
+その中でもヒレは、柔らかさなら牛肉随一。サーロインが王様なら、ヒレは肉の女王と称されることも。
+脂肪も少なく、肉質はきめ細やかなので舌触りはまろやかな。
+“脂”が美味しい佐賀牛をぜひご贈答用・ご家庭用でお楽しみ下さい。
+提供：(株)ミートフーズ華松
+告示第5条第1号:佐賀県内で肥育された佐賀牛をJAさがより仕入れ、三養基郡上峰町内にある精肉店で加工されている</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4481668/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_2cc685bdbed25854e16ef81773c5a2a166c650e5.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】ヒレステーキ 150g x 5枚</h4>
+<p class="goods-col_price inline">93,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、9万3千円以上のご寄附をいただいた方
+佐賀の肥沃な大地で育った和牛は、きめ細やかなサシ（霜降り）と甘く深みのある上品な香りが自慢のお肉です。
+その中でもヒレは、柔らかさなら牛肉随一。サーロインが王様なら、ヒレは肉の女王と称されることも。
+脂肪も少なく、肉質はきめ細やかなので舌触りはまろやかな。
+“脂”が美味しい佐賀牛をぜひご贈答用・ご家庭用でお楽しみ下さい。
+提供：(株)ミートフーズ華松
+告示第5条第1号:佐賀県内で肥育された佐賀牛をJAさがより仕入れ、三養基郡上峰町内にある精肉店で加工されている</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495367/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181001/pd_625e71b3140b0db44048d1dbd1ce5395db7c3b1c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【鍋島焼】【虎仙窯】青磁のマグカップ</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、2万円以上のご寄附をいただいた方
+気品ある青磁が美しいマグカップ。
+佐賀県伊万里市にある虎仙窯で作られる鍋島焼は、将軍や大名が愛用し、一般に出回ることがなかった品。
+大川内山でしか採ることのできない青磁原石を使った独自配合の釉薬が、透明感のある色を生み出します。
+提供：鍋島焼 虎仙窯（伊万里市）
+告示第5条第3号:佐賀県内の伝統工芸品であり、材料の仕入れから成形、施釉、焼き上げ、梱包までの全工程を佐賀県伊万里市にある虎仙窯にて行なうことで、相応の付加価値が生じているもの</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495368/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181001/pd_d7dbc7c174111a0d91c51cdcdebdd289bbe782e4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【鍋島焼】【虎仙窯】青磁タンブラー（フリーカップ）</h4>
+<p class="goods-col_price inline">21,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、2万1千円以上のご寄附をいただいた方
+佐賀県伊万里市にある虎仙窯で作られる鍋島焼は、将軍や大名が愛用し、一般に出回ることがなかった品。
+大川内山でしか採ることのできない青磁原石を使った独自配合の釉薬が、透明感のある色を生み出します。
+提供：鍋島焼 虎仙窯（伊万里市）
+告示第5条第3号:佐賀県内の伝統工芸品であり、材料の仕入れから成形、施釉、焼き上げ、梱包までの全工程を佐賀県伊万里市にある虎仙窯にて行なうことで、相応の付加価値が生じているもの</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495369/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181001/pd_edeb9c05fb0039a8aa97cfa90e5d758c73b07934.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【鍋島焼】【虎仙窯】青白磁タンブラー</h4>
+<p class="goods-col_price inline">21,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、2万1千円以上のご寄附をいただいた方
+佐賀県伊万里市にある虎仙窯で作られる鍋島焼は、将軍や大名が愛用し、一般に出回ることがなかった品。
+大川内山でしか採ることのできない青磁原石を使った独自配合の釉薬が、透明感のある色を生み出します。
+提供：鍋島焼 虎仙窯（伊万里市）
+告示第5条第3号:佐賀県内の伝統工芸品であり、材料の仕入れから成形、施釉、焼き上げ、梱包までの全工程を佐賀県伊万里市にある虎仙窯にて行なうことで、相応の付加価値が生じているもの</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495370/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181001/pd_a2571d0048d9725056ccdd2c006d2c7d2f99255f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【鍋島焼】【虎仙窯】天然青磁タンブラー（焼酎カップ）</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、2万円以上のご寄附をいただいた方
+佐賀県伊万里市にある虎仙窯で作られる鍋島焼は、将軍や大名が愛用し、一般に出回ることがなかった品。
+大川内山でしか採ることのできない青磁原石を使った独自配合の釉薬が、透明感のある色を生み出します。
+提供：鍋島焼 虎仙窯（伊万里市）
+告示第5条第3号:佐賀県内の伝統工芸品であり、材料の仕入れから成形、施釉、焼き上げ、梱包までの全工程を佐賀県伊万里市にある虎仙窯にて行なうことで、相応の付加価値が生じているもの</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495371/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181001/pd_96b52e93a4ef1da80fa8569f689c6f08875e44e1.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【鍋島焼】【虎仙窯】青磁タンブラー</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、1万5千円以上のご寄附をいただいた方
+佐賀県伊万里市にある虎仙窯で作られる鍋島焼は、将軍や大名が愛用し、一般に出回ることがなかった品。
+大川内山でしか採ることのできない青磁原石を使った独自配合の釉薬が、透明感のある色を生み出します。
+提供：鍋島焼 虎仙窯（伊万里市）
+告示第5条第3号:佐賀県内の伝統工芸品であり、材料の仕入れから成形、施釉、焼き上げ、梱包までの全工程を佐賀県伊万里市にある虎仙窯にて行なうことで、相応の付加価値が生じているもの</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495373/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181001/pd_02c3c8f40fe2d19f7ce60193e8a5f8b216aa2018.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【鍋島焼】【虎仙窯】青磁煎茶碗2個セット</h4>
+<p class="goods-col_price inline">26,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、2万6千円以上のご寄附をいただいた方
+佐賀県伊万里市にある虎仙窯で作られる鍋島焼は、将軍や大名が愛用し、一般に出回ることがなかった品。
+大川内山でしか採ることのできない青磁原石を使った独自配合の釉薬が、透明感のある色を生み出します。
+提供：鍋島焼 虎仙窯（伊万里市）
+告示第5条第3号:佐賀県内の伝統工芸品であり、材料の仕入れから成形、施釉、焼き上げ、梱包までの全工程を佐賀県伊万里市にある虎仙窯にて行なうことで、相応の付加価値が生じているもの</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495374/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181001/pd_3fda7f3eff33a47a0f9740377be26b6285b5d896.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【鍋島焼】【虎仙窯】青磁茶器おもてなしセット</h4>
+<p class="goods-col_price inline">53,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、5万3千円以上のご寄附をいただいた方
+佐賀県伊万里市にある虎仙窯で作られる鍋島焼は、将軍や大名が愛用し、一般に出回ることがなかった品。
+大川内山でしか採ることのできない青磁原石を使った独自配合の釉薬が、透明感のある色を生み出します。
+提供：鍋島焼 虎仙窯（伊万里市）
+告示第5条第3号:佐賀県内の伝統工芸品であり、材料の仕入れから成形、施釉、焼き上げ、梱包までの全工程を佐賀県伊万里市にある虎仙窯にて行なうことで、相応の付加価値が生じているもの</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495376/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181001/pd_164530ff9ea20b9c48da5d87fcbeb7d86254ef8d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【鍋島焼】【虎仙窯】青磁ポット</h4>
+<p class="goods-col_price inline">33,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、3万3千円以上のご寄附をいただいた方
+佐賀県伊万里市にある虎仙窯で作られる鍋島焼は、将軍や大名が愛用し、一般に出回ることがなかった品。
+大川内山でしか採ることのできない青磁原石を使った独自配合の釉薬が、透明感のある色を生み出します。
+提供：鍋島焼 虎仙窯（伊万里市）
+告示第5条第3号:佐賀県内の伝統工芸品であり、材料の仕入れから成形、施釉、焼き上げ、梱包までの全工程を佐賀県伊万里市にある虎仙窯にて行なうことで、相応の付加価値が生じているもの</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495377/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181001/pd_5b1832d319e284a378506b5e8a5715b295f25275.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【鍋島焼】【虎仙窯】青磁の竹模様急須</h4>
+<p class="goods-col_price inline">35,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、3万5千円以上のご寄附をいただいた方
+佐賀県伊万里市にある虎仙窯で作られる鍋島焼は、将軍や大名が愛用し、一般に出回ることがなかった品。
+大川内山でしか採ることのできない青磁原石を使った独自配合の釉薬が、透明感のある色を生み出します。
+提供：鍋島焼 虎仙窯（伊万里市）
+告示第5条第3号:佐賀県内の伝統工芸品であり、材料の仕入れから成形、施釉、焼き上げ、梱包までの全工程を佐賀県伊万里市にある虎仙窯にて行なうことで、相応の付加価値が生じているもの</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495378/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181001/pd_bb22cd9d6d908155c1da18633bf39abd33b9aff7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【鍋島焼】【虎仙窯】青磁の竹模様急須セット</h4>
+<p class="goods-col_price inline">53,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、5万3千円以上のご寄附をいただいた方
+佐賀県伊万里市にある虎仙窯で作られる鍋島焼は、将軍や大名が愛用し、一般に出回ることがなかった品。
+大川内山でしか採ることのできない青磁原石を使った独自配合の釉薬が、透明感のある色を生み出します。
+提供：鍋島焼 虎仙窯（伊万里市）
+告示第5条第3号:佐賀県内の伝統工芸品であり、材料の仕入れから成形、施釉、焼き上げ、梱包までの全工程を佐賀県伊万里市にある虎仙窯にて行なうことで、相応の付加価値が生じているもの</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495379/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181001/pd_bde201eb384340f9492021d2ebc4706db0ee0146.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【鍋島焼】【虎仙窯】青磁の曲線模様急須</h4>
+<p class="goods-col_price inline">33,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、3万3千円以上のご寄附をいただいた方
+佐賀県伊万里市にある虎仙窯で作られる鍋島焼は、将軍や大名が愛用し、一般に出回ることがなかった品。
+大川内山でしか採ることのできない青磁原石を使った独自配合の釉薬が、透明感のある色を生み出します。
+提供：鍋島焼 虎仙窯（伊万里市）
+告示第5条第3号:佐賀県内の伝統工芸品であり、材料の仕入れから成形、施釉、焼き上げ、梱包までの全工程を佐賀県伊万里市にある虎仙窯にて行なうことで、相応の付加価値が生じているもの</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495380/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181001/pd_076e58129f71b8e8207dfb6e07b7b11eb598cd0b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【鍋島焼】【虎仙窯】青磁の曲線模様急須セット</h4>
+<p class="goods-col_price inline">53,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき5万3千円以上のご寄附をいただいた方
+佐賀県伊万里市にある虎仙窯で作られる鍋島焼は、将軍や大名が愛用し、一般に出回ることがなかった品。
+大川内山でしか採ることのできない青磁原石を使った独自配合の釉薬が、透明感のある色を生み出します。
+提供：鍋島焼 虎仙窯（伊万里市）
+告示第5条第3号:佐賀県内の伝統工芸品であり、材料の仕入れから成形、施釉、焼き上げ、梱包までの全工程を佐賀県伊万里市にある虎仙窯にて行なうことで、相応の付加価値が生じているもの</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495381/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181001/pd_6529035dcb9e18d53d45fb45d63df0bfacf7715d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【鍋島焼】【虎仙窯】青磁の菊型4寸皿</h4>
+<p class="goods-col_price inline">16,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、1万6千円以上のご寄附をいただいた方
+佐賀県伊万里市にある虎仙窯で作られる鍋島焼は、将軍や大名が愛用し、一般に出回ることがなかった品。
+大川内山でしか採ることのできない青磁原石を使った独自配合の釉薬が、透明感のある色を生み出します。
+提供：鍋島焼 虎仙窯（伊万里市）
+告示第5条第3号:佐賀県内の伝統工芸品であり、材料の仕入れから成形、施釉、焼き上げ、梱包までの全工程を佐賀県伊万里市にある虎仙窯にて行なうことで、相応の付加価値が生じているもの</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495382/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181001/pd_993b01c6d6e0c32109ceadd592979f2e3c67989b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【鍋島焼】【虎仙窯】青磁の菊型豆皿</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、1万5千円以上のご寄附をいただいた方
+佐賀県伊万里市にある虎仙窯で作られる鍋島焼は、将軍や大名が愛用し、一般に出回ることがなかった品。
+大川内山でしか採ることのできない青磁原石を使った独自配合の釉薬が、透明感のある色を生み出します。
+提供：鍋島焼 虎仙窯（伊万里市）
+告示第5条第3号:佐賀県内の伝統工芸品であり、材料の仕入れから成形、施釉、焼き上げ、梱包までの全工程を佐賀県伊万里市にある虎仙窯にて行なうことで、相応の付加価値が生じているもの</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495383/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181001/pd_0b48f9e7ae3daa086a302e4f64f1cfc12f294ad4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【鍋島焼】【虎仙窯】青白磁かご目５寸皿</h4>
+<p class="goods-col_price inline">18,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、1万8千円以上のご寄附をいただいた方
+佐賀県伊万里市にある虎仙窯で作られる鍋島焼は、将軍や大名が愛用し、一般に出回ることがなかった品。
+大川内山でしか採ることのできない青磁原石を使った独自配合の釉薬が、透明感のある色を生み出します。
+提供：鍋島焼 虎仙窯（伊万里市）
+告示第5条第3号:佐賀県内の伝統工芸品であり、材料の仕入れから成形、施釉、焼き上げ、梱包までの全工程を佐賀県伊万里市にある虎仙窯にて行なうことで、相応の付加価値が生じているもの</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495389/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181001/pd_3302f4aefd3f771e3672c1da20a429dbf9d493e2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【鍋島焼】【虎仙窯】青磁煎茶碗</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、1万5千円以上のご寄附をいただいた方
+佐賀県伊万里市にある虎仙窯で作られる鍋島焼は、将軍や大名が愛用し、一般に出回ることがなかった逸品。
+大川内山でしか採ることのできない青磁原石を使った独自配合の釉薬が、透明感のある色を生み出します。
+提供：鍋島焼 虎仙窯（伊万里市）
+告示第5条第3号:佐賀県内の伝統工芸品であり、材料の仕入れから成形、施釉、焼き上げ、梱包までの全工程を佐賀県伊万里市にある虎仙窯にて行なうことで、相応の付加価値が生じているもの</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495390/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181001/pd_dcbecdb773f0b8f77cc75bee963c145602b9a5c1.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【鍋島焼】【虎仙窯】青磁煎茶碗5個セット</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、5万円以上のご寄附をいただいた方
+佐賀県伊万里市にある虎仙窯で作られる鍋島焼は、将軍や大名が愛用し、一般に出回ることがなかった品。
+大川内山でしか採ることのできない青磁原石を使った独自配合の釉薬が、透明感のある色を生み出します。
+提供：鍋島焼 虎仙窯（伊万里市）
+告示第5条第3号:佐賀県内の伝統工芸品であり、材料の仕入れから成形、施釉、焼き上げ、梱包までの全工程を佐賀県伊万里市にある虎仙窯にて行なうことで、相応の付加価値が生じているもの</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495397/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181001/pd_aa72cc63f9513697534c4ddc511e2a076d04480c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">保存剤・酸化防止剤を一切使用していない手作り石鹸3個セット</h4>
+<p class="goods-col_price inline">14,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヵ月程度
+※12月～年始はお申し込みが集中するため、2ヵ月〜3ヵ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、1万4千円以上のご寄附をいただいた方
+Savon de Rin(サボンドリン)は、佐賀の山のふもとにある小さな石鹸工房。
+アトピーだった娘「りん」ちゃんにも使える石鹸を作りたいという思いから始まり、ひとつひとつ心を込めて、手作業で作られています。
+素材の良さが生きる昔ながらの製法で、できるだけ自然なものを自然な形で使っているそう。
+Basic Soapは、洗顔・体洗い・手洗いなど、全身に使うことができます。
+保存料や酸化防止剤などは利用していません。
+ハーブのような柔らかい香りで泡立ちはよく、ヒリヒリしたり、つっぱったりすることはないので、使っていて心地よさを感じます。
+※石鹸は色々な種類の中から、3個セレクトしてお届けいたします。
+提供：Savon de Rin（佐賀市）
+告示第5条第3号:材料の仕入れから融解、調合、成形、カット、梱包までの全行程を佐賀県佐賀市内で行なうことで相応の価値が生じているもの</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495398/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181001/pd_379f5d625f1d1e2ebdb56180c229a137e3139645.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">保存料や酸化防止剤を一切使用していない手作り石鹸とリップクリームのスキンケアセット</h4>
+<p class="goods-col_price inline">14,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2か月から3月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、1万4千円以上のご寄附をいただいた方
+Savon de Rin(サボンドリン)は、佐賀の山のふもとにある小さな石鹸工房。
+アトピーだった娘「りん」ちゃんにも使える石鹸を作りたいという思いから始まり、ひとつひとつ心を込めて、手作業で作られています。
+素材の良さが生きる昔ながらの製法で、できるだけ自然なものを自然な形で使っているそう。
+Basic Soapは、洗顔・体洗い・手洗いなど、全身に使うことができます。
+保存料や酸化防止剤などは利用していません。
+ハーブのような柔らかい香りで泡立ちはよく、ヒリヒリしたり、つっぱったりすることはないので、使っていて心地よさを感じます。
+こだわって作られた石鹸とリップクリーム（無色）のスキンケアセットです。ぜひお試しください。
+※石鹸は色々な種類の中から、セレクトしてお届けいたします。
+提供：Savon de Rin（佐賀市）
+告示第5条第3号:材料の仕入れから融解、調合、成形、カット、梱包までの全行程を佐賀県佐賀市内で行なうことで相応の価値が生じているもの</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495404/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_0ec8a65e4133acd66ba2533e95b2354c5f2cd401.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】サーロインステーキ2枚とローススライス500gのセット</h4>
+<p class="goods-col_price inline">63,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、6万3千円以上のご寄附をいただいた方
+佐賀県三養基郡上峰町にて食卓に“華やかな歓び ” を提供する、ミートフーズ華松。
+厳選した黒毛和牛を一頭買いすることで鮮度と品質を追求した、佐賀牛のサーロインステーキとローススライスのセットです。
+ご贈答用・ご家庭用でお楽しみ下さい。
+提供：(株)ミートフーズ華松（三養基郡上峰町）
+告示第5条第1号:佐賀県内で肥育された佐賀牛をJAさがより仕入れ、三養基郡上峰町内にある精肉店で加工されている</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495405/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_3073c99f661a964b7f179e20e7c5529ce8763840.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】サーロインステーキ4枚とローススライス900gのセット</h4>
+<p class="goods-col_price inline">125,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、12万5千円以上のご寄附をいただいた方
+佐賀県三養基郡上峰町にて食卓に“華やかな歓び ” を提供する、ミートフーズ華松。
+厳選した黒毛和牛を一頭買いすることで鮮度と品質を追求した、佐賀牛のサーロインステーキとローススライスのセットです。
+ご贈答用・ご家庭用でお楽しみ下さい。
+提供：(株)ミートフーズ華松（三養基郡上峰町）
+告示第5条第1号:佐賀県内で肥育された佐賀牛をJAさがより仕入れ、三養基郡上峰町内にある精肉店で加工されている</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495406/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_bd7f4e0f7551906f483cb667fbc54ec34eb75f2b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】サーロインステーキ2枚とロース焼肉用500gのセット</h4>
+<p class="goods-col_price inline">63,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、6万3千円以上のご寄附をいただいた方
+佐賀県三養基郡上峰町にて食卓に“華やかな歓び ” を提供する、ミートフーズ華松。
+厳選した黒毛和牛を一頭買いすることで鮮度と品質を追求した、佐賀牛のサーロインステーキとローススライスのセットです。
+ご贈答用・ご家庭用でお楽しみ下さい。
+提供：(株)ミートフーズ華松（三養基郡上峰町）
+告示第5条第1号:佐賀県内で肥育された佐賀牛をJAさがより仕入れ、三養基郡上峰町内にある精肉店で加工されている</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495407/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_879fc38650b2fcf1639ff6bb8022623f00c8a6b2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】サーロインステーキ4枚とロース焼肉用900gのセット</h4>
+<p class="goods-col_price inline">125,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、12万5千円以上のご寄附をいただいた方
+佐賀県三養基郡上峰町にて食卓に“華やかな歓び ” を提供する、ミートフーズ華松。
+厳選した黒毛和牛を一頭買いすることで鮮度と品質を追求した、佐賀牛のサーロインステーキとローススライスのセットです。
+ご贈答用・ご家庭用でお楽しみ下さい。
+提供：(株)ミートフーズ華松（三養基郡上峰町）
+告示第5条第1号:佐賀県内で肥育された佐賀牛をJAさがより仕入れ、三養基郡上峰町内にある精肉店で加工されている</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495408/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_f0ec2142bcdfa49ec3b01932b40334692d6f9c6e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】サーロインステーキ2枚とヒレステーキ2枚のセット</h4>
+<p class="goods-col_price inline">75,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、7万5千円以上のご寄附をいただいた方
+佐賀県三養基郡上峰町にて食卓に“華やかな歓び ” を提供する、ミートフーズ華松。
+厳選した黒毛和牛を一頭買いすることで鮮度と品質を追求した、佐賀牛のサーロインステーキとローススライスのセットです。
+ご贈答用・ご家庭用でお楽しみ下さい。
+提供：(株)ミートフーズ華松（三養基郡上峰町）
+告示第5条第1号:佐賀県内で肥育された佐賀牛をJAさがより仕入れ、三養基郡上峰町内にある精肉店で加工されている</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4495409/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_b123d89c68769cb65cc18cac81a8cf6c6e9de45f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】サーロインステーキ3枚とヒレステーキ3枚のセット</h4>
+<p class="goods-col_price inline">120,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附の確認完了後、1〜2ヶ月程度
+※12月～年始はお申し込みが集中するため、2ヶ月から3ヶ月程度のお時間を頂戴する場合がございます。何卒ご理解賜りますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、12万円以上のご寄附をいただいた方
+佐賀県三養基郡上峰町にて食卓に“華やかな歓び ” を提供する、ミートフーズ華松。
+厳選した黒毛和牛を一頭買いすることで鮮度と品質を追求した、佐賀牛のサーロインステーキとローススライスのセットです。
+ご贈答用・ご家庭用でお楽しみ下さい。
+提供：(株)ミートフーズ華松（三養基郡上峰町）
+告示第5条第1号:佐賀県内で肥育された佐賀牛をJAさがより仕入れ、三養基郡上峰町内にある精肉店で加工されている</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5319609/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230605/pd_e37a979ff5111f49ab55a98e0893de3b9cafbfd2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【土平窯】三島唐津飯碗</h4>
+<p class="goods-col_price inline">17,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>通常ご寄付完了確認から2〜3ヶ月程度。
+一つ一つ手作業にて作成しているため、欠品中の場合にはお時間をいただく場合がございます。
+何卒ご了承いただきますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、1万7千円以上のご寄附をいただいた方
+三島唐津とは、赤土に線や印花（いんか）で装飾し、白化粧を施して透明釉をかけたもの。
+白化粧とは、昔白土が手に入るのが難しかったため、赤い土を白くする為に生まれた技法です。
+茶碗などの茶器によく用いられ、日本の多くの産地にその類型を見ることができます。
+白化粧の下に透ける土の風合いが焼きあがりによって１つ１つ違う為、素朴な中にも個性が楽しめる器です。
+こちらの飯碗は温かみのある手触りで、毎日の食卓にそっと寄り添ってくれます。
+伝統の技術が詰まった器で毎日のお食事をお楽しみください。
+大切な方への贈り物にも。
+※写真はあくまで参考作品です。
+釉薬の特性上一つ一つ全く同じものは存在しません。
+※表面に黒い鉄粉の付着やピンホールと呼ばれる小さな穴、指の跡などがみられますが、手仕事の跡としてご理解下さい。
+※焼き上げる際熱風により変形するため、正円ではありません。自然により作られた美しさとしてご理解いただきますようお願い致します。
+※こちらの返礼品は一度の窯入れで制作できる数が限られている為、在庫状況によっては完成まで数ヶ月お待ちいただく場合があります。その際にはこちらからご連絡させて頂きます。何卒ご理解の程よろしくお願い致します。
+提供：土平窯(唐津市)
+告示第5条第3号:佐賀県唐津の伝統的な技法によって作られたものであり、土の採掘、生地づくり、焼き上げまでの工程を唐津市の土平窯にて行うことにより、相応の付加価値が生じているもの。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5319610/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230605/pd_f564b5735e74b6741234aa4bc91799bf7f48a778.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【土平窯】三島唐津飯碗2個セット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>通常ご寄付完了確認から2〜3ヶ月程度。
+一つ一つ手作業にて作成しているため、欠品中の場合にはお時間をいただく場合がございます。
+何卒ご了承いただきますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、3万円以上のご寄附をいただいた方
+三島唐津とは、赤土に線や印花（いんか）で装飾し、白化粧を施して透明釉をかけたもの。
+白化粧とは、昔白土が手に入るのが難しかったため、赤い土を白くする為に生まれた技法です。
+茶碗などの茶器によく用いられ、日本の多くの産地にその類型を見ることができます。
+白化粧の下に透ける土の風合いが焼きあがりによって１つ１つ違う為、素朴な中にも個性が楽しめる器です。
+こちらの飯碗は温かみのある手触りで、毎日の食卓にそっと寄り添ってくれます。
+伝統の技術が詰まった器を2個セットでお楽しみください。
+大切な方への贈り物にも。
+※写真はあくまで参考作品です。
+釉薬の特性上一つ一つ全く同じものは存在しません。
+※表面に黒い鉄粉の付着やピンホールと呼ばれる小さな穴、指の跡などがみられますが、手仕事の跡としてご理解下さい。
+※焼き上げる際熱風により変形するため、正円ではありません。自然により作られた美しさとしてご理解いただきますようお願い致します。
+※こちらの返礼品は一度の窯入れで制作できる数が限られている為、在庫状況によっては完成まで数ヶ月お待ちいただく場合があります。その際にはこちらからご連絡させて頂きます。何卒ご理解の程よろしくお願い致します。
+提供：土平窯(唐津市)
+告示第5条第3号:佐賀県唐津の伝統的な技法によって作られたものであり、土の採掘、生地づくり、焼き上げまでの工程を唐津市の土平窯にて行うことにより、相応の付加価値が生じているもの。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5319611/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230605/pd_7d73c31a8b8de64c068ea5881ae68331360b9020.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【土平窯】三島唐津飯碗3個セット</h4>
+<p class="goods-col_price inline">40,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>通常ご寄付完了確認から2〜3ヶ月程度。
+一つ一つ手作業にて作成しているため、欠品中の場合にはお時間をいただく場合がございます。
+何卒ご了承いただきますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、4万円以上のご寄附をいただいた方
+三島唐津とは、赤土に線や印花（いんか）で装飾し、白化粧を施して透明釉をかけたもの。
+白化粧とは、昔白土が手に入るのが難しかったため、赤い土を白くする為に生まれた技法です。
+茶碗などの茶器によく用いられ、日本の多くの産地にその類型を見ることができます。
+白化粧の下に透ける土の風合いが焼きあがりによって１つ１つ違う為、素朴な中にも個性が楽しめる器です。
+こちらの飯碗は温かみのある手触りで、毎日の食卓にそっと寄り添ってくれます。
+伝統の技術が詰まった器を3個セットでお楽しみください。
+大切な方への贈り物にも。
+※写真はあくまで参考作品です。
+釉薬の特性上一つ一つ全く同じものは存在しません。
+※表面に黒い鉄粉の付着やピンホールと呼ばれる小さな穴、指の跡などがみられますが、手仕事の跡としてご理解下さい。
+※焼き上げる際熱風により変形するため、正円ではありません。自然により作られた美しさとしてご理解いただきますようお願い致します。
+※こちらの返礼品は一度の窯入れで制作できる数が限られている為、在庫状況によっては完成まで数ヶ月お待ちいただく場合があります。その際にはこちらからご連絡させて頂きます。何卒ご理解の程よろしくお願い致します。
+提供：土平窯(唐津市)
+告示第5条第3号:佐賀県唐津の伝統的な技法によって作られたものであり、土の採掘、生地づくり、焼き上げまでの工程を唐津市の土平窯にて行うことにより、相応の付加価値が生じているもの。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5319612/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230605/pd_e963a68d69522050a821ba3921b1146c69c5c303.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【土平窯】三島唐津飯碗4個セット</h4>
+<p class="goods-col_price inline">55,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>通常ご寄付完了確認から30日程度。
+現在欠品中につき、次回入荷は7月以降の予定です。
+一つ一つ手作業にて作成しているため、何卒ご了承いただきますようお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、5万5千円以上のご寄附をいただいた方
+三島唐津とは、赤土に線や印花（いんか）で装飾し、白化粧を施して透明釉をかけたもの。
+白化粧とは、昔白土が手に入るのが難しかったため、赤い土を白くする為に生まれた技法です。
+茶碗などの茶器によく用いられ、日本の多くの産地にその類型を見ることができます。
+白化粧の下に透ける土の風合いが焼きあがりによって１つ１つ違う為、素朴な中にも個性が楽しめる器です。
+こちらの飯碗は温かみのある手触りで、毎日の食卓にそっと寄り添ってくれます。
+伝統の技術が詰まった器を4個セットでお楽しみください。
+大切な方への贈り物にも。
+※写真はあくまで参考作品です。
+釉薬の特性上一つ一つ全く同じものは存在しません。
+※表面に黒い鉄粉の付着やピンホールと呼ばれる小さな穴、指の跡などがみられますが、手仕事の跡としてご理解下さい。
+※焼き上げる際熱風により変形するため、正円ではありません。自然により作られた美しさとしてご理解いただきますようお願い致します。
+※こちらの返礼品は一度の窯入れで制作できる数が限られている為、在庫状況によっては完成まで数ヶ月お待ちいただく場合があります。その際にはこちらからご連絡させて頂きます。何卒ご理解の程よろしくお願い致します。
+提供：土平窯(唐津市)
+告示第5条第3号:佐賀県唐津の伝統的な技法によって作られたものであり、土の採掘、生地づくり、焼き上げまでの工程を唐津市の土平窯にて行うことにより、相応の付加価値が生じているもの。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5319613/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230605/pd_1a18d3e38caca61bf90783687861e43e00b480ce.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【土平窯】三島唐津皿</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄付完了確認後、2~3ヶ月前後で発送。
+在庫がなくお待たせする場合にはご連絡させて頂きます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、2万円以上のご寄附をいただいた方
+三島唐津とは、赤土に線や印花（いんか）で装飾し、白化粧を施して透明釉をかけたもの。
+白化粧とは、昔白土が手に入るのが難しかったため、赤い土を白くする為に生まれた技法です。
+茶碗などの茶器によく用いられ、日本の多くの産地にその類型を見ることができます。
+白化粧の下に透ける土の風合いが焼きあがりによって１つ１つ違う為、素朴な中にも個性が楽しめる器です。
+こちらの平皿は温かみのある手触りとシンプルなデザインで、お料理を一層引き立ててくれます。
+伝統の技術が詰まった器で毎日のお食事をお楽しみください。
+大切な方への贈り物にも。
+※写真はあくまで参考作品です。
+釉薬の特性上一つ一つ全く同じものは存在しません。
+※表面に黒い鉄粉の付着やピンホールと呼ばれる小さな穴、指の跡などがみられますが、手仕事の跡としてご理解下さい。
+※焼き上げる際熱風により変形するため、正円ではありません。自然により作られた美しさとしてご理解いただきますようお願い致します。
+※こちらの返礼品は一度の窯入れで制作できる数が限られている為、在庫状況によっては完成まで数ヶ月お待ちいただく場合があります。その際にはこちらからご連絡させて頂きます。何卒ご理解の程よろしくお願い致します。
+提供：土平窯(唐津市)
+告示第5条第3号:佐賀県唐津の伝統的な技法によって作られたものであり、土の採掘、生地づくり、焼き上げまでの工程を唐津市の土平窯にて行うことにより、相応の付加価値が生じているもの。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5311237/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230605/pd_1e636b1e601c4bcc6e26b871d163a1184b0c4119.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【土平窯】三島唐津皿2個セット</h4>
+<p class="goods-col_price inline">38,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄付完了確認後、2~3ヶ月前後で発送。
+在庫がなくお待たせする場合にはご連絡させて頂きます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、3万8千円以上のご寄附をいただいた方
+三島唐津とは、赤土に線や印花（いんか）で装飾し、白化粧を施して透明釉をかけたもの。
+白化粧とは、昔白土が手に入るのが難しかったため、赤い土を白くする為に生まれた技法です。
+茶碗などの茶器によく用いられ、日本の多くの産地にその類型を見ることができます。
+白化粧の下に透ける土の風合いが焼きあがりによって１つ１つ違う為、素朴な中にも個性が楽しめる器です。
+こちらの平皿は温かみのある手触りとシンプルなデザインで、お料理を一層引き立ててくれます。
+伝統の技術が詰まった器を2個セットでお届けいたします。
+大切な方への贈り物にも。
+※写真はあくまで参考作品です。
+釉薬の特性上一つ一つ全く同じものは存在しません。
+※表面に黒い鉄粉の付着やピンホールと呼ばれる小さな穴、指の跡などがみられますが、手仕事の跡としてご理解下さい。
+※焼き上げる際熱風により変形するため、正円ではありません。自然により作られた美しさとしてご理解いただきますようお願い致します。
+※こちらの返礼品は一度の窯入れで制作できる数が限られている為、在庫状況によっては完成まで数ヶ月お待ちいただく場合があります。その際にはこちらからご連絡させて頂きます。何卒ご理解の程よろしくお願い致します。
+提供：土平窯(唐津市)
+告示第5条第3号:佐賀県唐津の伝統的な技法によって作られたものであり、土の採掘、生地づくり、焼き上げまでの工程を唐津市の土平窯にて行うことにより、相応の付加価値が生じているもの。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5319614/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230605/pd_1ac8466ffedc4b6a09d4ead547326247cae406e9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【土平窯】唐津焼絵唐津輪花五寸皿</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄付完了確認後、2~3ヶ月前後で発送。
+在庫がなくお待たせする場合にはご連絡させて頂きます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、2万円以上のご寄附をいただいた方
+絵唐津とは絵を描いた器のことで、伸びやかな線で描かれているのが特徴です。
+鉄砂釉で描かれた模様は草木や花、鳥などの自然をモチーフに描かれています。
+こちらの輪花五寸皿は名前の通り花が描かれており、ほんのりとかかった白釉薬が優しい雰囲気のお皿です。
+お取り分け用の小皿としてはもちろん、ケーキやフルーツにも使いやすいサイズ。
+シンプルながらも味わいのある器をぜひ食卓でお楽しみ下さい。
+※写真はあくまで参考作品です。
+釉薬の特性上一つ一つ全く同じものは存在しません。
+※表面に黒い鉄粉の付着やピンホールと呼ばれる小さな穴、指の跡などがみられますが、手仕事の跡としてご理解下さい。
+※焼き上げる際熱風により変形するため、正円ではありません。自然により作られた美しさとしてご理解いただきますようお願い致します。
+※こちらの返礼品は一度の窯入れで制作できる数が限られている為、在庫状況によっては完成まで数ヶ月お待ちいただく場合があります。その際にはこちらからご連絡させて頂きます。何卒ご理解の程よろしくお願い致します。
+提供：土平窯(唐津市)
+告示第5条第3号:佐賀県唐津の伝統的な技法によって作られたものであり、土の採掘、生地づくり、成形、絵付け、焼き上げまでの工程を唐津市の土平窯にて行うことにより、相応の付加価値が生じているもの。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5319615/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230605/pd_286cd7581afb055ba61b69c7f349bcf65484aa3e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【土平窯】唐津焼絵唐津輪花五寸皿2個セット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄付完了確認後、2~3ヶ月前後で発送。
+在庫がなくお待たせする場合にはご連絡させて頂きます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、3万円以上のご寄附をいただいた方
+絵唐津とは絵を描いた器のことで、伸びやかな線で描かれているのが特徴です。
+鉄砂釉で描かれた模様は草木や花、鳥などの自然をモチーフに描かれています。
+こちらの輪花五寸皿は名前の通り花が描かれており、ほんのりとかかった白釉薬が優しい雰囲気のお皿です。
+お取り分け用の小皿としてはもちろん、ケーキやフルーツにも使いやすいサイズ。
+シンプルながらも味わいのある器を2個セットでお楽しみ下さい。
+※写真はあくまで参考作品です。
+釉薬の特性上一つ一つ全く同じものは存在しません。
+※表面に黒い鉄粉の付着やピンホールと呼ばれる小さな穴、指の跡などがみられますが、手仕事の跡としてご理解下さい。
+※焼き上げる際熱風により変形するため、正円ではありません。自然により作られた美しさとしてご理解いただきますようお願い致します。
+※こちらの返礼品は一度の窯入れで制作できる数が限られている為、在庫状況によっては完成まで数ヶ月お待ちいただく場合があります。その際にはこちらからご連絡させて頂きます。何卒ご理解の程よろしくお願い致します。
+提供：土平窯(唐津市)
+告示第5条第3号:佐賀県唐津の伝統的な技法によって作られたものであり、土の採掘、生地づくり、成形、絵付け、焼き上げまでの工程を唐津市の土平窯にて行うことにより、相応の付加価値が生じているもの。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5319616/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230605/pd_73bd01def675fc55d477def27aa63c3bc133b312.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【土平窯】唐津焼絵唐津輪花五寸皿3個セット</h4>
+<p class="goods-col_price inline">40,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄付完了確認後、2~3ヶ月前後で発送。
+在庫がなくお待たせする場合にはご連絡させて頂きます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、4万円以上のご寄附をいただいた方
+絵唐津とは絵を描いた器のことで、伸びやかな線で描かれているのが特徴です。
+鉄砂釉で描かれた模様は草木や花、鳥などの自然をモチーフに描かれています。
+こちらの輪花五寸皿は名前の通り花が描かれており、ほんのりとかかった白釉薬が優しい雰囲気のお皿です。
+お取り分け用の小皿としてはもちろん、ケーキやフルーツにも使いやすいサイズ。
+シンプルながらも味わいのある器を3個セットでお楽しみ下さい。
+※写真はあくまで参考作品です。
+釉薬の特性上一つ一つ全く同じものは存在しません。
+※表面に黒い鉄粉の付着やピンホールと呼ばれる小さな穴、指の跡などがみられますが、手仕事の跡としてご理解下さい。
+※焼き上げる際熱風により変形するため、正円ではありません。自然により作られた美しさとしてご理解いただきますようお願い致します。
+※こちらの返礼品は一度の窯入れで制作できる数が限られている為、在庫状況によっては完成まで数ヶ月お待ちいただく場合があります。その際にはこちらからご連絡させて頂きます。何卒ご理解の程よろしくお願い致します。
+提供：土平窯(唐津市)
+告示第5条第3号:佐賀県唐津の伝統的な技法によって作られたものであり、土の採掘、生地づくり、成形、絵付け、焼き上げまでの工程を唐津市の土平窯にて行うことにより、相応の付加価値が生じているもの。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5319617/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230605/pd_8610ea3a12a062f6f2d7892d3b75f764924484d4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【土平窯】唐津焼絵唐津輪花五寸皿4個セット<br/>
+</h4>
+<p class="goods-col_price inline">55,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄付完了確認後、2~3ヶ月前後で発送。
+在庫がなくお待たせする場合にはご連絡させて頂きます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、5万5千円以上のご寄附をいただいた方
+絵唐津とは絵を描いた器のことで、伸びやかな線で描かれているのが特徴です。
+鉄砂釉で描かれた模様は草木や花、鳥などの自然をモチーフに描かれています。
+こちらの輪花五寸皿は名前の通り花が描かれており、ほんのりとかかった白釉薬が優しい雰囲気のお皿です。
+お取り分け用の小皿としてはもちろん、ケーキやフルーツにも使いやすいサイズ。
+シンプルながらも味わいのある器を4個セットでお楽しみ下さい。
+※写真はあくまで参考作品です。
+釉薬の特性上一つ一つ全く同じものは存在しません。
+※表面に黒い鉄粉の付着やピンホールと呼ばれる小さな穴、指の跡などがみられますが、手仕事の跡としてご理解下さい。
+※焼き上げる際熱風により変形するため、正円ではありません。自然により作られた美しさとしてご理解いただきますようお願い致します。
+※こちらの作品はふるさと納税だけでなく個展でも大変人気があり、また一度の窯入れで制作できる数が限られている為、在庫状況によっては完成まで数ヶ月お待ちいただく場合があります。その際にはこちらからご連絡させて頂きます。何卒ご理解の程よろしくお願い致します。
+提供：土平窯(唐津市)
+告示第5条第3号:佐賀県唐津の伝統的な技法によって作られたものであり、土の採掘、生地づくり、成形、絵付け、焼き上げまでの工程を唐津市の土平窯にて行うことにより、相応の付加価値が生じているもの。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5319618/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230605/pd_c6f9e69ba3701f19f6b93b22e1c7f9e2effa8c8d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【土平窯】絵唐津五寸皿</h4>
+<p class="goods-col_price inline">18,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄付完了確認後、2~3ヶ月前後で発送。
+在庫がなくお待たせする場合にはご連絡させて頂きます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、1万8千円以上のご寄附をいただいた方
+絵唐津とは絵を描いた器のことで、伸びやかな線で描かれているのが特徴です。
+鉄砂釉で描かれた模様は草木や花、鳥などの自然をモチーフに描かれています。
+こちらの五寸皿は葉っぱと果実の絵柄が施された、柔らかな印象の一枚。
+五寸（約15cm）という使いやすいサイズとシンプルなデザインで、毎日の食卓でお使い頂けます。
+シンプルながらも味わいのある器をぜひ食卓でお楽しみ下さい。
+※写真はあくまで参考作品です。絵柄が変更になる場合があります。
+釉薬の特性上一つ一つ全く同じものは存在しません。
+※表面に黒い鉄粉の付着やピンホールと呼ばれる小さな穴、指の跡などがみられますが、手仕事の跡としてご理解下さい。
+※焼き上げる際熱風により変形するため、正円ではありません。自然により作られた美しさとしてご理解いただきますようお願い致します。
+※こちらの返礼品は一度の窯入れで制作できる数が限られている為、在庫状況によっては完成まで数ヶ月お待ちいただく場合があります。その際にはこちらからご連絡させて頂きます。何卒ご理解の程よろしくお願い致します。
+提供：土平窯(唐津市)
+告示第5条第3号:佐賀県唐津の伝統的な技法によって作られたものであり、土の採掘、生地づくり、成形、絵付け、焼き上げまでの工程を唐津市の土平窯にて行うことにより、相応の付加価値が生じているもの。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5319619/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230605/pd_958408bc46d4713dc5970d09900a821c3afcc89e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【土平窯】絵唐津五寸皿2個セット<br/>
+</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄付完了確認後、2~3ヶ月前後で発送。
+在庫がなくお待たせする場合にはご連絡させて頂きます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、3万円以上のご寄附をいただいた方
+絵唐津とは絵を描いた器のことで、伸びやかな線で描かれているのが特徴です。
+鉄砂釉で描かれた模様は草木や花、鳥などの自然をモチーフに描かれています。
+こちらの五寸皿は葉っぱと果実の絵柄が施された、柔らかな印象の一枚。
+五寸（約15cm）という使いやすいサイズとシンプルなデザインで、毎日の食卓でお使い頂けます。
+シンプルながらも味わいのある器を2枚セットでお楽しみ下さい。
+※写真はあくまで参考作品です。絵柄が変更になる場合があります。
+釉薬の特性上一つ一つ全く同じものは存在しません。
+※表面に黒い鉄粉の付着やピンホールと呼ばれる小さな穴、指の跡などがみられますが、手仕事の跡としてご理解下さい。
+※焼き上げる際熱風により変形するため、正円ではありません。自然により作られた美しさとしてご理解いただきますようお願い致します。
+※こちらの返礼品は一度の窯入れで制作できる数が限られている為、在庫状況によっては完成まで数ヶ月お待ちいただく場合があります。その際にはこちらからご連絡させて頂きます。何卒ご理解の程よろしくお願い致します。
+提供：土平窯(唐津市)
+告示第5条第3号:佐賀県唐津の伝統的な技法によって作られたものであり、土の採掘、生地づくり、成形、絵付け、焼き上げまでの工程を唐津市の土平窯にて行うことにより、相応の付加価値が生じているもの。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5319620/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230605/pd_8339c7131834012274c435f5910c0a6774c0aef7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【土平窯】絵唐津五寸皿3個セット</h4>
+<p class="goods-col_price inline">41,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄付完了確認後、2~3ヶ月前後で発送。
+在庫がなくお待たせする場合にはご連絡させて頂きます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、4万1千円以上のご寄附をいただいた方
+絵唐津とは絵を描いた唐津焼のことで、伸びやかな線で描かれているのが特徴です。
+鉄砂釉で描かれた模様は草木や花、鳥などの自然をモチーフに描かれています。
+こちらの五寸皿は葉っぱと果実の絵柄が施された、柔らかな印象の一枚。
+五寸（約15cm）という使いやすいサイズとシンプルなデザインで、毎日の食卓でお使い頂けます。
+シンプルながらも味わいのある器を3枚セットでお楽しみ下さい。
+※写真はあくまで参考作品です。絵柄が変更になる場合があります。
+釉薬の特性上一つ一つ全く同じものは存在しません。
+※表面に黒い鉄粉の付着やピンホールと呼ばれる小さな穴、指の跡などがみられますが、手仕事の跡としてご理解下さい。
+※焼き上げる際熱風により変形するため、正円ではありません。自然により作られた美しさとしてご理解いただきますようお願い致します。
+※こちらの返礼品は一度の窯入れで制作できる数が限られている為、在庫状況によっては完成まで数ヶ月お待ちいただく場合があります。その際にはこちらからご連絡させて頂きます。何卒ご理解の程よろしくお願い致します。
+提供：土平窯(唐津市)
+告示第5条第3号:佐賀県唐津の伝統的な技法によって作られたものであり、土の採掘、生地づくり、成形、絵付け、焼き上げまでの工程を唐津市の土平窯にて行うことにより、相応の付加価値が生じているもの。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5319621/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230605/pd_ffe42a9ddccdafc9e3b8009a2e3ab30a700b3187.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【土平窯】絵唐津五寸皿4個セット</h4>
+<p class="goods-col_price inline">55,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄付完了確認後、2~3ヶ月前後で発送。
+在庫がなくお待たせする場合にはご連絡させて頂きます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、5万5千円以上のご寄附をいただいた方
+絵唐津とは絵を描いた器のことで、伸びやかな線で描かれているのが特徴です。
+鉄砂釉で描かれた模様は草木や花、鳥などの自然をモチーフに描かれています。
+こちらの五寸皿は葉っぱと果実の絵柄が施された、柔らかな印象の一枚。
+五寸（約15cm）という使いやすいサイズとシンプルなデザインで、毎日の食卓でお使い頂けます。
+シンプルながらも味わいのある器を4枚セットでお楽しみ下さい。
+※写真はあくまで参考作品です。絵柄が変更になる場合があります。
+釉薬の特性上一つ一つ全く同じものは存在しません。
+※表面に黒い鉄粉の付着やピンホールと呼ばれる小さな穴、指の跡などがみられますが、手仕事の跡としてご理解下さい。
+※焼き上げる際熱風により変形するため、正円ではありません。自然により作られた美しさとしてご理解いただきますようお願い致します。
+※こちらの返礼品は一度の窯入れで制作できる数が限られている為、在庫状況によっては完成まで数ヶ月お待ちいただく場合があります。その際にはこちらからご連絡させて頂きます。何卒ご理解の程よろしくお願い致します。
+提供：土平窯(唐津市)
+告示第5条第3号:佐賀県唐津の伝統的な技法によって作られたものであり、土の採掘、生地づくり、成形、絵付け、焼き上げまでの工程を唐津市の土平窯にて行うことにより、相応の付加価値が生じているもの。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5319622/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230605/pd_c26940eb00af006890ac4ca3ec7f4b43d26c63de.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【土平窯】絵唐津六寸皿</h4>
+<p class="goods-col_price inline">21,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>通常は決済完了から2ヶ月前後で発送。
+在庫がなくお待たせする場合にはご連絡させて頂きます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、2万1千円以上のご寄附をいただいた方
+絵唐津とは絵を描いた器のことで、伸びやかな線で描かれているのが特徴です。
+鉄砂釉で描かれた模様は草木や花、鳥などの自然をモチーフに描かれています。
+こちらの六寸皿は葉っぱと果実の絵柄が施された、柔らかな印象の一枚。
+六寸（約18cm）の深さのあるデザインで、煮物やロールキャベツなど汁気のあるお料理にぴったりです。
+シンプルながらも味わいのある器をぜひ食卓でお楽しみ下さい。
+※写真はあくまで参考作品です。絵柄が変更になる場合があります。
+釉薬の特性上一つ一つ全く同じものは存在しません。
+※表面に黒い鉄粉の付着やピンホールと呼ばれる小さな穴、指の跡などがみられますが、手仕事の跡としてご理解下さい。
+※焼き上げる際熱風により変形するため、正円ではありません。自然により作られた美しさとしてご理解いただきますようお願い致します。
+※こちらの返礼品は一度の窯入れで制作できる数が限られている為、在庫状況によっては完成まで数ヶ月お待ちいただく場合があります。その際にはこちらからご連絡させて頂きます。何卒ご理解の程よろしくお願い致します。
+提供：土平窯(唐津市)
+告示第5条第3号:佐賀県唐津の伝統的な技法によって作られたものであり、土の採掘、生地づくり、成形、絵付け、焼き上げまでの工程を唐津市の土平窯にて行うことにより、相応の付加価値が生じているもの。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5319623/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230605/pd_b6ab4e4bb017e024c20cb2daf4e8a88ee5bf27ef.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【土平窯】絵唐津六寸皿2個セット</h4>
+<p class="goods-col_price inline">40,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>通常は決済完了から２ヶ月前後で発送。
+在庫がなくお待たせする場合にはご連絡させて頂きます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、4万円以上のご寄附をいただいた方
+絵唐津とは絵を描いた器のことで、伸びやかな線で描かれているのが特徴です。
+鉄砂釉で描かれた模様は草木や花、鳥などの自然をモチーフに描かれています。
+こちらの六寸皿は葉っぱと果実の絵柄が施された、柔らかな印象の一枚。
+六寸（約18cm）の深さのあるデザインで、煮物やロールキャベツなど汁気のあるお料理にぴったりです。
+シンプルながらも味わいのある器を2個セットでお楽しみ下さい。
+※写真はあくまで参考作品です。絵柄が変更になる場合があります。
+釉薬の特性上一つ一つ全く同じものは存在しません。
+※表面に黒い鉄粉の付着やピンホールと呼ばれる小さな穴、指の跡などがみられますが、手仕事の跡としてご理解下さい。
+※焼き上げる際熱風により変形するため、正円ではありません。自然により作られた美しさとしてご理解いただきますようお願い致します。
+※こちらの返礼品は一度の窯入れで制作できる数が限られている為、在庫状況によっては完成まで数ヶ月お待ちいただく場合があります。その際にはこちらからご連絡させて頂きます。何卒ご理解の程よろしくお願い致します。
+提供：土平窯(唐津市)
+告示第5条第3号:佐賀県唐津の伝統的な技法によって作られたものであり、土の採掘、生地づくり、成形、絵付け、焼き上げまでの工程を唐津市の土平窯にて行うことにより、相応の付加価値が生じているもの。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5322044/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230605/pd_6065b924603d7d0bdc571f42dcb1648388f8f6e9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【土平窯】絵唐津六寸皿3個セット</h4>
+<p class="goods-col_price inline">55,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄付完了確認後、２ヶ月前後で発送。
+在庫がなくお待たせする場合にはご連絡させて頂きます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、5万5千円以上のご寄附をいただいた方
+絵唐津とは絵を描いた器のことで、伸びやかな線で描かれているのが特徴です。
+鉄砂釉で描かれた模様は草木や花、鳥などの自然をモチーフに描かれています。
+こちらの六寸皿は葉っぱと果実の絵柄が施された、柔らかな印象の一枚。
+六寸（約18cm）の深さのあるデザインで、煮物やロールキャベツなど汁気のあるお料理にぴったりです。
+シンプルながらも味わいのある器を3枚セットでお楽しみ下さい。
+※写真はあくまで参考作品です。絵柄が変更になる場合があります。
+釉薬の特性上一つ一つ全く同じものは存在しません。
+※表面に黒い鉄粉の付着やピンホールと呼ばれる小さな穴、指の跡などがみられますが、手仕事の跡としてご理解下さい。
+※焼き上げる際熱風により変形するため、正円ではありません。自然により作られた美しさとしてご理解いただきますようお願い致します。
+※こちらの返礼品は一度の窯入れで制作できる数が限られている為、在庫状況によっては完成まで数ヶ月お待ちいただく場合があります。その際にはこちらからご連絡させて頂きます。何卒ご理解の程よろしくお願い致します。
+提供：土平窯(唐津市)
+告示第5条第3号:佐賀県唐津の伝統的な技法によって作られたものであり、土の採掘、生地づくり、成形、絵付け、焼き上げまでの工程を唐津市の土平窯にて行うことにより、相応の付加価値が生じているもの。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5319624/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230605/pd_729dc03efbeb50f04b20c3ca9396df783f38fbde.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【土平窯】絵唐津六寸皿4個セット</h4>
+<p class="goods-col_price inline">70,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄付完了確認後、2ヶ月前後で発送。
+在庫がなくお待たせする場合にはご連絡させて頂きます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、7万円以上のご寄附をいただいた方
+絵唐津とは絵を描いた噐のことで、伸びやかな線で描かれているのが特徴です。
+鉄砂釉で描かれた模様は草木や花、鳥などの自然をモチーフに描かれています。
+こちらの六寸皿は葉っぱと果実の絵柄が施された、柔らかな印象の一枚。
+六寸（約18cm）の深さのあるデザインで、煮物やロールキャベツなど汁気のあるお料理にぴったりです。
+シンプルながらも味わいのある噐を4個セットでお楽しみ下さい。
+※写真はあくまで参考作品です。絵柄が変更になる場合があります。
+釉薬の特性上一つ一つ全く同じものは存在しません。
+※表面に黒い鉄粉の付着やピンホールと呼ばれる小さな穴、指の跡などがみられますが、手仕事の跡としてご理解下さい。
+※焼き上げる際熱風により変形するため、正円ではありません。自然により作られた美しさとしてご理解いただきますようお願い致します。
+※こちらの返礼品は一度の窯入れで制作できる数が限られている為、在庫状況によっては完成まで数ヶ月お待ちいただく場合があります。その際にはこちらからご連絡させて頂きます。何卒ご理解の程よろしくお願い致します。
+提供：土平窯(唐津市)
+告示第5条第3号:佐賀県唐津の伝統的な技法によって作られたものであり、土の採掘、生地づくり、成形、焼き上げまでの工程を唐津市の土平窯にて行うことにより、相応の付加価値が生じているもの。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5319625/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240226/pd_6f5d905fe700bbab36fa1a5a1e79731e87543760.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【土平窯】唐津灰被八寸平皿</h4>
+<p class="goods-col_price inline">45,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、4万5千円以上のご寄附をいただいた方
+唐津では器を焼くために登り窯を使いますが、土平窯では年に一度だけ、穴窯を焚きます。
+釉薬を掛けずに無釉で11日間焚き続け、燃やした木の灰が作品に掛かり続けて釉薬の代わりとなります。
+11日間焚くのは、本当に大変な体力勝負で、
+三人交代で、一人1日8時間、5分〜6分毎に薪を10本前後、11日間焚べ続けます。
+使う薪の数は登り窯の16倍にもなり、薪の準備だけで大変な時間と手間と費用が掛かります。
+火からの距離で焼きあがりが全く違う雰囲気になるのが灰被の魅力。
+八寸の器1枚の中でも色合いや艶感の違いが出るのはその為です。
+ずっしりとした重みがあり、ところどころ光沢のあるこちらの平皿は重厚感たっぷり。
+食卓の主役にメインのお料理を盛り付けたり、ワンプレートとしてお使い頂けます。
+※こちらのお皿は1点限りの作品です。
+※表面に黒い鉄粉の付着やピンホールと呼ばれる小さな穴、指の跡などがみられますが、手仕事の跡としてご理解下さい。
+※焼き上げる際熱風により変形するため、正円ではありません。自然により作られた美しさとしてご理解いただきますようお願い致します。
+提供：土平窯(唐津市)
+告示第5条第3号:佐賀県唐津の伝統的な技法によって作られたものであり、土の採掘、生地づくり、成形、焼き上げまでの工程を唐津市の土平窯にて行うことにより、相応の付加価値が生じているもの。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5322045/417">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230605/pd_b2d0094c1708b721f278ddbe7c99e39909ae9eda.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【土平窯】唐津灰被鉢(大)</h4>
+<p class="goods-col_price inline">80,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人poco a bocco (ポコアボッコ）をお選びいただき、8万円以上のご寄附をいただいた方
+唐津では器を焼くために登り窯を使いますが、土平窯では年に一度だけ、穴窯を焚きます。
+釉薬を掛けずに無釉で11日間焚き続け、燃やした木の灰が作品に掛かり続けて釉薬の代わりとなります。
+11日間焚くのは、本当に大変な体力勝負で、
+三人交代で、一人1日8時間、5分〜6分毎に薪を10本前後、11日間焚べ続けます。
+使う薪の数は登り窯の16倍にもなり、薪の準備だけで大変な時間と手間と費用が掛かります。
+火からの距離で焼きあがりが全く違う雰囲気になるのが灰被の魅力。
+一つの鉢の中でも色合いや艶感の違いが出るため、見る角度によって印象が異なります。
+ずっしりとした重みの中に、唐津焼の伝統と作家の情熱を感じることができる一品です。
+丼ものやお茶漬け、お雑煮や具沢山のお味噌汁にちょうど良いサイズ。
+※こちらの鉢は1点限りの作品です。
+※表面に黒い鉄粉の付着やピンホールと呼ばれる小さな穴、指の跡などがみられますが、手仕事の跡としてご理解下さい。
+※焼き上げる際熱風により変形するため、正円ではありません。自然により作られた美しさとしてご理解いただきますようお願い致します。
+提供：土平窯(唐津市)
+告示第5条第3号:佐賀県唐津の伝統的な技法によって作られたものであり、土の採掘、生地づくり、成形、焼き上げまでの工程を唐津市の土平窯にて行うことにより、相応の付加価値が生じているもの。</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">佐賀県NPO支援</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">佐賀県のふるさと納税は、皆さまが支援したい佐賀県内のNPO等を指定して寄付することができます。お返しの品は指定されたNPO等が自らの創意工夫で送ることで、県の事務経費を抑え、できる限り多くの額を指定されたNPO等にお渡しし、“自ら考え行動する自発の地域づくり”を応援しています。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">佐賀県NPO支援の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/41001/417?from=2&amp;gcf_project_id=1488"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,554,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g1488,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

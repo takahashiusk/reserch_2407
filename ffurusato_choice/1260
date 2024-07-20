@@ -1,0 +1,1560 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/1260" />
+
+<title>～車イスで野菜作りをしたい！ 子供たちと蛍を灯したい！～　“たもんじ交流農園”｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="～車イスで野菜作りをしたい！ 子供たちと蛍を灯したい！～　“たもんじ交流農園”｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/1260" />
+<meta property="og:description" content="農地の無い都市部には、自然を感じ、土にふれ、農体験のできる場がありません。野菜作りを通し、人とのつながりができる交流の場にしたい！ならばと、宅地跡地の約200坪の地を掘り起こし黒土を運び地域住民の手づくりでコミュニティガーデンを創り出しました。たもんじ交流農園です。墨田区は、農地はもちろん、緑も少なく、庭のスペースすら持てず、とくに北部は狭い路地裏でも様々なプランターを道に並べ少しでも緑を親しんできたそんな土地柄です。また昨今はマンションも増え、ますます地べたが遠ざかり、ひらけた空を見上げる場も少なくなってきました。そんなまちなかだからこそ、自然を感じ土にふれ、農体験のできる場の交流型農園が必要になりました。そこには墨田区の江戸野菜、「寺島なす」を復活するべく地域の手によって栽培もしています。テーマは、「子どもからお年寄りまで誰でもが楽しめる農園を！」です。当初の計画を表わしたイラストそのもの。しかし、まだ車いすの方は直接野菜作りに参加できていません。どのような畑を作れば一緒に楽しめるだろうか⁈　そして子供たちにビオトープで光を放ちながら飛ぶ蛍を観せたい。そんなプロジェクトのスタートです。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20210729/d_4f892729ef8d67aa9b567f1c43f82e310aba5d4d.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20210729/d_4f892729ef8d67aa9b567f1c43f82e310aba5d4d.jpg" />
+<meta property="twitter:title" content="～車イスで野菜作りをしたい！ 子供たちと蛍を灯したい！～　“たもんじ交流農園”｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="農地の無い都市部には、自然を感じ、土にふれ、農体験のできる場がありません。野菜作りを通し、人とのつながりができる交流の場にしたい！ならばと、宅地跡地の約200坪の地を掘り起こし黒土を運び地域住民の手づくりでコミュニティガーデンを創り出しました。たもんじ交流農園です。墨田区は、農地はもちろん、緑も少なく、庭のスペースすら持てず、とくに北部は狭い路地裏でも様々なプランターを道に並べ少しでも緑を親しんできたそんな土地柄です。また昨今はマンションも増え、ますます地べたが遠ざかり、ひらけた空を見上げる場も少なくなってきました。そんなまちなかだからこそ、自然を感じ土にふれ、農体験のできる場の交流型農園が必要になりました。そこには墨田区の江戸野菜、「寺島なす」を復活するべく地域の手によって栽培もしています。テーマは、「子どもからお年寄りまで誰でもが楽しめる農園を！」です。当初の計画を表わしたイラストそのもの。しかし、まだ車いすの方は直接野菜作りに参加できていません。どのような畑を作れば一緒に楽しめるだろうか⁈　そして子供たちにビオトープで光を放ちながら飛ぶ蛍を観せたい。そんなプロジェクトのスタートです。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,521,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="1260" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">～車イスで野菜作りをしたい！ 子供たちと蛍を灯したい！～　“たもんじ交流農園”</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">～車イスで野菜作りをしたい！ 子供たちと蛍を灯したい！～　“たもんじ交流農園”</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1017">まちづくり&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20210729/d_4f892729ef8d67aa9b567f1c43f82e310aba5d4d.jpg" alt="main_img" decoding="async" />
+<img class="gcf-lyt-detail__complete" src="/gcf/images_cf/icon_goal_brown.png" alt="達成" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%EF%BD%9E%E8%BB%8A%E3%82%A4%E3%82%B9%E3%81%A7%E9%87%8E%E8%8F%9C%E4%BD%9C%E3%82%8A%E3%82%92%E3%81%97%E3%81%9F%E3%81%84%EF%BC%81%20%E5%AD%90%E4%BE%9B%E3%81%9F%E3%81%A1%E3%81%A8%E8%9B%8D%E3%82%92%E7%81%AF%E3%81%97%E3%81%9F%E3%81%84%EF%BC%81%EF%BD%9E%E3%80%80%E2%80%9C%E3%81%9F%E3%82%82%E3%82%93%E3%81%98%E4%BA%A4%E6%B5%81%E8%BE%B2%E5%9C%92%E2%80%9D&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F1260">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">1,125,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph2" style="width: 112.5%;"></div>
+<p class="gcf-cht-detail-bar__number">112.5%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">1,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">112.5</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">56</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>東京都墨田区（とうきょうと すみだく）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="1260" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2021年8月2日～2021年12月31日（152日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1028" class="sorting-list__item">まちづくり・コミュニティ</a></li><li><a href="/gcf/project/tag/1029" class="sorting-list__item">インフラ・交通・施設</a></li><li><a href="/gcf/project/tag/1033" class="sorting-list__item">子ども・教育</a></li><li><a href="/gcf/project/tag/1035" class="sorting-list__item">山・農業</a></li><li><a href="/gcf/project/tag/1049" class="sorting-list__item">福祉・障がい</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1082" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_3.png 1x, /gcf/images_cf/sdg/sdg_icon_3@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_3.png" alt="SDGアイコン" decoding="async" />3.すべての人に健康と福祉を</a></li><li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li><li><a href="/gcf/project/sdgs/1094" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_15.png 1x, /gcf/images_cf/sdg/sdg_icon_15@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_15.png" alt="SDGアイコン" decoding="async" />15.陸の豊かさも守ろう</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="1260" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">東京都墨田区 × NPO法人 寺島・玉ノ井まちづくり協議会</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20210729/o_f8938fe425a9b97db6cac1624c87fbc7977a2fd8.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">農地の無い都市部には、自然を感じ、土にふれ、農体験のできる場がありません。野菜作りを通し、人とのつながりができる交流の場にしたい！ならばと、宅地跡地の約200坪の地を掘り起こし黒土を運び地域住民の手づくりでコミュニティガーデンを創り出しました。たもんじ交流農園です。<br/>
+<br/>
+墨田区は、農地はもちろん、緑も少なく、庭のスペースすら持てず、とくに北部は狭い路地裏でも様々なプランターを道に並べ少しでも緑を親しんできたそんな土地柄です。また昨今はマンションも増え、ますます地べたが遠ざかり、ひらけた空を見上げる場も少なくなってきました。そんなまちなかだからこそ、自然を感じ土にふれ、農体験のできる場の交流型農園が必要になりました。そこには墨田区の江戸野菜、「寺島なす」を復活するべく地域の手によって栽培もしています。<br/>
+<br/>
+テーマは、「子どもからお年寄りまで誰でもが楽しめる農園を！」です。当初の計画を表わしたイラストそのもの。しかし、まだ車いすの方は直接野菜作りに参加できていません。どのような畑を作れば一緒に楽しめるだろうか⁈　そして子供たちにビオトープで光を放ちながら飛ぶ蛍を観せたい。そんなプロジェクトのスタートです。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<h4 class="gcf-ttl-caution">【注意事項】</h4>
+<p class="gcf-lst-caution">区外の方だけでなく、墨田区民の方もこのプロジェクト（墨田区）にふるさと納税ができます。控除も受けられます。<br/>
+※区民の方は「【墨田区民不可】」と記載されているお礼の品（セット含む）はお選びできません。</p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">緑の少ない墨田区に、”緑あふれる、コミュニティの場”を。</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">子供からお年寄りまで楽しめます！</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210729/gpfd_8b81f40ae549e0ba33bd00edd2104f1dd3ff4670.jpg" />
+</figure>
+<p class="gcf-txt-article">墨田区でも、江戸時代には御前栽畑があり、将軍の好物の寺島なす畑がその周辺に多くありました。<br/>
+<br/>
+関東大震災をきっかけり宅地化が進み、畑は無くなると同時に寺島なすも幻となったのです。<br/>
+<br/>
+心に安らぎを与える緑が少なく、教室や机上からでは得られない自然を学べる環境が身近にはなくなりました。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210729/gpfd_ebcc15d31f3c9bec5f793eaaa0e5652023c358b0.jpg" />
+</figure>
+<p class="gcf-txt-article">また、墨田区には、緑化の他にも、食育/環境/福祉/防災/商店街活性化/地域連携などなど、様々な課題がありますが、それぞれの活動がバラバラで連携が十分ではありません。<br/>
+<br/>
+地域内外の人たち、子供たちから高齢者の方までの多世代の皆が一緒に繋がって、自由に想いを話し合い、学び、そして皆が楽しめる、墨田区を元気にする場の提供が求められています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">“たもんじ交流農園”3年計画最終形完成！！</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">今年度は、もっともっと農園を活用していきたい！</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210729/gpfd_bfe308c91c1870200ad8487c4461ba50d66a3b35.jpg" />
+</figure>
+<p class="gcf-txt-article">２０１７年から3年計画で始まった、まちなか農園作り！皆様のご支援、ご協力のおかげで２０２０年３月末に、２３㎡の菜園/１２区画が完成しました。残念ながら、楽しみにしていた、「第三期完成開園式」は、コロナの影響で開催できませんでした。<br/>
+<br/>
+昨年度は、ブドウ棚や花壇を設置したり、太陽光発電を利用したビオトープ還流装置を備え付けたり、また、堆肥作りにも挑戦しました。<br/>
+<br/>
+しかし、コロナ禍は収まらず、収穫祭や、ピザ焼きパーティなど大きなイベントもすべて開催できませんでした。</p>
+<p class="gcf-txt-article">そんな中で、農園会員の皆さんには野菜作りを楽しんで頂き、どなたでもご参加OKの共用耕作地では、耕作チームのメンバーを中心に毎週末に農作業を行いました。出来た野菜は、家族単位での小規模収穫祭を開き、親子でじゃが芋、落花生等収穫し、喜んでいただきました。<br/>
+<br/>
+交流広場は地域の皆様に開放し、憩いの場自然に触れる場として多くの方に楽しんでいただくことができました。</p>
+<p class="gcf-txt-article">ステップ学級や、墨田区子供PR大使の子供達も来てくれました。また、TOKYO-MX「お江戸に恋して」や、NHK「農家メシ」・「日本ぶらり鉄道旅」の取材もあり、知名度も上がってきました。<br/>
+<br/>
+日野市のせせらぎ農園の方たちも訪問され、墨田区外の様々な団体との交流も始まりました。この時に知り合った大学助教の方のご協力を得て、「『農』を取り込む,まちづくり」というオンラインセミナーも開催し、パネラーの方たちと「都市型農園」の意義についても語りあいました。</p>
+<p class="gcf-txt-article">今年度は、この農園を更に活用して、食育・環境・防災・福祉などの実践の場としての提供を目指します。<br/>
+<br/>
+ビオトープでの蛍の育成・鑑賞、車イスの方も野菜作りを楽しめる可動型耕作地、都市型農園の輪を広げるためのセミナー開催等々、地域をつなげ多世代をつなげるしくみつくりに注力します。<br/>
+<br/>
+ウッドデッキ広場に木製手造りのイス・テーブルを設置し、子供達の遊び場として、また、「誰もが来られる来たくなる」憩いの場としての提供を目指します。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">寄付金の使い道と事業スケジュール</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">墨田区の「まちづくり」のために</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210729/gpfd_a77f8778c656281143ace4189814fa082a12c9c0.jpg" />
+</figure>
+<p class="gcf-txt-article">「墨田区にこんなのがあったら良いのに」「自分たちの地域がこのようになってほしい」との想いが、自らの「地域の力で実現できる」ということを実感できる実例の一つとして、市民の自信につながっていくと思っています。<br/>
+<br/>
+計画から実際の作業体験を通し、協働・共同作業の魅力を発信できることで人のつながりが生まれます。緑化、食育、生態系の啓蒙活動の効果や空き地有効活用による防災の効果があります。<br/>
+<br/>
+雨水利用、ヒートアイランド抑制、CO2削減、太陽光自然エネルギー活用などの環境教育の場の提供も可能です。<br/>
+<br/>
+23㎡の耕作地を12区画出来たことで野菜などの収穫物を活かすことといろいろな活用に応じる形態を持つ交流広場により、幅広い地域活動の活用が可能です。<br/>
+<br/>
+今後地域遺産の文化的流れにある江戸野菜を通しての発信の場になり得ます。高齢者、障碍者の方から子供達まで一同に会せる場になります。墨田区北部の観光名所としての効果も期待できます。<br/>
+<br/>
+そして、なによりも、「農業体験のできる、緑や自然の良さを感じられる、生態系が学べる、食を通しての集いの楽しさ」などにより“交流農園”を齎すコミュニティ形成の可能性が広がります。墨田区の目指す「笑顔あふれるまちづくり」「活発な交流が進むまちづくり」が実践できます。<br/>
+<br/>
+墨田区は、「SDGs未来都市」と「自治体SDGsモデル事業」に選定されました。<br/>
+<br/>
+私共の”たもんじ交流農園”事業は、SDGｓの１７のゴール目標の、「３、すべての人に健康と福祉を」「１１、すみ続けられるまちづくり」「１５、陸の豊かさも守ろう」を目指すものです。これらは、墨田区の掲げる”SDGｓ目標”の「・社会的課題解決と地域内経済環境の促進、・持続可能なまちの実現」に必ずや貢献できるものと信じております。</p>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">寄付金の使い道</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">◆具体的には、次の３つの活動を行います。<br/>
+１）ビオトープ蛍プロジェクト（6月～2月）<br/>
+「たもんじビオトープクラブ」を発足し、子供達を巻き込んで、蛍を幼虫から育成し、生きた生物に触れ、自然環境の大切さを学ぶ場を提供します。各家庭で幼虫を育成し、ビオトープに放ち、都会の中で蛍の灯をともす夢に挑戦します。<br/>
+<br/>
+２）可動式プランター設置（6月～10月）<br/>
+車椅子の方が来られるように、道路・ウッドデッキ広場を整備しましたが、今の耕作地では、実際の農作業をするには無理が生じます。車イスに乗ったままでも、野菜栽培ができる可動型プランターを作ること、これが、私たちの最初から目指していたことでした。やっと夢が実現に向けて動き出します。<br/>
+<br/>
+３）木製手造りイス・机設置（9月～1月）<br/>
+合板/金属/ビニール製の机やいすは、錆びたり、壊れたり、そして、見た目にも、安らぎを与える場としての交流農園になじみません。木製のイス・机を手作りし、それを普段は子供達が遊べる遊具に活用します。<br/>
+<br/>
+◆以上の他にも、昨年たくさんの方にご参加いただいて好評でした、「都市型農園」についてのセミナーを今年度も企画したいと思っております。「都市型農園」を墨田区に広げたい！<br/>
+　<br/>
+目標額は、100万円です。ご支援、ご協力方、よろしくお願いいたします。<br/>
+<br/>
+【内訳】<br/>
+◆蛍育成水槽、幼虫、タニシ等　９万円<br/>
+◆可動式プランター設計・製作　５２万円<br/>
+◆いす・テーブル作成用木材費　３８万円　等々</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">事業スケジュール</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">◆車イスプロジェクト（6月～10月）<br/>
+当初の計画段階から車いすでも栽培が出来るコンセプトがありながら、まだそこの部分は手をつけられておりませんでした。今回その実現にチャレンジします。<br/>
+実際にテスト的に車イスで栽培を試み、より安全で使いやすいプランターを限られたスペースを有効に使える形として考案して造ります。車イスだからとあきらめていた方々に楽しく野菜作りを始めて頂けるように願いを込めて。<br/>
+<br/>
+◆蛍プロジェクト（6月～2月）<br/>
+せっかく生態系の学びの場として造ったビオトープもきれいな水質からも程遠い状況です。そこでどうせ綺麗にするなら蛍が生息するくらいに！<br/>
+蛍の卵から幼虫を子供の各家庭で飼育して、来年の2月頃にたもんじのビオトープに放す。<br/>
+それまでにビオトープを清流のある綺麗な水辺を作らないといけない。<br/>
+そして、来年の今頃には蛍火をゲージ内ではなく、リアル鑑賞出来るように目指す。<br/>
+卵採取のためゲージも併用予定　更に毎年蛍が飛ぶ名所にするという壮大な計画です！<br/>
+<br/>
+◆手作り木製いす・テーブルプロジェクト（9月～１月）<br/>
+ウッドデッキ、たもんじ交流農園全体の雰囲気にマッチする木製のいす・テーブルを作ります。こどもたちの遊び場となるようなものを考えています。製作は、みんなでワイワイがやがや、ワークショップ形式で行います。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">事業に携わる方の思い</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">てらたま協議会理事長　牛久 光次</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210729/gpfd_e2048287706e0f79985ad0385281bbc9ae33a3b8.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">地域コミュニティには、拠点となる場を活用してそこから展開していくことが一つの手法かと思いますが、私たち団体も当初はカフェを開き、そこで講演会や展示などイベントを開催してきました。<br/>
+<br/>
+しかし、そこだけでは特殊性もあり年齢層も限界を感じることが多く、もう少し幅広く、特に他団体と共にコラボレーションできるものがないかと、年に一度、行政のバックアップを活用した大々的アートイベントも開催してきました。とても効果があり手応えも感じております。但し、イベントは、その期間だけの一過性なところもあり、常に開けているわけではなくそこも限界を感じるところがあります。<br/>
+<br/>
+そして、2017年から３年間かけて、農地の無い墨田区内に住宅地跡地の２００坪にコミュニティガーデンを地域住民のボランティアによって創設しました。宅地からの農地転換という難しい課題に皆が頭と体を使って取り組めた。その過程が特に大きな力となりました。<br/>
+<br/>
+このたもんじ交流農園では、行政の補助金を活用することでパブリック的な要素も形成しやすく、福祉団体から児童館、保育園など年齢層も幅広く活用できること、そして一般の方々と共に、食育や環境・福祉など、つながりが多岐にわたって広がっていくことが出来ます。<br/>
+このように、常に存在していて、解放されている空間が都市部のまちなかにあることで、そこを拠点として、さまざまな人々との交流が生まれ、いろいろな展開に広がりつながっていくものと、このたもんじ交流農園を通して強く実感しています。<br/>
+<br/>
+更に、この場所で出来ること、やりたいことがどんどん生まれてきます。その都度仲間がつながり、未来に向けた夢の実現が実感できる場所として発展”のりしろ“を感じています。<br/>
+<br/>
+だからこそ、今後の願いは、都市部だからこそ必要な、このようなコミュニティガーデンがどんどん増えていくこと期待しています。そのためにも各行政機関はその価値を知ってより多くの支援を推進して頂きたい。地域住民の手で創り出しやすいように寄り添い背中を押して頂きたいと願っております。<br/>
+<br/>
+当会は、これからもまちづくり活動を通して、人々をつなげることで心豊かな暮らし方につなげていけるよう目指して活動していきます。どうかご支援ご協力の程、宜しくお願い致します。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">福祉団体勤務　小山田 征礼さん</span></h3>
+<h3 class="gcf-ttl-h3">■多幸感あふれる地域づくりに感銘！</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210729/gpfd_34da841017deaa3e280b1090efc2fcee66387bfd.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">私が「たもんじ交流農園」に初めて訪れたのは１年半前の秋も終わりの頃、知人から収穫祭について話を聞いて伺った時だと記憶しています。その頃の農園は第二期の造園作業がはじまる前で今のような芝生やウッドデッキなどはまだなく、通路もデコボコで足元にはとても多くの石も残っていました。<br/>
+<br/>
+それでも収穫祭に参加する人たちの熱気はすごく、ただ農園を整備して作物を育てるだけの場所を作るのではなく、農園活動を通じてどんなことをしたいか、農園活動を行うことの意味や可能性、自分たちにどんな魅力的なことができるか、などが熱く語り合われていました。<br/>
+<br/>
+そしてなにより農園を借りている人だけが参加するものではなく、このまちで暮らす人なら誰でも参加でき、この場所が地域にいる多くの人々にとっての共有の場所となること、多くの人が繋がりまた新しい繋がりが増えていくこと、そういった多幸感あふれる地域づくりを実現したい、という気持ちがストレートに伝わってきました。私はこの時「たもんじ交流農園」とそこに携わる人たちのあり方を本当に素敵だと感じました。<br/>
+<br/>
+私自身は他県在住のため農園を借りての参加はしていませんが、今後も都合のつくときには是非「たもんじ交流農園」に参加・応援をしていきたいと思っています。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">農園会員及び耕作チームの皆様</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">”野菜作り・農作業”楽しんでます！</span></h3>
+<h3 class="gcf-ttl-h3">■農園会員：栗原さん</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210729/gpfd_f91c0408af0d8697d836f172c96be069e8871f56.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">2020年5月の始めに農園見学に行き、見事なイチゴ作りをしている畑を見て感激。私も作ることができればどんなに楽しいことかと無謀にも野菜作りを始めました。<br/>
+<br/>
+夏にはミニトマト、とうもろこし、オクラ、寒くなって来るころキャベツ、芽キャベツ、里芋を収穫。枝豆は失敗。今年になり小さいけどイチゴ、スナップえんどう、ソラマメ、楽しませてもらいました。新型コロナで自粛生活表に出る機会が減った孫たちの安心して行かれる外出先でした。<br/>
+<br/>
+野菜作りだけでなくのびのび過ごせる場所でもあり本当に感謝しています。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">■耕作チーム：伊勢さん親子</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210729/gpfd_16f868b12403743f7b9657bbce31a0a807bff32d.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">子供と一緒に数年前からお手伝いに参加させていただいております。<br/>
+<br/>
+思えば耕作区画が徐々に完成し、ウッドデッキが作られて、最後にはメダカ入りのビオトープまで出来上がり、日々ご尽力されている方々に感謝するばかりです。<br/>
+<br/>
+子供はトマト、キュウリ、落花生、ポップコーン用のトウモロコシなどの収穫を体験することができ、様々な植物がどうやって育っているのかを直接見ることができて嬉しかったようです。<br/>
+<br/>
+寺島なすの収穫は頑張っていたので、この勢いで嫌いななすも食べるかと期待しましたが、、、これはもう少し時間がかかりそうです。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">■耕作チーム：平田さん</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210729/gpfd_bb8721f77f5c56f6275554380ecea78aa02591ae.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">玉井地区に住んで、還暦程の年月が経ちお世話になったこの地区で、何か活動をしたいと思って居りました。<br/>
+<br/>
+てらたま協議会のお知り合いの方のお誘いで、耕作チームのメンバーになりました。ただ、農園作業や花も育てた事も無い私に何が出来るかと最初に参加した時は不安でしたが、チームの皆様が優しく指導して下さりながら可愛いニンジンの収穫や雑草を肥料にする為に始めて鍬を持ちました。<br/>
+<br/>
+今まで知らなかった事を学び体験した事に喜びを感じて、次回の作業日が待ち遠しくなりました。<br/>
+<br/>
+また時々農園に来て、季節感を感じながら野菜の育つのを見たり花を愛でて、鳥を観察したりして癒されて居ます。此処まで素敵な農園にして頂いた先輩方に感謝致します。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">■耕作チーム：伊澤さん</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210729/gpfd_1e8ab2ec47977230c738a99dd372b0327bb42d68.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">墨田区で生まれ育ち、食が好きな２５歳女子です。農業や自然が好きで、農を感じられる場所が身近にあればいいなぁと思っていました。<br/>
+<br/>
+たまたま見た雑誌からたもんじ交流農園の存在を知り、いざ参加してみると皆さん個性豊かで社交的、私にとって居心地の良い場所になりました。<br/>
+<br/>
+ある日、私が黙々と作業を行っていた際、一緒に行っていた平田さんが「スナップエンドウの花が綺麗ねぇ」と仰っていました。<br/>
+<br/>
+私は作業に集中するがあまり、目の前の美しさに鈍感になっていることに気づきました。それからは一瞬一秒の出来事を大事にしていこうと思いました。<br/>
+<br/>
+日々皆さんから様々な“気づき”をいただいており、感謝しています。将来的には私も皆さんのように元気に好きなことをして歳を重ねていきたいです。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">目を瞠る進化を続けるすみだの農園</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">コミュニティ紙「Avenue」編集長　臼井 征子さん</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210729/gpfd_dc9c8536b8952b775dfe6e37becfb0f8719e83bd.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">江戸野菜の寺島なすを最初の頒布から毎年育て、野菜つくりの難しさを実感しながら、成長の楽しさを味わい見守ってきました。<br/>
+<br/>
+あわただしい日々の中、ベランダで草花、野菜を育てるきっかけになりました。<br/>
+<br/>
+寺島なすを育てる活動が、墨田区の「すみだの夢応援助成事業」に“すみだに農園を作りたい”との壮大な夢を托して手を挙げ、その並々ならぬ篤い想いに感動しながら実現は可能か??と、外野の目で見ていましたが、夢溢れる理想と具体的な計画は見事採択をされ、数々の困難を越えて 4 年目となり、様々な野菜が実る誰もが自然に触れる貴重な憩いの場になって嬉しい限りです。<br/>
+<br/>
+真夏の暑い日、一面に背丈程伸びる多聞寺の空地の草を刈り、一週間後には元木阿弥状態の徒労の中、皆さんで力を合わせての農園作りがどうやら形になった翌年の春の「たもんじ交流農園開園式」は携わった方だけでなく参加者の笑顔が素敵でした。<br/>
+<br/>
+みんなで作った石釜で取れたて野菜たっぷりのピザで祝う収穫祭は毎回、多くの方が集う楽しいイベントです。<br/>
+<br/>
+多聞寺の 200 坪の空地に畑が作られ、ステージが作られ、花が咲き揃い、咲き乱れ、池も作られビオトープ作りも進み、農地を借り野菜つくりをしたい人が順番待ちの人気に、さもありなんと納得です。<br/>
+<br/>
+コロナに振り回された一年でしたが、たもんじ交流農園の着実に進化する姿にスタッフの皆さんにただただ頭が下がります。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">寄付者の皆様へ</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">墨田区長　山本 亨</span></h3>
+<h3 class="gcf-ttl-h3">「すみだの夢応援助成事業」への御支援をよろしくお願いします！</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210728/gpfd_9685aa5118d60f4ab51d7205a9c4d590e362850c.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">墨田区では、「地域を盛り上げたい」「地域の困りごとを解決したい」といった、すみだの街を元気にするプロジェクト＝“すみだの夢”を応援する取組として、「すみだの夢応援助成事業」を実施しています。<br/>
+<br/>
+すみだの夢応援助成事業は、区内で実施する「新規性のある意欲的なプロジェクト」を募集し、助成対象に選定された事業を実施する団体に対して、区がふるさと納税を活用したクラウドファンディングの機会を提供し、そこで集められた寄付金を助成金として交付することにより、プロジェクト＝“すみだの夢”が実現する仕組みとなっています。<br/>
+<br/>
+平成29年度から、地域力の向上や文化芸術活動に関連するさまざまなプロジェクトを展開していますが、今年度は本プロジェクトを含め５つのプロジェクトが選定され、各実施団体が“すみだの夢”の実現に向けて活動を進めています。<br/>
+<br/>
+皆さまの温かい御支援と御協力をお願い申し上げますとともに、このプロジェクトを通じて、新たな交流が生まれ、すみだの街の活性化につながると幸いです。また、より多くの皆さまに墨田区の魅力を知っていただき、訪れてくださることを心より願っております。</p>
+</div>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">最後に</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">「誰もが喜んで足を運びたくなる農園」を目指して</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210729/gpfd_d150d55c5fde1237c2993a363a5f8d3b2369710e.jpg" />
+</figure>
+<p class="gcf-txt-article">2017年から2019年の3年間、本当に沢山の方々からご支援、ご協力をいただき、心からお礼申し上げます。“たもんじ交流農園”、おかげさまで２３㎡の耕作地/１２区画を完成させることができ、芝生を植え、ビオトープ、ウッドデッキも完成しました。交流広場を整備し、花壇やブドウ棚も作りました。<br/>
+<br/>
+昨年度は、残念なことにコロナ禍で、予定していた、「完成開園式」をはじめ、収穫祭、ピザ焼きーティなどすべて開催できませんでした。<br/>
+<br/>
+そんな中でも、「誰もが喜んで足を運びたくなる農園」を目指していきたいと思います。<br/>
+<br/>
+今年度は、「蛍の灯りプロジェクト」「車いすでの野菜作り」「子供の遊び場となる木製のいすとテーブル作り」、そして、昨年度ご好評いただいた、「『農』を採り込む,まちづくり」オンラインセミナー２回目を実施したいと思います。<br/>
+<br/>
+新しい仲間をもっともっと増やして、墨田区の目指す、「地域力、日本一！住んで良かった、まちづくり！」を実践したいと思っています。<br/>
+<br/>
+まだまだ、人手も資金も足りません。ふるさと納税型クラウドファンディングへのご協力方、何卒よろしくお願い申し上げます。<br/>
+<br/>
+一日でも早く、皆が楽しく集ってイベントを開催できる日がくることを、心から願っています。</p>
+<figure class="lyt-image">
+<a target="_blank" href="https://www.city.sumida.lg.jp/kuseijoho/sumida_kihon/governance/yumeouen_jyoseijigyo/index.html">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210728/gpfd_d09647afec01ff20d89958e9e8acca69468f4903.png" alt="このプロジェクトは令和3年度すみだの夢応援助成事業です" />
+</a>
+<figcaption class="lyt-image__caption">このプロジェクトは令和3年度すみだの夢応援助成事業です</figcaption>
+</figure>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">”たもんじ交流農園”ならではの返礼品を用意いたしました！</span></h3>
+<div class="gcf-lyt-detail__block">
+<h4 class="gcf-ttl-caution">【注意事項】</h4>
+<p class="gcf-lst-caution">区内在住の方は「【墨田区民不可】」と記載されているお礼の品（セット含む）はお選びできません。<br/>
+<br/>
+区内在住の方が「【墨田区民不可】」と記載されているお礼の品を選んでご寄付された場合、お礼の品は送付できません。ご注意ください。</p>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13107/5161560/123">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210729/pd_6c01066ace8ac93dee9e123ccacfa3c7eb84040a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">”たもんじ交流農園”２０２１年度版「寄付者銘板」に「お名前」を記載</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">&quot;たもんじ交流農園&quot;２０２１銘板にお名前を記載いたします。（2022年3月末までに農園に掲示予定）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13107/5161561/123">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210729/pd_43d8cf77c61e988134ec3063256f0f77e7beaa78.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">高木新太郎名誉教授 解説付き「隅田川七福神めぐり」ご招待（解説書＋百花園入園券付き）【墨田区民不可】</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>お申込み期限：2021年12月15日（2022年1月初旬実施予定）</p>
+</div>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13107/5161562/123">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210729/pd_97aaffec11677060b041bee1ca7abd296bfaa681.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">寺島茄子之介マスク【墨田区民不可】</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">“寺島なすの介”イラスト入り、「てらたまオリジナルマスク」を２枚（サイズは、S：M：L）（2022年2月から順次発送予定）
+【墨田区民不可】</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13107/5161563/123">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210729/pd_5a153c3e3589b3ff411b51194a8dd9975f461eb2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">寺島茄子之介エコバッグ【墨田区民不可】</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">東向島在住プロの絵本作家デザインのイラストが描かれ、「寺島なすの介」の顔が入れ物となった「てらたまオリジナルエコバッグ」１個（2022年2月から順次発送予定）
+【墨田区民不可】</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13107/5161564/123">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210729/pd_316dd6346db38657efd1a8c9ac90593a205ab09d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">「江戸に浸かる。」ムービーに“エキストラ“として参加できる権利</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">墨田区東向島を舞台に、江戸と現在を結ぶ「江戸に浸かる。」オリジナルムービー２０２２に“エキストラ”として参加できる権利（完成は、２０２２年度）（実施日については連絡の上、ご相談させていただきます。）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13107/5161565/123">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210729/pd_8e2f90391acbe3e1fdfe1de6e5caa2896cdeaeb0.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">&quot;たもんじ交流農園&quot;で採れた新鮮野菜詰め合わせ【墨田区民不可】</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">”たもんじ交流農園“朝採り野菜の詰め合わせをご自宅までお送りします！（天候、野菜の発育状況等により、内容及び発送日が変更となる可能性がありますので、ご承知おき願います。）（2022年6月から9月頃発送予定）
+【墨田区民不可】</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13107/5161566/123">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210729/pd_c960277aa65528145033f687f030f75d9fbe4c0d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">丸源飲料“トーキョーサイダー”～墨田区で生まれた懐かしい味 12本入り～【墨田区民不可】</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">“寺島なす乃介”ロゴ入り！（2022年2月から順次発送予定）
+【墨田区民不可】</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13107/5161567/123">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210729/pd_05f51f71959a2a13eafdf8895ff1a7a5ab893b61.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">「江戸に浸かる。」ムービーに“主要なキャスト“として参加できる権利</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">墨田区東向島を舞台に、江戸と現在を結ぶ「江戸に浸かる。」オリジナルムービー２０２２に“主要なキャスト”として参加できる権利（完成は、２０２２年度）（実施日については連絡の上、ご相談させていただきます。）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13107/5161568/123">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210729/pd_bc8c4cdc12744e3b0d1ea62e5c2ff8d2bf6d71f5.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">たもんじ交流農園「ウッドデッキ」に冠名を付けられる権利（1名様限定）</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">「たもんじ交流農園」のイベント広場の目玉「ウッドデッキ」に「お気に入りの名前」を付けよう！（冠名由来記載札設置）（2022年3月頃設置予定）
+（※営利目的や政治、宗教、選挙活動を目的とするものは付けられません。）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13107/5165666/123">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210729/pd_4354882976175350441ec866ca344a949d3f89bc.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">たもんじ交流農園「ブドウ棚」に冠名を付けられる権利（１名様限定）</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">「たもんじ交流農園」の癒しの場「ブドウ棚」（巨峰）に「お気に入りの名前」を付けるよう！（冠名由来記載札設置）（2022年3月頃設置予定）
+（※営利目的や政治、宗教、選挙活動を目的とするものは付けられません。）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13107/5161569/123">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210729/pd_d2f9db331b8b61290314af3ef73236075423687b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">たもんじ交流農園「芝生」広場に冠名を付けられる権利（1名様限定）</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">「たもんじ交流農園」のイベント広場の安らぎの場「芝生広場」に「お気に入りの名前」を付けよう！（冠名由来記載札設置）（2022年3月頃設置予定）
+（※営利目的や政治、宗教、選挙活動を目的とするものは付けられません。）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13107/5161570/123">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/00000.gif" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">「青果リレー」のトーチランナーを体験できる権利（1名様限定）※実施時期未定</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">&quot;たもんじ交流農園&quot;の「青果リレー」で、オリンピックで有名になった、トーチランナーとなって、トーチキスを体験できる権利。あなたを主役に、寺島・玉ノ井まちづくり協議会メンバーが伴走します！
+（実施日については連絡の上、ご相談させていただきます。）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13107/5161571/123">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210729/pd_3c02b7e2857fd6900b77e17d17d2cc97a899baf8.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">てらたま戦隊：ハクビシンキラーレッドとなってハクビシンと戦う場面の原画プレゼント（1名様限定）【墨田区民不可】</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">～たもんじキャラクター「たんたんタモン」と一緒に農園を襲うハクビシンと戦かう「てらたま戦隊の一員（ハクビシンキラー：レッド）」のモデルとなる権利（プロの絵本作家作画の“ハクビシン退治”原画プレゼント）～（作成・完成日については連絡の上、ご相談させていただきます。）
+【墨田区民不可】</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/13107/5161572/123">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210729/pd_44c776d49b494b7698ad2059f8a816fbde43f0ef.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">てらたま戦隊：ハクビシンキラーホワイト（戦隊リーダー）となってハクビシンと戦うにいたる勇者の歴史を記した銘板をプレゼント（1名様限定）【墨田区民不可】</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">～てらたま戦隊：ホワイト（ハクビシンキラーの勇者）のモデルとなる権利を得られます。苦難を経て、てらたま戦隊のリーダーとなり、農園を襲うハクビシンを倒すまでの生い立ち（創作）を描いた銘板をプレゼント致します（銘板は農園に飾ることもできます）～（作成・完成日については連絡の上、ご相談させていただきます。）
+【墨田区民不可】</p>
+</div>
+</a>
+</li>
+</ul><ul class="goods_list">
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">東京都墨田区</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">墨田区（すみだく）は東京都の東部に位置する、隅田川と荒川に挟まれた町。江戸時代には運河の水利を活かした地場産業が発達し、明治から昭和にかけては次々と町工場が生まれ、その技術や技能は現代にも受け継がれています。毎年夏に開催される隅田川の花火大会は、江戸時代より続く夏の風物詩。両国にある国技館では、大相撲の数々の名勝負が繰り広げられています。2012年には東京スカイツリーが誕生。国内外より多くの観光客が訪れています。<br/>
+<br/>
+＜このプロジェクトは令和3年度すみだの夢応援助成事業です＞<br/>
+すみだの夢応援助成事業とは、すみだのまちを元気にするプロジェクトを支援する助成制度です。墨田区は民間事業者のプロジェクトに対し、「ふるさと納税を活用したクラウドファンディング」の機会を提供し、寄付者は共感するプロジェクトを個別に指定して応援することができます。いただいた寄付金は墨田区から助成金として交付します。すみだの夢応援助成事業については墨田区ホームページ（https://www.city.sumida.lg.jp/kuseijoho/sumida_kihon/governance/yumeouen_jyoseijigyo/index.html）をご覧ください。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">ステキな活動、応援しています！</p>
+<p class="gcf-bx-message__date">2021年12月31日 23:38</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">地域の活動へのバックアップ応援宜しくお願い致します。</p>
+<p class="gcf-bx-message__date">2021年12月31日 21:51</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">墨田区応援します！都市型農園が広がりますように。蛍すてきですね。</p>
+<p class="gcf-bx-message__date">2021年12月29日 16:07</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">笑顔あふれる区になりますように</p>
+<p class="gcf-bx-message__date">2021年12月28日 22:32</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">是非がんばっていきましょう！</p>
+<p class="gcf-bx-message__date">2021年12月27日 22:38</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">たもんじ農園応援しています。</p>
+<p class="gcf-bx-message__date">2021年12月27日 0:27</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">地域の交流場として、益々の発展を応援してます！</p>
+<p class="gcf-bx-message__date">2021年12月26日 21:52</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">応援しています！</p>
+<p class="gcf-bx-message__date">2021年12月16日 15:35</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">地域の交流の場として、子供たちの健やかな成長の場として、環境や自然を守る場として皆様の活動に支援いたします。</p>
+<p class="gcf-bx-message__date">2021年11月22日 6:20</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">元気のある墨田区が大好きです！</p>
+<p class="gcf-bx-message__date">2021年11月12日 23:02</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">緑の少ない墨田区で蛍を見たい！</p>
+<p class="gcf-bx-message__date">2021年10月25日 13:17</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">たもんじ交流農園が地域にとってより良いコミュニティとなることを応援しております！</p>
+<p class="gcf-bx-message__date">2021年9月26日 10:12</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">「子供さんからお年寄りの誰もが楽しめる憩いの場」に期待しています！</p>
+<p class="gcf-bx-message__date">2021年9月22日 17:50</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">”誰もが楽しめる・くつろげる都市型農園”、これからも進化し続づけることを期待しています。</p>
+<p class="gcf-bx-message__date">2021年8月21日 11:54</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">いろんな人が様々なかかわり方で参加・活動できる交流農園。たくさんの可能性があると思います。応援しています。</p>
+<p class="gcf-bx-message__date">2021年8月6日 20:39</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">来年はホタルをリアルに見に行きたいです！</p>
+<p class="gcf-bx-message__date">2021年8月3日 8:15</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">地域の大切な場、たもんじ交流農園を全力で応援しております！</p>
+<p class="gcf-bx-message__date">2021年8月2日 19:49</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">寄付ができて、またビニール袋の使用を減らすことができるエコバックを返礼品にするというのは大変よいアイディアですね。今後とも楽しくて地域を盛り上げることができる活動を是非とも続けていってください。</p>
+<p class="gcf-bx-message__date">2021年8月2日 12:27</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">車椅子でも農園を楽しめるという企画は素晴らしいアイディアです。墨田区でホタルを見ることができるというのも大変面白い発想です。今後とも楽しくて地域を盛り上げる活動を続けていってください。</p>
+<p class="gcf-bx-message__date">2021年8月2日 12:22</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">このような交流農園(コミュニティガーデン）が墨田区内にどんどん増えていくことを望んでいます。</p>
+<p class="gcf-bx-message__date">2021年8月2日 12:20</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/1260">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+<div class="payment-method">
+<p>・クレジットカード払い</p>
+</div>
+<div class="payment-method">
+<p>・Amazon Pay</p>
+</div>
+<div class="payment-method">
+<p>・PayPay</p>
+</div>
+<div class="payment-method">
+<p>・d払い</p>
+</div>
+<div class="payment-method">
+<p>・au PAY</p>
+</div>
+<div class="payment-method">
+<p>・楽天ペイ</p>
+</div>
+<div class="payment-method">
+<p>・メルペイ</p>
+</div>
+<div class="payment-method">
+<p>・あと払い（ペイディ）</p>
+</div>
+<div class="payment-method">
+<p>・PayPal</p>
+</div>
+<div class="payment-method">
+<p>・auかんたん決済</p>
+</div>
+<div class="payment-method">
+<p>・ソフトバンクまとめて支払い</p>
+</div>
+<div class="payment-method">
+<p>・ネットバンク支払い</p>
+</div>
+<div class="payment-method">
+<p>・コンビニ支払い</p>
+</div>
+<div class="payment-method">
+<p>・ペイジー支払い</p>
+</div>
+<div class="payment-method">
+<p>・納付書払い</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">東京都墨田区の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/13107/123?from=2&amp;gcf_project_id=1260"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,521,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g1260,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

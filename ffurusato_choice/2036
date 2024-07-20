@@ -1,0 +1,2387 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/2036" />
+
+<title>高島市からプロ野球選手を目指す若者を応援したい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="高島市からプロ野球選手を目指す若者を応援したい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/2036" />
+<meta property="og:description" content="OBC高島(大家ベースボールクラブ高島)は、滋賀県高島市に本拠地を置く社会人野球のクラブチームです。元メジャーリーガーの大家友和氏がゼネラルマネージャーを務めており、「地域に根差し、地域に支えられ、地域の誇りとなるチーム」を目指して2006年2月に発足しました。選手たちは、平日の日中は高島市内の事業所で働き、夜は練習、週末は試合というハードスケジュールをこなしながら、社会人野球の日本一、そしてプロ野球選手になりプロの環境で活躍することを目標に練習に励んでいます。しかし、クラブチームは強豪と言われる企業チームとはまったく別物で普段はそれぞれがバラバラの職業に従事し、チームに潤沢な予算や練習の環境が用意されているわけではありません。クラブチームの運営は、大変厳しく、OBC高島でも用具の整備や練習場の使用料、大会等の参加費用など、その支出は年間2,000万円にも上ります。OBC高島自身でもファン向けに「みんな」を意味する背番号３７のオリジナルTシャツなどの販売や、応援寄付金付きの自動販売機の設置、小学生から中学生を対象としたOBC高島野球塾など自主財源の獲得にも奮闘してきましたが、継続的な運営にはまだまだ多くの方のご支援が必要なため、クラウドファンディング型の寄付を募集します。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221027/d_d4bec81317bdb562b0331cb7b9b3b03f8f41e1bf.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221027/d_d4bec81317bdb562b0331cb7b9b3b03f8f41e1bf.jpg" />
+<meta property="twitter:title" content="高島市からプロ野球選手を目指す若者を応援したい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="OBC高島(大家ベースボールクラブ高島)は、滋賀県高島市に本拠地を置く社会人野球のクラブチームです。元メジャーリーガーの大家友和氏がゼネラルマネージャーを務めており、「地域に根差し、地域に支えられ、地域の誇りとなるチーム」を目指して2006年2月に発足しました。選手たちは、平日の日中は高島市内の事業所で働き、夜は練習、週末は試合というハードスケジュールをこなしながら、社会人野球の日本一、そしてプロ野球選手になりプロの環境で活躍することを目標に練習に励んでいます。しかし、クラブチームは強豪と言われる企業チームとはまったく別物で普段はそれぞれがバラバラの職業に従事し、チームに潤沢な予算や練習の環境が用意されているわけではありません。クラブチームの運営は、大変厳しく、OBC高島でも用具の整備や練習場の使用料、大会等の参加費用など、その支出は年間2,000万円にも上ります。OBC高島自身でもファン向けに「みんな」を意味する背番号３７のオリジナルTシャツなどの販売や、応援寄付金付きの自動販売機の設置、小学生から中学生を対象としたOBC高島野球塾など自主財源の獲得にも奮闘してきましたが、継続的な運営にはまだまだ多くの方のご支援が必要なため、クラウドファンディング型の寄付を募集します。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,591,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="2036" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">高島市からプロ野球選手を目指す若者を応援したい！</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">高島市からプロ野球選手を目指す若者を応援したい！</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1027">その他&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221027/d_d4bec81317bdb562b0331cb7b9b3b03f8f41e1bf.jpg" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E9%AB%98%E5%B3%B6%E5%B8%82%E3%81%8B%E3%82%89%E3%83%97%E3%83%AD%E9%87%8E%E7%90%83%E9%81%B8%E6%89%8B%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E8%8B%A5%E8%80%85%E3%82%92%E5%BF%9C%E6%8F%B4%E3%81%97%E3%81%9F%E3%81%84%EF%BC%81&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F2036">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">2,438,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 48.7%;"></div>
+<p class="gcf-cht-detail-bar__number">48.7%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">5,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">48.7</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">117</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>滋賀県高島市（しがけん たかしまし）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="2036" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2022年11月10日～2023年2月7日（90日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1028" class="sorting-list__item">まちづくり・コミュニティ</a></li><li><a href="/gcf/project/tag/1048" class="sorting-list__item">スポーツ</a></li><li><a href="/gcf/project/tag/1058" class="sorting-list__item">その他</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1096" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_17.png 1x, /gcf/images_cf/sdg/sdg_icon_17@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_17.png" alt="SDGアイコン" decoding="async" />17.パートナーシップで目標を達成しよう</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="2036" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">滋賀県高島市</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221025/o_3c1f9516a294188f38f85459e1bf719c922bfdfa.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">OBC高島(大家ベースボールクラブ高島)は、滋賀県高島市に本拠地を置く社会人野球のクラブチームです。元メジャーリーガーの大家友和氏がゼネラルマネージャーを務めており、「地域に根差し、地域に支えられ、地域の誇りとなるチーム」を目指して2006年2月に発足しました。<br/>
+<br/>
+選手たちは、平日の日中は高島市内の事業所で働き、夜は練習、週末は試合というハードスケジュールをこなしながら、社会人野球の日本一、そしてプロ野球選手になりプロの環境で活躍することを目標に練習に励んでいます。<br/>
+しかし、クラブチームは強豪と言われる企業チームとはまったく別物で普段はそれぞれがバラバラの職業に従事し、チームに潤沢な予算や練習の環境が用意されているわけではありません。<br/>
+クラブチームの運営は、大変厳しく、OBC高島でも用具の整備や練習場の使用料、大会等の参加費用など、その支出は年間2,000万円にも上ります。<br/>
+<br/>
+OBC高島自身でもファン向けに「みんな」を意味する背番号３７のオリジナルTシャツなどの販売や、応援寄付金付きの自動販売機の設置、小学生から中学生を対象としたOBC高島野球塾など自主財源の獲得にも奮闘してきましたが、継続的な運営にはまだまだ多くの方のご支援が必要なため、クラウドファンディング型の寄付を募集します。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">夢を追い続ける若者を応援！</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221028/gpfd_b0a30d7c09763db4156fb984a1a076dd17e10c96.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221028/gpfd_75ff27ffd46f2d43fe1307bb72bf18638c1c7b14.jpg" />
+</figure>
+<p class="gcf-txt-article">OBC高島（大家ベースボールクラブ）は、滋賀県高島市を拠点に活動する社会人野球のクラブチームです。<br/>
+<br/>
+『夢を追いかけている選手達に、野球の場を提供したい』元メジャーリーガーの大家友和氏のそんな想い<br/>
+から、このチームが生まれました。<br/>
+</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221028/gpfd_655445930df0f388ae6405da092a0bc86111b846.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221028/gpfd_a509abe2efaa7ee06b10b1761cd6f0c1991979fb.jpg" />
+</figure>
+<p class="gcf-txt-article">OBC高島では、野球チームを作るだけではなく『地域に根ざし、地域に支えられ、地域の誇りとなるチーム』を<br/>
+目指しています。<br/>
+<br/>
+全ての活動を通して『夢を持つ大切さ、諦めない勇気、達成する感動』を一人でも多くの人と共有したいという<br/>
+理念を掲げて、関わる人みんなが誇りに思うチーム作りを行っています。<br/>
+</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">野球も仕事も全力で頑張る選手達</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221028/gpfd_4df260a0109ba80bb02201a75f3f6b646ca7ce88.jpg" />
+</figure>
+<p class="gcf-txt-article">ＯＢＣ高島の選手たちは、平日の日中は高島市内の事業所で働き、夜は練習、週末は試合というハードスケ<br/>
+ジュールをこなしながら、社会人野球日本一を目指しています。<br/>
+</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221028/gpfd_109c3de77fb222a41203806f5887b59347e6a04b.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221028/gpfd_2e2e922d134f5d6c6d308468db66b962c3626bf8.jpg" />
+</figure>
+<p class="gcf-txt-article">ＯＢＣ高島の選手たちは、寮での共同生活を通してチームワークを育み『社会人としての生活』と『野球人<br/>
+としての生活』を両立させながら、いつの日かプロ野球で活躍することを夢見て練習に励んでいます。</p>
+<h3 class="gcf-ttl-h3">このプロジェクトでは、ふるさと納税を活用して「夢を持ってがんばる若者」を支え、その実現を応援します!!</h3>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">めざせ全国制覇！めざせプロ野球選手！</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221028/gpfd_045f2d4014efe1f01dff335bcb49ae54926164f2.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221028/gpfd_ef6cb2ae9964d344b18b5d71519150fe914b7e38.jpg" />
+</figure>
+<p class="gcf-txt-article">2019年の全日本クラブ野球選手権では初の準優勝をはたし、「次こそは全国優勝を！」と意気込んで練習<br/>
+に励んできた2020年、新型コロナウイルスの影響によりその年の全日本クラブ選手権は中止となりました。<br/>
+<br/>
+４年間指揮を執ってこられた前監督の退任、監督不在のまま迎えた2021年シーズンを乗り越え、2022年から<br/>
+はOBC高島でプレーをしてきた佐竹氏が監督に就任。<br/>
+<br/>
+新体制のもと、全国優勝を目指して日々練習に励んでいます。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">クラブチームの厳しい現状</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221028/gpfd_d1577ce22d6645a8d98c284d1dd0b2227b1e9738.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221028/gpfd_70999a85db56b1e1d7ef51b62f1a7ab5e0519c3f.jpg" />
+</figure>
+<p class="gcf-txt-article">2021年4月現在、全国には97の「企業チーム」と249の「クラブチーム」があります。「企業チーム」は文字通り、<br/>
+会社の野球部です。<br/>
+基本的に、同じ会社に勤める人間で構成され、そのほとんどは会社の社名をチーム名として活動しています。<br/>
+クラブチームは、企業チームのように企業の活動の一環として行うものではなく、野球を愛する者やプロを<br/>
+めざす者が集まり、彼らを応援しようとする者により運営されるチームです。<br/>
+そのため、選手それぞれはバラバラの職業に従事しています。<br/>
+<br/>
+チームに潤沢な予算が用意されているということはないので、クラブチームは財政的にも厳しい状況です。<br/>
+クラブチームの選手たちは、それぞれの職業が異なるため、チーム全員での練習時間も限られてしまいます。<br/>
+また、練習グラウンドの確保、部員確保など運営面も厳しく、チームを強くする以前に存続が簡単ではない<br/>
+現状がクラブチームにはあります。<br/>
+<br/>
+ＯＢＣ高島もそのクラブチームの一つ。例外なく財政難に悩まされており、用具の整備や練習場の使用料、<br/>
+大会等の参加経費など、支出は年間約2,000万円にも上ります。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">全国OBCファンから食糧品などの支援！！</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221028/gpfd_13c31599fbde1ef946430847d125f634dc1bc630.jpg" />
+</figure>
+<p class="gcf-txt-article">体が資本の選手達にとって食事は練習と同じくらい重要なものになります。<br/>
+<br/>
+OBC高島ではお米や野菜など食糧品で選手達を応援していただく「おいしい応援団」を立ち上げ、全国の<br/>
+OBCファンの皆様からOBC高島の選手のためにと、お米・野菜・肉など食料品やスポーツドリンク、また<br/>
+カイロなどの日用品のご支援をいただいています。<br/>
+<br/>
+いただいた支援品は、日々の食事や練習、試合に大切に使わせていただいています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">若者の夢が地域を動かす</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221028/gpfd_cefbdf5fe4c8abdc39fc66dc813be572a3b85b76.jpg" />
+</figure>
+<p class="gcf-txt-article">練習や仕事で忙しい選手達ですが、地域の人とのつながりを大切しており、休日には地域のボランティア<br/>
+活動に参加しています。<br/>
+地域からも愛されるチームでありたいという想いと、地域で応援したい想いがつながり、球団の窮状に心を<br/>
+痛める多くの高島市民をはじめ全国のファン7,674名から、市民球団としての支援を望む声が市に寄せられた<br/>
+ことを受け、2006年にOBC高島の活動を支援する組織としてOBC高島後援会が設立しました。<br/>
+<br/>
+市としても後援会が行うOBC高島に対する支援を使途目的としたふるさと納税の範囲内において補助金を<br/>
+交付し、その運営をサポートしています。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221028/gpfd_8a009107c669d67e580f0d2738a7b1b17fc52885.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221028/gpfd_cfa836b2a384bb6e283cf42a78bd23c130b8712a.jpg" />
+</figure>
+<p class="gcf-txt-article">また、球団自身もファン向けに「みんな」を意味する背番号37のオリジナルＴシャツなどの販売や、応援寄附金<br/>
+付き自動販売機の設置など、自主財源の獲得にも奮闘してきましたが、継続的な運営にはまだまだ多くのファン<br/>
+の応援が必要です。<br/>
+<br/>
+※昨年は新型コロナウイルス感染症対策のためボランティア活動は自粛しています。</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">寄付金の使い道</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">■１年間のチームの運営費： 合計2,000万円<br/>
+・用具備品等の整備費：500万円<br/>
+・練習用等の施設使用料および賃借料：1,000万円<br/>
+・主要大会および練習試合等への参加経費：500万円　など<br/>
+<br/>
+そのうちの500万円の費用に対して、皆様の寄附金を活用させていただきたいと思います。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">チーム支える地域の応援団</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">昭和電機滋賀株式会社　杉本英久</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221026/gpfd_7f39880f4a8950c6211be9c12cb273fb4895e695.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">現在，昭和電機滋賀ではOBC高島の選手が4名在籍しています。<br/>
+弊社は小さなモータを造っている工場ですが、ものづくりには野球と同じくチームの連携と集中力が必要です。<br/>
+その中で彼らは一生懸命に働き、夜は野球で汗を流しています。<br/>
+<br/>
+仕事が忙しい時でも集中力を切らすことなく動いてくれているところにはとても感謝しています。<br/>
+仕事の中でも野球に関わることがあることを指導しながら、選手としても、社会人としても、成長していける場所となればと思っております。<br/>
+<br/>
+これからも彼らの成長を見守りながら，いい結果につながる環境提供をしていきます。</p>
+</div>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">チームへの熱い思い</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">大家友和　ゼネラルマネージャー</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">長期にわたる自粛生活を強いられる環境においてそれぞれの夢・目標に向き合う機会をいただき感謝しております。<br/>
+選手たちは日々頂いた機会を活かし選手として社会人として少しずつではありますが成長することができました。<br/>
+<br/>
+本年の全国大会出場は叶いませんでしたが、様々な課題を克服し、再び高島市の代表として支えていただいた皆様へ活躍する姿を届けられるよう更に打ち込んでくれるものと思います。<br/>
+多くの方々と多くの喜びを共有できるチームとして期待していただけるよう活動していければと思います。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221025/offd_2675ee633370f6818f249f4a6b09b09294f12ec9.jpg" alt />
+</div>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">佐竹誠人　監督</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">いつもOBC高島をご支援して頂き、誠にありがとうございます。<br/>
+監督を勤めさせて頂いております佐竹です。<br/>
+<br/>
+今年は都市対抗野球大会においては、2次予選への進出は決めましたが、昨年のように企業チームに勝つことは出来ませんでした。<br/>
+クラブ選手権においても、東近畿予選で敗退してしまい、全国大会への出場は出来ませんでしたが、来年度は東近畿地区の出場枠が１つ増えることになりましたので、チャンスが広がりました。<br/>
+<br/>
+来年度は、チームとしては、より一層若返ることにはなり、人数も決して多くはありませんが、「クラブ日本一」を目指して精進して参ります。<br/>
+我々は全力で野球も仕事も頑張り、結果を出すことが１番だと思いますので、どうか、ふるさと納税でのご支援、ご協力の程、宜しくお願い致します。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221025/offd_2642926701e5a1865ac723758ca504244a9786c2.jpg" alt />
+</div>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">堀川智司　キャプテン</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">いつも多くのご支援、ご声援をありがとうございます。<br/>
+OBC高島キャプテン、堀川智司と申します。<br/>
+<br/>
+私たちが毎日、野球に打ち込めているのも皆様からのご支援があってのことだと思っております。社会人になった今もこうして夢を追いかける環境があることに選手一同、本当に感謝しております。<br/>
+<br/>
+昨年に比べ、チームの年齢層が大きく若返った今年のチームでしたが、なかなか思うような結果を出すことができないシーズンでした。<br/>
+それでも毎試合、現地に足を運んで応援してくださる皆様の姿に背中を押されました。応援してくださる方の為にも勝ちたい。全員がそう思い、練習に取り組んでいた時でしたが、夏には寮でのコロナのクラスター感染を起こしてしまい、会社や周りの方にご迷惑をおかけしてしまいました。<br/>
+それでも会社に出社した際には、「また野球頑張れよ」と暖かい言葉をかけて頂き、改めて自分達の環境や周りの方達の有り難さに気付きました。<br/>
+<br/>
+クラブチームといえば「OBC高島」と思われるような、全国の模範となるチームを目指して今後も頑張って参りますので、ご支援、ご声援を宜しくお願い致します。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221025/offd_462e23d6439a296dcd5d3557b0e2efb6347479fd.jpg" alt />
+</div>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">東野良汰　投手キャプテン</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">全国の皆さま、OBC高島を応援、ご支援していただきありがとうございます。<br/>
+こうして野球ができる環境があるのも、多くの人々の支えがあってこそだと日々感じています。<br/>
+<br/>
+今年は例年よりも人数が少なく、比較的年齢層も若いチームですが、それをプラスにとらえ、選手間に壁がなく、全員が意見し合い、みんなが一つの方向を向いて勝利を目指せるチームを作ってきました。<br/>
+一つでも多くの勝利で、日頃から応援してくださっている方々、お世話になっている雇用先の方々、スポンサーの方々に恩返しできるように、これからも日々就業、練習に取り組んでいきたいと思います。<br/>
+<br/>
+高島市に来られた際には、ぜひ球場の方に足を運んでいただければ嬉しいです。<br/>
+これからも高島市、そしてOBC高島をよろしくお願いします。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221025/offd_c0ae23951b803a0bf67b70d44f361126a4786930.jpg" alt />
+</div>
+</div>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">全国のみなさん、応援よろしくお願いします！！</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221025/gpfd_590ad5de6d52459c31a0325d1b9a926fcdc7755a.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/5599127/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221102/pd_15a215a6bc3a2f8742a3dbc78eba549529fba973.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【GCF】オリジナルグッズＴシャツとキャップのセット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第順次発送します</p>
+</div>
+<p class="goods-col_textinfo pc">チームカラーのネイビーを基調としたドライタイプのTシャツと チームロゴを前面に押し出したキャップとのセットです。
+TシャツサイズはSから４Lまで取り揃えております。 キャップは調節可能なフリーサイズです。応援にピッタリです！</p>
+</div>
+</a>
+</li>
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4771105/35">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_586bd8c5900f87bd2b36186aa4b57cf3596f3362.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆松の花大吟醸藤樹720ml詰【チョイス限定】</h4>
+<p class="goods-col_price inline">14,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご文頂いてから7日後頃から随時出荷させて頂きます。</p>
+</div>
+<p class="goods-col_textinfo pc">高島市は発酵食文化が色濃く残る地域です。そんな我が郷土高島が誇る近江聖人、中江藤樹先生にあやかる大吟醸藤樹は、馥郁（ふくいく）とした吟醸香と喉越しの良い淡麗な蔵元一押しのお酒です。大地の恵みである地元契約栽培米と比良山系伏流水”かばた”の名水をふんだんに使い、決して奇をてらうことなくあくまで基本に忠実な手間暇かけた手づくりに徹しています。
+また、当蔵では先代女社長が描いた油絵が蔵内に多く展示されており、蔵人たちが毎朝その作品に触れる事で穏やかな感性を高めながら生き物にやさしいお酒造りに打ち込んでおります。
+賞味期限は150日となっていますが、お酒は直射日光と高温は嫌います。
+冷暗所に保存頂ければさらに熟成が増し、美味しさも増します。
+20歳未満の飲酒は法律で禁止されています</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4566775/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_248e90f40d687feaa1ec27a33e51d5c86d317b52.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆近江牛切り落とし/宝牧場</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、随時発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">TS19T-C 近江・宝牧場で自社生産した安心安全な良質の肉ブランド。牧場敷地内にある直営の焼肉レストラン「焼肉・精肉　宝亭」より発送いたします！朽木のストレスの少ない環境で育ったきめ細やかで甘みのある肉質や、口どけする様な高級な味わいをご賞味ください。
+肉じゃが・すき焼き・炒めものに何でも使える近江牛の切落としです！
+＜ご注意＞
+【通常発送について】
+(1) ご注文を頂いてから基本的に５営業日以内の発送となります
+(2) 勝手ながら毎週水・木曜日は発送作業をいたしかねます
+悪しからずご了承くださいませ
+(3) 入荷具合により発送にお日にちを頂く場合がございます。
+近江の里 朽木 宝牧場は平成30年11月8日
+第21回全国農業担い手サミットinやまがた にて農林水産大臣賞を受賞いたしました。
+ひとえに皆様のご愛顧の賜物と存じます。
+これからも宝牧場グループをどうかよろしくお願いいたします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4553801/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_477ad3582bb0ea18c550287519a6517fa21850fb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆近江牛すじ肉　1kg/宝牧場</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">TS23T-C 近江牛特有の甘みのあるコラーゲンたっぷりのすじ肉です。
+煮物や炒めもの、チャーハン、すじカレーやおでんの具にご使用いただいてもとても美味しく、食卓の一品・お酒やビールのおつまみにもピッタリ。
+近江・宝牧場で自社生産した安心安全な良質の肉ブランド。牧場敷地内にある直営の焼肉レストラン「焼肉・精肉　宝亭」より発送いたします！朽木のストレスの少ない環境で育ったきめ細やかで甘みのある肉質や、口どけする様な高級な味わいをご賞味ください。
+使いやすい500gずつの真空パックになっています。
+※商品の性質上一部変色が見られる場合がありますが、賞味期限内でしたら品質には問題ございません。
+近江の里 朽木 宝牧場は平成30年11月8日
+第21回全国農業担い手サミットinやまがた にて農林水産大臣賞を受賞いたしました。
+ひとえに皆様のご愛顧の賜物と存じます。
+これからも宝牧場グループをどうかよろしくお願いいたします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4551039/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_7275117a55b62e5d94558413c123314f0808ea92.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆萩乃露 純米吟醸二種セット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">近江高島で酒造り一筋260余年。やわらかで味わい深い手造りの地酒です。人気の高い二種類の純米吟醸酒をお楽しみください。
+20歳未満の飲酒は法律で禁止されています</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/707334/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_f5eb4a5f17765fa42bd53b199e0e1fc9ea9c87b0.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆近江牛モモ・バラ焼肉　300ｇ</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">DK102T-C　近江牛の霜降り特有の上品な脂の甘味が味わえるバラ肉、赤身肉の持つ本来の肉の旨味・歯ごたえを感じていただけるモモ肉の食べ比べ焼肉セットです。
+８月１２日～１７日、１２月２３日～１月７日ご指定の発送業務は行っておりません。ご了承くださいませ。
+12月にご注文頂いたものにつきましては、1月の発送となる場合がございますので、予めご了承下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/707426/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_0796fc1227b0ce568e0319581b3434f48987016d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆大吉商店／近江牛モモ　すきやき　300ｇ</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">DK101T-C　脂肪分が少なくとてもヘルシーな赤身肉です。味わいは淡白ですが赤身の弾力を感じさせる歯ごたえをお楽しみいただけます。
+８月１２日～１７日、１２月２３日～１月７日ご指定の発送業務は行っておりません。ご了承くださいませ。
+12月にご注文頂いたものにつきましては、1月の発送となる場合がございますので、予めご了承下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4441203/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_cecf39a167e7954eea6b75d67d4495857472525b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆高島市で育った近江軍鶏(しゃも)　600ｇ(約3～４人前)</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、発送いたします</p>
+</div>
+<p class="goods-col_textinfo pc">肉質や歯ごたえ味の良い近江軍鶏を、すき焼きや水煮で味わって下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/708882/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_9cfea78ba70ac04388c385cb12b86a34262e3b22.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆四○○年鮒寿し　飯漬　雌雄盛り　雌（子持ち）小サイズ1尾</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送いたします。※11月～12月は繁忙期ですので、お時間がかかる場合がございます。 すべて手づくりのため、お届けまでお時間がかかりますのでご了承ください。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">KT03T-C　琵琶湖産の「にごろ鮒」と上質の近江米「高島産こしひかり」、「白扇酒造・三年熟成本みりん」、原材料を厳選し、手間ひまをかけてじっくり熟成させた鮒ずしです。
+まろやかさ、爽やかさの増す、滋味深い『鮮度一番の美しいにごろ鮒』に仕上げました。そのままお酒の肴にお召し上がりいただくほかに、塩ふき昆布・とろろ昆布と合わせた鮒ずしのお茶漬けがおすすめです。
+＜ご注意＞
+ご注文後の桶出し、切りたての鮒寿しのため、製造日より５日間となります。
+配達希望日をお客様に確認した後、発送させていただきます。
+お申込み後、担当者より直接お電話を差し上げます。
+＜発送について＞
+※11月～12月は繁忙期ですので、お時間がかかる場合がございます。
+すべて手づくりのため、お届けまでお時間がかかりますのでご了承ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/713736/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_d2ae86271bce8d6c02e51d35b53ccd4d09268a74.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆高島とんちゃん(国産若鶏)　1kg×2個</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<p class="goods-col_textinfo pc">TN81T-C　創業54年、とんちゃん発祥の店、鳥中のとんちゃんです。あっさり鶏肉にこってりとした秘伝の自家製赤味噌をまぶした鳥中のとんちゃんは高島市民のソウルフードです。本家本元の高島とんちゃんをぜひ一度ご賞味下さい。
+これからの季節、バーベキュー(BBQ)やアウトドアのお供としてぜひとんちゃんをご利用下さい。ビールとの相性も抜群です。
+＜ご注意＞
+発送希望日時をお客様に確認した後、発送致しますのでお客様の要望に添うことができます。また製品は生肉ですので商品到着後加熱し、ご賞味下さい。
+※12月ご注文分は500ｇｘ4個にて発送させて頂きます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/708737/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_e9eeef74dc83fa0187b4ce4122c3928e82c05be6.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆近江牛花咲モモステーキ　240ｇ（3枚）</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">DK103T-C　あっさりとジューシーなモモ肉を食べやすいように隠し包丁でカットしています。
+８月１２日～１７日、１２月２３日～１月７日ご指定の発送業務は行っておりません。ご了承くださいませ。
+12月にご注文頂いたものにつきましては、1月の発送となる場合がございますので、予めご了承下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4420683/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_e6299c187780c833f9b0b426cd9ae85853abe91e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆近江牛切り落とし　500ｇ</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">すき焼き、焼肉、炒め物等、様々な料理にお使いいただける万能アイテムです。
+８月１２日～１７日、１２月２３日～１月７日ご指定の発送業務は行っておりません。ご了承くださいませ。
+12月にご注文頂いたものにつきましては、1月の発送となる場合がございますので、予めご了承下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/713737/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_07b83dba3615d3b369ebddbff69400ab9a88cbca.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆高島とんちゃんfeat.弥平唐辛子(国産若鶏)750ｇ×2個</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<p class="goods-col_textinfo pc">TN83T-C　滋賀県高島市の名産品「とんちゃん」と滋賀県湖南市の名産品「弥平とうがらし」が夢のコラボ。弥平唐辛子はタカノツメの2倍の辛さでありながら芳香な香りと辛さの中に広がる甘さを兼ね揃えた唐辛子です。味噌ベースのとんちゃんとの相性も抜群！
+この商品は鳥中の店頭販売、通信販売では一切取り扱いがないふるさと納税のギフト限定企画商品です。この機会にぜひご賞味下さい。
+またこれからの季節、バーベキュー(BBQ)やアウトドアのお供としてぜひとんちゃんをご利用下さい。ビールとの相性も抜群です。
+＜ご注意＞
+発送希望日時をお客様に確認した後、発送致しますのでお客様の要望に添うことができます。また製品は生肉ですので商品到着後加熱し、ご賞味下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/713735/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_5071d3a44d60542161bba6416bb5c7de0b74cf86.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆高島とんちゃん唐揚げ用(国産若鶏)1ｋｇ×2個</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<p class="goods-col_textinfo pc">TN02T-C　あっさり鶏肉にこってりとした秘伝の自家製赤味噌をまぶした鳥中のとんちゃん！唐揚げ用とんちゃんも用意して欲しいという皆様からの根強い要望に応え、ふるさと納税ギフトとして新たに取り扱いを開始します。
+商品に片栗粉をまぶして揚げて頂くだけで簡単に美味しい唐揚げが出来上がります。ぜひ皆さんご賞味下さい。ビールとの相性抜群です。
+＜ご注意＞
+発送希望日時をお客様に確認した後、発送致しますのでお客様の要望に添うことができます。また製品は生肉ですので商品到着後加熱し、ご賞味下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/713738/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_5de76599a0bdb611616e1aef280ccaeb71023b04.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆高島とんちゃん鍋用(国産若鶏) 800ｇ×2個</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<p class="goods-col_textinfo pc">TN84T-C　創業54年、とんちゃん発祥の店、鳥中のとんちゃんです。あっさり鶏肉にこってりとした秘伝の自家製赤味噌をまぶした鳥中のとんちゃんは焼いて食べるだけでなく、鍋にしても最高に美味しい一品です。
+寒い季節、高島市のＢ級グルメとんちゃんを使った「とんちゃん鍋」で心も体も温まって下さい。とんちゃんレシピをセットにして配送致します。
+(写真はイメージ図です)
+＜ご注意＞
+・製品は生肉ですので商品到着後加熱し、ご賞味下さい。
+・とんちゃん鍋用レシピ同封</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/693659/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_50348dcba46765bb61e7eeed3107e29526555306.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆(有)魚岩安曇川店　夫婦鮎の甘露煮</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<p class="goods-col_textinfo pc">UI02T-C　夏の風物詩、大鮎を厳選した醤油と砂糖で上品に仕上げました。骨まで軟らかなので、どなたでも安心して召し上がれます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/693652/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_a2fa9f412a5ab846ef061059ce1be9c6ba5db910.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆角煮2個セット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">TP06T-C　創業以来50年以上継ぎ足し続けた秘伝のタレでじっくり時間をかけて、煮込んでおります。
+ひとつひとつ手作りで丹念に仕上げております。
+余計な調味料を使用せず、素材の味を活かした先代から伝わる拘りの味を是非ご賞味くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4435503/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_15ea7d4057de4e69ae57fa58bd16c237fdc19452.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆宝牧場みるくバームクーヘン・チーズケーキセット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご注文を頂いてから出荷するまでに7日間～10日間程、お日にちを頂戴しております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">TS95T-C　近江牛の生産牧場である宝牧場で育てられている乳牛から毎日絞られる絞りたてのみるくをふんだんに使ったバームクーヘンとチーズケーキのセットです。
+ふんわり柔らかく濃厚なのに優しい甘さのバームクーヘン・チーズケーキのセットはデザートやちょっとしたティータイムにピッタリです。きっとお気に召すことと思います。
+【発送について】
+　(1) ご注文を頂いてから出荷するまでに7日間～10日間程、お日にちを頂戴しております。
+　(2) 勝手ながら毎週水・木曜日は発送作業が出来かねます。
+　　 悪しからずご了承くださいませ。
+近江の里 朽木 宝牧場は平成30年11月8日
+第21回全国農業担い手サミットinやまがた にて農林水産大臣賞を受賞いたしました。
+ひとえに皆様のご愛顧の賜物と存じます。
+これからも宝牧場グループをどうかよろしくお願いいたします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4653786/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_2e93fc96b1de8e71ba34beb51cab059a03c0007b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆【5個入】近江牛ハンバーグ</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>牛肉（国産）
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">宝牧場直営焼肉店・宝亭が自信をもっておすすめする近江牛100%のハンバーグです。
+荒挽きのひき肉を使用していますのでしっかりとした肉の食感を感じていただき、噛むほどに肉汁が溢れます。重量は150ｇと食べ応え抜群！！
+調理も簡単！袋のまま沸騰したお湯で15分煮込むだけです。
+デミグラスソースと一緒でも、ハンバーグカレーでも、大根おろしとぽん酢でも美味しくお召し上がりいただけます。
+近江・宝牧場で自社生産した安心安全な良質の肉ブランド。牧場敷地内にある直営の焼肉レストラン「焼肉・精肉　宝亭」より発送いたします！朽木のストレスの少ない環境で育ったきめ細やかで甘みのある肉質や、口どけする様な高級な味わいをご賞味ください。
+※画像はイメージです。
+※商品の性質上一部変色が見られる場合がありますが、賞味期限内でしたら品質には問題ございません。
+近江の里 朽木 宝牧場は平成30年11月8日
+第21回全国農業担い手サミットinやまがた にて農林水産大臣賞を受賞いたしました。
+ひとえに皆様のご愛顧の賜物と存じます。
+これからも宝牧場グループをどうかよろしくお願いいたします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4667589/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_1fef057e04fe49e2dde4cf1b48324d3747cb11ab.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆近江牛デミグラスハンバーグ</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">『普段は食べない子供や孫が大吉のハンバーグは喜んで食べてくれた！』と嬉しいお言葉を頂く商品。専門店らしく「お肉の味」を全面に出した正直なハンバーグは世代を超えて広く愛されるお味です。
+８月１２日～１７日、１２月２３日～１月７日ご指定の発送業務は行っておりません。ご了承くださいませ。
+12月にご注文頂いたものにつきましては、1月の発送となる場合がございますので、予めご了承下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4667590/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_9a57a43b329ad69fbe1485332095d1ea7c4b4695.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆近江牛和風ビーフハンバーグ</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">湯せん後、開封した瞬間のあの和牛香は、お肉の旨味をギュッと凝縮したハンバーグだからこそ。粗挽き食感の和風仕立てのハンバーグは飽きのこない長く愛されるハンバーグになりました。
+８月１２日～１７日、１２月２３日～１月７日ご指定の発送業務は行っておりません。ご了承くださいませ。
+12月にご注文頂いたものにつきましては、1月の発送となる場合がございますので、予めご了承下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4728398/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_4e5c026f392a3cdc26ceb87214c4ab5b9508efde.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆宝牧場みるく食パン＆みるくジャムセット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご注文を頂いてから出荷するまでに7日間～10日間程、お日にちを頂戴しております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">近江牛の生産牧場である宝牧場。ここで育てられている乳牛から毎日絞られる、しぼりたてのみるくを使って焼き上げたみるく食パンとチーズブレッド。おなじくしぼりたてミルクを使って作り上げた濃厚なみるくジャム２本とセットでお届けいたします。
+甘く香るみるくの香りはいつもの朝食にも、ちょっとしたティータイムにもピッタリでおすすめです。
+【発送について】
+　(1) ご注文を頂いてから出荷するまでに7日間～10日間程、お日にちを頂戴しております。
+　(2) 勝手ながら毎週水・木曜日は発送作業が出来かねます。
+　　 悪しからずご了承くださいませ。
+近江の里 朽木 宝牧場は平成30年11月8日
+第21回全国農業担い手サミットinやまがた にて農林水産大臣賞を受賞いたしました。
+ひとえに皆様のご愛顧の賜物と存じます。
+これからも宝牧場グループをどうかよろしくお願いいたします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4738221/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_9f970baf54e62800af8927d17c94b6b925db35aa.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆萩乃露 純米大吟醸 金ラベル</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">近江高島で酒造り一筋260余年。やわらかで味わい深い手造りの地酒です。気品ある吟醸香とスムーズな口当たり、まろやかに深みのある純米大吟醸酒です。
+20歳未満の飲酒は法律で禁止されています</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4782809/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_d8d724fdc581b1521facd065935b83b554f60546.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆特別栽培米 コシヒカリ 光男さんのお米 白米 5kg×1袋</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご入金確認後、2週間程度で順次発送予定</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">このお米が育った滋賀県高島市安曇川町中野は、ゆたかな水を育む山々と、その水が注がれるびわ湖の中間にある、里山の集落です。
+山から吹き降ろす爽やかな風と、清流安曇川の清らかな水、寒暖差の大きい気候で育てられたお米の美味しさは、毎年たくさんの方から感動の声をいただいています。
+ごはんだけで食べても、笑顔があふれる美味しさです。
+生産者である清水光男さんと敏子さんは、この地域で30年以上、可能な限り自然由来の材料による、手間を惜しまない、お米作りをされてきました。
+優しくあたたかく、自然に学び、向上心を持ち続けるお二人のまわりには、スタッフ、お客さんを問わず、いつも素敵な人たちが集います。
+安心・安全・健康な食や、自然に寄り添った暮らしに関心の高い方が、お米やお野菜を予約・購入に、遠方からも足を運ばれる農園です。
+今年も自然の力をお借りし、おいしいお米を収穫することができました。
+毎日食べるものだからこそ、安心でおいしいお米を、ぜひお求めください。
+このお米は、滋賀県認証「環境こだわり農産物」の特別栽培米です。
+「環境こだわり農産物」とは、化学合成農薬および化学肥料の使用量を慣行の５割以下に削減するとともに、濁水の流出防止など、琵琶湖をはじめとする環境への負荷を削減する技術で生産された農産物を滋賀県が「環境こだわり農産物」として認証するものです。（滋賀県ホームページより）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4782814/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_23ec2b4b705d823c5c61715fc603f01ac7a83cda.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆特別栽培米 コシヒカリ 光男さんのお米 玄米 5kg×1袋</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>2020年2月1日～</p>
+</div>
+<p class="goods-col_textinfo pc">このお米が育った滋賀県高島市安曇川町中野は、ゆたかな水を育む山々と、その水が注がれるびわ湖の中間にある、里山の集落です。
+山から吹き降ろす爽やかな風と、清流安曇川の清らかな水、寒暖差の大きい気候で育てられたお米の美味しさは、毎年たくさんの方から感動の声をいただいています。
+ごはんだけで食べても、笑顔があふれる美味しさです。
+生産者である清水光男さんと敏子さんは、この地域で30年以上、可能な限り自然由来の材料による、手間を惜しまない、お米作りをされてきました。
+優しくあたたかく、自然に学び、向上心を持ち続けるお二人のまわりには、スタッフ、お客さんを問わず、いつも素敵な人たちが集います。
+安心・安全・健康な食や、自然に寄り添った暮らしに関心の高い方が、お米やお野菜を予約・購入に、遠方からも足を運ばれる農園です。
+今年も自然の力をお借りし、おいしいお米を収穫することができました。
+毎日食べるものだからこそ、安心でおいしいお米を、ぜひお求めください。
+このお米は、滋賀県認証「環境こだわり農産物」の特別栽培米です。
+「環境こだわり農産物」とは、化学合成農薬および化学肥料の使用量を慣行の５割以下に削減するとともに、濁水の流出防止など、琵琶湖をはじめとする環境への負荷を削減する技術で生産された農産物を滋賀県が「環境こだわり農産物」として認証するものです。（滋賀県ホームページより）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4613441/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240422/pd_1004af6be2fc502018e69bcd4b423ec88347ee61.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆藤美人の湯8袋　【思いやり型返礼品】</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<p class="goods-col_textinfo pc">〈障がい者支援施設〉の「思いやり型返礼品（支援型）」
+天然よもぎを使用した健康商品で、肌荒れや冷え性に良いと評判です。コンパクトサイズなので、浴用としてだけでなく、足湯なども気軽に楽しめます。高温多湿を避け保管してください。皮膚に異常が現れた時は、使用を中止し医師にご相談ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4787337/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_4e0f667538fa302a79db176519092dfca5ed84a5.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆ 柿畑の王様 ”パシモ” 実生庵の高級ブランド富有柿 近江今津産 4L 約0.6kg 1箱 2個入 【令和6年(2024)産・先行予約】</h4>
+<p class="goods-col_price inline">27,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>所定の数量に達したら申込終了</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>2024年11月中旬頃より順次発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">【令和6年(2024)産　予約注文の返礼品です】
+※予約謝礼品のため、記載内容をよくご確認後、ご注文をお願い申し上げます。
+※お届けは、最盛期の11月中旬頃から順次発送を致します。
+【高級ブランド柿”パシモ”】
+市場には、ほぼ出回らないブランド富有柿【パシモ】
+自然あふれる高島市近江今津の深清水地区”
+一面広がる柿畑の中でも、大きさが4L以上の富有柿のみ、その名が付けられます。
+希少な収穫量のため、
+毎年限定数量[5セット]のみの予約販売となります。
+※お届けは、最盛期の11月中旬頃から順次発送を致します。
+■富有柿の特徴
+近江今津富有柿の産地、深清水地区。
+その中でも農家藤原さんの畑で収穫された富有柿のみ直送致します。
+この地域では毎年、あたり一面が柿色に染まり、深清水の道は柿街道とも呼ばれ農家さんの軒先で富有柿を買うことができます。
+富有柿は、【甘柿の品種】で渋味はございません。
+ビタミンC・カロテン・食物繊維・カリウム・ペクチン等が多く含まれており、栄養価の高い果物です。
+※深清水地区の富有柿品種には、基本的には種がございます。
+■高島市今津町の深清水地区。
+水田や畑からは琵琶湖が見え、山までもすぐの高台なので、昼夜の寒暖差が大きく、
+全国で有名な百瀬川水系の扇状地に、ふんだんな雪解け上流水の清らかな水で生育した、甘みたっぷり、肉厚でとれたてはシャキシャキと、熟してとろっと頂ける富有柿です。
+■生産者の声
+農産物生産からご提供までの６次産業一貫体制の事業者として安心・安全をお届け致します。
+代々からの近江米・富有柿・栗などを生産・販売、
+実生庵では、近江牛・近江しゃも・高島とんちゃんを、お取り扱いしております。
+■お礼の品を選んで頂いた方よりお手紙・コメントを頂きました。
+・テレビで紹介された景色を、実際に見たくて高島市に行ってから四季ごとに訪れております。
+　田舎の原風景が残された自然の美しい景色がとても大好きです。
+　いつもありがとうございます。
+・高島市さん頑張ってください。
+　応援しています。
+事業者　：実生庵
+連絡先　：050-7100-0389</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4796265/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_e746520e17e2b3111c6edcec44e1eb68d0934626.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【高島市、マキノ、近江今津等】JTBふるさと納税旅行クーポン（3,000円分）</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄付完了後にご予約に必要な注文番号をメールにてお知らせします。
+※発送物はありません。
+※【info@jtb-furusato.jp】からのメールが受信できるよう設定ください。</p>
+</div>
+<p class="goods-col_textinfo pc">・高島市で1泊以上の宿泊を伴う旅行に利用できるクーポンです。
+・旅行代金精算時に【注文番号】と【寄付者様名】をお知らせください。
+・ご利用は店舗、電話、リモートのみです。インターネット申込にはご利用になれません。
+・有効期限は発行日から2年（有効期間内に帰着）です。
+・寄付完了後の寄付取消、クーポンの換金・転売（ネットオークションなど含む）・譲渡はできません。
+・寄付完了後にご予約に必要な注文番号をメールにてお知らせします。
+※発送物はありません。
+※【info@jtb-furusato.jp】からのメールが受信できるよう設定ください。
+（１）取扱窓口
+JTB店舗、JTB総合提携店、JTB国内商品取扱店、JTB旅の予約センター（電話受付専用）、JTBリモートコンシェルジュ（リモート相談）
+※ご旅行お申込後、取扱店舗の変更はできません。
+※インターネットで旅行予約された場合「JTBふるさと納税旅行クーポン」はご利用になれません。
+（２）対象商品
+寄付した自治体（対象地区）に1泊以上する以下商品
+【JTBダイナミックパッケージMySTYLE、エースJTB、総合手配旅行、JTBガイアレック、サン＆サン、JTBロイヤルロード銀座商品（「夢の休日」）等　※一部対象外あり】
+※JTBと契約のある宿泊施設に限ります。
+※ネット限定商品、旅物語、他社商品、海外旅行、旅行保険、取消料、現地支払い、予約済の旅行にはご利用になれません。
+※詳しくはご旅行お申込時に取扱店舗にてご確認ください。
+（３）旅行申込
+・ふるさと納税をされたご本人（寄付者）様から上記取扱窓口にてお申込ください。
+※お申込の際はご登録メールアドレスへお知らせする【注文番号】と【寄付者様名】を必ずお知らせください。
+・旅行代表者（契約責任者）は寄付者ご本人様または2親等以内のご親族様に限ります。
+・ご旅行代金の合計が旅行クーポンの合計利用額を下回る場合、差額返金はありません。
+（４）その他
+注文番号のメールが届かない場合はJTBふるさと納税コールセンター（050-3146-8895）までお問い合わせください。
+関連キーワード：滋賀県 高島市 高島 トラベル 宿泊 予約 人気 おすすめ</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4796268/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201002/pd_16e680724b81ee45923ff975754f4d233bcb37ca.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【高島市】JTBふるぽWEB旅行クーポン（3,000円分）</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄付完了後にご予約に必要なクーポンコード・パスワードをメールにてお知らせします。
+※発送物はありません。
+※【info@jtb-furusato.jp】【jtbdirect@jtb.co.jp】からのメールが受信できるよう設定ください。</p>
+</div>
+<p class="goods-col_textinfo pc">高島市で1泊以上の宿泊を伴う旅行に利用できるクーポンです。※発送物はありません。
+（１）取扱窓口
+JTBホームページ限定
+※JTB店舗、JTB総合提携店 、JTB国内商品取扱店、JTB旅の予約センター（電話受付専用）、JTBリモートコンシェルジュ（リモート相談専用）ではご利用になれません。
+※クーポン利用にはJTBトラベルメンバー登録会員の登録（無料）が必要です。登録サイト：https://member.jtb.co.jp/myjtb/Regist.aspx?pn=002
+（２）対象商品
+寄付した自治体（対象地区）に1泊以上する以下商品
+【JTBプラン、るるぶトラベルプラン(ホテル・旅館・宿)、JTBダイナミックパッケージMySTYLE（JR・飛行機＋宿・ホテル）※一部対象外あり】
+※旅物語、海外旅行、旅行保険、取消料、現地精算、予約済の旅行にはご利用になれません。
+（３）旅行申込
+お申込はJTBホームページ限定です。
+※使用方法や宿泊できる施設：http://www.jtb.co.jp/myjtb/campaign/coupon/furupo/
+・予約画面で【クーポンコード】と【パスワード】を入力ください。
+・旅行代表者（契約責任者）は寄付者ご本人様に限ります。
+・旅行代金がクーポンの合計利用料金を下回る場合、差額返金はありません。
+・予約済の旅行への利用をご希望の場合は予約の取り直しが必要です。空室状況・取消料発生期間にご注意ください。ご旅行予約を取消した場合、有効期限内のクーポンは再度ご利用可能です。
+・1回のご予約に利用可能なクーポンは10枚です。
+（４）その他
+クーポンコード・パスワードのメールが届かない、クーポンの分割・統合をご希望の場合は以下宛先までメールにてお問い合わせください。
+■宛先：jtbdirect@jtb.co.jp
+■必須記載項目：1.注文番号　2.寄付した自治体　3.クーポン金額　4.寄付者名　5.クーポンコード　6.パスワード（※5.6.はクーポンの分割および統合をご希望の場合記載ください）
+関連キーワード：滋賀県 高島市 高島 トラベル 宿泊 予約 人気 おすすめ</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4801732/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_2a4f6de74594630ececfcd66211b0e5f2bd07f7a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆【冷蔵1.5kg】みるく豚切り落とし</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、随時発送（商品概要もご参照下さい）</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">今回多数のお問い合わせ、ご要望が多かった宝牧場みるく豚を【切り落し】として1.5ｋｇご用意させていただきました。
+部位は赤身で柔らかく低カロリーなモモ肉、適度な脂とうまみ成分が豊富なウデ肉をスライスします。
+みるく豚とは、農林水産大臣賞を受賞した宝牧場で搾った牛乳を与えて大事に育てた自社ブランド豚の事です。
+毎朝酪農部で搾った牛乳を一頭当たり約3リットル餌に混ぜて与えるのが特徴です。
+栄養豊富な牛乳は豚の脂をまろやかな甘みに変化させ、独特な風味が生まれました。
+また、1週間に数頭しか出荷出来ず、なかなか市場にも出回らない希少なお肉でもあります。
+用途としましては、野菜炒め等の炒め物、豚汁等の汁物、鍋、、、、etc様々な料理で大活躍する事間違いなしです！
+お子様のおられるご家庭にもぜひおすすめしたく、当牧場自慢のみるく豚を是非ご賞味下さい。
+＜ご注意＞
+【通常発送について】
+1.ご注文を頂いてから基本的に５営業日以内の発送となります
+2. 勝手ながら毎週水・木曜日は発送作業をいたしかねます
+悪しからずご了承くださいませ
+3. 入荷具合により発送にお日にちを頂く場合がございます。
+近江の里 朽木 宝牧場は平成30年11月8日
+第21回全国農業担い手サミットinやまがた にて農林水産大臣賞を受賞いたしました。
+ひとえに皆様のご愛顧の賜物と存じます。
+これからも宝牧場グループをどうかよろしくお願いいたします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4801734/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_4e8f419593fec510267d42994d68c8e2b79e67d3.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆自家製炙りみるく豚チャーシュー400g</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入荷次第の順次発送となっております。ご了承ください。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">当店自慢のみるく豚を一本ずつ丁寧にロースターで焼き上げ、塊のまま真空冷凍しました。スライスされてないので旨みが外に逃げていません。
+高タンパク、低脂肪で赤身の旨みが非常に強いモモ肉を使用しています。
+一般的にモモ肉はパサつきやすく調理が難しいのですが、肉を熟知した当店のシェフが一つずつ丁寧に焼き上げたからこその一品是非ご賞味いただきたい。
+包装は様々な用途にお使いいただきたいので【塊】のまま真空冷凍でお届けです。
+みるく豚とは、
+農林水産大臣賞を受賞した宝牧場で搾った牛乳を与えて大事に育てた自社ブランド豚の事です。
+毎朝酪農部で搾った牛乳を一頭当たり約3リットル餌に混ぜて与えるのが特徴です。
+栄養豊富な牛乳は豚の脂をまろやかな甘みに変化させ、独特な風味が生まれました。
+また、1週間に数頭しか出荷出来ず、なかなか市場にも出回らない希少なお肉でもあります。
+《食べ方》
+薄く切って召し上がる場合には冷蔵庫でゆっくり解凍してから切ってください。
+逆に厚く切って召し上がる場合には冷凍のまま袋ごと沸騰したお湯に入れ、15～20分ボイルしてください。
+内容量 1本（400ｇ）
+原材料 滋賀県宝牧場産みるく豚モモ肉、醤油、料理酒、本みりん、ザラメ、にんにく、生姜、（原材料の一部に大豆、小麦を含む）
+賞味期限 冷凍（－18℃以下）で30日
+発送方法 クール冷凍便</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/4892075/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_d1c4d19d075f036b3d26b4a5138b866bcac741df.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆【業平園】在原の美男米【無洗米】</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">360度雄大な自然に囲まれた滋賀県高島市マキノ町で、猟師が営む業平そばは、近江牛やジビエを扱うお蕎麦屋さんです。
+歴史の長いこの町は、とても珍しいカタカナの町です。
+業平そばの本店のある山奥の里在原は、平安時代の歌人・在原業平(ありわらのなりひら)が晩年隠れ住んだ伝説のある村です。
+伊勢物語の主人公といわれ、美男として現世に語られる業平の愛した地で愛情込めて育てられた安心のお米を、使いやすい3kgでお届けいたします。
+品種はこだわりの「みずかがみ」お弁当やおにぎりにしても、みずみずしく美味しくお召し上がりできるおすすめのお米を、無洗米でお送りします。
+※無洗米は、さっと水洗いしてから白米と同量の水で炊飯してください。水につけた状態で40分ほど置いてから炊きますと、より美味しく炊き上がります。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/5056068/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_e1ad80d4c7dce3f4e9dddfe368b96a4f10631a5b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆グラデーションキャンドル［びわ湖カラー］</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご注文が入ってから制作しています　丁寧に制作します　発送まで今しばらくお待ちくださいませ</p>
+</div>
+<p class="goods-col_textinfo pc">蝋燭町キャンドル工房で制作したオリジナルキャンドルです
+1点ずつ手作りしています
+【びわ湖カラー】グラデーションキャンドル
+湖国びわ湖の景色をイメージしたキャンドルです
+ブルー系はびわ湖の淡い海の色合いで制作しました
+日々びわ湖を眺めると淡いブルーの濃淡が美しい日に出会います
+その感動をキャンドルで表現してみました
+【キャンドル詳細】
+サイズ　直径70mm　高さ110mm
+素材　パラフィン
+燃焼時間40時間
+◆発送について
+ラッピングしてお送りします
+◆ギフト発送の場合
+プレゼント用メッセージカード同封ご希望の場合はメッセージ内容をお知らせくださいますと同封します
+お相手のお名前、ご自身のお名前を入れる場合は漢字をお間違えなきようお気をつけください
+【ご連絡先】蝋燭町キャンドル工房　TEL:0740-36-1266
+◆お部屋のインテリアに
+◆大切な方へのプレゼントに
+◆お誕生日プレゼントに
+◆母の日のプレゼントに
+◆ブライダルプレゼントに</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/5056069/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_517c760b5eed40adaa3d9d8d6dc83f48a107d4ca.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆グラデーションキャンドル［春色］</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご注文が入ってから制作しています　丁寧に制作します　発送まで今しばらくお待ちくださいませ</p>
+</div>
+<p class="goods-col_textinfo pc">蝋燭町キャンドル工房で制作したオリジナルキャンドルです
+1点ずつ手作りしています
+【春色】グラデーションキャンドル
+湖国びわ湖の春の景色をイメージしたキャンドルです
+びわ湖の畔の桜や春の花々色合いで制作しました
+女の子に好評な春色キャンドルは年間を通し人気の色です
+【キャンドル詳細】
+サイズ　直径70mm　高さ110mm
+素材　パラフィン
+燃焼時間40時間
+◆発送について
+ラッピングしてお送りします
+◆ギフト発送の場合
+プレゼント用メッセージカード同封ご希望の場合はメッセージ内容をお知らせくださいますと同封します
+お相手のお名前、ご自身のお名前を入れる場合は漢字をお間違えなきようお気をつけください
+【ご連絡先】蝋燭町キャンドル工房　TEL:0740-36-1266
+◆お部屋のインテリアに
+◆大切な方へのプレゼントに
+◆お誕生日プレゼントに
+◆母の日のプレゼントに
+◆ブライダルプレゼントに</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/5056070/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_73848a19de8aba4e02ea1ce8e207632028119a70.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆グラデーションキャンドル［虹色］</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご注文が入ってから制作しています　丁寧に制作します　発送まで今しばらくお待ちくださいませ</p>
+</div>
+<p class="goods-col_textinfo pc">蝋燭町キャンドル工房で制作したオリジナルキャンドルです
+1点ずつ手作りしています
+【虹色・レインボーカラー】グラデーションキャンドル
+湖国高島市は虹がよく見られる地域です
+高島時雨の時期には毎日見かけます
+びわ湖にかかる大きな虹
+そんな虹を表現しました
+【キャンドル詳細】
+サイズ　直径70mm　高さ110mm
+素材　パラフィン
+燃焼時間40時間
+◆発送について
+ラッピングしてお送りします
+◆ギフト発送の場合
+プレゼント用メッセージカード同封ご希望の場合はメッセージ内容をお知らせくださいますと同封します
+お相手のお名前、ご自身のお名前を入れる場合は漢字をお間違えなきようお気をつけください
+【ご連絡先】蝋燭町キャンドル工房　TEL:0740-36-1266
+◆お部屋のインテリアに
+◆大切な方へのプレゼントに
+◆お誕生日プレゼントに
+◆母の日のプレゼントに
+◆ブライダルプレゼントに</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/5056071/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_8c372c3c2afb9b9ec4669157faa9f1475d0b3c62.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆ボタニカルキャンドル［お花のキャンドル］</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご注文が入ってから制作しています　丁寧に制作します　発送まで今しばらくお待ちくださいませ</p>
+</div>
+<p class="goods-col_textinfo pc">蝋燭町キャンドル工房で制作したオリジナルキャンドルです
+1点ずつ手作りしています
+【お花のキャンドル】ボタニカルキャンドル
+自家製ドライフラワーやプリザーブドフラワーを使っています
+カイガラ草やアジサイがいっぱい入っています
+キャンドルからお花が浮かび上がりとても綺麗です
+のんびり何時までも眺めていたい気分になります
+火を灯すことができます
+季節のお花を詰めたキャンドルです
+季節によりお花の種類が変わりますが綺麗な仕上がりをお送りします
+【キャンドル詳細】
+サイズ　直径70mm　高さ110mm
+素材　パラフィン
+◆発送について
+ラッピングしてお送りします
+◆ギフト発送の場合
+プレゼント用メッセージカード同封ご希望の場合はメッセージ内容をお知らせくださいますと同封します
+お相手のお名前、ご自身のお名前を入れる場合は漢字をお間違えなきようお気をつけください
+【ご連絡先】蝋燭町キャンドル工房　TEL:0740-36-1266
+◆お部屋のインテリアに
+◆大切な方へのプレゼントに
+◆お誕生日プレゼントに
+◆母の日のプレゼントに
+◆ブライダルプレゼントに</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/5275931/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_726c16d5a5b1439512ef676432120b4643c4e33a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆【特上茶】高島市マキノ産</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第発送</p>
+</div>
+<p class="goods-col_textinfo pc">マキノ茶は「新・日本街路樹100景」に選ばれたメタセコイヤ並木や「日本のさくら名所百選」に選ばれた海津大崎がある、自然が豊かな高島市マキノ町（大沼地区）の広大な茶園で栽培されています。
+品種は「やぶきた」で一番茶のみを使用したお茶です。滋賀県が認証する「環境こだわり農産物」の認証を受けています。
+※高温多湿および直射日光を避けて保存して下さい。開封後は密閉し冷蔵庫で保管して下さい。
+事業者名：JAレーク滋賀（今津営農経済センター）
+連絡先：0740-22-4545</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/5275932/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_a023e755dda69811020af1577e2305f01be34fd4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">◆【お手軽】マキノ茶ティーパック詰め合わせ</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第発送</p>
+</div>
+<p class="goods-col_textinfo pc">マキノ茶は「新・日本街路樹100景」に選ばれたメタセコイヤ並木や「日本のさくら名所百選」に選ばれた海津大崎のある自然が豊かな高島市マキノ町（大沼地区）の広大な茶園で栽培されています。
+品種「やぶきた」で紅茶・ほうじ茶ともに一番茶のみを使用したお茶です。マキノ茶のいろいろな味わいをお楽しみください。
+※高温多湿及び直射日光を避けて保存して下さい。開封後は、冷蔵庫で保管して下さい。
+事業者名：JAレーク滋賀（今津営農経済センター）
+連絡先：0740-22-4545</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/5337939/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_022fd25192f8ff3f9ec1121f7e92f0f12aab9f09.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【幻の果実アドベリー】爽やかな甘さとクセになる酸味！女性にうれしい成分たっぷりな果実（300ｇ×3袋）</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">アドベリーは口に入れた瞬間広がる上品な香りと、爽やかな甘さと酸味が特徴の果実です。
+そのままで召し上がるのはもちろん、ヨーグルトやスムージーともよく合います。
+アドベリー（高島市産ボイセンベリー）は栽培期間中農薬・化学肥料不使用にこだわり、自然循環のなかでより豊かな自然の恵みを栽培に生かせるように取り組んでいます。
+葉酸やビタミンC、ビタミンAなどのビタミン、鉄や亜鉛、カルシウムなどのミネラル、アントシアニンやエラグ酸などのポリフェノールをはじめ、様々な栄養成分が豊富に含まれています。
+【製造者】
+アドベリー：はなつむぎベリーファーム（滋賀県高島市安曇川町四津川）
+事業者名：梅久
+連絡先：0740-32-0011
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/25212/5337940/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230131/pd_c36445aeaa7954ee6414b5b6a5179dd8ff9a2d63.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【幻の果実アドベリー】アドベリージャム＆ソース3個入りセット(150g×3個)</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第、順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">栽培期間中農薬・化学肥料不使用で育てたアドベリーを3種類のジャム＆ソースにしました。
+◎アドベリージャム
+アドベリーの種を取って糖度46°の低糖度のジャムにしました。甘さ控えめでアドベリーのフルーツ感を楽しんでいただけます。パンとの相性も抜群！ 朝の食卓に是非置いていただきたい一品です。
+◎とろーりアドベリージャム
+『アドベリージャム』より甘い、糖度60°の中糖度のジャムにしました。ジャムは甘い方が良いという方にはこれがお薦めです。ジャムでありながら、とろみを残していますのでパンだけでなく、ヨーグルトなどにもお使いください。
+◎アドベリーソース
+『アドベリージャム』よりもとろみが少ない、糖度43°の低糖度のソースにしました。ヨーグルトやアイスクリームそれにグラノーラなどにかければ、アドベリーのフルーツ感が加わります。
+【製造者】
+アドベリー：はなつむぎベリーファーム（滋賀県高島市安曇川町四津川）
+アドベリージャム＆ソース：株式会社梅久（滋賀県高島市安曇川町四津川７９８）
+事業者名：梅久
+連絡先：0740-32-0011
+</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">滋賀県高島市</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">高島市は滋賀県の北西部、琵琶湖のほとりに位置しています。<br/>
+日本遺産の構成文化財に選定された、湖の中の鳥居が印象的な「白鬚神社」、日本遺産構成文化財でもあり重要文化的景観にも選定されている3つの「水辺景観」や、全国から選ばれる様々な百選が15ヶ所もあります。<br/>
+また、高島には5つの酒蔵があり、酒づくりにかかせない良質の水と、一部は地元産米を利用し、それぞれの蔵元が受けつぐ昔ながらの製法により作られています。<br/>
+地元の祭りには必ず地酒がふるまわれるなど、地域の人々にも愛されています。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">滋賀県高島市の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/25212/35?from=2&amp;gcf_project_id=2036"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,591,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g2036,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

@@ -1,0 +1,1110 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/110" />
+
+<title>熊本地震で被災!!種田山頭火が愛した「織屋旅館」を救え！日奈久温泉街の復興を目指して！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="熊本地震で被災!!種田山頭火が愛した「織屋旅館」を救え！日奈久温泉街の復興を目指して！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/110" />
+<meta property="og:description" content="◆自由律俳句で有名な俳人、種田山頭火をご存じでしょうか？◆八代市の日奈久（ひなぐ）温泉街には、その山頭火が宿泊した旅館の中で全国で唯一現存している「織屋旅館」という木賃宿の跡地があります。毎年多くの観光客が訪れるため、日奈久温泉街にとって無くてはならない観光施設です。◆その織屋旅館が熊本地震で被災し、復旧経費が高額であることから、今後の存続についても危ぶまれている状況となっています。また、熊本地震の震源として「日奈久断層」の名がメディアに広まったことによって、日奈久温泉街は営業しているにもかかわらず風評被害などによって多大なる被害を受けました。◆そこで、日奈久温泉街と共に歩んできた織屋旅館を後の世代に継承するため、織屋旅館を復旧する事業に対し、皆様のご支援をお願いします。◆ご寄附いただいた方に感謝の気持ちとして、通常お選びいただける返礼品に加えて、特別に1万円以上ご寄附いただいた方に、復旧後の「織屋旅館」に寄附者様のお名前を記した芳名板を設置させていただくプランもお選びいただくことが出来ます。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20160915/d_50dae1575fa45711c21e062e6b228be6a8280497.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20160915/d_50dae1575fa45711c21e062e6b228be6a8280497.jpg" />
+<meta property="twitter:title" content="熊本地震で被災!!種田山頭火が愛した「織屋旅館」を救え！日奈久温泉街の復興を目指して！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="◆自由律俳句で有名な俳人、種田山頭火をご存じでしょうか？◆八代市の日奈久（ひなぐ）温泉街には、その山頭火が宿泊した旅館の中で全国で唯一現存している「織屋旅館」という木賃宿の跡地があります。毎年多くの観光客が訪れるため、日奈久温泉街にとって無くてはならない観光施設です。◆その織屋旅館が熊本地震で被災し、復旧経費が高額であることから、今後の存続についても危ぶまれている状況となっています。また、熊本地震の震源として「日奈久断層」の名がメディアに広まったことによって、日奈久温泉街は営業しているにもかかわらず風評被害などによって多大なる被害を受けました。◆そこで、日奈久温泉街と共に歩んできた織屋旅館を後の世代に継承するため、織屋旅館を復旧する事業に対し、皆様のご支援をお願いします。◆ご寄附いただいた方に感謝の気持ちとして、通常お選びいただける返礼品に加えて、特別に1万円以上ご寄附いただいた方に、復旧後の「織屋旅館」に寄附者様のお名前を記した芳名板を設置させていただくプランもお選びいただくことが出来ます。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,209,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="110" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">熊本地震で被災!!種田山頭火が愛した「織屋旅館」を救え！日奈久温泉街の復興を目指して！</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">熊本地震で被災!!種田山頭火が愛した「織屋旅館」を救え！日奈久温泉街の復興を目指して！</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1020">観光・PR&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20160915/d_50dae1575fa45711c21e062e6b228be6a8280497.jpg" alt="main_img" decoding="async" />
+<img class="gcf-lyt-detail__complete" src="/gcf/images_cf/icon_goal_brown.png" alt="達成" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87%E3%81%A7%E8%A2%AB%E7%81%BD%21%21%E7%A8%AE%E7%94%B0%E5%B1%B1%E9%A0%AD%E7%81%AB%E3%81%8C%E6%84%9B%E3%81%97%E3%81%9F%E3%80%8C%E7%B9%94%E5%B1%8B%E6%97%85%E9%A4%A8%E3%80%8D%E3%82%92%E6%95%91%E3%81%88%EF%BC%81%E6%97%A5%E5%A5%88%E4%B9%85%E6%B8%A9%E6%B3%89%E8%A1%97%E3%81%AE%E5%BE%A9%E8%88%88%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6%EF%BC%81&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F110">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">8,343,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph2" style="width: 109.7%;"></div>
+<p class="gcf-cht-detail-bar__number">109.7%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">7,600,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">109.7</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">444</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>熊本県八代市（くまもとけん やつしろし）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="110" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2016年9月29日～2016年12月31日（94日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1029" class="sorting-list__item">インフラ・交通・施設</a></li><li><a href="/gcf/project/tag/1038" class="sorting-list__item">観光・PR</a></li><li><a href="/gcf/project/tag/1053" class="sorting-list__item">歴史</a></li><li><a href="/gcf/project/tag/1056" class="sorting-list__item">災害</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li><li><a href="/gcf/project/sdgs/1091" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_12.png 1x, /gcf/images_cf/sdg/sdg_icon_12@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_12.png" alt="SDGアイコン" decoding="async" />12.つくる責任 つかう責任</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="110" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">熊本県八代市</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20160909/o_88bd3f7ed4d23514ea7399e72392a69000039c84.png" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">　自由律俳句で有名な俳人、種田山頭火をご存じでしょうか？<br/>
+　八代市の日奈久（ひなぐ）温泉街には、その山頭火が宿泊した旅館の中で全国で唯一現存している「織屋旅館」という木賃宿の跡地があります。毎年多くの観光客が訪れるため、日奈久温泉街にとって無くてはならない観光施設です。<br/>
+　その織屋旅館が熊本地震で被災し、復旧経費が高額であることから、今後の存続についても危ぶまれている状況となっています。<br/>
+また、熊本地震の震源として「日奈久断層」の名がメディアに広まったことによって、日奈久温泉街は営業しているにもかかわらず風評被害などによって多大なる被害を受けました。<br/>
+　そこで、日奈久温泉街と共に歩んできた織屋旅館を後の世代に継承するため、織屋旅館を復旧する事業に対し、皆様のご支援をお願いします。<br/>
+　ご寄附いただいた方に感謝の気持ちとして、通常お選びいただける返礼品に加えて、特別に1万円以上ご寄附いただいた方に、復旧後の「織屋旅館」に寄附者様のお名前を記した芳名板を設置させていただくプランもお選びいただくことが出来ます。<br/>
+<br/>
+※プロジェクト期間を12月31日まで延長いたします。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="clearfix border-gray1 border-radius_10 pL20 pR20 bg-white mT20 mB20">
+<h4 class="lineU1d">熊本地震の支援のお礼</h4>
+<p>　この度の平成28年熊本地震に際し、全国の皆様から心温まる寄附金を頂きましたことに厚くお礼申し上げます。<br/> 　ご承知のとおり今回の地震では、八代市役所本庁舎を始め、当市に甚大な被害をもたらしました。<br/>　地震から5か月が経ち、時折やってくる余震に予断を許さない状況が続いていますが、市民の方々も日常の生活を取り戻しつつあり、一日も早い復興に向け八代市一丸となって取り組んでおります。 <br/> 　皆さまから頂きましたご寄附は、八代市の復興のために有効に活用させていただきます。 本来であれば、お伺いし御礼を申し上げるべきところではございますが、この場をお借りしてお礼に代えさせていただきます。<br/> 　今後とも市の復興に向けて、引き続き皆様のご指導とご協力をお願い申し上げます。</p>
+</div></p>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div id="oriya_170706" class="mB50">
+<h2 class="lineU6 mB30">【織屋旅館復旧完了報告のご報告】</h2>
+
+<h4>■「熊本地震」で、被災した「織屋旅館」を復旧する事業についての結果報告</h4>
+<img src="/img/x/gcf/project/form/details/20170705/gpfd_9d545c34d4b876e59f02f48e0b1764aaf8936dc6.jpg" alt />
+<div class="clearfix">
+<div class="floatR mL10"><img src="/img/x/gcf/project/form/details/20170705/gpfd_1ae97b4834d678dc5756f932de64821ef3334191.jpg" alt /></div>
+<p>　今回の復旧にあたっては「織屋旅館」に隣接している「レンガ倉庫」という施設の解体が事前に必要となったことや施工業者不足などの理由により、復旧工事が遅れておりましたが、全国の皆様からの温かいご支援をいただき、4月に復旧工事が無事に完了しました。</p>
+<p>　頂きました寄附は、復旧工事経費のほか、寄附者の方に対する返礼品代や芳名版の制作費、ふるさと納税に係る事務経費等に活用させていただきました。</p>
+<p>　また、6月24日に地域住民ら約50人が参加し、「織屋改修記念式」が開催され、地域の代表者の方から、「多くの人からの寄附で、無事に織屋が復旧したことに対し、胸が詰まる思いでいっぱいです。」と感謝の言葉がありました。</p>
+</div>
+<h3>復興のシンボルであるこの「織屋」をはじめとした<br/> 日奈久温泉街に是非お越しください。</h3>
+<div class="grayBox_sp_pc mB20">
+<p><b>【施設情報】</b><br/> ・開館時間：9：00～17：00<br/> 　　　※休館日：第3火曜日、１月１日～3日（場合によっては変更することもあります）</p>
+<p>・問合せ先：日奈久温泉観光案内所（日奈久ゆめ倉庫内）<br/> 　　　　　　TEL：0965-38-0267</p>
+<p>・イベント予定<br/> 　　 9月 2日（土）　　山頭火オープニング<br/> 　　 9月 3日（日）　　日奈久再発見<br/> 　　9月10日（日）　　おりや句会<br/> 　　9月16日（土）　　山頭火シンポジウム<br/> 　　9月17日（日）　　山頭火を巡るバスツアー<br/> 　　9月24日（日）　　山頭火ウォーク</p>
+<p><b>【アクセスマップ（おりや周辺）】</b></p>
+<img src="/img/x/gcf/project/form/details/20170705/gpfd_6f8e057a21da2f36c1df8be33086d8eff334f761.jpg" alt width="100%" /></div>
+</div></p>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">【プロジェクト中間報告】</span></h2>
+<p class="gcf-txt-article">この度は、全国の皆様から心温まる寄附金を頂きましたことに厚くお礼申し上げます。<br/>
+<br/>
+織屋旅館復旧の進捗状況ですが、現在熊本では、県内各地で復旧工事が行われていることもあり、工事の施工業者が不足していますことから、復旧工事が遅れており、未だ工事の着工が出来ていない状況です。<br/>
+<br/>
+今回の工事の工程としましては、織屋旅館に隣接している「レンガ倉庫」という施設をまず解体し、織屋旅館の本復旧工事を行う予定としておりまして、現在、レンガ倉庫の解体が終わったところです。今後のスケジュールは、3月中旬より本復旧工事に着工し、4月上旬には復旧工事が完了する予定としております。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20170316/gpfd_2e6c4dba935fa39926d39f5dd5664674a7063523.jpg" />
+</figure>
+<p class="gcf-txt-article">また、芳名板につきましても4月上旬の完了時までには設置できる予定としておりますので、工事が完了しましたら、報告をさせていただきたいと思います。</p>
+<h3 class="gcf-ttl-h3">多くのご支援をいただき、ありがとうございました。<br/>
+　<br/>
+</h3>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">日奈久温泉とは</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20160921/gpfd_1c599a87e20db78721aeb0828e32738112c3aefc.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2--reverse">
+<div class="lyt-image2__content">
+<p class="gcf-txt">　熊本市から車で1時間ほどの日奈久温泉。東西に長い八代市の西端、不知火海の海岸沿いにある、弱アルカリ単純泉の温泉です。<br/>
+　その歴史は室町時代に始まり、江戸時代には細川氏が温泉施設を藩営。参勤交代中の島津氏など諸大名もお気に入りでした。<br/>
+　明治時代になって宿も増え、現在も明治～昭和の区割りや建物、路地など貴重な街並みを残しています。九州のなかでも、明治末期から昭和初期の木造２～３階建ての旅館群が最も数多く集まっている地域で、そのうちの多くの旅館に現在も宿泊することができます。<br/>
+<br/>
+<br/>
+写真：熊本地震以前の日奈久温泉街の様子</p>
+</div>
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20160921/gpfd_95d4e044af48082f715fbbec965f19aa5800be2d.jpg" />
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">熊本地震の影響</span></h3>
+<h4 class="gcf-ttl-h4">風評被害などの影響</h4>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><p class="mB30">　熊本地震後、利用者の大部分を占める熊本県民の被災により、ダメージを追いながらも営業を続ける日奈久温泉街におこったことは、<b>震源として喧伝された「日奈久断層帯」の風評被害による観光客の減少</b>でした。<br/>　温泉街の各旅館では瓦の落下、建物の亀裂や土壁の剝げ落ちなどのダメージを受けたものの、施設の使用に問題ない場合が多く、温泉街で温泉の供給の面でのトラブルもほとんどありませんでした。問題だったのは、4月の地震発生後、ゴールデンウィークという書き入れ時を前に客足がぱったり途絶えてしまったことでした。<br/>　現在、日奈久温泉ではネットを通じて「元気です」というPR作戦を展開。かつては九州圏からがほとんどだった宿泊客も、関西・関東からのお客さんが増えてきているといいます。<br/>　関係者の努力で客足は戻りつつありますが、そのような中すぐには手当てできなかった問題が新たな課題として浮かび上がっています。<br/> 　日奈久温泉が本当の意味での復興をするために支援を募ります。</p></p>
+</div>
+<h4 class="gcf-ttl-h4">いちばん被害がひどい「織屋旅館」</h4>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20160915/gpfd_30a689d98254e91cd7c10e4847b03c1d4af17dfd.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><p class="mT-05 text_right text-choice-green"><b>熊本地震前の織屋温泉</b></p></p>
+</div>
+<p class="gcf-txt-article">織屋旅館は自由律俳人、種田山頭火が宿泊した全国の木賃宿の中で、現存する唯一の建物です。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20160915/gpfd_ce28522d3d376ee4ad54aec937aa4eda94759379.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><p class="mT-05 text_right text-choice-green"><b>熊本地震後の織屋温泉の様子。レンガが崩落した箇所から雨漏りが発生している。</b></p></p>
+</div>
+<p class="gcf-txt-article">俳人「種田山頭火」が泊まった当時のまま残っている唯一の宿（震災の影響で見学できない）</p>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="grayBox_sp_pc mB20">
+<h4>種田山頭火とは</h4>
+<p>　放浪の自由律俳人。明治15年、山口県防府生まれ。本名は種田正一。自由律の俳句誌《層雲》で活躍しました。<br/> 　裕福な家で何不自由なく育つはずだったが、母親の入水自殺、家の経済状況の悪化等、幼い頃から不運が相次ぐ人生をおくりました。早稲田大学を中退した後、文学に励む一方で家業の酒造りも手伝ったものの倒産し、大正5年、子と妻を連れて熊本へ住まいを移しました。小さな店を持って、つつましく暮らそうと努力するも果たせず、だんだん家庭から離れて行きました。東京の生活や関東大震災を経験して再び熊本へ舞い戻り大正の末には曹洞宗の僧侶となって植木町味取観音堂に住みましたが落ち着けず、大正15年、本格的な放浪の生活に。昭和5年9月からの長旅は八代・日奈久に始まり、その後、仮の住まいを山口県小郡、湯田温泉、四国松山と移しつつ、昭和15年松山の町の片隅でコロリ往生を遂げました。酒と俳句と放浪、58年の生涯でした。<br/> 　妻子を捨て、世間を捨て、行乞の人生を送り、自然と一体になり、自己にいつわらず、自由に一筋の道を詠いつづけた彼は、「無駄に無駄を重ねたような一生だった、それに酒をたえず注いで、そこから句が生まれたような一生だった」と記し、生涯約１万句を詠みました。</p>
+</div></p>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20160915/gpfd_236c9ec82b25306227765118439c824994b79b64.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><p class="mT-05 text_right text-choice-green"><b>（左：山頭火イメージ　右：日奈久温泉にある山頭火の句碑）</b></p></p>
+</div>
+<p class="gcf-txt-article">　種田山頭火が、昭和５年９月１０日から熊本県八代市の日奈久（ひなぐ）温泉街を訪れ、織屋旅館に３泊し、その日記に『温泉はよい、ほんたうによい、こゝは山もよし海もよし、出来ることなら滞在したいのだが、―――　いや一生動きたくないのだが』と日奈久温泉を称賛した旅館です。現在も日奈久温泉街の観光施設として一般公開されています。<br/>
+　山頭火が宿泊した当時は食事を出さず風呂も無く、薪代を支払い自ら炊事を行っていたことから「木賃宿(きちんやど)」と呼ばれ、宿泊者は８畳２間に布団を敷き詰め雑魚寝していたといいます。 <br/>
+　現在は熊本地震の影響により一部破損している為、見学はできない状況となっています。</p>
+<h4 class="gcf-ttl-h4">織屋旅館の被害状況とは</h4>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20160915/gpfd_e63dd7f6d99fc06dac36ee39b9efdcae5ea11272.jpg" />
+</figure>
+<p class="gcf-txt-article">　織屋旅館に隣接するレンガ倉庫が熊本地震の影響により破損して倒れたため、織屋旅館の屋根の一部が破損しました。そのため、ブルーシートで補修していますが、どうしても雨天時には雨漏りが発生し、壁や畳などにカビが生えている状態となっています。</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">八代に遊びに行こう！「九月は日奈久で山頭火」</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20160915/gpfd_75951b7b79248accec9a3344c59cc9ad3c017cbc.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><p class="mT-05 text_right text-choice-green"><b>昨年行われた「九月は日奈久で山頭火」イベントの様子</b></p></p>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="mB30">
+<p>　毎年9月に日奈久温泉街で開催されるイベントで、今年は9月3日（土）～9月30日（金）まで開催されました。 種田山頭火が宿泊した織屋旅館のすぐ隣にある日奈久ゆめ倉庫をメイン会場に「おりや句会」や「山頭火ウオーク」などの催しが開催され、期間中は日奈久温泉旅館スタンプラリーや日奈久まちなかギャラリーなど様々な展示が日奈久温泉街で展示され街全体が山頭火イベントで盛り上がりました。</p>
+<div class="clearfix border-gray1 border-radius_10 pL20 pR20 bg-white mT20 mB20">
+<h4 class="lineU1d">■今年行われたイベントプログラム</h4>
+<div class="mb20">
+<h4>○山頭火オープニング　9月3日(土)　10：00～12：00</h4>
+<p class="mT-05">　場所：日奈久ゆめ倉庫（参加料：無料）<br/> 　・保育園児による太鼓の演奏やダンスの披露<br/> 　・日奈久小中学生の発表会<br/> 　・山頭火クイズ王決定戦　など</p>
+</div>
+<div class="mb20">
+<h4>○日奈久再発見　9月11日（日）　10：00～12：00</h4>
+<p class="mT-05">　場所：日奈久温泉街一帯（参加料500円）<br/> 　・開湯600年の歴史が残る温泉街の町並みを案内人がご案内します。</p>
+</div>
+<div class="mb20">
+<h4>○おりや句会　9月22日（木・祝）　13：00～15：30</h4>
+<p>　場所：日奈久ゆめ倉庫（参加費1000円）<br/> 　・参加者がそれぞれ俳句を出し合って、みんなで互選する。</p>
+</div>
+<div class="mb20">
+<h4>○山頭火ウオーク　9月25日（日）　9：00～16：00</h4>
+<p class="mT-05">　場所：球磨川河川緑地～日奈久ゆめ倉庫<br/> 　（参加費大人1,000円・中学生以下500円）<br/> 　・山頭火が歩いたとされる日奈久温泉街までの道のりをみんなで歩きます。到着後は日奈久温泉に入って疲れを癒します。</p>
+</div>
+</div>
+</div></p>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">お礼の品</span></h3>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><p>　今回皆さまよりご支援いただきました寄附金は、「織屋旅館」の修復費の他、芳名板の作成費などに充てさせていただきます。 また、ご支援のお礼として八代市のふるさと納税のお礼の品に追加して、1万円以上のご寄附を頂いた方のうち、希望される方には「織屋旅館」に寄附者様のお名前の入った芳名板を掲示させていただきます。</p></p>
+</div>
+<div class="gcf-lyt-detail__block">
+<h4 class="gcf-ttl-caution">【注意事項】</h4>
+<p class="gcf-lst-caution">※【ふるさと納税のお礼の品】：八代市内の方はお選びすることが出来ません。ご了承下さい。<br/>
+※【芳名板への記名】：八代市内の方を含む、申し込みフォームよりご希望頂いた全ての方が対象となります。</p>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="mB30">
+<h4 class="text-choice-red">【ご注意下さい！】平成28年分の寄附金控除に係る年末年始の取扱については、下記の通りとなりますので、ご確認をお願いいたします。</h4>
+<table class="general_table02">
+<tbody>
+<tr>
+<td>クレジットカードでのお支払の場合</td>
+<td>12月31日までの決済が対象となります。</td>
+</tr>
+<tr>
+<td>払込用紙でのお支払の場合</td>
+<td>12月30日までのお支払が対象となります。納付書の郵送の関係上、12月18日までにお申込みください。</td>
+</tr>
+<tr>
+<td>その他のお支払、入金期日について</td>
+<td>いずれも12月31日までにご入金が確認できたものが対象となります。</td>
+</tr>
+</tbody>
+</table>
+</div></p>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">熊本県八代市</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__image"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20160909/m_6e0bb4b51985eb06d42d2ff5d1977bf127e7dc64.jpg" /></div>
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">八代市（やつしろし）は、熊本県南の中心的な市で、県下第2の人口を有する田園工業都市。日本三大急流の一つである球磨川が分流して不知火海に注ぐ三角州地帯の北岸に市街地がある。八代市の特産品である「い草」、「トマト」、「晩白柚（ばんぺいゆ）」は日本一の生産数を誇る。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">素晴らしい歴史のある街・建物をいつか見に行きたいと思っております。皆さまぜひ頑張ってください。</p>
+<p class="gcf-bx-message__date">2016年12月12日 20:11</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">子供も私も温泉大好きです。<br/>
+熊本にはいったことないけれど、織屋旅館に復旧したら子供と言ってみたいです。<br/>
+早く普及できるよう願っています。</p>
+<p class="gcf-bx-message__date">2016年12月11日 22:29</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">主人の地元が熊本です。<br/>
+一日も早く必要な方に、必要な場所に支援と復旧が行き届きますように。</p>
+<p class="gcf-bx-message__date">2016年12月11日 21:34</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">ゆっくり一歩ずつ、今までの生活に戻れることを願います。</p>
+<p class="gcf-bx-message__date">2016年12月11日 21:30</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">日々頑張られてる方々に適切な言葉ではないかも分かりませんが、どうか頑張ってください。</p>
+<p class="gcf-bx-message__date">2016年12月11日 18:17</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">寒くなってきましたが、がんばってください。<br/>
+地震直後に寄付させて頂こうと思っていたのですが、機を逃して今になってしまいました。<br/>
+ふるさと納税で、何につかわれるのかを指定出来た方が良いと考えたのと、お礼の品を頂いた方が、生産者さんの利益にも繋がる支援になると思い、この形での応援にさせてもらいました。<br/>
+応援しています。がんばってくださいね。</p>
+<p class="gcf-bx-message__date">2016年12月11日 16:29</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">同じ九州で大変被害を受けた熊本県。<br/>
+よく観光や旅行で足を運んでいたため、<br/>
+とてもショックを受けました。<br/>
+少しでも力になれればと思っています。</p>
+<p class="gcf-bx-message__date">2016年12月11日 13:34</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">日本の大切な文化、地域資源を守るため、少しでもお役に立てればと思い、プロジェクトに参加させていただきます。</p>
+<p class="gcf-bx-message__date">2016年12月11日 11:30</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">今は離れておりますが、熊本に縁があるものなので、微力ながら応援させていただきます。大変だと思いますが、頑張ってください。再興された折には家族と訪れたいと思います。</p>
+<p class="gcf-bx-message__date">2016年12月11日 0:26</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">頑張ってください。<br/>
+微力ながら、応援しています。</p>
+<p class="gcf-bx-message__date">2016年12月10日 20:58</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">少しでも力になれれば嬉しいです。<br/>
+</p>
+<p class="gcf-bx-message__date">2016年12月10日 15:47</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">微力ながら応援しています。</p>
+<p class="gcf-bx-message__date">2016年12月10日 14:07</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">八代の復興を願って</p>
+<p class="gcf-bx-message__date">2016年12月9日 17:28</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">婆ちゃんの里、頑張れ！</p>
+<p class="gcf-bx-message__date">2016年12月8日 16:17</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">九州は家族のふるさとでもあるので、一日も早く復興しますように。</p>
+<p class="gcf-bx-message__date">2016年12月8日 15:17</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">数年前に、長崎（ハウステンボス）に２回、阿蘇、黒川、湯布院などの温泉旅行に２回、伺いました。だから、今回の震災は、他人事ではなく、５月に阿蘇にお手伝いに伺いました。これからも、自分の出来ることで、熊本の皆さんを応援していきます。そして、また、旅行で伺います。<br/>
+熊本ガンバレ‼️日本ガンバレ‼️</p>
+<p class="gcf-bx-message__date">2016年12月8日 3:36</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">美味しいものと見どころがいっぱいの熊本！<br/>
+一日も早い復興を心よりお祈り申し上げます。<br/>
+また遊びに行かせてもらいます！</p>
+<p class="gcf-bx-message__date">2016年12月7日 16:15</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">一日も早い復旧をお祈りいたします<br/>
+大変でしょうが頑張ってください<br/>
+</p>
+<p class="gcf-bx-message__date">2016年12月7日 14:55</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">九州に転勤で3年ほど住んでいましたので、熊本の早い復興を願います。</p>
+<p class="gcf-bx-message__date">2016年12月7日 2:23</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">震災からの復興を心より願っています。</p>
+<p class="gcf-bx-message__date">2016年12月6日 23:37</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/110">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">熊本県八代市の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/43202/5?from=2&amp;gcf_project_id=110"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月11日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,209,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g110,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

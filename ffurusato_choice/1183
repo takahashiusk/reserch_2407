@@ -1,0 +1,1325 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/1183" />
+
+<title>【千葉ロッテマリーンズ×丹波篠山市】日本農業遺産認定記念　丹波篠山市黒豆ナイターを応援しよう！！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="【千葉ロッテマリーンズ×丹波篠山市】日本農業遺産認定記念　丹波篠山市黒豆ナイターを応援しよう！！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/1183" />
+<meta property="og:description" content="※6月22日追記：球団での7月11日までの試合のチケット販売停止や千葉市の「まん延防止等重点措置」の継続を踏まえ、本プロジェクトでのチケット付き返礼品の取扱いを中止いたします（既にお申込みいただき寄附完了された方にはチケットを発送いたします）。ご理解のほどよろしくお願いいたします。　丹波篠山市出身の中森俊介投手が2020プロ野球ドラフト会議で千葉ロッテマリーンズから2位指名を受け、千葉ロッテマリーンズに入団しました。　丹波篠山市民の星　中森俊介投手のプロ野球での活躍を願って、千葉ロッテマリーンズとスポンサーシップ契約を締結し、千葉ロッテマリーンズファン及び関東圏へ『日本農業遺産のまち　丹波篠山市』の魅力を発信します。【千葉ロッテマリーンズ主催試合における冠試合『日本農業遺産認定記念　丹波篠山市黒豆ナイター』の開催】　冠試合においては、試合まるごとが『丹波篠山市』一色になり、試合開始前から特産品の物販コーナー、大型ビジョン等でＰＲビデオの放映を展開し、本市の魅力を発信します。千葉ロッテマリーンズのＨＰ及びＳＮＳ等を活用し、冠試合開催と一体なった本市のＰＲを展開します。（ファンクラブ会員6.1万人及びTwitterフォロワー約80万人）※観戦チケット1枚&amp;特産品をセットにした返礼品をご用意しております。チケットはおよそ1週間前にお手元に届くようなスケジュールで発送を予定しております。　よってチケット付きの返礼品のお申込みは6月26日（土）までにお願いいたします。（郵便振替の場合は3～4週間前までにお申込みください。）" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20210514/s_00ed4b010c92b22bb8eba43ec0e3064709aad57f.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20210514/s_00ed4b010c92b22bb8eba43ec0e3064709aad57f.jpg" />
+<meta property="twitter:title" content="【千葉ロッテマリーンズ×丹波篠山市】日本農業遺産認定記念　丹波篠山市黒豆ナイターを応援しよう！！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="※6月22日追記：球団での7月11日までの試合のチケット販売停止や千葉市の「まん延防止等重点措置」の継続を踏まえ、本プロジェクトでのチケット付き返礼品の取扱いを中止いたします（既にお申込みいただき寄附完了された方にはチケットを発送いたします）。ご理解のほどよろしくお願いいたします。　丹波篠山市出身の中森俊介投手が2020プロ野球ドラフト会議で千葉ロッテマリーンズから2位指名を受け、千葉ロッテマリーンズに入団しました。　丹波篠山市民の星　中森俊介投手のプロ野球での活躍を願って、千葉ロッテマリーンズとスポンサーシップ契約を締結し、千葉ロッテマリーンズファン及び関東圏へ『日本農業遺産のまち　丹波篠山市』の魅力を発信します。【千葉ロッテマリーンズ主催試合における冠試合『日本農業遺産認定記念　丹波篠山市黒豆ナイター』の開催】　冠試合においては、試合まるごとが『丹波篠山市』一色になり、試合開始前から特産品の物販コーナー、大型ビジョン等でＰＲビデオの放映を展開し、本市の魅力を発信します。千葉ロッテマリーンズのＨＰ及びＳＮＳ等を活用し、冠試合開催と一体なった本市のＰＲを展開します。（ファンクラブ会員6.1万人及びTwitterフォロワー約80万人）※観戦チケット1枚&amp;特産品をセットにした返礼品をご用意しております。チケットはおよそ1週間前にお手元に届くようなスケジュールで発送を予定しております。　よってチケット付きの返礼品のお申込みは6月26日（土）までにお願いいたします。（郵便振替の場合は3～4週間前までにお申込みください。）" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,521,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="1183" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">【千葉ロッテマリーンズ×丹波篠山市】日本農業遺産認定記念　丹波篠山市黒豆ナイターを応援しよう！！</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">【千葉ロッテマリーンズ×丹波篠山市】日本農業遺産認定記念　丹波篠山市黒豆ナイターを応援しよう！！</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1020">観光・PR&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20210521/d_9a6ee80974535191978e084bb4447e7cefff5ba6.png" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E3%80%90%E5%8D%83%E8%91%89%E3%83%AD%E3%83%83%E3%83%86%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BA%C3%97%E4%B8%B9%E6%B3%A2%E7%AF%A0%E5%B1%B1%E5%B8%82%E3%80%91%E6%97%A5%E6%9C%AC%E8%BE%B2%E6%A5%AD%E9%81%BA%E7%94%A3%E8%AA%8D%E5%AE%9A%E8%A8%98%E5%BF%B5%E3%80%80%E4%B8%B9%E6%B3%A2%E7%AF%A0%E5%B1%B1%E5%B8%82%E9%BB%92%E8%B1%86%E3%83%8A%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%92%E5%BF%9C%E6%8F%B4%E3%81%97%E3%82%88%E3%81%86%EF%BC%81%EF%BC%81&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F1183">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">200,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 5.1%;"></div>
+<p class="gcf-cht-detail-bar__number">5.1%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">3,900,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">5.1</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">12</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>兵庫県丹波篠山市（ひょうごけん たんばささやまし）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="1183" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2021年5月14日～2021年7月6日（54日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1038" class="sorting-list__item">観光・PR</a></li><li><a href="/gcf/project/tag/1048" class="sorting-list__item">スポーツ</a></li><li><a href="/gcf/project/tag/1058" class="sorting-list__item">その他</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li><li><a href="/gcf/project/sdgs/1096" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_17.png 1x, /gcf/images_cf/sdg/sdg_icon_17@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_17.png" alt="SDGアイコン" decoding="async" />17.パートナーシップで目標を達成しよう</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="1183" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">兵庫県丹波篠山市</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20210511/o_fd91752701e0bcf4473f1d1ae1c9a386a0151a46.png" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">※6月22日追記：球団での7月11日までの試合のチケット販売停止や千葉市の「まん延防止等重点措置」の継続を踏まえ、本プロジェクトでのチケット付き返礼品の取扱いを中止いたします（既にお申込みいただき寄附完了された方にはチケットを発送いたします）。ご理解のほどよろしくお願いいたします。<br/>
+<br/>
+<br/>
+　丹波篠山市出身の中森俊介投手が2020プロ野球ドラフト会議で千葉ロッテマリーンズから2位指名を受け、千葉ロッテマリーンズに入団しました。<br/>
+　丹波篠山市民の星　中森俊介投手のプロ野球での活躍を願って、千葉ロッテマリーンズとスポンサーシップ契約を締結し、千葉ロッテマリーンズファン及び関東圏へ『日本農業遺産のまち　丹波篠山市』の魅力を発信します。<br/>
+<br/>
+【千葉ロッテマリーンズ主催試合における冠試合『日本農業遺産認定記念　丹波篠山市黒豆ナイター』の開催】<br/>
+　冠試合においては、試合まるごとが『丹波篠山市』一色になり、試合開始前から特産品の物販コーナー、大型ビジョン等でＰＲビデオの放映を展開し、本市の魅力を発信します。千葉ロッテマリーンズのＨＰ及びＳＮＳ等を活用し、冠試合開催と一体なった本市のＰＲを展開します。（ファンクラブ会員6.1万人及びTwitterフォロワー約80万人）<br/>
+<br/>
+※観戦チケット1枚&amp;特産品をセットにした返礼品をご用意しております。チケットはおよそ1週間前にお手元に届くようなスケジュールで発送を予定しております。<br/>
+　よってチケット付きの返礼品のお申込みは6月26日（土）までにお願いいたします。（郵便振替の場合は3～4週間前までにお申込みください。）</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">祝・千葉ロッテマリーンズ入団　中森俊介投手（丹波篠山市出身）</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">冠試合『日本農業遺産認定記念　丹波篠山市黒豆ナイター』の開催</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210511/gpfd_9fc17b5942708584a6838a05fdab424608fa4e8d.jpg" />
+<figcaption class="lyt-image__caption">2020ドラフト会議　千葉ロッテマリーンズ2位指名の瞬間</figcaption>
+</figure>
+<p class="gcf-txt-article">　中森俊介投手の入団を契機にご縁が生まれました千葉ロッテマリーンズとスポンサーシップ契約を締結し、千葉ロッテマリーンズの主催試合において、冠試合『日本農業遺産認定記念　丹波篠山市黒豆ナイター』を実施する運びとなりました。<br/>
+　この取り組みにより中森俊介投手の今後の活躍を願うとともに、関東圏の皆様に『日本農業遺産のまち　丹波篠山市』を知っていただくため、千葉ロッテマリーンズが持つ広告媒体（HP及びSNS等）を活用し、情報発信を行い、試合当日は市の観光・特産PRを展開します。<br/>
+</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">7月6日（火）開催の冠試合の詳細</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210428/gpfd_7cd212e748240154b5cd2beca51f1b61625b41b8.jpg" />
+<figcaption class="lyt-image__caption">丹波篠山市黒豆ナイター　イメージ</figcaption>
+</figure>
+<p class="gcf-txt-article">試合日時：2021年7月6日（火）18:00試合開始（16:00開場）<br/>
+対戦相手：vs福岡ソフトバンクホークス<br/>
+試合会場：ZOZOマリンスタジアム<br/>
+<br/>
+※観戦チケット1枚&amp;特産品をセットにした返礼品をご用意しております。<br/>
+　チケットはおよそ1週間前にお手元に届くようなスケジュールで発送を予定しております。<br/>
+　よってチケット付きの返礼品のお申込みは6月26日（土）までにお願いいたします。（郵便振替の場合は3～4週間前ですと確実です。）<br/>
+<br/>
+※6月22日追記：球団での7月11日までの試合のチケット販売停止や千葉市の「まん延防止等重点措置」の継続を踏まえ、本プロジェクトでのチケット付き返礼品の取扱いを中止いたします（既にお申込みいただき寄附完了された方にはチケットを発送いたします）。ご理解のほどよろしくお願いいたします。</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">選手・球団からいただいたコメント</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210428/gpfd_210acb61891350efb498c67729aa719afee41bd2.jpg" />
+<figcaption class="lyt-image__caption">丹波篠山市出身・中森俊介投手</figcaption>
+</figure>
+<p class="gcf-txt-article">【中森俊介投手・コメント】<br/>
+　マリーンズファンの皆さん、丹波篠山市民の皆さん、いつも熱いご声援をありがとうございます。正式に丹波篠山市のふるさと大使に任命いただき光栄に思います。ふるさと大使として、僕の生まれ育った丹波篠山市の豊かな自然や美しい景観を広めていきたいです。皆さんの期待に応えられるように頑張ります。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210428/gpfd_6e527f82a12330952ad2e3a59e10564eff18b9b7.jpg" />
+<figcaption class="lyt-image__caption">千葉ロッテマリーンズ</figcaption>
+</figure>
+<p class="gcf-txt-article">【千葉ロッテマリーンズ・コメント】<br/>
+　中森俊介投手の入団をきっかけとして、出身地である丹波篠山市と地域連携事業を実施できることを非常に嬉しく思っております。中森俊介投手の丹波篠山市ふるさと大使への任命に加えて、球団との取り組みとして7月6日福岡ソフトバンク戦(ZOZOマリンスタジアム)を「日本農業遺産認定記念　丹波篠山市黒豆ナイター」を開催します。当日のイベント開催に向けて、観光や特産品の振興など丹波篠山市の魅力発信に取り組みます。<br/>
+　本事業の成功に向け、丹波篠山市の皆さま、球団、そしてファンの皆様一丸となって取り組んで参りたいと思いますので、皆さまのご支援をよろしくお願いいたします。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">寄附金の使い道について</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">冠試合の開催に活用いたします</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">【寄付金の使い道】<br/>
+・冠試合の開催（スポンサーシップ契約）　：3,300,000円<br/>
+・市民応援ツアーの催行（参加費一部補助）：　600,000円<br/>
+<br/>
+【事業実施のスケジュール】<br/>
+・2021年6月：冠試合にかかる首都圏でのプロモーション<br/>
+・2021年7月6日：冠試合の開催、会場での丹波篠山市のPR、市民応援ツアーの催行<br/>
+<br/>
+※目標金額に達しなかった場合でも、予定通り開催いたします。<br/>
+※目標金額以上の寄付をいただいた場合、今後計画する「市内の子供たちを対象としたスポーツ振興施策の実施」などに活用させていただきます。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210511/offd_5b5fe65f404e4f93ea4027c915091b81b3249eb8.jpg" alt="冠試合の開催に活用いたします" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">丹波篠山市長　酒井隆明より</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210428/gpfd_9d19ed353e99bf21ee55666087ea21c0a7b2e0c1.jpg" />
+<figcaption class="lyt-image__caption">左：中森俊介投手　右：丹波篠山市長・酒井隆明</figcaption>
+</figure>
+<p class="gcf-txt-article">【市長メッセージ】<br/>
+　中森俊介投手を通じた千葉ロッテマリーンズと本市の地域振興の連携協議の可能性が見出せたことは大変すばらしいことだと思います。<br/>
+　“丹波篠山市民の星　中森俊介投手”を通じた千葉ロッテマリーンズとのスポンサーシップ契約について、千葉ロッテファンや関東圏へ“日本農業遺産のまち　丹波篠山市”の魅力をＰＲする絶好のチャンスと捉え、地域振興に取り組みます。<br/>
+　中森俊介投手に「丹波篠山ふるさと大使」へ就任要請を行い『丹波篠山と言えば、中森選手と黒豆』、『中森選手と言えば、日本一のふるさと丹波篠山』と言われるよう共に頑張りましょう。<br/>
+　丹波篠山市民の希望として『丹波篠山ふるさと大使』への就任をお願いしました。近いうちに日本シリーズで阪神とロッテが戦うマウンドに“丹波篠山市民の星　中森俊介投手”が上り野球界を代表する投手として活躍されることを楽しみにしています。<br/>
+</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">【お礼の品】特産品のセット</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">「丹波篠山産コシヒカリ6㎏と黒豆ご飯の素1パック」セット</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210511/gpfd_1da3b06c03ddcdd77bff5bd43dff1dcc918a0222.jpg" />
+<figcaption class="lyt-image__caption">丹波篠山産コシヒカリ6㎏と黒豆ご飯の素1パック</figcaption>
+</figure>
+<p class="gcf-txt-article">人気の丹波篠山産コシヒカリと、お米に混ぜて炊くだけの丹波黒豆ご飯の素のセット。<br/>
+<br/>
+※12月29日～1月5日の間、商品の発送をお休みさせていただきます。</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">「丹波黒豆チーズケーキ＆丹波栗のチーズケーキ」セット</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210511/gpfd_00f416f4602f7471bd552a8a4e353943be3ca1e5.jpg" />
+<figcaption class="lyt-image__caption">丹波黒豆チーズケーキ＆丹波栗のチーズケーキ</figcaption>
+</figure>
+<p class="gcf-txt-article">丹波篠山の特産品、丹波栗と丹波黒豆のベイクドチーズケーキを2個セットでお届けいたします。<br/>
+4号12㎝のホールケーキ各1台。<br/>
+丹波栗は渋皮煮を入れて焼き上げています。<br/>
+丹波黒豆は五つ星ひょうご選定のチーズケーキ！<br/>
+どちらも兵庫県小野産の平飼有精卵の卵、デンマーク産クリームチーズ、フランス産フロマージュブラン、北海道産生クリームなどこだわり素材で手作りしています。<br/>
+<br/>
+※配送について、お盆、年末年始、祭礼時(交通規制により）、冬季積雪などによりご希望のお届け日に到着しない場合がございます<br/>
+※ご希望の日がある場合は１カ月前までにお知らせください。</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">「冷凍丹波黒枝豆150g×5袋」＋「黒豆煮130ｇ」セット</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210511/gpfd_9f58bed7f38ab56ee5411a8695789594576f1250.jpg" />
+<figcaption class="lyt-image__caption">冷凍丹波黒枝豆150g×5袋</figcaption>
+</figure>
+<p class="gcf-txt-article">【冷凍枝豆】<br/>
+新鮮な丹波篠山産丹波黒豆の枝豆を茹でてから冷凍しました。<br/>
+プレミアムな極大粒で、もっちりとした深い食感と味わいをお楽しみいただける枝豆です。<br/>
+塩を加えた熱湯でゆがいてお召し上がりください。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210511/gpfd_e20e95871a8ded8468724652da43256378bda1be.jpg" />
+<figcaption class="lyt-image__caption">黒豆煮130ｇ</figcaption>
+</figure>
+<p class="gcf-txt-article">【黒豆煮】<br/>
+丹波篠山名産の一つである黒豆！！<br/>
+その兵庫県丹波篠山市産の大粒の黒豆を上品な薄味の黒豆煮に仕上げました！！<br/>
+黒豆の甘みを存分に楽しんでいただける逸品です！！</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">丹波篠山牛食べ比べ焼き肉セット （300g）</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210511/gpfd_8aa92820e1ee4a0fd8970dfe8245c89190a6c7a5.jpg" />
+<figcaption class="lyt-image__caption">丹波篠山牛食べ比べ焼き肉セット （300g）</figcaption>
+</figure>
+<p class="gcf-txt-article">丹波篠山牛の特徴は風味豊かで柔らかい赤身と、黒毛和牛らしい甘味のある脂。<br/>
+西村牧場の丹波篠山牛はストレスの少ない環境でしっかり体を動かすことで、脂の美味しさは残しつつ、さっぱりといただける絶妙なバランスを追求しています。<br/>
+そんな西村牧場の丹波篠山牛の赤身肉、霜降り肉の両方を召し上がっていただけるお得なセットです。<br/>
+<br/>
+セット内容：三角バラ、リブロース、肩ロース、バラ、モモ、ヒウチ、ミスジ、ランプ、イチボ、サーロイン、ウデ、カイノミの各部位4～5種類をセットにしてお届けします。<br/>
+<br/>
+ぜひ、ご賞味ください。</p>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28221/5105713/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210512/pd_2850b8a075228b0d5128eaf97fbd15d39012cdb3.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【GCF】丹波篠山産コシヒカリ6㎏と黒豆ご飯の素1パック</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">人気の丹波篠山産コシヒカリと、お米に混ぜて炊くだけの丹波黒豆ご飯の素のセット。
+※12月29日～1月5日の間、商品の発送をお休みさせていただきます。
+提供事業者: 株式会社夢こんだ/こんだ薬師温泉ぬくもりの郷 (079-590-3377)</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28221/5105714/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210512/pd_82944d84640b4c093e1e4d121527091bc91cebf7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【GCF】丹波篠山の味「五つ星ひょうご選定・丹波黒豆チーズケーキ＆丹波栗のチーズケーキセット」</h4>
+<p class="goods-col_price inline">16,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>「大豆」は丹波黒豆のチーズケーキのみ入っています。
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">丹波篠山の特産品、丹波栗と丹波黒豆のベイクドチーズケーキを2個セットでお届けいたします。
+4号12㎝のホールケーキ各1台。
+丹波栗は渋皮煮を入れて焼き上げています。
+丹波黒豆は五つ星ひょうご選定のチーズケーキ！
+どちらも兵庫県小野産の平飼有精卵の卵、デンマーク産クリームチーズ、フランス産フロマージュブラン、北海道産生クリームなどこだわり素材で手作りしています。
+※配送について、お盆、年末年始、祭礼時(交通規制により）、冬季積雪などによりご希望のお届け日に到着しない場合がございます
+※ご希望の日がある場合は１カ月前までにお知らせください。
+提供事業者:丹波篠山　雪岡市郎兵衛洋菓子舗 / TEL079-558-7686</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28221/5105715/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210512/pd_809daea56ae41ea04c71e3a8628600db9fa10fc7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【GCF】「丹波黒枝豆150g×5袋」＋「黒豆煮130ｇ」</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">【丹波黒枝豆150g×5袋】
+新鮮な丹波篠山産丹波黒豆の枝豆を茹でてから冷凍しました。
+プレミアムな極大粒で、もっちりとした深い食感と味わいをお楽しみいただける枝豆です。
+塩を加えた熱湯でゆがいてお召し上がりください。
+提供事業者: 株式会社小田垣商店 (079-552-0011)
+【黒豆煮130ｇ】
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28221/5105716/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210512/pd_1b6f7216fd3daf0aac3ac9f5a5167db30e86ce8d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【GCF】丹波篠山牛食べ比べ焼き肉セット （300g）</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">丹波篠山牛の特徴は風味豊かで柔らかい赤身と、黒毛和牛らしい甘味のある脂。
+西村牧場の丹波篠山牛はストレスの少ない環境でしっかり体を動かすことで、脂の美味しさは残しつつ、さっぱりといただける絶妙なバランスを追求しています。
+そんな西村牧場の丹波篠山牛の赤身肉、霜降り肉の両方を召し上がっていただけるお得なセットです。
+セット内容：三角バラ、リブロース、肩ロース、バラ、モモ、ヒウチ、ミスジ、ランプ、イチボ、サーロイン、ウデ、カイノミの各部位4～5種類をセットにしてお届けします。
+ぜひ、ご賞味ください。
+提供事業者: 篠山ビーフ西村牧場 (079-556-2829)</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28221/5140052/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210623/pd_e06a437c3fadde871da22dae4775334dac4ccd2d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【GCF】丹波栗ゴロリ「篠雪」高級チーズケーキ(木箱入り）</h4>
+<p class="goods-col_price inline">27,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">丹波篠山特産の丹波栗がゴロゴロ入った四角いチーズケーキ「丹波栗ゴロリ『篠雪』高級チーズケーキ」を木箱に詰めました。丹波栗の渋皮煮が丸ごと約10個（栗の大きさにより数が変わることがあります）入った特別な一品で、贈答用にも最適です。チーズケーキが評判の丹波篠山の洋菓子店「雪岡市郎兵衛洋菓子舗」が心を込めて作ります。
+「篠雪」は冷凍でお届けしますので、召し上がる前日に冷蔵庫で解凍してください。開封後は、賞味期限にかかわらずお早めにお召し上がりください。
+※お盆、年末年始、交通規制のある祭礼時、積雪の多い冬季などには、ご希望のお届け日に到着しない場合がございます。配送について、希望日がございましたら、１カ月前までにお知らせください。
+※のしをご希望の場合は必ず、お問い合わせください。
+【提供事業者】　　雪岡市郎兵衛洋菓子舗 （丹波篠山）/ TEL079-558-7686</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28221/5140053/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210623/pd_1d8e30f3024bd9a8d6347168415327402f4f46fc.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【GCF】ぼたん鍋特選セット(冷凍)</h4>
+<p class="goods-col_price inline">32,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">良質の国産天然猪肉を兵庫県丹波篠山市で加工し、脂身と赤身をバランス良くあわせてたっぷり800グラム（4～5人前）お届けします。
+最新の急速冷凍技術「プロトン凍結」を採用しているので、お肉を解凍した時に流出する液体（ドリップ）の量が抑えられ、ご自宅でも新鮮な状態で召し上がれます。
+猪肉専門店が独自の調合で練り上げた味噌（付属）を昆布だしで伸ばして、本格的なぼたん鍋をお楽しみください。
+提供事業者: 株式会社おゝみや/丹波篠山おゝみや (079-552-0352)</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28221/5140054/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210623/pd_f41f9c86af0d918cc3dc16de37ed9e774b75d0cd.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【GCF】丹波篠山産　特別栽培米　越光（農薬不使用）（5ｋｇ×1袋）</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">生産者・・・岸田　兼尚　さん
+生産地・・・丹波篠山市　垣屋
+生産者の岸田さんは無農薬栽培にこだわりをもったベテランのマイスター！阪本屋の米つくり（減農薬栽培）も岸田さんのアドバイスを受けています。耕作地は、全て無農薬で米、野菜づくりに取り組まれていますが、一番大切なのは「土つくり！」の信念のもと有機たい肥、有機液肥を使用し「地力のある」土壌を目指されてます！
+岸田さんのお米は味もよく自信を持ってお届けできる無農薬栽培「越光」と言えます。除草も人の手によるもので手間ひま掛けて作られており、愛情いっぱいに育てられています。
+販売量は少量の為、売り切れの時は御了承下さい。
+提供事業者: 株式会社阪本屋 (079-552-1018)</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28221/5140055/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210623/pd_abe49c65b45f71638a2a5ac01d46c718e976e2ca.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name"> 【GCF】【丹波篠山の幸の味】黒豆の煮豆・栗ぜんざい・栗きんとんの詰め合せ</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">丹波篠山産の丹波黒大豆、丹波大納言小豆を使った“うまいもん“
+　　　　
+◆丹波黒煮豆
+漬け込み方式という独自の技法により、砂糖焼けが少なくなり、黒大豆本来の風味や旨みを生かしつつ、
+適度な食感も残っていて食べ応えも良い煮豆です。
+◆丹波大納言栗ぜんざい
+粒餡は香り良く、柔らかすぎずしっかりとした食感、あっさりとした甘さに仕上げております。
+栗の甘露煮との相性も良く、大納言小豆の旨みを大切にしたぜんざいです。
+◆栗きんとん
+国産栗の食感は残しつつふっくらと炊き上げた甘露煮と、国産のさつまいもをじっくりとペーストした
+芋餡を合わせた色鮮やかな栗きんとんです。
+提供事業者：丹波農産株式会社／TEL079-555-2621</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28221/5140056/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210623/pd_93d751f455ef91f440965f8348c1d721f893e8ca.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【GCF】丹波篠山産 山の芋 秀品 2kg箱</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>
+※ 表示内容に関しては各事業者の指定に基づき掲載しており、一切の内容を保証するものではございません。
+※ご不明の点がございましたら事業者まで直接お問い合わせ下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">4月の植え付けから11月の収穫まで約8か月間、丹波篠山特有の寒暖差の大きな気候、澄んだ清らかな水、風土の中で丹精込めて育てられた山の芋は、すりおろした時の弾力のある粘り強さと細やかな繊維の中にもモチモチとした触感は知る人ぞ知る絶品です。
+皮を剥き、すりおろして食べるのも良し、刻んで食べるのも良し、生で食べられる唯一の芋類として重宝されています。
+昆布とかつお節でお出汁を取り、すりおろした芋と合わせればとろろ汁の出来上がり。
+収穫してから専用の超低温冷蔵設備で保存しているので、1年中採れたての美味しさを味わえます。
+2kgの箱入りは4人家族でも十分の量があり、ご家庭でも冷蔵庫で保存が可能です。
+丹波篠山産の山の芋の美味しさを是非一度ご賞味くださいませ。
+3月～11月の間は商品到着後、冷蔵保存をお願い致します。
+12月～2月の間は冷暗所での保存が可能です。
+山の芋は長期保存のできる商品ですが、保存状態により芽が伸びたり、腐敗したり致します。
+生ものですので、できるだけ早くお召し上がりくださいませ。
+提供事業者: 株式会社河南勇商店/やまゆ (079-594-0803)</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/28221/5140057/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210623/pd_0f0abe232750d8e706895c16daa72f359af74294.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【GCF】丹波路ブルワリー　クラフトビール　6本詰め合わせセット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>準備でき次第順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">兵庫県丹波篠山市でクラフトビールの醸造を行っている「丹波路ブルワリー」の瓶ビール詰め合わせセットです。
+イングリッシュスタイルの伝統的なビールを中心に、地元食材を副原料に使用した珍しいビールを醸造しています。
+梱包される商品はその時々で変わりますが、定番商品と季節限定商品をバランスよく詰め合わせさせていただきます。
+保存方法：要冷蔵5℃以下
+提供事業者: 丹波路ブルワリー (079-506-5119)</p>
+</div>
+</a>
+</li>
+</ul><ul class="goods_list">
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">兵庫県丹波篠山市</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">　いつも丹波篠山市を応援していただき、ありがとうございます。<br/>
+　皆様の応援に応えるべく、小京都や日本の原風景ともいわれるまちなみ、景観、自然や文化を守り、黒大豆をはじめとする美味しい農産物をPRしていきます。<br/>
+　おかげさまで「丹波篠山」は今、大きな人気を呼び、2つのテーマで認定を受けた日本遺産のまちにもなりました。さらに、あなたのふるさととして、全国に発信します。<br/>
+　そんなふるさとを応援していただける皆さまの温かい「想い」を、「ふるさと日本一」と誇れる丹波篠山のまちづくりに活かしていきます。自然と共生し、教育・文化を発展させ、魅力あるふるさとづくりを進めるために「丹波篠山ふるさと応援寄付金」へのご協力をお願いいたします。<br/>
+<br/>
+＼のどかな田園風景と歴史が息づく丹波篠山は、懐の深いまちです。／<br/>
+　兵庫県中東部、四方を山々に囲まれた篠山盆地に位置し、古来、京都への交通の要として栄えてきた歴史ある城下町。まちなみや山鉾が巡行する祭礼など、現在も京都文化の影響が随所に色濃く残っています。<br/>
+　また、盆地特有の昼夜の気候や、秋から冬にかけて発生する「丹波霧」などの独特の気候風土が、全国的にも有名な「丹波篠山黒豆」をはじめとした多くの特産物を育んでおり、歴史や文化を感じながら四季の味覚もお楽しみいただけます。<br/>
+　古くて美しいまちなみと自然、そこに暮らす人々、食文化や祭り。それらが一体となって今も息づいています。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">兵庫県丹波篠山市の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/28221/31?from=2&amp;gcf_project_id=1183"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,521,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g1183,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

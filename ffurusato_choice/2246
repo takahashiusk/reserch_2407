@@ -1,0 +1,1838 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/2246" />
+
+<title>ウォーカブルなまちづくりイベント「かわまちテラス」で、水都大垣を明るく照らしたい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="ウォーカブルなまちづくりイベント「かわまちテラス」で、水都大垣を明るく照らしたい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/2246" />
+<meta property="og:description" content="大垣市は、木曽三川のうち、揖斐川、長良川が市内を流れているほか、杭瀬川や水門川など多くの一級河川が流れる濃尾平野の自噴帯にあります。古くから「水の都、水都」と呼ばれ、良質で豊富な地下水に恵まれていたことから、市民生活はもとより工業用水として大正初期から繊維産業を中心に内陸工業都市として発展してきました。現在も、市内各地には自噴井戸が点在し、中心市街地内においても日常的に水を感じることができます。また、大垣城の外堀でもあった水門川沿川には、遊歩道「四季の路（ミニ奥の細道）」が2.2kmにおよび整備され、大垣駅から俳人・松尾芭蕉の「奥の細道」むすびの地となった船町港跡まで、芭蕉や門人の句碑や四季の花や緑、そして、水を感じながら、芭蕉の旅を体感することができ、観光客や市民の憩いの場となっています。こうした地域資源を生かし、水を身近に感じる空間デザインや水辺の活動を一体的にブランディングし、「水都大垣」を感じるまちづくりを一層推進する「水都大垣再生プロジェクト」を、令和5年4月から新たにスタートします。「かわまちテラス」とは、この水都大垣再生プロジェクトの一環として、水辺空間というポテンシャルを生かしながら、エリア一帯の連続性・回遊性を創出し、官民一体的に水辺環境で賑わいの場をデザインするウォーカブルなまちづくりイベントとして開催するものです。みなさまの温かいご支援をお願いいたします。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230407/d_31d7b2c399b34cb97725cbdfc622cdb50d35659c.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230407/d_31d7b2c399b34cb97725cbdfc622cdb50d35659c.jpg" />
+<meta property="twitter:title" content="ウォーカブルなまちづくりイベント「かわまちテラス」で、水都大垣を明るく照らしたい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="大垣市は、木曽三川のうち、揖斐川、長良川が市内を流れているほか、杭瀬川や水門川など多くの一級河川が流れる濃尾平野の自噴帯にあります。古くから「水の都、水都」と呼ばれ、良質で豊富な地下水に恵まれていたことから、市民生活はもとより工業用水として大正初期から繊維産業を中心に内陸工業都市として発展してきました。現在も、市内各地には自噴井戸が点在し、中心市街地内においても日常的に水を感じることができます。また、大垣城の外堀でもあった水門川沿川には、遊歩道「四季の路（ミニ奥の細道）」が2.2kmにおよび整備され、大垣駅から俳人・松尾芭蕉の「奥の細道」むすびの地となった船町港跡まで、芭蕉や門人の句碑や四季の花や緑、そして、水を感じながら、芭蕉の旅を体感することができ、観光客や市民の憩いの場となっています。こうした地域資源を生かし、水を身近に感じる空間デザインや水辺の活動を一体的にブランディングし、「水都大垣」を感じるまちづくりを一層推進する「水都大垣再生プロジェクト」を、令和5年4月から新たにスタートします。「かわまちテラス」とは、この水都大垣再生プロジェクトの一環として、水辺空間というポテンシャルを生かしながら、エリア一帯の連続性・回遊性を創出し、官民一体的に水辺環境で賑わいの場をデザインするウォーカブルなまちづくりイベントとして開催するものです。みなさまの温かいご支援をお願いいたします。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,601,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="2246" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">ウォーカブルなまちづくりイベント「かわまちテラス」で、水都大垣を明るく照らしたい！</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">ウォーカブルなまちづくりイベント「かわまちテラス」で、水都大垣を明るく照らしたい！</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1020">観光・PR&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230407/d_31d7b2c399b34cb97725cbdfc622cdb50d35659c.jpg" alt="main_img" decoding="async" />
+<img class="gcf-lyt-detail__complete" src="/gcf/images_cf/icon_goal_brown.png" alt="達成" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%96%E3%83%AB%E3%81%AA%E3%81%BE%E3%81%A1%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%80%8C%E3%81%8B%E3%82%8F%E3%81%BE%E3%81%A1%E3%83%86%E3%83%A9%E3%82%B9%E3%80%8D%E3%81%A7%E3%80%81%E6%B0%B4%E9%83%BD%E5%A4%A7%E5%9E%A3%E3%82%92%E6%98%8E%E3%82%8B%E3%81%8F%E7%85%A7%E3%82%89%E3%81%97%E3%81%9F%E3%81%84%EF%BC%81&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F2246">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">1,567,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph2" style="width: 156.7%;"></div>
+<p class="gcf-cht-detail-bar__number">156.7%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">1,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">156.7</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">134</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>岐阜県大垣市（ぎふけん おおがきし）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="2246" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2023年4月7日～2023年7月5日（90日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1028" class="sorting-list__item">まちづくり・コミュニティ</a></li><li><a href="/gcf/project/tag/1038" class="sorting-list__item">観光・PR</a></li><li><a href="/gcf/project/tag/1052" class="sorting-list__item">伝統・文化</a></li><li><a href="/gcf/project/tag/1054" class="sorting-list__item">自然・環境</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="2246" class="gcf-nv-tab__button js-tab">進捗情報
+<span class="gcf-nv-tab__button-progress-number">2</span>
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">岐阜県大垣市</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230327/o_99a1b8eb8db108cf7d7e641026081170bb1724e4.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">大垣市は、木曽三川のうち、揖斐川、長良川が市内を流れているほか、杭瀬川や水門川など多くの一級河川が流れる濃尾平野の自噴帯にあります。古くから「水の都、水都」と呼ばれ、良質で豊富な地下水に恵まれていたことから、市民生活はもとより工業用水として大正初期から繊維産業を中心に内陸工業都市として発展してきました。現在も、市内各地には自噴井戸が点在し、中心市街地内においても日常的に水を感じることができます。また、大垣城の外堀でもあった水門川沿川には、遊歩道「四季の路（ミニ奥の細道）」が2.2kmにおよび整備され、大垣駅から俳人・松尾芭蕉の「奥の細道」むすびの地となった船町港跡まで、芭蕉や門人の句碑や四季の花や緑、そして、水を感じながら、芭蕉の旅を体感することができ、観光客や市民の憩いの場となっています。<br/>
+こうした地域資源を生かし、水を身近に感じる空間デザインや水辺の活動を一体的にブランディングし、「水都大垣」を感じるまちづくりを一層推進する「水都大垣再生プロジェクト」を、令和5年4月から新たにスタートします。<br/>
+「かわまちテラス」とは、この水都大垣再生プロジェクトの一環として、水辺空間というポテンシャルを生かしながら、エリア一帯の連続性・回遊性を創出し、官民一体的に水辺環境で賑わいの場をデザインするウォーカブルなまちづくりイベントとして開催するものです。<br/>
+みなさまの温かいご支援をお願いいたします。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<p class="gcf-txt-article">お礼の品無しの方は、「ふるさと納税で応援」のボタンを押して、寄付へお進みください。<br/>
+お礼の品有りの方は、「お礼の品を選んでこのプロジェクトへ寄付をする」から、寄付へお進みください。</p>
+<div class="gcf-lyt-detail__block">
+<h4 class="gcf-ttl-caution">【注意事項】</h4>
+<p class="gcf-lst-caution">大垣市にお住まいの方へのお礼の品の送付は致しかねますので、ご注意ください。</p>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">ウォーカブルって何？</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230328/gpfd_b3d6f15d6ce0ef4ca5baddf62cbb1076db1964d5.jpg" />
+</figure>
+<p class="gcf-txt-article">「歩く」を意味する「walk」と「できる」の「able」を組み合わせた、「歩きやすい」、「歩きたくなる」という語感をもつ造語です。<br/>
+<br/>
+現在、国内外の多くの都市において、まちなかを車中心からひと中心の空間へと転換し、人々が集い、憩い、多様な活動を繰り広げられる場へと改変する取組が進められており、「居心地が良く歩きたくなる」まちなかづくり（ウォーカブルなまちづくり）の考え方は、都市を再生する上での重要なキーワードとして、その活用が期待されています。<br/>
+<br/>
+「かわまちテラス」とは、こうした考え方の下、河川区域内のオープンスペースを一体的に利活用した、大垣市版ウォーカブルなまちづくり施策です。また、このまちに暮らす価値を共に創るため、外部委託に頼らず、行政と多様な主体が連携し、市民に寄り添った共創事業として開催するものです。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">どんなイベント？</span></h2>
+<h4 class="gcf-ttl-h4">かわまちテラス2023（春）</h4>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IVZHUMxTPt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">【水辺のライトアップや音響装置、テラス席の設置】</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">水辺のテラス席では、自然の風や水を感じ、心地よい音楽を聴きながら、食事をすることができます。<br/>
+また、夜間の水辺は、ライトアップされ、終日を通して、居心地が良くのんびりと過ごすことができます。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230327/offd_0ce293771becb14ff01fc173c9e5e069a856f218.jpg" alt="【水辺のライトアップや音響装置、テラス席の設置】" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">【木枡でCheers！～木枡で地酒による乾杯を～】</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">大垣市は、全国生産量の約8割を占める木枡の生産地です。そんな市の特産品である木枡と古くから親しまれている地酒の普及を図り、地域産業と郷土愛を育むことを目的とする「木枡で地酒による乾杯を推進する条例」が制定されています。<br/>
+また、川の日である7月7日に、水辺に集まり、午後7時7分に一斉に乾杯する「水辺で乾杯」が全国各地で行われています。<br/>
+大垣市では、かわまちテラスの開催を7月7日～8日に合わせて開催し、木枡で地酒による乾杯により、水都大垣を明るく照らすきっかけになればと思います。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">【ennoieミドリバシと連携した水辺のマーケット】</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">ennoieミドリバシは、地元の企業（株式会社現代設計事務所）が空き家だった築70年の古民家を改装し、レンタルスペースとして運営しながら、「やってみたい」を実現できるチャレンジの場を提供しています。<br/>
+ここは、居心地の良い地域の場として定着し、多様な主体が集まるマルシェや食堂のほか、寄り合いの開催など、民間主導で、さまざまな取り組みが実施されています。<br/>
+かわまちテラスは、そんなennoieミドリバシと連携しながら、官民のパブリックスペースにおいて、マーケットやイベントを同時多発的に開催するものです。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230327/offd_606f8f5210c09c228baecbd34c87b52a45648d1f.jpg" alt="【ennoieミドリバシと連携した水辺のマーケット】" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">【マジシャンのステージ】</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">マジシャンロイムさんは、地域を元気に！みんなを笑顔に！をモットーに地元で活躍するマジシャンです。<br/>
+普段は、ステージではなく教壇に立っていますが、そんな二刀流のマジシャンロイムさんも水都大垣のまちづくりを応援してくれるサポーターの一人です。<br/>
+【応援メッセージ】<br/>
+四季折々の姿を見せる水門川と皆様の笑顔が広がる素敵な空間 これからも水都おおがきを応援します！</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230405/offd_25df7241b980fe3560d5704c1fb006cb5d8d793d.jpg" alt="【マジシャンのステージ】" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">【津軽三味線ＬＩＶＥ】</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">矢吹和之さんは、地元出身で、津軽民謡の本筋である「唄づけ」（唄に対して即興で応えていく、津軽三味線本来の高度な技術）ができる、数少ない若手演奏家です。<br/>
+また、津軽三味線全国大会で幾度も優勝した経歴もあり、その実力は高く評価されています。<br/>
+東京を拠点に活動している矢吹さんも、水都大垣のまちづくりを応援してくれるサポーターの一人です。<br/>
+【応援メッセージ】<br/>
+学生時代は大垣の学校に通っていたので「水門川」は私にとって青春の思い出の場所です！この素晴らしいプロジェクトが成功し、益々魅力的な大垣市の発展に繋がる事を切に願っています！みんなで一緒に応援しましょう！</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230405/offd_2c73548071353aad0a62dc5e80c64db948f28f87.jpg" alt="【津軽三味線ＬＩＶＥ】" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">応援メッセージ</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">一般社団法人　大垣タウンマネジメント　西田　拓馬さん</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230405/gpfd_2733b4d7c423c4388b7bb46eb9c20a50a9220481.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">　自分は設計事務所の代表として、またまちづくり会社『大垣タウンマネジメント』のメンバーとして、公共・民間問わず時代の変化に伴ってうまれる空きスペースの利活用について大垣市を中心に日頃実験実践を行っています。<br/>
+今後の豊かなまち、住みやすいまち、魅力的なまちを語るうえで、『まちが持つ魅力的なオープンスペースでどんな風景が生まれているか』ということがとても重要な指標になるのではと考えています。そして、その風景はいったい誰がつくりだすのか？それはこのまちに住みこのまちを楽しむ自分（あなた）自身です。この『かわまちテラス』では大垣市街地中心部の最も魅力的な場所の一つでもある四季の広場・丸の内公園の川辺のスペースを中心に、多様な主体を交えてどうやってオープンスペースを使っていくかを考える実験の場と思っています。そして、より良い風景を日常的につくりだすために最適な仕組みを、ハード・ソフト両面から再構築していくための知見を深めるまたとない機会でもあります。<br/>
+　現在、官民・個人組織へだてない多種多様なメンバーが主体となり『かわまちテラス』開催に向けて活動をすすめていく中、ぜひこのアクションに皆様もご参加いただきそして楽しんでいただけたらとの思いでこのクラウドファンディングが企画されました。このクラウドファンディングへのご支援をはじめ、イベントへのご来場、出店やイベントの企画、運営・設営撤収への参加など『かわまちテラス』へのかかわりしろはいくつも用意されております。<br/>
+　今回のこの企画は当日のイベント開催も重要なのですが、そのプロセスで発生するであろうまちを主体的に楽しむあらたなコミュニティづくりの場でもあると考えています。『かわまちテラス』を成功させることでできるあらたなまちの風景・あらたなコミュニティは、今後の大垣のまちのあり方を考えていくうえでとても重要な材料になるのは間違いありません。<br/>
+　一緒にあたらしいまちの風景をつくっていきましょう！</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">株式会社　現代設計事務所　垣本　航平さん</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230405/gpfd_1dde5248f9bc3012c936334a19f6ba478fb754af.png" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">　ennoieミドリバシ（以下ミドリバシ）というレンタルスペースを運営する、現代設計事務所の垣本と申します。ミドリバシは、「将来お店を持ちたい！」という方から、「趣味だったお菓子作りを商品化してみたい！」、「会社員だけど、休みを利用して好きなことで出店したい！」など様々なレベルでチャレンジができるレンタルスペースです。　ミドリバシでのチャレンジを経て、将来的に自分のお店を大垣の商店街や空き家に出店する。そんな、健全な地域循環をつくれたらと思い、この場所を運営しています。<br/>
+　将来のまちの在り方、豊かなまちをつくるには何が必要なんだろう？ミドリバシを運営してきて、強く感じることのひとつに、『地域に主体的に関わる人たちの存在』があります。既存の公共サービスや公共空間を享受するだけの受け身の態勢では、豊かなまちはつくれません。この『かわまちテラス』は大垣市の他にも、民間事業者、地域住民などの多様な主体が関わりながらつくっていくイベントです。『自分たちでまちの風景をつくった』という実感は、地域への愛着につながります。そうした体験を積み重ねることで、今後の大垣のまちを変えていく主体がつくられていくのではないかと考えています。<br/>
+　『かわまちテラス』で、楽しいまちの風景を一緒につくりましょう！</p>
+</div>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">担当者からのメッセージ</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">大垣市役所　都市計画課　川添　秀和</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230327/gpfd_a83de388fad2f59dbb4c4452a02073b2056a49db.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">市の担当者として、最も大切にしていることは、『動員数＜満足度』という考え方です。委託ありきで、一時的に人を集めたことが成功という評価は適切ではありませんし、公共空間は思い思いに過ごせる居心地の良い場所であるべきと考えています。<br/>
+さらに、コロナ禍で前例が通用しない社会だからこそ、あらゆる事業分野で試行錯誤や既存の見直しが必要な時で、かわまちテラスのように、多様な主体がまちと関わり、その「関わりしろ」がさらなる魅力的な企画や賑わいを創出するきっかけになるものと考えています。<br/>
+官民一体的に水辺空間を居心地が良い場にデザインするイベント「かわまちテラス」を応援してください。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">ちょっと小話　ミズベリングの語源</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230327/gpfd_b0353683922053ad077993289d138a4166bf18a4.png" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">近年、国やさまざまな自治体では、かわまちテラスのように、公共施設を作るというより、使うことに重きを置き、公共空間を利活用する（規制を緩和する）ことで、地域に活力を生み出そうという試みが実践されています。<br/>
+水辺においては、ミズベリングという言葉があり、その語源は、「水辺＋ＲＩＮＧ（輪）」、「水辺＋Ｒ（リノベーション）＋ＩＮＧ（進行形）」です。<br/>
+そして、水辺に興味を持つ市民や企業、行政が三位一体・一つの輪となり、持続可能な水辺の未来に向けてソーシャルなムーブメントを起こしていきたいと考える注目の空間です。<br/>
+水都大垣のかわまちテラスは、こうした輪を拡げ、水辺を愛する人が主体的に関わり、水辺とまちが一体となった景観、にぎわい、新しい水辺と社会の関係を生み出すことを目指します。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">寄付金の使い道</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">皆様からご寄付いただいた寄付金は、テラス席の設置・撤去やライトアップなどの雰囲気づくりに関する費用など、「かわまちテラス」の開催費用に使わせていただきます。<br/>
+<br/>
+※目標金額に達成しなかった場合でも、事業は実施します。<br/>
+※目標金額以上にご寄付をいただいた場合は、本事業、または、翌年度以降の水辺空間を活用したまちづくりに関する事業に活用させていただきます。<br/>
+※事業が中止または規模縮小となった場合は、翌年度以降の水辺空間を活用したまちづくりに関する事業に活用させていただきます。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230328/offd_c7e43ee755554b2208aa505b9fbddd7aef186ef2.jpg" alt="寄付金の使い道" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">お礼の品をご紹介</span></h2>
+<p class="gcf-txt-article">　大垣市の魅力を知っていただけるお礼の品をご用意しています。</p>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21202/279816/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220406/pd_aaf816f4f893b06ef389410927b867af6aa4f98d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【すいぎょく園】元祖抹茶アイス　グリーンソフト　12個入り</h4>
+<p class="goods-col_price inline">14,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送（年末は混み合うため発送が遅れますのでご了承ください。）</p>
+</div>
+<p class="goods-col_textinfo pc">抹茶アイス　グリーンソフトは、水の都「大垣」の名水で生まれました。
+京都宇治産の抹茶を使い、半世紀以上前から変わらぬ製法で作り続けております。
+着色剤、防腐剤、卵は使用しておりません。
+お子様からお年寄りまで安心してお召し上がり頂けます。
+発送：(株)すいぎょく園</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21202/124132/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210412/pd_1fb6de2532aca7c961d9c3f56a6ca316074c6ad5.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">みかん大福（冷凍）</h4>
+<p class="goods-col_price inline">8,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送（年末は混み合うため発送が遅れますのでご了承ください。） </p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>【原材料名】
+みかん、白玉粉、餅粉（国産）、砂糖、白小豆、卵白</p>
+</div>
+<p class="goods-col_textinfo pc">発送：金蝶園総本家（郭町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21202/311752/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210921/pd_dd327063ca35499953847d68213e0d1eb5e1ad6e.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">水都大垣　小豆やっこ２本入</h4>
+<p class="goods-col_price inline">6,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<p class="goods-col_textinfo pc">発送:御菓子司　胡蝶庵</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21202/5154846/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210712/pd_a3d8ad462b6159b79d0e5174a019d64cf6ce29fa.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">大垣名水仕込み【特選つぶあん１kg】（かため）　北海道産十勝小豆100％使用</h4>
+<p class="goods-col_price inline">3,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送
+※ネコポスでのお届けとなります。必ずご確認ください。
+・お届けは直接ポストへの投函となります。
+・配送日時指定はできません。
+・特に夏季はポスト内の温度上昇にご注意ください。</p>
+</div>
+<p class="goods-col_textinfo pc">昭和２３年創業の「松下製餡所」が「水の都」大垣の地下水を使用し、北海道産十勝小豆をじっくりコトコト炊き上げました。
+真空パックにしておりますので、常温で３カ月程度日持ちします。（開封後は冷蔵庫で保存し、早めにお召し上がりください。）
+糖度は５０～５５度くらいとなっており、十勝小豆の風味を十分に味わっていただけます。
+水や牛乳で解くだけでも十分おいしいおやつになります。
+※ネコポスでのお届けとなります
+原材料：小豆、水、砂糖、塩、トレハロース
+発送:松下製餡所
+（検索用：あんこ　十勝小豆　無添加　粒あん　粒餡　こしあん　あずき　ぜんざい）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21202/4828663/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200409/pd_6cf8ecf47737ced816ec3a6297967546d1c47eeb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">素焼きピスタチオ１kg</h4>
+<p class="goods-col_price inline">7,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送
+(入金確認後1週間から1か月ほどで発送となります)</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>落花生、小麦、大豆、卵、くるみ、乳、バナナ、カシューナッツ、ゴマを含む製品と共通の設備で製造しております。</p>
+</div>
+<p class="goods-col_textinfo pc">ナッツ＆ビーンズは、岐阜県大垣市のナッツ専門店です。
+当社の食塩不使用素焼きナッツは、遠赤外線ロースターで焙煎しています。
+遠赤外線ロースター焙煎は、ナッツの芯から火が入り、煎りムラが少なく、
+香ばしくカリッとした食感とナッツ本来の甘みと旨みを生み出します。
+こちらの商品は、素焼き殻付ピスタチオ（カリフォルニア産）１kgです。
+※食塩、食用油不使用
+発送：ナッツ＆ビーンズ</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21202/4824210/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200331/pd_8bd0ed830c2c052b1f01a68511cad95abd1cb3fa.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">素焼きアーモンド５kg（１kgｘ５袋）</h4>
+<p class="goods-col_price inline">25,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送
+(入金確認後1週間から1か月ほどで発送となります)</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>落花生、小麦、大豆、卵、くるみ、乳、バナナ、カシューナッツ、ゴマを含む製品と共通の設備で製造しております。</p>
+</div>
+<p class="goods-col_textinfo pc">ナッツ＆ビーンズは、岐阜県大垣市のナッツ専門店です。
+当社の食塩不使用素焼きナッツは、遠赤外線ロースターで焙煎しています。
+遠赤外線ロースター焙煎は、ナッツの芯から火が入り、煎りムラが少なく、
+香ばしくカリッとした食感とナッツ本来の甘みと旨みを生み出します。
+こちらの商品は、人気の素焼きアーモンド（カリフォルニア産／ノンパレル種）合計5kgセットです。
+※食塩、食用油不使用
+発送：ナッツ＆ビーンズ</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21202/4554618/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230309/pd_914a1f32e29b2ff617722833d2587c19abbe719b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">生餃子専門店「新家」の生餃子　元気がモリモリ100個セット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>・受付を行った順に発送いたします。
+・入金確認後、1ヶ月ほどで発送いたします。
+（状況によって前後します）あらかじめご了承ください。
+・転居などで配送先が変わる場合や、長期間ご不在にされる際は、なるべく早めにご連絡ください。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>キャベツ・豚肉・ごま油・しょうゆ（大豆・小麦含む）・生姜・食塩・酒・にんにく・砂糖・唐辛子・調味料・皮（小麦粉・植物油・食塩）・加工でん粉・酒精・酸味料</p>
+</div>
+<p class="goods-col_textinfo pc">※入金確認後、1ヶ月ほどで発送いたします。
+生餃子専門店「新家」の手作り生餃子100個セット！！
+新家の餃子は、毎日お店で手作り。いつでもできたて新鮮！
+安心・安全でおいしい餃子を作るために、国内産にこだわって素材を厳選しています。
+どれも厳格な市場規格をクリアした野菜や豚肉を、新鮮なうちに餃子餡にしています。
+現地で仕入れた国産野菜と、その日の朝に挽いた厳選国産豚肉。
+それらの旨みをオリジナルの皮で新鮮なうちに閉じ込めます。
+すべてが新鮮！一番おいしい状態で味わって頂くために鮮度にこだわっています。
+匂いが残りにくい青森産の最高峰にんにく「福地ホワイト六片にんにく」を使用し、
+さらに特殊加工を施してあるので、あの嫌な匂いが気になりません。
+数種類の小麦粉をブレンドし、じっくり練り上げた皮はもちもち。
+焼き方の説明書付きで、誰でも簡単にパリッとジューシーな羽根つき餃子が焼けます。
+地元の飲食店でも使われているプロ仕様の餃子。だから味は間違いなし。
+【工程】
+材料の仕入れ、製造、袋詰め、梱包、製造の全てを大垣市内で実施
+発送：生餃子専門店「新家」
+（餃子　ギョウザ　ギョーザ　ぎょうざ　手作り冷凍生餃子）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21202/4719154/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200306/pd_b6683d0c5dc775f8c133f97ba7f4eb9de07dde25.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">☆美肌・ダイエット効果が期待できる自然のサプリメント☆ミックスナッツ（400g×3袋）【アーモンド・クルミ・カシューナッツ・マカダミアナッツ】</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送
+1週間から10日前後での発送となります。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>本品製造工場では、落花生、小麦、卵、乳、えび、かに、いか、くるみ、大豆、鶏肉、バナナ、ゼラチンを含む製品を生産しています。</p>
+</div>
+<p class="goods-col_textinfo pc">美肌・ダイエット効果が期待できる自然のサプリメント「ミックスナッツ」
+※アーモンド（アメリカ産）、クルミ（アメリカ産）、カシューナッツ（ベトナム産）、マカダミアナッツ（オーストラリア産）の素焼き詰合せです。
+※食塩、食用油不使用
+アーモンドやクルミに含まれる「ビタミンE」が抗酸化作用に期待できます。
+クルミ、カシューナッツは肌荒れの改善に役立つ「ビタミンB群」が豊富に含まれています。
+食物繊維やミネラルも豊富に含まれており、美肌効果を期待できます。
+発送：ハース株式会社</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21202/4608511/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211216/pd_a648e3243eb509023db820010ecf00c4078b13d6.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">A5飛騨牛　焼肉用　赤身モモ肉又は肩肉　300g</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>何度も申し込み可</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄付後１週間～１カ月程度で発送します
+（順次発送しておりますので、予定より早く発送することもあります。）
+【年末年始の発送につきまして】
+12月にご入金の方は、発送まで1カ月から2カ月ほどお待ちいただく場合があります。
+(順次発送しておりますので、予定より早く発送することもあります)
+また、複数ご注文の場合、個口割れや日にちが分かれて到着する場合がございます。ご了承ください。</p>
+</div>
+<p class="goods-col_textinfo pc">最高級のA5飛騨牛！
+厳選したＡ５等級の飛騨牛の焼肉用です。
+提供：木立ミート
+【検索用】特選黒毛和牛　飛騨牛ｽﾃｰｷ（ﾛｰｽ）　極上！飛騨牛サーロインステーキ　黒毛和牛　すき焼き用　すき焼用　肩ロースすき焼用　ロース肉すき焼用　飛騨牛しゃぶしゃぶ・すき焼きセット　飛騨牛すき焼き鍋セット　赤身　モモ　カタ　焼肉　焼き肉</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21202/4683505/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240124/pd_30b3b1f049847f7be4bbde948c052f155036f08b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">焙煎当日に発送！エチオピアゲイシャ 浅煎り 超希少種コーヒー豆 200g</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送（年末は混み合うため発送が遅れますのでご了承ください。）</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※同じ焙煎機でアーモンドも焙煎しております。</p>
+</div>
+<p class="goods-col_textinfo pc">【スペシャルティコーヒー】
+あのスターバックスコーヒーで1杯約2000円！で販売されたこともあるゲイシャ。
+この商品はゲイシャの原産国であるエチオピアの超希少種コーヒー豆です。
+ゲイシャが有名になったのは10年以上前の2004年です。
+パナマの国際品評会でエスメラルダ農園のゲイシャは当時の最高価格で落札されました。
+1㎏あたり5千円という当時では考えられない破格の落札価格となりました。
+現在では1kgあたり20万円越で落札されることもあり、世界的に注目されています。
+ゲイシャはジャスミンを思わせるような香り。
+苦味は少ないかわりに甘みを感じスッキリとした飲み口です。
+【エチオピア ゲイシャの特徴】
+花のような香り、甘い余韻、イチゴやハチミツのような甘さ
+苦味 ★☆☆☆☆
+酸味 ★★★☆☆
+甘さ ★★★★★
+コク ★★★☆☆
+香り ★★★★★
+【エチオピア ゲイシャはこんな人にオススメです】
+・ゲイシャの風味が気になる
+・一度ゲイシャを飲んでみたい
+・フルーティなコーヒーが好き
+・美味しい酸味のあるコーヒーを飲みたい
+・美味しい酸味を知りたい
+・軽めのコーヒーが飲みたい
+・コーヒー好きの人にプレゼントしたい
+発送：焙煎幸房“そら”
+検索用：コーヒー　珈琲　超希少　ゲシャビレッジ農園　特別な一杯　スターバックスコーヒー</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21202/31330/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240312/pd_b7a5a5bb30281bf0c9c5f209a4d1e986ab381001.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【国産蜂蜜】450ｇパッカー容器2本セット（くろがねもち蜂蜜、白花豆蜂蜜）</h4>
+<p class="goods-col_price inline">18,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年（注文を受け付けております。）</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>1歳未満の乳幼児には与えないでください。</p>
+</div>
+<p class="goods-col_textinfo pc">くろがねもちの蜂蜜はフルーティーな香り広がる上品な味わいが特徴です。
+白花豆の蜂蜜は、ほのかな酸味とさわやかな香り、キレのある甘みが特徴です。
+種田養蜂場のミツバチ達が懸命に集めた天然100％栄養豊富なはちみつを、
+ぜひ、味わってください。
+【原材料】国産純粋はちみつ
+【ご注意】
+天然のものですので、味、風味、色沢が毎回変わることがございます。
+・蜂蜜は一歳未満の乳児には与えないで下さい。
+・蜂蜜は結晶することがあります。結晶しても品質には問題ありません。
+発送：種田養蜂場</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21202/4492699/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210517/pd_fbc19cbf4c6736821f9f00e7a9921a483f3fd223.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">A5飛騨牛　『厚切り！』サーロインステーキ　300ｇ前後×2枚</h4>
+<p class="goods-col_price inline">40,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄付後１週間～１カ月程度で発送します
+（順次発送しておりますので、予定より早く発送することもあります。）
+【年末年始の発送につきまして】
+12月にご入金の方は、発送まで1カ月から2カ月ほどお待ちいただく場合があります。
+(順次発送しておりますので、予定より早く発送することもあります)
+また、複数ご注文の場合、個口割れや日にちが分かれて到着する場合がございます。ご了承ください。</p>
+</div>
+<p class="goods-col_textinfo pc">大垣市人気ランキング2018　上位ランクイン！　超人気の商品です
+最高級のA5飛騨牛サーロインを大満足の厚切りに！
+厳選したＡ５等級の飛騨牛の贅沢サーロインステーキです。
+※1枚300ｇでの提供ですが、切り方により重量が多少前後しますのでご了承ください。
+提供：木立ミート
+【検索用】特選黒毛和牛　飛騨牛ｽﾃｰｷ（ﾛｰｽ）　極上！飛騨牛サーロインステーキ　</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21202/4517427/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210517/pd_a2eb91563e72947c8eb6b8b6a38d4dd1be2a672e.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">A5飛騨牛『シャトーブリアン』ステーキ　3枚</h4>
+<p class="goods-col_price inline">68,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄付後１週間～１カ月程度で発送します
+（順次発送しておりますので、予定より早く発送することもあります。）
+【年末年始の発送につきまして】
+12月にご入金の方は、発送まで1カ月から2カ月ほどお待ちいただく場合があります。
+(順次発送しておりますので、予定より早く発送することもあります)
+また、複数ご注文の場合、個口割れや日にちが分かれて到着する場合がございます。ご了承ください。</p>
+</div>
+<p class="goods-col_textinfo pc">超希少・最高級のA5飛騨牛シャトーブリアンのステーキです！
+Ａ５等級の飛騨牛のヒレ肉から厳選したシャトーブリアンです。
+※1枚150ｇでの提供ですが、切り方により重量が多少前後しますのでご了承ください。
+提供：木立ミート
+【検索用】特選黒毛和牛　飛騨牛ｽﾃｰｷ（ﾛｰｽ）　極上！飛騨牛サーロインステーキ　【希少部位】シャトーブリアン【E4】 　ヒレステーキ　飛騨牛　シャトーブリアンセット</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21202/4608514/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231221/pd_1be511b970fe8a6e155799c16de8d3fb9d34251a.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">A5飛騨牛『ヒレ（2枚）』ステーキセット</h4>
+<p class="goods-col_price inline">32,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄付後１週間～１カ月程度で発送します
+（順次発送しておりますので、予定より早く発送することもあります。）
+【年末年始の発送につきまして】
+12月にご入金の方は、発送まで1カ月から2カ月ほどお待ちいただく場合があります。
+(順次発送しておりますので、予定より早く発送することもあります)
+また、複数ご注文の場合、個口割れや日にちが分かれて到着する場合がございます。ご了承ください。</p>
+</div>
+<p class="goods-col_textinfo pc">最高級のA5飛騨牛　ヒレのステーキをご堪能ください！
+「ヒレ」は、牛肉の中でも最も肉質が柔らかく食べやすい希少な部位です。
+※1枚130～150g程度です。切り方によって重量が多少前後しますのでご了承ください。
+提供：木立ミート
+【検索用】特選黒毛和牛　飛騨牛ｽﾃｰｷ（ﾛｰｽ）　極上！飛騨牛サーロインステーキ　【希少部位】シャトーブリアン【E4】 　ヒレステーキ　黒毛和牛ヒレ＆サーロインステーキ　飛騨牛グルメセット
+　　　　　飛騨牛　ヒレステーキセット</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21202/4449582/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211011/pd_6bd0618bceca7edbbc9bbe1366f73887b335ed06.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【うなぎ】老舗料亭のひつまぶし（二人折）</h4>
+<p class="goods-col_price inline">24,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<p class="goods-col_textinfo pc">発送：玉子屋別館　玉辰楼</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21202/31335/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210712/pd_b06e5351dc1691b7dfb082499acbfb03c7736ecf.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">大垣の地酒セット華(純米2本、本醸造1本)</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<p class="goods-col_textinfo pc">発送：船町湊まちづくり(株)</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21202/4448808/33">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20180704/pd_45b206f0404cc4134e85803a886709fbacf3c59c.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【定期便】大垣の地酒（大吟醸・純米大吟醸）３回お届け</h4>
+<p class="goods-col_price inline">55,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<p class="goods-col_textinfo pc">発送：船町湊まちづくり(株)</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21202/31356/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220308/pd_7802812b1d03d362eb42ae353638704a8d34d401.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">FUKUKITARU風呂敷</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時発送</p>
+</div>
+<p class="goods-col_textinfo pc">発送：(有)福田屋</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21202/39121/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200807/pd_410faffdf49ebdeac67d0b1ed96133d9e812f1f1.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">電気を使わないエコ加湿器　MAST（マスト）</h4>
+<p class="goods-col_price inline">28,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※月末の出荷になります。
+人気の返礼品のため、現在最長で4か月ほどお待ちいただいております。</p>
+</div>
+<p class="goods-col_textinfo pc">発送：大橋量器</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21202/5322126/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211214/pd_29bb52ac0bcdafd973dc80ece3094db8d6938bec.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">国産桧の桝で作った「いこいシリーズ Ochoko×Tokkuri」（お猪口と徳利セット）</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>製作期間1か月　※在庫がある場合には、すぐに出荷いたします</p>
+</div>
+<p class="goods-col_textinfo pc">【大垣市は木桝の生産　全国シェア80％を誇ります】
+伝統技法を応用して作られた徳利とお猪口セット。積み重ねることができて場所をとらないので食器棚を圧迫せず、保管も便利です。「ちょっと日本酒を呑みたいな」という時にも気軽に使っていただけます。
+日本酒を飲む祝盃としてよく使用される枡を、現代の日常の中で愉しみを与えられる存在となることを願い、楽しく飲んでいただく酒器としてリデザインしました。
+徳利とお猪口が1セットになってマス。
+お猪口が蓋になっているのでお酒が入っていても持ち運びが安心、収納もコンパクト。
+1人1セットなので今日は皆手酌で愉しみましょう。
+※価格は徳利とお猪口1セットの金額です。
+デザイン：BLUES DESIGN 中村　友治
+サイズ：徳利：54mm×54mm×137（H）mm
+おちょこ：54mm×54mm×44（H）mm
+容量：徳利：200ml　おちょこ：45ml
+素材：国産桧
+ご注文後、熟練の職人がおひとつずつお作りいたしますので、商品の到着までには約一カ月が目安となります。
+※在庫がある場合には、すぐに出荷いたします。
+発送：大橋量器</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<ul class="gcf-lst-bx" id="progress_list">
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年07月28日 09:00</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">かわまちテラスを無事開催することができました！</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230728/t_ae5385e06a49a2d6e89b64a236fc365c390b5bb4.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">皆様のご支援により、無事かわまちテラスを開催することができました。<br/>
+日が暮れてからも多くの方にお越しいただき、水辺での乾杯やレーザーアトラクションなどを実施し、<br/>
+イベントは大変盛況でした。<br/>
+多くのご支援をいただき、本当にありがとうございました。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-info__image">
+<div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230728/1_e1cc5ec5f8cd6e03b19701bb5200f1dd43d050d6.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230728/1_e1cc5ec5f8cd6e03b19701bb5200f1dd43d050d6.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230728/2_7faa707688bf66750226a329ede91919b50665d6.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230728/2_7faa707688bf66750226a329ede91919b50665d6.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230728/3_81d95c662cac8a1541850f140f9fa0d96f2f4b5d.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230728/3_81d95c662cac8a1541850f140f9fa0d96f2f4b5d.jpg" /></a>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="2215" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="2215">3</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="2215">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2246%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年07月06日 15:00</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">ご支援ありがとうございました！</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230706/t_e25bd9db2c79d2099ccdf651fda729add48a0c2f.png" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">水の都おおがきクラウドファンディング～ウォーカブルなまちづくりイベント「かわまちテラス」で、水都大垣を明るく照らしたい！～プロジェクトは、令和5年7月5日をもって終了いたしました。<br/>
+<br/>
+皆さまからの温かいご支援・ご協力に、深く感謝申し上げます。<br/>
+いただいたご寄付は、皆さまのお気持ちにお応えできるよう、大切に活用させていただきます。<br/>
+<br/>
+応援メッセージをいただきありがとうございました！いただいたメッセージを紹介させていただきます。<br/>
+<br/>
+・水が綺麗で美味しい大垣市です。益々のご発展祈願してます。<br/>
+・楽しみにしております。<br/>
+・素敵な取り組みですね。イベントにも是非、参加させて頂きます！楽しみにしています。<br/>
+・以前、大垣市に住んでいました。”水の都大垣”皆さまにいつまでも愛されますよう願っています。<br/>
+・昨年はお世話になりました。今年も宜しくお願い致します。<br/>
+・水の綺麗な町をいつまでも美しく守って欲しい　　　　等<br/>
+<br/>
+また、かわまちテラスは7月7日、8日に本番を迎えます。皆さまよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="2168" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="2168">6</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="2168">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2246%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+</ul>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">岐阜県大垣市</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">私たちのまち「大垣市」は、名古屋市から電車に乗って30分、日本列島のほぼ真ん中に位置し、昔から東西の経済・文化の要所として栄えてきました。<br/>
+<br/>
+自然も豊かで、良質で豊富な地下水に恵まれていることから「水の都」と言われており、ハリヨをはじめ、生物の生息地域となっているとともに、地域特有の河間や輪中などの水文化・歴史が育まれたまちです。<br/>
+水の豊かな「大垣地域」、山々に囲まれ緑豊かな里山「上石津地域」、桜やアジサイが美しい「墨俣地域」と、市内各地域でそれぞれ特徴ある自然を楽しんでいただけます。<br/>
+<br/>
+また、俳聖・松尾芭蕉が「奥の細道」の旅を終えた「むすびの地」として知られ、今でも、大垣の子どもたちは、小さな頃から俳句に親しんでいます。<br/>
+そのほかにも、関ケ原の戦いで石田三成率いる西軍の本拠地となった「大垣城」や、豊臣秀吉の出世の足掛かりとなった「墨俣一夜城」、ユネスコ無形文化遺産に登録されている「大垣祭の軕行事」など、歴史と文化の薫り高いまちです。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">岐阜県大垣市の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/21202/33?from=2&amp;gcf_project_id=2246"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,601,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g2246,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

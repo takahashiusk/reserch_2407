@@ -1,0 +1,1573 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/2166" />
+
+<title>「佐賀発の実践的グローバル人財育成事業」 〜SDGsを推進し、佐賀と世界の未来を担うグローバル人財の育成〜｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="「佐賀発の実践的グローバル人財育成事業」 〜SDGsを推進し、佐賀と世界の未来を担うグローバル人財の育成〜｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/2166" />
+<meta property="og:description" content="本事業は、未来を担う若者（高校生）が、主体的に社会と関わって他者に貢献できる市民となれるよう、途上国の課題解決を対象としたProject Based Learning（以下、PBL：問題解決型学習）の手法を取り入れて学ぶグローバル人財育成事業です。「変化の激しいこれからの時代において、平和の担い手たるグローバル人財が、自らの未来を自らの手で創造していき、未来の世代に、持続可能で平和な社会を準備する」ことを事業理念に掲げています。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221122/s_27685eb94c6fcb890223dabc0358c3b1395c5a77.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221122/s_27685eb94c6fcb890223dabc0358c3b1395c5a77.jpg" />
+<meta property="twitter:title" content="「佐賀発の実践的グローバル人財育成事業」 〜SDGsを推進し、佐賀と世界の未来を担うグローバル人財の育成〜｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="本事業は、未来を担う若者（高校生）が、主体的に社会と関わって他者に貢献できる市民となれるよう、途上国の課題解決を対象としたProject Based Learning（以下、PBL：問題解決型学習）の手法を取り入れて学ぶグローバル人財育成事業です。「変化の激しいこれからの時代において、平和の担い手たるグローバル人財が、自らの未来を自らの手で創造していき、未来の世代に、持続可能で平和な社会を準備する」ことを事業理念に掲げています。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,601,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="2166" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">「佐賀発の実践的グローバル人財育成事業」 〜SDGsを推進し、佐賀と世界の未来を担うグローバル人財の育成〜</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">「佐賀発の実践的グローバル人財育成事業」 〜SDGsを推進し、佐賀と世界の未来を担うグローバル人財の育成〜</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1018">子ども・教育&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221117/d_4ac8baeec086ed33bd20db658aa8fd610ebeaa46.jpg" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E3%80%8C%E4%BD%90%E8%B3%80%E7%99%BA%E3%81%AE%E5%AE%9F%E8%B7%B5%E7%9A%84%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BA%BA%E8%B2%A1%E8%82%B2%E6%88%90%E4%BA%8B%E6%A5%AD%E3%80%8D%20%E3%80%9CSDGs%E3%82%92%E6%8E%A8%E9%80%B2%E3%81%97%E3%80%81%E4%BD%90%E8%B3%80%E3%81%A8%E4%B8%96%E7%95%8C%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%82%92%E6%8B%85%E3%81%86%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BA%BA%E8%B2%A1%E3%81%AE%E8%82%B2%E6%88%90%E3%80%9C&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F2166">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">1,132,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 45.2%;"></div>
+<p class="gcf-cht-detail-bar__number">45.2%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">2,500,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">45.2</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">9</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>佐賀県NPO支援（さがけん えぬぴーおーしえん）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="2166" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2022年12月20日～2023年3月20日（91日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1033" class="sorting-list__item">子ども・教育</a></li><li><a href="/gcf/project/tag/1043" class="sorting-list__item">グローバル化</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1083" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_4.png 1x, /gcf/images_cf/sdg/sdg_icon_4@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_4.png" alt="SDGアイコン" decoding="async" />4.質の高い教育をみんなに</a></li><li><a href="/gcf/project/sdgs/1096" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_17.png 1x, /gcf/images_cf/sdg/sdg_icon_17@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_17.png" alt="SDGアイコン" decoding="async" />17.パートナーシップで目標を達成しよう</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="2166" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">佐賀県NPO支援 × 特定非営利活動法人テラ・ルネッサンス</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221117/o_d45ed836ca26600fa5c207bb6115aa5c9803be46.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">本事業は、未来を担う若者（高校生）が、主体的に社会と関わって他者に貢献できる市民となれるよう、途上国の課題解決を対象としたProject Based Learning（以下、PBL：問題解決型学習）の手法を取り入れて学ぶグローバル人財育成事業です。<br/>
+「変化の激しいこれからの時代において、平和の担い手たるグローバル人財が、自らの未来を自らの手で創造していき、未来の世代に、持続可能で平和な社会を準備する」ことを事業理念に掲げています。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">自ら社会課題解決に挑む平和の担い手の育成</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">グローバル人財育成の歩みを止めない</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221122/gpfd_760e2fe69796aac0f396435fb465fc88d1c9ab9c.jpg" />
+</figure>
+<p class="gcf-txt-article">佐賀県におけるグローバル人財育成は、2019年に始まった新型コロナウィルスによるパンデミックの影響により、留学補助事業、海外研修等の事業に多大な影響が出ており、 今後も予測の困難な状況です。<br/>
+国際社会で活躍し、SDGsに代表されるような地球規模の社会課題の解決に挑む人財の育成は、長期的に考えると日本と世界の未来を左右する重要なものであり、新型コロナウイルスによるパンデミックのような事態においても、その歩みを止めてはならない活動です。<br/>
+<br/>
+SDGs(持続可能な開発目標)は、先進国・途上国の枠組みにとらわれず、世界・地域の社会的課題を解決することを求めています。<br/>
+本事業は上記の観点から、単に語学力の向上に留めず、あらゆる規模の課題に気づき、その解決に挑む人財を「グローバル人財」と捉え、国内外の社会課題を自分事として関心を持ち、他者に貢献し、自ら問題解決に挑む「平和の担い手」の育成を目指しています。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221122/gpfd_6717320901541724abd7d0975cd1c8bd32dc7dfc.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">国際協力NGOと教育現場の密な連携を実現</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">リアルで実践的な学びを本格的かつ継続的に</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221122/gpfd_ec8f3225546bfc719a21f299569e2dc31ba8b14a.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">活動①　弊会日本事務局スタッフによる社会課題解決講座<br/>
+地球規模の社会課題を解決するために必要な基礎知識を習得するための講義・対話ワークショップ・ディスカッションを学校の総合学習等の授業で行う。<br/>
+特に、現代社会を形作ってきた世界の歴史・社会構造・経済システム等について学び、 社会問題を引き起こす背景に着目し、探究学習により、問題の本質を捉える力を育む。<br/>
+また、世界の課題の構造と、国内・地域の課題の構造を比較して学ぶ機会を創出し、世界と日本・身近な地域の繋がりや関わりについて考察し、未来を担う学生が「今何ができるか」を考える機会を提供する。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221122/gpfd_06af8f4c329d7b1db3104a6d492b03134ebc64d7.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">活動②　弊会海外事務所スタッフによる社会課題解決講座<br/>
+日本事務局スタッフによる講座によって学んだ知識や経験に基づき、人権問題、貧困の問題や平和構築の問題などの世界の課題について、海外の現場で働く当会の海外スタッフや現地の受益者等と意見交換やディスカッション、ワークショップを主に英語によるコミュニケーションで行う。<br/>
+特に、学生に現地の生きた経験や感覚を体感させ、異文化・他言語でのコミュニケーションの機会を提供し、多様かつグローバルな着想で物事を捉えられる力を育む。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221122/gpfd_e05d1abd4a4632f18e182bd29e922d3d19ee043a.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">活動③　海外事業地と連携した「高校生による問題解決プログラム」<br/>
+日本事務局スタッフ・海外事務所スタッフによる社会課題解決講座によって身に着けた知識・視点・対話力・コミュニケーション能力を生かし、弊会海外事業地で生じている現地の課題の解決のための小規模プロジェクトを学生が立案・計画・実行する。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221122/gpfd_6434cf8eb282abc2d79e80f836de689b56b36daf.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">活動④　海外スタディツアー<br/>
+問題解決プログラムで学んだ現地を訪問し、自らが計画し、現地で実行されたプログラムの効果を確認し、検証を行う。（状況により、オンラインで実施する。）<br/>
+<br/>
+活動⑤　国内での啓発活動<br/>
+問題解決プログラムで学んだ経験を活かし、取り組んだ社会課題について県内・日本国内での啓発キャンペーンを実施し、課題の現状を周囲の人々に伝えるとともに、課題解決のためにできる第一歩を踏み出す。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">寄付金の使い道</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">佐賀県内の高等学校への職員の旅費交通費の一部、高校生による問題解決プログラムのため海外事業地で行うプロジェクトの調査・実行費用の一部、国内での啓発キャンペーンの実行費用の一部、担当職員の人件費の一部に使用します。<br/>
+<br/>
+【内訳】<br/>
+・国内旅費交通費 100,000円<br/>
+・海外旅費交通費（タイ・カンボジア・ラオス実地調査費） 300,000円<br/>
+・タイ・カンボジア・ラオス現地プロジェクト実行費用 1,000,000円<br/>
+・国内啓発キャンペーン実行費用（宣伝・広告費、消耗品費、イベント会場費等）500,000円<br/>
+・担当スタッフ人件費 600,000円<br/>
+<br/>
+【目標金額に達しなかった場合の寄附金の取扱い】<br/>
+目標金額に達しなかった場合、自己資金にて費用を補い、本プロジェクトへ活用させていただきます。また、目標金額以上の寄附を頂いた場合、本プロジェクトのカンボジア・ラオス現地プロジェクト実行費用、国内啓発キャンペーン実行費用、担当スタッフ人件費として活用させていただきます。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">未来の子どもたちに持続可能で平和な社会を</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">若い世代が自らの未来を、自らの手で創造</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221122/gpfd_a2573aa9780020f6eaa4e7972a9f23286c28584e.jpg" />
+</figure>
+<p class="gcf-txt-article">本事業の大きな特徴の一つは、高校生が発案したプロジェクトによってタイ・カンボジア・ラオス等の社会課題の解決に挑む実践性であり、その学びの過程で世界の社会構造の矛盾や社会課題について深く、年間を通じて学ぶ継続性です。<br/>
+<br/>
+特に、世界の課題と日本での自己の生活との繋がりを学ぶことによって、他者の苦しみや困難に対して「自分ごと化」する習性が身に付き、家庭や学校、友人関係などの身近な問題から地域・日本・世界の課題に対する当事者意識と問題解決能力を年間を通して継続的に育むことができます。<br/>
+<br/>
+このような学びを若者が高校時代に経験することにより、国際協力業界で活躍する人財の輩出に加え、ビジネスセクターや教育機関、公的機関等あらゆる分野・領域の仕事においても、地球規模の社会課題の解決や世界平和の実現に挑む人財を育成することができます。<br/>
+<br/>
+また、変化の激しいこれからの時代において、若い世代が自らの未来を、自らの手で創造していく上で有意義な機会となるとともに、「未来の子どもたち」に、「持続可能な社会」、「平和な社会」を準備することに繋がる価値のある事業だと思います。</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">年間を通じて継続的な学びを</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">本事業の実施スケジュール（予定）です。</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">2023年3月: 事業準備期間<br/>
+2023年4月-7月: 活動①弊会日本事務局スタッフによる社会課題解決講座 <br/>
+2023年8月-10月: 活動②弊会海外事務所スタッフによる社会課題解決講座<br/>
+2023年11月-2024年3月: 活動③海外事業地と連携した「高校生による問題解決プログラム」<br/>
+2024年3月: 活動④海外スタディツアー（海外プロジェクトの実行）<br/>
+2024年4月-8月: 活動⑤国内での啓発活動</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">テラ・ルネッサンス創設者・理事　鬼丸昌也</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">世界平和実現のために欠かせない事業</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221122/gpfd_c759d9ca7780448df62e9e570141b3e4a3f6438a.png" />
+</figure>
+<p class="gcf-txt-article">テラ・ルネッサンスだけでは、「すべての生命が安心して生活できる社会（世界平和）」を実現することはできません。平和を願い、平和をつくろうとする担い手（人財）をたくさん育み、共に行動していくことで、きっと世界平和は実現すると、私たちは信じています。<br/>
+<br/>
+だからこそ、「佐賀発の実践的グローバル人財育成事業」を立案した時、私は嬉しくて仕方がありませんでした。<br/>
+<br/>
+佐賀県の高校生が、単発の講演・講義ではなく２年間ものあいだ現地（タイ・ラオス・カンボジア）の人々と触れ合い、その課題と背景を学び、課題解決のために「自分たちに何ができるか」を探究していく。そんなプロセスを通じて、平和の担い手を育むことができる。<br/>
+<br/>
+テラ・ルネッサンスがずっと取り組みたいと願っていたことに、佐賀県民のご理解を得て、共にチャレンジする。そのことが、とても嬉しかったのです。さらには、このチャレンジが定着した暁には、佐賀県内、そして全国、世界でも、同じようなプロジェクトを展開していきたいという夢（目標）も湧いてきました。<br/>
+<br/>
+佐賀県（行政）、教育機関、企業、NPOが一体となって、佐賀県から平和の担い手を育むという新たなチャレンジへのご理解とご支援のほど、よろしくお願い申し上げます。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">東明館高等学校　山元祐輝さん</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">子どもたちが平和な未来を創造するために</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221122/gpfd_a3b10ea826042ac32b4d8168a2b2cf99016b477e.jpg" />
+</figure>
+<p class="gcf-txt-article">2021年7月にテラ・ルネッサンスと連携協定を結んでから本校探究コース（1期生）との協働プロジェクトであるグローバル人財育成事業が始まりました。<br/>
+探究コースでは2年生の2学期からは生徒が自分たちでプロジェクトを立ち上げ各教科のカリキュラムを作り替えてから学んでいくスタイルを取っていたため、テラ・ルネッサンスとは一緒にカリキュラムの作成からスタートしました。<br/>
+<br/>
+授業では地理Aと倫理という科目でテラ・ルネッサンスの社会課題解決講座や鬼丸さんによる起業家教育を担当していただき、理系科目でコンポストや圧力発電の研究、国語や英語では子ども兵についてのトピックで研究を行いました。<br/>
+特に社会課題解決講座ではアフリカの地誌学や、正義とは何か、支援するとはどういうことか、などの哲学を通して本質を学んでいきました。その本質を知った上で、私たちは何ができるのか、どんな課題にどう向き合っていくことが平和につながるのかを何度も確認しながら、他教科で学んだ中で使えることをプロジェクトに取り込んでいきました。<br/>
+最終的には、プロジェクトの計画を立て、副知事をはじめとした佐賀県庁職員や全校生徒にプレゼンをし、現地との調整を図った後、現地で実践をしました。<br/>
+<br/>
+この1年間を通して、私たちは実践しないとわからないことがたくさんあることに気づきました。何かを成し遂げたいと思うのであれば、それをやってみないと大変さに気付けない、何が実現可能かもわからないと思うのです。その「実践知」をこのテラ・ルネッサンスの社会課題解決講座で学ぶことができたと思っています。<br/>
+<br/>
+日本財団が行なっている18歳意識調査というものがあります。日本は他国と比べ各項目において低い数値が出ていることが問題視されていますが、グローバル人財育成事業を受けた生徒の皆さんに同じ調査を取ってみました。結果的に、①自分は責任がある社会の一員だと思う、②自分の行動で国や社会を変えられると思う、③国や社会に役立つことをしたいと思うの3つの項目について、全員がそう思うと答えました。<br/>
+<br/>
+グローバル人財育成事業（協働プロジェクト）をやり遂げることで、生徒たちに社会課題に対する当事者意識が身につき、将来何かの課題を見つけ、解決したいと思った時に行動できる力を身に付けることができていると思います。<br/>
+<br/>
+教育が変われば、未来が変わります。その未来を創るのは今の子どもたちです。<br/>
+今の子どもたちが平和な未来を創造するためにもぜひできることを一緒に行っていけたらと思っています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">東明館高等学校探究コース3年生　宮村和暉</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">人生における一生の財産になる学び</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221122/gpfd_6783356b7fd84488c7a010804ddad497743227b4.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">2021年9月から約１年間テラ・ルネッサンスとグローバル人財育成事業の一環でウガンダ・カンボジアの支援プロジェクトに参加しました。このプロジェクトを通じて、自分、そして探究コースメンバーの一人ひとりが価値観を大きく広げ、視座を高めることができました。<br/>
+<br/>
+このプロジェクトを通じて大事だと感じた学びの一つが国際協力における支援の動機、社会課題を解決する動機に対する姿勢と考え方の変化です。<br/>
+学び始めた当初は、途上国をなぜ私たち（日本人）が支援するのか？を周囲の人に説明するのに時間がかかっていました。<br/>
+<br/>
+まず、紛争鉱物の問題など、今の私たちの生活とアフリカの紛争を引き起こしている原因は密接に繋がっており、現地の課題解決に対して私たちにも責任があるということを学びました。また、先進国に住む私たちは、その発展の過程で知らず知らず途上国からの資源の恩恵を受けており、今、これから途上国に対して「恩返し」をする必要があるのではないか、いうことも学びました。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221122/gpfd_57dda8febd07c5fc92b60d711106fa6802398c2c.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">これらの動機付けはグローバル人財育成事業の授業で自分たちなりに必死に考え、見出しました。しかし、現地での支援プロジェクトを実際に実施し、ウガンダの皆さんとの交流を終えた今、「なぜ、支援をするのか」という理由を問われると「家族だから」と答えるようになりました。家族だから彼ら、彼女らが幸せになることは自分たちの幸せである、困っていたら支援するのは当たり前のことじゃないかと感じるようになりました。<br/>
+<br/>
+他の身近な社会課題の解決に対しても同じような気持ちを持つようになりました。最初は義務感のようなものが動機でしたが、今はしたいからするし、それは当然のことだと思えるようになったのです。1年間、思考し、挑戦し、学び続けたこのプロジェクト。紆余曲折しながらも、歩み続けて得た経験や学び、気づきは僕たちの人生における一生の財産です。この事業を継続して、さらに多くの後輩たちにも生きた学びを得てもらいたいと思います。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">佐賀から多くの平和の担い手を。</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">皆さまのご支援よろしくお願い申し上げます。</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221122/gpfd_f2bb30205e882af99ec121d3ca924fa257b5ca07.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">本プロジェクトによって、世界で起きている課題について知り、そして、自分にできることは何かを考え、行動に移すことのできる子どもたちを育てたいと考えています。<br/>
+<br/>
+課題を自分事として捉える力を養い、自らの力で課題の解決に挑む実体験を得ることで、将来国内外の課題に対して行動し、社会に変化をもたらすことができる大人になることができると信じています。<br/>
+<br/>
+すでに2021年から本事業を実施しており、１期目、佐賀県の中学校・高等学校で大きな変化と教育成果が現れつつあります。<br/>
+<br/>
+「この取り組みを来年も継続したい。もっともっと多くの進化をもたらしたい。」そう願って本プロジェクトのご支援をお願いしています。<br/>
+<br/>
+「ひとり一人に未来をつくる力がある」<br/>
+<br/>
+この言葉を胸に、当会は事業を実施してまいりました。<br/>
+世界を変える平和の担い手の育成に、ご支援のほどよろしくお願い申し上げます。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">佐賀県の特産品を返礼品としてお届けします</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">佐賀牛、有田焼、有明の海苔、呼子のイカ、お米等の佐賀県の選び抜かれた特産品をお届けします</span></h3>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/419390/458">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221118/pd_0f76e840b0224bcd9b52cb89c4c130c896e99149.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有明の風 焼のり５袋セットC</h4>
+<p class="goods-col_price inline">23,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時
+※年末年始等の繁忙期前後には、お申込みから発送までに２－３週間の期間を要することがございます。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>「乳糖」を含む製品を製造しているラインで製造しています。原材料の海苔はエビ、カニの生息する海域で採取してます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定NPO法人 テラ・ルネッサンスをお選びいただき、2万3千円以上のご寄附をいただいた方
+容量：板のり/板のりサイズ10枚×5
+口どけが良く香り高い、初摘み海苔の美味しさそのものを堪能できる旨みたっぷりの『焼きのり』を一枚一枚丁寧に焼き上げています。深い旨みとパリっとした食感は、佐賀有明海産の初摘みならではの美味しさです。旨みたっぷりの佐賀海苔をごはんのお供の他、手巻きやサラダ、パスタのトッピング、焼いたトーストにバターを塗り海苔を載せても又一味違って美味しくいただけます。お子様からご年配の方まで美味しくいただけます。
+【総務省告示第五条第三号に記載されている地場産品基準を満たす理由】
+本返礼品は、佐賀市内の生産者により、海苔の仕入れ、海苔の乾燥による板海苔生産までが実施され、佐賀市内の漁協に集約されたあと、佐賀市内の有明の風が仕入れ、焼き加工された品
+有明の風について：
+有明の風は、日本一の養殖海苔産地、有明海で80年間海苔漁を営む、老舗の海苔業者さまです。支え合いの精神を大切に、会社として社会貢献活動に力を注がれる中、テラ・ルネッサンスとご縁をいただき、海苔を提供いただけることになりました。口どけがよく、香り高い「初摘み海苔」は、元々一部の愛好家にしか提供されなかったものを「一人でも多くの方にお届けできるように」と愛情を込めて商品化されました。
+認定NPO法人テラ・ルネッサンスについて：
+テラ・ルネッサンスは、「すべての生命が安心して生活できる社会（=世界平和）の実現」を目指して2001年に誕生したNGO団体です。ふるさと納税による寄附金の一部が、テラ・ルネッサンスが活動するアジア・アフリカ・ウクライナで紛争の被害に遭われた方の自立支援や国内における啓発活動のために使われます。
+生産者：有明の風（佐賀市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/419494/458">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221117/pd_d55288c1d199d18cf61354625753bf8ced024339.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有明の風 プレミアム焼のり7袋セットD</h4>
+<p class="goods-col_price inline">45,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時
+※年末年始等の繁忙期前後には、お申込みから発送までに２－３週間の期間を要することがございます。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>「乳糖」を含む製品を製造しているラインで製造しています。原材料の海苔はエビ、カニの生息する海域で採取してます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定NPO法人 テラ・ルネッサンスをお選びいただき、4万5千円以上のご寄附をいただいた方
+容量：プレミアム焼のり/板のりサイズ10枚×7
+旨味が強く香り高い佐賀有明海産初摘み海苔のなかでも “プレミアム焼のり”は、海苔の旨味と香りが際立つ選び抜かれた佐賀のりです。サクっとした食感、口に入れたら旨みが広がりトロっと溶ける味わい。生産地からの直送だからこそお届けできる逸品となっております。
+【総務省告示第五条第三号に記載されている地場産品基準を満たす理由】
+本返礼品は、佐賀市内の生産者により、海苔の仕入れ、海苔の乾燥による板海苔生産までが実施され、佐賀市内の漁協に集約されたあと、佐賀市内の有明の風が仕入れ、焼き加工された品
+有明の風について：
+有明の風は、日本一の養殖海苔産地、有明海で80年間海苔漁を営む、老舗の海苔業者さまです。支え合いの精神を大切に、会社として社会貢献活動に力を注がれる中、テラ・ルネッサンスとご縁をいただき、海苔を提供いただけることになりました。口どけがよく、香り高い「初摘み海苔」は、元々一部の愛好家にしか提供されなかったものを「一人でも多くの方にお届けできるように」と愛情を込めて商品化されました。
+認定NPO法人テラ・ルネッサンスについて：
+テラ・ルネッサンスは、「すべての生命が安心して生活できる社会（=世界平和）の実現」を目指して2001年に誕生したNGO団体です。ふるさと納税による寄附金の一部が、テラ・ルネッサンスが活動するアジア・アフリカ・ウクライナで紛争の被害に遭われた方の自立支援や国内における啓発活動のために使われます。
+生産者：有明の風（佐賀市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4432853/458">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221111/pd_43f91c13a44a0477ab67572d5c0bf2ae11aa67bb.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">佐賀牛切り落とし 270g</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時
+※年末年始等の繁忙期前後には、お申込みから発送までに２－３週間の期間を要することがございます。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>牛肉</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定NPO法人 テラ・ルネッサンスをお選びいただき、1万円以上のご寄附をいただいた方
+日本を代表する最高級ブランド「佐賀牛」。切り落としを270gお届けします。
+舌の上でとろける旨味をご堪能下さい。切り落し肉はいろんな料理に大活躍。
+弥川畜産について：
+弥川畜産は、「人間は自然の一部なのだ」ということを企業の心として学び、より豊かな明日の食生活を担うため、安心・安全の佐賀牛を提供しています。世界に名高い佐賀牛を、産地直送でお楽しみいただけます。
+認定NPO法人テラ・ルネッサンスについて：
+テラ・ルネッサンスは、「すべての生命が安心して生活できる社会（=世界平和）の実現」を目指して2001年に誕生したNGO団体です。ふるさと納税による寄附金の一部が、テラ・ルネッサンスが活動するアジア・アフリカ・ウクライナで紛争の被害に遭われた方の自立支援や国内における啓発活動のために使われます。
+提供：弥川畜産</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4432854/458">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221111/pd_b6832a285f8d7076ef0282ee73696651a210d49f.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">佐賀牛しゃぶしゃぶすき焼き 300g</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時
+※年末年始等の繁忙期前後には、お申込みから発送までに２－３週間の期間を要することがございます。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>牛肉</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定NPO法人 テラ・ルネッサンスをお選びいただき、1万円以上のご寄附をいただいた方
+日本を代表する最高級ブランド「佐賀牛」。濃厚な旨味が特徴です。しゃぶしゃぶすき焼き用300gをお届けします。
+夏は冷しゃぶ、冬はしゃぶしゃぶ・すき焼きでお楽しみいただけます。
+弥川畜産について：
+弥川畜産は、「人間は自然の一部なのだ」ということを企業の心として学び、より豊かな明日の食生活を担うため、安心・安全の佐賀牛を提供しています。世界に名高い佐賀牛を、産地直送でお楽しみいただけます。
+認定NPO法人テラ・ルネッサンスについて：
+テラ・ルネッサンスは、「すべての生命が安心して生活できる社会（=世界平和）の実現」を目指して2001年に誕生したNGO団体です。ふるさと納税による寄附金の一部が、テラ・ルネッサンスが活動するアジア・アフリカ・ウクライナで紛争の被害に遭われた方の自立支援や国内における啓発活動のために使われます。
+提供：弥川畜産</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4432857/458">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221111/pd_a6a9d265fbd49334fe0ed5888f7f605df67a2023.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">佐賀牛カルビ焼肉 550g</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時
+※年末年始等の繁忙期前後には、お申込みから発送までに２－３週間の期間を要することがございます。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>牛肉</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定NPO法人 テラ・ルネッサンスをお選びいただき、3万円以上のご寄附をいただいた方
+日本を代表する最高級ブランド「佐賀牛」。甘みとコクのある「佐賀牛カルビ焼肉」550gをお届けします。ジュワっと溢れる肉汁。お口いっぱいに広がる至極の時間をお楽しみください。
+弥川畜産について：
+弥川畜産は、「人間は自然の一部なのだ」ということを企業の心として学び、より豊かな明日の食生活を担うため、安心・安全の佐賀牛を提供しています。世界に名高い佐賀牛を、産地直送でお楽しみいただけます。
+認定NPO法人テラ・ルネッサンスについて：
+テラ・ルネッサンスは、「すべての生命が安心して生活できる社会（=世界平和）の実現」を目指して2001年に誕生したNGO団体です。ふるさと納税による寄附金の一部が、テラ・ルネッサンスが活動するアジア・アフリカ・ウクライナで紛争の被害に遭われた方の自立支援や国内における啓発活動のために使われます。
+提供：弥川畜産</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4432859/458">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221104/pd_23ca589e8d834164e2e3af6e55212bbf6ab8aa1f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">佐賀牛サーロインステーキ 250g×3、佐賀牛切り落とし 700g</h4>
+<p class="goods-col_price inline">65,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時
+※年末年始等の繁忙期前後には、お申込みから発送までに２－３週間の期間を要することがございます。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>牛肉</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定NPO法人 テラ・ルネッサンスをお選びいただき、6万5千円以上のご寄附をいただいた方
+「佐賀牛のサーロインのステーキ」750g（250g×3）と「佐賀牛切り落とし」700gをセットでお届けします。日本を代表する最高級ブランド「佐賀牛」を、食べ比べしてみてください。
+弥川畜産について：
+弥川畜産は、「人間は自然の一部なのだ」ということを企業の心として学び、より豊かな明日の食生活を担うため、安心・安全の佐賀牛を提供しています。世界に名高い佐賀牛を、産地直送でお楽しみいただけます。
+認定NPO法人テラ・ルネッサンスについて：
+テラ・ルネッサンスは、「すべての生命が安心して生活できる社会（=世界平和）の実現」を目指して2001年に誕生したNGO団体です。ふるさと納税による寄附金の一部が、テラ・ルネッサンスが活動するアジア・アフリカ・ウクライナで紛争の被害に遭われた方の自立支援や国内における啓発活動のために使われます。
+提供：弥川畜産</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4433106/458">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221107/pd_f64d5aa7ab335eaee651b3d1b68d6a8ed4c6211b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">佐賀牛ヒレステーキ 1kg×6パック</h4>
+<p class="goods-col_price inline">700,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時
+※年末年始等の繁忙期前後には、お申込みから発送までに２－３週間の期間を要することがございます。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>牛肉</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定NPO法人 テラ・ルネッサンスをお選びいただき、70万円以上のご寄附をいただいた方
+牛１頭からわずか2%しか取れない「フィレ」。今回は大ボリューム6kg、ご堪能あれ。
+弥川畜産について：
+弥川畜産は、「人間は自然の一部なのだ」ということを企業の心として学び、より豊かな明日の食生活を担うため、安心・安全の佐賀牛を提供しています。世界に名高い佐賀牛を、産地直送でお楽しみいただけます。
+認定NPO法人テラ・ルネッサンスについて：
+テラ・ルネッサンスは、「すべての生命が安心して生活できる社会（=世界平和）の実現」を目指して2001年に誕生したNGO団体です。ふるさと納税による寄附金の一部が、テラ・ルネッサンスが活動するアジア・アフリカ・ウクライナで紛争の被害に遭われた方の自立支援や国内における啓発活動のために使われます。
+提供：弥川畜産</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/419498/458">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221118/pd_e54b335d58c3292fcc7c8541bfc2166a9ab0c73c.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有明の風 焼のり１０袋セットE</h4>
+<p class="goods-col_price inline">44,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時
+※年末年始等の繁忙期前後には、お申込みから発送までに２－３週間の期間を要することがございます。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>「乳糖」を含む製品を製造しているラインで製造しています。原材料の海苔はエビ、カニの生息する海域で採取してます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定NPO法人 テラ・ルネッサンスをお選びいただき、4万4千円以上のご寄附をいただいた方
+容量：板のり/板のりサイズ10枚×10
+口どけが良く香り高い、初摘み海苔の美味しさそのものを堪能できる旨みたっぷりの『焼きのり』を一枚一枚丁寧に焼き上げています。深い旨みとパリっとした食感は、佐賀有明海産の初摘みならではの美味しさです。旨みたっぷりの佐賀海苔をごはんのお供の他、手巻きやサラダ、パスタのトッピング、焼いたトーストにバターを塗り海苔を載せても又一味違って美味しくいただけます。お子様からご年配の方まで美味しくいただけます。
+【総務省告示第五条第三号に記載されている地場産品基準を満たす理由】
+本返礼品は、佐賀市内の生産者により、海苔の仕入れ、海苔の乾燥による板海苔生産までが実施され、佐賀市内の漁協に集約されたあと、佐賀市内の有明の風が仕入れ、焼き加工された品
+有明の風について：
+有明の風は、日本一の養殖海苔産地、有明海で80年間海苔漁を営む、老舗の海苔業者さまです。支え合いの精神を大切に、会社として社会貢献活動に力を注がれる中、テラ・ルネッサンスとご縁をいただき、海苔を提供いただけることになりました。口どけがよく、香り高い「初摘み海苔」は、元々一部の愛好家にしか提供されなかったものを「一人でも多くの方にお届けできるように」と愛情を込めて商品化されました。
+認定NPO法人テラ・ルネッサンスについて：
+テラ・ルネッサンスは、「すべての生命が安心して生活できる社会（=世界平和）の実現」を目指して2001年に誕生したNGO団体です。ふるさと納税による寄附金の一部が、テラ・ルネッサンスが活動するアジア・アフリカ・ウクライナで紛争の被害に遭われた方の自立支援や国内における啓発活動のために使われます。
+生産者：有明の風（佐賀市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4991301/458">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221111/pd_e657371247835cec46e22bb98d74746a5c972e38.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">熟成米 佐賀県産「さがびより」10kg</h4>
+<p class="goods-col_price inline">18,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定NPO法人 テラ・ルネッサンスをお選びいただき、1万8千円以上のご寄附をいただいた方
+「さがびより」10kgをお届けします。
+熟成米 佐賀県産さがびよりは、日本穀物検定協会の令和元産米「食味ランキング」において「特A」評価を獲得(10年連続)しています。
+粒が大きく、しっかりしており、炊き上がりはツヤがあり、甘味も強く、香りもよい。冷めても甘さが持続します。
+佐賀県農業試験研究センターが10年がかりで研究・開発を行い、 夏場の高温といった近年の気候変動にも対応できる新たな品種です。 平成21年から佐賀県下で本格的に栽培されています。
+※令和4年度の「新米」は11月発送分から提供されます。
+株式会社　唐房米穀について：
+「食は運命を左右する、お米を通して皆さまへ安全・安心な明るい未来を提供したい」
+唐房米穀は、自分たちの目と舌で原料を確認し、厳選した優良な玄米だけを仕入れ、自社工場で精米し、販売しています。「玄米からご飯まで」の全ての行程をグループ企業で行うことで、安心・安全で、より良い商品をお客さまにお届けしています。
+認定NPO法人テラ・ルネッサンスについて：
+テラ・ルネッサンスは、「すべての生命が安心して生活できる社会（=世界平和）の実現」を目指して2001年に誕生したNGO団体です。ふるさと納税による寄附金の一部が、テラ・ルネッサンスが活動するアジア・アフリカ・ウクライナで紛争の被害に遭われた方の自立支援や国内における啓発活動のために使われます。
+提供業者：株式会社　唐房米穀（唐津市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5098269/458">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221111/pd_227d996747191832b0d8c23837c1e943b17edb51.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">呼子剣先イカ活き造り（小サイズ）</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定NPO法人 テラ・ルネッサンスをお選びいただき、1万3千円以上のご寄附をいただいた方
+獲れたて新鮮な呼子のイカを瞬間冷凍技術により冷凍したイカの生き造りです。
+お刺身で堪能したのち、残ったゲソは天ぷらや塩焼きなどでお楽しみいただけるお品です。
+内容量: 一本釣りの呼子剣先イカ活き造り　小サイズ（約２人前）　《冷凍》
+お召し上がり方
+流水解凍したらそのまま食卓へ
+①冷凍庫から出したら、真空パックの状態で10分～15分流水解凍してください。
+②流水解凍後、真空パックから取り出してください。調理済みなのでさばく必要はありません。
+③おいしい透明のイカ刺しをどうぞ召し上がれ。
+　残った「ゲソ」は天ぷらや塩焼きなどでお楽しみください。
+有限会社 須賀 かま笑について：
+かま笑は、佐賀県玄海灘、日本三大朝市のひとつ「呼子朝市」のある呼子朝市通りに店を構えています。呼子のイカを中心とした玄界灘の海産物を数多く取り扱い、全国百貨店への催事も多数出店しています。一度食べればわかる、どれもすばらしいの素材を使ったお品です。
+認定NPO法人テラ・ルネッサンスについて：
+テラ・ルネッサンスは、「すべての生命が安心して生活できる社会（=世界平和）の実現」を目指して2001年に誕生したNGO団体です。ふるさと納税による寄附金の一部が、テラ・ルネッサンスが活動するアジア・アフリカ・ウクライナで紛争の被害に遭われた方の自立支援や国内における啓発活動のために使われます。
+提供業者：有限会社 須賀 かま笑（唐津市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5290981/458">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211006/pd_c787a66d5da9ab123ae345329b98e2ee31b4cab2.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ピンストライプ（W/NX）・ペアセット</h4>
+<p class="goods-col_price inline">320,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定NPO法人 テラ・ルネッサンスをお選びいただき、32万円以上のご寄附をいただいた方 
+江戸時代から続く有田焼の老舗 香蘭社 の食器ペア4種のセットです。
+お皿の両面、カップとボールの外側はブラスト加工を施し、艶をなくした独特な手触りのマットでやさしい質感です。カップ＆ソーサーはコーヒーや紅茶だけでなく、デザートカップなど色々お楽しみいただけます。ソーサーは高台の凹みが無く、取り皿などのお皿としてもお使いいただけます。
+※金属製のナイフ等によりナイフマーク（メタルマーク）と呼ばれる金属の擦れた跡が食器に付着する恐れがあります。あらかじめご了承ください。
+【生産者：香蘭社(有田町）】　
+～HISTORY～
+『香蘭社』は佐賀県有田に拠点を置き、有田焼を製造、全国でその製品を販売しています。その歴史は古く、約330年前に初代深川栄左ヱ門が、有田焼で陶磁器の製造を行ったのが始まり。その後、世界各国で行われた万国博で数々の名誉金牌を受賞。1896年には宮内省御用達の栄にも浴しています。以来、時代と共に進化した伝統美は「香蘭社スタイル」とも「香蘭社調」とも呼ばれ、国内外で広く愛され続けています。
+～STYLE～
+有田磁器独特の白く硬い透明な生地に染付と赤絵を配した伝統的な文様や、金銀彩のルリ釉商品など、香蘭社の高い技術が認められ、多くの人に親しまれています。
+～MADE　IN　JAPAN～
+香蘭社が築き上げた伝統技術は時を超えて受け継がれ、日本の自社工場で熟練の職人により、ひとつひとつ丁寧に作られています。
+【総務省告示第五条第三号に記載されている地場産品基準を満たす理由】
+原材料は熊本県天草市産の天草陶石、佐賀県内の陶土製造工場で加工、佐賀県有田町内の弊社製造工場にて成形、素焼き、絵付け、施釉、焼成を行っている。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5475548/458">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220707/pd_481091e376857dfb7e705274975b482d34b8299f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">鍋島緞通[手織] 蟹牡丹紗綾形地中心柄 灰地青　50×50㎝</h4>
+<p class="goods-col_price inline">300,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>発注後4～5ヵ月</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定NPO法人 テラ・ルネッサンスをお選びいただき、30万円以上のご寄附をいただいた方 
+江戸元禄時代より佐賀藩鍋島家の献上品、御用品として用いられてきた「鍋島緞通」。
+大正元年創業以来、吉島家の技と心が350年の伝統を今に受け継いでいます。
+精緻な織と文様は、現代生活の中でもモダンな輝きをはなち、格調とやすらぎを演出いたします。
+その柔らかな木綿の感触、座り心地の優しさは鍋島緞通の大きな魅力です。
+鍋島緞通を代表する図案である「蟹牡丹」。
+その中央部の牡丹を紗綾形の地模様の上に描いた、100%木綿素材の手織製法によって作られたお座布団です。
+毛足が長く、その柔らかな感触をお楽しみください。
+※受注生産となります。返礼品の発送は、決済完了後4～5ヵ月の期間を要しますのでご注意ください。
+【生産者：株式会社　鍋島緞通吉島家】（佐賀市）
+【総務省告示第五条第三号に記載されている地場産品基準を満たす理由】
+原材料の木綿はトルコ産木綿を使用。染め作業については京都府の染会社へ依頼、仕上がった木綿を使用し織り製作、仕上げ、梱包までの工程を佐賀県佐賀市の工房にて行っている。</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">佐賀県NPO支援</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">認定NPO法人テラ・ルネッサンスは、「すべての生命が安心して生活できる社会（=世界平和）の実現」を目指して2001年に誕生した国際協力NGOです。<br/>
+<br/>
+地雷除去支援、紛争・災害被災地域での復興支援、地雷被害者や除隊兵士など紛争被害者への支援事業及び一般市民を対象とした地球市民意識の啓発活動などにより、「次世代への責任」を一人ひとりの 市民が認識することを促し、「すべての生命が安心して生活できる社 会(世界平和)」の実現に寄与することを目的としています。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">とても画期的で素晴らしい取り組みだと思います。</p>
+<p class="gcf-bx-message__date">2022年12月20日 10:19</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/2166">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">佐賀県NPO支援の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/41001/458?from=2&amp;gcf_project_id=2166"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,601,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g2166,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

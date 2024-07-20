@@ -1,0 +1,1434 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/576" />
+
+<title>ふるさと納税で応援するサンガスタジアム整備プロジェクト～あなたのお名前をスタジアムへ刻もう！～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="ふるさと納税で応援するサンガスタジアム整備プロジェクト～あなたのお名前をスタジアムへ刻もう！～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/576" />
+<meta property="og:description" content="京都府では、2020年のオープンを目指してJR亀岡駅前でサンガスタジアム（京都スタジアム）の整備を進めています。スタジアムでは、国際的・全国的な試合が開催され、ハイレベルなスポーツを体感できる青少年の夢と憧れの舞台となることを目指しています。日本最大級の屋内クライミングウォール施設等も併設し、球技だけでなく様々なスポーツの聖地として、スタジアム周辺のにぎわいづくり、北中部地域へのゲートウェイとなるなど、夢は膨らむばかりです。また、スタジアムは、サッカー「京都サンガF.C.」のホームスタジアムとなり、たくさんの笑顔と感動を呼ぶ場になることを期待しています！スタジアムへ皆さんのお名前を刻み、新たな歴史を一緒に創ってみませんか？笑顔と感動を拡げましょう！※京都スタジアムは、ネーミングライツにより「サンガスタジアム by Kyocera」となる予定です。（本ページでは「サンガスタジアム」と表記）※2019年12月13日：2019年7月29日～11月30日に府へ直接寄附があった312件30,446,116円の寄附を、本ページ表示に追加しました。※2020年1月17日：2019年12月1日～12月31日に府へ直接寄附があった182件7,912,306円の寄附を、本ページ表示に追加しました。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20190725/s_fd591820274d4258d4cf3e759d769e781f1dce17.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20190725/s_fd591820274d4258d4cf3e759d769e781f1dce17.jpg" />
+<meta property="twitter:title" content="ふるさと納税で応援するサンガスタジアム整備プロジェクト～あなたのお名前をスタジアムへ刻もう！～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="京都府では、2020年のオープンを目指してJR亀岡駅前でサンガスタジアム（京都スタジアム）の整備を進めています。スタジアムでは、国際的・全国的な試合が開催され、ハイレベルなスポーツを体感できる青少年の夢と憧れの舞台となることを目指しています。日本最大級の屋内クライミングウォール施設等も併設し、球技だけでなく様々なスポーツの聖地として、スタジアム周辺のにぎわいづくり、北中部地域へのゲートウェイとなるなど、夢は膨らむばかりです。また、スタジアムは、サッカー「京都サンガF.C.」のホームスタジアムとなり、たくさんの笑顔と感動を呼ぶ場になることを期待しています！スタジアムへ皆さんのお名前を刻み、新たな歴史を一緒に創ってみませんか？笑顔と感動を拡げましょう！※京都スタジアムは、ネーミングライツにより「サンガスタジアム by Kyocera」となる予定です。（本ページでは「サンガスタジアム」と表記）※2019年12月13日：2019年7月29日～11月30日に府へ直接寄附があった312件30,446,116円の寄附を、本ページ表示に追加しました。※2020年1月17日：2019年12月1日～12月31日に府へ直接寄附があった182件7,912,306円の寄附を、本ページ表示に追加しました。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,511,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="576" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">ふるさと納税で応援するサンガスタジアム整備プロジェクト～あなたのお名前をスタジアムへ刻もう！～</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">ふるさと納税で応援するサンガスタジアム整備プロジェクト～あなたのお名前をスタジアムへ刻もう！～</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1017">まちづくり&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20190725/d_56a91657cc5a77d4d17aa82819987bd8a8cd88da.jpg" alt="main_img" decoding="async" />
+<img class="gcf-lyt-detail__complete" src="/gcf/images_cf/icon_goal_brown.png" alt="達成" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E7%B4%8D%E7%A8%8E%E3%81%A7%E5%BF%9C%E6%8F%B4%E3%81%99%E3%82%8B%E3%82%B5%E3%83%B3%E3%82%AC%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E6%95%B4%E5%82%99%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%EF%BD%9E%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%81%8A%E5%90%8D%E5%89%8D%E3%82%92%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E3%81%B8%E5%88%BB%E3%82%82%E3%81%86%EF%BC%81%EF%BD%9E&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F576">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">64,485,306</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph2" style="width: 128.9%;"></div>
+<p class="gcf-cht-detail-bar__number">128.9%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">50,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">128.9</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">1,105</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>京都府（きょうとふ）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="576" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2019年7月29日～2019年12月31日（156日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1028" class="sorting-list__item">まちづくり・コミュニティ</a></li><li><a href="/gcf/project/tag/1029" class="sorting-list__item">インフラ・交通・施設</a></li><li><a href="/gcf/project/tag/1038" class="sorting-list__item">観光・PR</a></li><li><a href="/gcf/project/tag/1047" class="sorting-list__item">健康・医療</a></li><li><a href="/gcf/project/tag/1048" class="sorting-list__item">スポーツ</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1082" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_3.png 1x, /gcf/images_cf/sdg/sdg_icon_3@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_3.png" alt="SDGアイコン" decoding="async" />3.すべての人に健康と福祉を</a></li><li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li><li><a href="/gcf/project/sdgs/1091" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_12.png 1x, /gcf/images_cf/sdg/sdg_icon_12@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_12.png" alt="SDGアイコン" decoding="async" />12.つくる責任 つかう責任</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="576" class="gcf-nv-tab__button js-tab">進捗情報
+<span class="gcf-nv-tab__button-progress-number">2</span>
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">京都府</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20190617/o_7106c193c144144c319ec06667d6fda83186d90d.png" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">京都府では、2020年のオープンを目指してJR亀岡駅前でサンガスタジアム（京都スタジアム）の整備を進めています。<br/>
+スタジアムでは、国際的・全国的な試合が開催され、ハイレベルなスポーツを体感できる青少年の夢と憧れの舞台となることを目指しています。日本最大級の屋内クライミングウォール施設等も併設し、球技だけでなく様々なスポーツの聖地として、スタジアム周辺のにぎわいづくり、北中部地域へのゲートウェイとなるなど、夢は膨らむばかりです。<br/>
+また、スタジアムは、サッカー「京都サンガF.C.」のホームスタジアムとなり、たくさんの笑顔と感動を呼ぶ場になることを期待しています！<br/>
+スタジアムへ皆さんのお名前を刻み、新たな歴史を一緒に創ってみませんか？笑顔と感動を拡げましょう！<br/>
+<br/>
+※京都スタジアムは、ネーミングライツにより「サンガスタジアム by Kyocera」となる予定です。（本ページでは「サンガスタジアム」と表記）<br/>
+※2019年12月13日：2019年7月29日～11月30日に府へ直接寄附があった312件30,446,116円の寄附を、本ページ表示に追加しました。<br/>
+※2020年1月17日：2019年12月1日～12月31日に府へ直接寄附があった182件7,912,306円の寄附を、本ページ表示に追加しました。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">サンガスタジアム整備プロジェクト～あなたのお名前をスタジアムへ刻もう！～</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">府民の悲願！みんなでつくる感動スタジアム</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe width="680" height="382" src="https://www.youtube.com/embed/vjIDZsbkqis" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+<p class="gcf-txt-article">2011年１月、「京都府におけるスポーツ施設のあり方懇話会」から「国際的な試合等の開催が可能な球技場の新設を検討すべき」との提言がありました。<br/>
+府として検討を進めるなか、同年6月、スタジアム整備を要望する『48万人』の署名が集まり、府民の悲願として『国際的な球技場（スタジアム）整備』の準備を開始。<br/>
+2018年1月にスタジアム工事を着工し、2019年12月の完成を目指して、整備を進めています。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190716/gpfd_8c4c31ef0727ceb4d1f6d0b89318035669c47c57.jpg" />
+</figure>
+<p class="gcf-txt-article">府では、この府民の悲願達成を「ふるさと納税による寄附」で実現したいと考えています。<br/>
+完成する「サンガスタジアム（京都スタジアム）」へ掲出されるご芳名板で歴史にお名前を刻でいただき、新たな歴史を府民・寄附者の皆様で創っていきましょう！<br/>
+<br/>
+※ご芳名板は、5万円以上の寄附特典となります。<br/>
+※京都スタジアムは、ネーミングライツにより「サンガスタジアム by Kyocera」となる予定です。（本ページでは「サンガスタジアム」と表記）</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">ハイレベルなスポーツを体感できる、子どもたちの夢と憧れの「国際的スポーツの聖地」</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190617/gpfd_7d41bee4c39618848441853ff2b2b7710480cb27.jpg" />
+</figure>
+<p class="gcf-txt-article">サッカー・ラグビー・アメリカンフットボールの国際試合が開催可能な基準を満たしている、サンガスタジアム。<br/>
+観客席からピッチまでは最短7.5m。目の前で繰り広げられるハイレベルな試合。<br/>
+体感した子どもたちにとって、スタジアムが夢と憧れの舞台となり、ゆくゆくは「国際的なスポーツの聖地」となることを期待しています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190619/gpfd_ac519cffa3664c8ff6fbb06fe0f430adb4975127.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">2万人以上を収容可能なスタジアムは、サッカー・ラグビー・アメリカンフットボールへ対応するフィールドだけでなく、日本最大級の屋内クライミングウォール施設も併設します。球技だけでなく様々なスポーツの聖地となることを期待しています！</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190619/gpfd_da7f26d20210e489d56ab1b63113894d7eb595d2.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">また、スタジアムには、にぎわい創出エリアを設け、近隣の商業施設とともに、スタジアム周辺のにぎわいづくり、北中部地域へのゲートウェイとなるなど、スタジアムへの夢は膨らむばかりです。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">寄附金の使い道</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">皆様から頂いた寄附金は、「府民スポーツ振興基金」に積み立て、スタジアムの建設経費や維持管理経費に活用させていただきます。<br/>
+<br/>
+※寄附金が目標金額に達しなかった場合、また、目標金額以上の寄附を頂いた場合でも同様に、皆様から頂いた寄附金は、「府民スポーツ振興基金」に積み立て、スタジアムの建設経費や維持管理経費に活用させていただきます。<br/>
+※参考：スタジアム建設の総事業費 約156億円</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190618/offd_a9139c8df3426ceddf3d5023ea2f44652c0bf57b.jpg" alt="寄附金の使い道" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">笑顔と感動が拡がるスタジアムを目指して、2020年1月にオープン予定！</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">2018年1月：工事着工<br/>
+2019年12月：完成（予定）<br/>
+2020年1月：オープン（予定）</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190716/offd_c0f287bfdbc4a8b6a7fcbb43a50c0f907366c01a.jpg" alt="笑顔と感動が拡がるスタジアムを目指して、2020年1月にオープン予定！" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">京都サンガF.C.のホームスタジアムとして激闘を支えます！</span></h2>
+<p class="gcf-txt-article">完成予定の「サンガスタジアム」は、京都府内10市町をホームタウンとするサッカー「京都サンガF.C.」のホームスタジアムとなります。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190725/gpfd_50398501720db7973f57cc39fe315d10a7e88cf1.png" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190725/gpfd_5ef0967c073d4e84c69b605b5e0693c0d3ebf7d7.png" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190725/gpfd_6730c53d8862792daf4581dc0456b39f6b14927f.png" />
+</figure>
+<p class="gcf-txt-article">2019年、皆さまと感動を共有する熱い試合を展開する「京都サンガF.C.」。ホームタウンを中心に地域貢献活動も積極的に行っており、府は全力で応援しています。<br/>
+選手やサポーター、サンガに関わる皆様にとって、京都スタジアムが、笑顔と感動が生まれる「ホームスタジアム」となることを期待しています！</p>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">京都サンガF.C.とは？</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">京都にもJクラブを望む声が高まり、25万人の署名をうけて、1994年に京都サンガF.C.（当時は京都パープルサンガ）が誕生。以来、25年に渡り、多くのファン、サポーター、府民の方々とともに歩んできました。<br/>
+クラブ理念として「サンガに関係する全ての人々と夢と感動を共有し、地域社会の発展に貢献する」を掲げ、地域に根ざし、常に全力を出しきること、最後まで諦めない強い心で戦い抜くことで、応援いただいている人々と感動を共有し、夢や希望を与え続け、地域の誇りとなるチームを目指しています。<br/>
+また、サッカーを通じて地域貢献活動を積極的に行い、青少年の健全な育成に寄与するとともに、サンガの活動が仲間意識の拡大や楽しく健全なコミュニティの形成につながり、地域との連携・連帯を深めることで地元経済・社会の活性化に貢献しています。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190725/offd_f56bf19a23d1cd7a5a576c35d1f522bdddffd9b8.png" alt="京都サンガF.C.とは？" />
+</div>
+</div>
+</div>
+</div>
+<div class="exlink01 mT8 text-right txt-link"><a target="_blank" class="inline i-arrow" href="https://www.sanga-fc.jp/">京都サンガF.C. 公式Webサイト</a></div><div style="clear: both;"></div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">プロジェクトに懸ける思い</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">京都府知事　西脇隆俊</span></h3>
+<h3 class="gcf-ttl-h3">「サンガスタジアム by Kyocera」にあなたのお名前を刻みませんか？</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190731/gpfd_6ed389dcd54dbb663e77006eafe9a9ce4a80c88e.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">京都府では、京都駅から電車で約20分の亀岡駅前に府内初の球技専用スタジアム「サンガスタジアム by Kyocera」の整備を進めています。<br/>
+京都サンガF.C.のホームグラウンドにもなるこのスタジアムは、スタンドからピッチまでが最短で7.5ｍしか離れておらず、ファン一人ひとりの声援がダイレクトに選手へ届く、選手との一体感あふれるものになります。<br/>
+サッカー以外にもラグビーやアメフトにも対応可能であり、国際試合や全国大会などハイレベルな試合をダイナミックに楽しめますので、子供たちの夢や憧れを育むのはもちろんのこと、年齢や性別を問わず、多くの皆さまに楽しんでいただけると確信しています。<br/>
+スタジアムの整備にあたり、ご寄附をいただいた方のご芳名をスタジアムに掲出させていただきますので、是非、このプロジェクトにご賛同をいただき、ご支援をいただきますようお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">寄附者の皆様へ</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190618/gpfd_4f42c8e688a258b53e9a9f9ec93fe8db734e59d8.jpg" />
+<figcaption class="lyt-image__caption">（ご芳名板の掲出イメージ）</figcaption>
+</figure>
+<p class="gcf-txt-article">今回のプロジェクトでは、「ご芳名板のスタジアム掲出」などの寄附金額に応じた特典を用意いたしました。<br/>
+スタジアムへ皆さんのお名前を刻み、新たな歴史を一緒に創ってみませんか？<br/>
+笑顔と感動を京都へ拡げましょう！</p>
+<div class="gcf-lyt-detail__block">
+<h4 class="gcf-ttl-caution">【注意事項】</h4>
+<p class="gcf-lst-caution">・寄附金受領証明書の発送時期は、寄附のお申し込みを頂いてから、2ヶ月から3ヶ月後になります。ご了承、よろしくお願い申し上げます。</p>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">特典紹介</span></h3>
+<h3 class="gcf-ttl-h3">■3,000円以上の寄附をされた方が対象</h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">【特典1】シリアル番号入り記念カード</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">本プロジェクト限定のシリアル番号入り記念カードとなります。<br/>
+ご寄附の記念にいかがでしょうか!?</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190619/offd_f5468d86a78e47d6d429519096af02c8772540ee.jpg" alt="【特典1】シリアル番号入り記念カード" />
+</div>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">■10,000円以上の寄附をされた方が対象</h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">【特典2】完成記念イベント（内覧会）へのご招待＋【特典1】</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">2020年1月～2月に開催予定のスタジアム完成記念イベント（内覧会）にご招待します。<br/>
+下記日程のうち、ご都合のよい日時にお越しください。事前申し込みは不要で、御案内は順次発送します。<br/>
+この機会に普段は入ることのできないエリアを是非ご覧ください！<br/>
+<br/>
+▼開催日時：スタジアム完成記念イベント（内覧会）<br/>
+【2020年1月26日(日)】<br/>
+10:00～12:00（最終受付11:00）<br/>
+13:30～16:00（最終受付15:00）<br/>
+【2020年1月29日(水)】<br/>
+13:00～16:00（最終受付15:00）<br/>
+【2020年2月1日(土)】<br/>
+10:00～12:00（最終受付11:00）<br/>
+13:30～16:00（最終受付15:00）</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190619/offd_4e85de583b5049a88b30c4c99d42d811775c4da9.jpg" alt="【特典2】完成記念イベント（内覧会）へのご招待＋【特典1】" />
+</div>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">■50,000円以上の寄附をされた方が対象</h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">【特典3】ご芳名板をスタジアムに掲出＋【特典2】</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">スタジアム入口にご芳名板を掲出します。<br/>
+ご家族やお友達とお名前を並べて掲出することも可能です。<br/>
+未来を築くスタジアムへ、あなたのお名前を刻みましょう！</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190618/offd_0452488712bf544527f523882c47d5aa779b0707.jpg" alt="【特典3】ご芳名板をスタジアムに掲出＋【特典2】" />
+</div>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">■京都府外の方限定：100,000円～200,000円以上の寄附をされた方が対象</h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">【特典4～6】京都サンガF.Cホームゲーム観戦ご招待＋【特典3】</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">ピッチ全体を見渡すことができるメインスタンド指定席のチケットです。<br/>
+目の前で繰り広げられる熱い試合の観戦に是非おいでください！<br/>
+※京都府内に住民票を有する方には、「京都サンガF.C.ホームゲーム観戦ご招待」の提供が法律上できません。<br/>
+※ご招待はスタジアム完成後になり、観戦日については現在検討中です。決まりましたら、改めてお知らせいたします。<br/>
+<br/>
+▼特典4～6概要：京都サンガF.Cホームゲーム観戦ご招待<br/>
+　※京都府外の方限定<br/>
+【特典4_10万円以上の寄附をされた方】SS指定席１枚<br/>
+【特典5_15万円以上の寄附をされた方】SS指定席ペア・１試合<br/>
+【特典6_20万円以上の寄附をされた方】SS指定席ペア・２試合</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190726/offd_5472dbec95cc914b58e9389784e56b18592fe389.jpg" alt="【特典4～6】京都サンガF.Cホームゲーム観戦ご招待＋【特典3】" />
+</div>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">特典一覧</span></h3>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/26000/4670284/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190618/pd_cccfd35e3dcf1081f28cdf5a12823eb5eef451b9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【特典1】シリアル番号入り記念カード</h4>
+<p class="goods-col_price inline">3,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">サンガスタジアム（京都スタジアム）整備プロジェクト限定のシリアル番号入り記念カードとなります。
+ご寄附の記念にいかがでしょうか!?</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/26000/4670285/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190619/pd_0f97a34d214d2334d2eddb228589ceb2d2f92947.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【特典2】完成記念イベント（内覧会）へのご招待＋【特典1】</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">2020年1月～2月に開催予定のサンガスタジアム（京都スタジアム）完成記念イベント（内覧会）にご招待します。
+この機会に普段は入ることのできないエリアを是非ご覧ください！
+※【特典1】シリアル番号入り記念カードも特典の対象になります。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/26000/4670286/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190618/pd_e9e0ba25284224ba21dbc59d0b99753890c40ff8.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【特典3】ご芳名板をスタジアムに掲出＋【特典2】</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">サンガスタジアム（京都スタジアム）入口にご芳名板を掲出します。
+ご家族やお友達とお名前を並べて掲出することも可能です。
+未来を築くスタジアムへ、あなたのお名前を刻みましょう！
+※【特典2】の「完成記念イベント（内覧会）へのご招待」と「シリアル番号入り記念カード」も特典の対象になります。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/26000/4670287/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190726/pd_dc3f0db4fdcf1454e64669fee4c7ce785d6f96b1.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【特典4_京都府外の方限定】SS指定席１枚：京都サンガF.Cホームゲーム観戦ご招待＋【特典3】</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">ピッチ全体を見渡すことができるサンガスタジアム（京都スタジアム）メインスタンド指定席のSS指定席１枚のチケットです。
+目の前で繰り広げられる熱い試合の観戦に是非おいでください！
+※京都府内に住民票を有する方には、「京都サンガF.C.ホームゲーム観戦ご招待」の提供が法律上できません。
+※【特典3】の「ご芳名板をスタジアムに掲出」と「完成記念イベント（内覧会）へのご招待」、「シリアル番号入り記念カード」も特典の対象になります。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/26000/4670288/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190726/pd_dc3f0db4fdcf1454e64669fee4c7ce785d6f96b1.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【特典5_京都府外の方限定】SS指定席ペア・１試合：京都サンガF.Cホームゲーム観戦ご招待＋【特典3】</h4>
+<p class="goods-col_price inline">150,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">ピッチ全体を見渡すことができるサンガスタジアム（京都スタジアム）メインスタンド指定席のSS指定席ペア・１試合のチケットです。
+目の前で繰り広げられる熱い試合の観戦に是非おいでください！
+※京都府内に住民票を有する方には、「京都サンガF.C.ホームゲーム観戦ご招待」の提供が法律上できません。
+※【特典3】の「ご芳名板をスタジアムに掲出」と「完成記念イベント（内覧会）へのご招待」、「シリアル番号入り記念カード」も特典の対象になります。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/26000/4670289/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190726/pd_dc3f0db4fdcf1454e64669fee4c7ce785d6f96b1.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【特典6_京都府外の方限定】SS指定席ペア・２試合：京都サンガF.Cホームゲーム観戦ご招待：＋【特典3】</h4>
+<p class="goods-col_price inline">200,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">ピッチ全体を見渡すことができるサンガスタジアム（京都スタジアム）メインスタンド指定席のSS指定席ペア・２試合のチケットです。
+目の前で繰り広げられる熱い試合の観戦に是非おいでください！
+※京都府内に住民票を有する方には、「京都サンガF.C.ホームゲーム観戦ご招待」の提供が法律上できません。
+※【特典3】の「ご芳名板をスタジアムに掲出」と「完成記念イベント（内覧会）へのご招待」、「シリアル番号入り記念カード」も特典の対象になります。</p>
+</div>
+</a>
+</li>
+</ul><ul class="goods_list">
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<ul class="gcf-lst-bx" id="progress_list">
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2020年01月17日 18:00</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">寄附募集期間終了と寄附の御礼</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200117/t_c7564ff38a951bee2933b85009ce1140b092444d.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">本プロジェクトは2019年12月31日を持って、寄附募集期間を終了しました。<br/>
+たくさんの寄附を頂き、誠にありがとうございました。<br/>
+皆様からの寄附金は、「府民スポーツ振興基金」に積み立て、スタジアムの建設経費や維持管理経費に大切に活用させていただきます。<br/>
+５万円以上の寄附をいただいた方のご芳名板は、順次スタジアム北西ゲート付近に掲出します。<br/>
+<br/>
+サンガスタジアム by KYOCERAでは、2020年1月1日に竣工式を開催しました。<br/>
+2020年2月9日にはこけら落としとして、京都サンガとセレッソ大阪のプレシーズンマッチや、京都産品を使った「京都食べ尽くしフェス」などを開催しますので、ぜひスタジアムにお越しください。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-info__image">
+<div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200117/1_57ecd2af819d9bea5cbe5646819980fdf918703a.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200117/1_57ecd2af819d9bea5cbe5646819980fdf918703a.jpg" /></a>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="http://www.pref.kyoto.jp/kyoto_sports/" target="_blank">京都スタジアム整備について</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="456" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="456">1</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="456">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F576%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2019年12月18日 14:00</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">目標金額達成の報告と引き続きの応援のお願い</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20191218/t_4f05ce708ec98be20212732dc377f80efbcfe74f.png" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">2019年12月17日、本プロジェクトの目標金額を達成いたしました。<br/>
+たくさんの寄附を頂き、誠にありがとうございました。<br/>
+いただいた寄附金は、「府民スポーツ振興基金」に積み立て、スタジアムの建設経費や維持管理経費に大切に活用させていただきます。<br/>
+<br/>
+目標金額は達成しましたが、寄附の受付は2019年12月31日までしております。<br/>
+プロジェクト寄附特典の内覧会でスタジアムをご覧いただき、ご芳名板の前でお写真撮影はいかがでしょうか!?<br/>
+皆様の引き続きの応援、お待ちしています！</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="http://www.pref.kyoto.jp/kyoto_sports/" target="_blank">京都スタジアム整備について</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="408" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="408">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="408">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F576%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+</ul>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">京都府</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__image"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20190617/m_c654c7435e6df696f01a6afddc37e49efdc91dcb.jpg" /></div>
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">京都府では、誰もがスポーツに携わることのできる環境を整備し、府民がスポーツに親しむ中で、トップアスリートの輩出や地域の交流促進の好循環を創出する「スポーツ王国・京都」の実現を目指しています。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">實好さん、サンガをJ1へ！<br/>
+立命館サッカー部の後輩より。</p>
+<p class="gcf-bx-message__date">2019年12月31日 23:52</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">サンガ頑張れ🚩😃🚩<br/>
+J1昇格😄⚽️㊗️</p>
+<p class="gcf-bx-message__date">2019年12月31日 22:48</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">人生は　楽しく幸せに</p>
+<p class="gcf-bx-message__date">2019年12月31日 21:59</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">新たな関西のスポーツシーンでの<br/>
+舞台となる事を期待しています。</p>
+<p class="gcf-bx-message__date">2019年12月31日 18:41</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">サンガ来年こそは、Ｊ1だぞー</p>
+<p class="gcf-bx-message__date">2019年12月31日 17:10</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">新スタジアムに是非観戦に行かせていただきます</p>
+<p class="gcf-bx-message__date">2019年12月31日 13:14</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">子供達に本物のサッカーを見れる機会を是非作って下さい。</p>
+<p class="gcf-bx-message__date">2019年12月31日 7:05</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">ガンバファンです！j１の舞台で会えること楽しみです。スタジアム行きたい！</p>
+<p class="gcf-bx-message__date">2019年12月30日 23:40</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">来年、新スタジアムでの昇格期待しています！<br/>
+関西のサッカークラブでJリーグを盛り上げましょう</p>
+<p class="gcf-bx-message__date">2019年12月30日 22:54</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">試合見に行きます。</p>
+<p class="gcf-bx-message__date">2019年12月30日 22:43</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">京都にもヨーロッパの国々のようなサッカー文化を根ざせるよう、応援してます！</p>
+<p class="gcf-bx-message__date">2019年12月30日 19:16</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">出身地にサッカー専用スタジアムができるなんて、<br/>
+夢のようです！地元のシンボルとして、常勝チームの<br/>
+ホームスタジアムとして、その存在感を高めるべく、<br/>
+みんなでアピールしていきましょう！</p>
+<p class="gcf-bx-message__date">2019年12月30日 13:38</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">今年こそ、<br/>
+京都スタジアムでサンガが優勝出来ますように！<br/>
+応援しています。<br/>
+</p>
+<p class="gcf-bx-message__date">2019年12月29日 16:20</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">全国のどの都道府県よりも充実したスポーツの活性化を切に望みます。</p>
+<p class="gcf-bx-message__date">2019年12月29日 10:48</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">応援してます！</p>
+<p class="gcf-bx-message__date">2019年12月29日 10:21</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">サッカー京都サンガFCの活動が社会貢献活動に繋がり、京都府の発展に貢献できることを祈念しています。</p>
+<p class="gcf-bx-message__date">2019年12月29日 0:42</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">スタジアムを建ててくれて、ありがとうございます。亀岡に住む者として、誇りに思える存在にしていきたいと思います。</p>
+<p class="gcf-bx-message__date">2019年12月28日 0:55</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">京都サンガがJ1に昇格できるよう府民全体で応援しましょう！</p>
+<p class="gcf-bx-message__date">2019年12月27日 0:00</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">がんばれ</p>
+<p class="gcf-bx-message__date">2019年12月25日 20:56</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">京都スタジアムから世界へ京都を発信すると共に<br/>
+末永く京都サンガと共存京栄でお願いします</p>
+<p class="gcf-bx-message__date">2019年12月25日 13:19</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/576">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">京都府の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/26000/31?from=2&amp;gcf_project_id=576"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,511,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g576,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

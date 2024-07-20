@@ -1,0 +1,1905 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/1191" />
+
+<title>【緊急支援】コロナ危機を乗り越え、ワンコの命をつなぐ｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="【緊急支援】コロナ危機を乗り越え、ワンコの命をつなぐ｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/898" />
+<meta property="og:description" content="ピースワンコ・ジャパンの活動をご支援いただき、ありがとうございます。私たちは犬・猫殺処分数が全国ワーストだった広島県で、犬たちを保護し、２０１６年４月から１５００日以上、ガス室を使った残酷な殺処分をストップしています。みなさまのご支援のおかげで、これまでに２１００頭以上の保護犬を新しいご家族のもとへ送り出しました。しかし、新型コロナウイルスの感染拡大により、私たちの保護・譲渡活動にも大きな影響が出ています。譲渡センターの休業や譲渡会の中止などで譲渡がなかなか進まず、一方で殺処分対象犬の引き取りは続いているため、保護シェルターの運営が厳しくなっています。チャリティイベントの中止や、経済の落ち込みで、寄付収入も減ることが予想され、影響が長引けば「殺処分ゼロ」の維持が難しくなりかねない状況です。※ピースワンコの『殺処分ゼロ』とは，治癒見込みがない病気や譲渡に適さない等として愛護センターの判断で安楽死対象となった犬以外の殺処分をなくすことを指しています。新型コロナで命の危機にさらされるのは、人間だけではありません。この難局を乗り越えてワンコたちの命を守り続けるため、私たちは全力を尽くします。そして、それには皆様のご支援が必要です。どうぞよろしくお願い申し上げます。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20200527/s_c2b477a545d62645cb43d756b64e012a98f47665.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20200527/s_c2b477a545d62645cb43d756b64e012a98f47665.jpg" />
+<meta property="twitter:title" content="【緊急支援】コロナ危機を乗り越え、ワンコの命をつなぐ｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="ピースワンコ・ジャパンの活動をご支援いただき、ありがとうございます。私たちは犬・猫殺処分数が全国ワーストだった広島県で、犬たちを保護し、２０１６年４月から１５００日以上、ガス室を使った残酷な殺処分をストップしています。みなさまのご支援のおかげで、これまでに２１００頭以上の保護犬を新しいご家族のもとへ送り出しました。しかし、新型コロナウイルスの感染拡大により、私たちの保護・譲渡活動にも大きな影響が出ています。譲渡センターの休業や譲渡会の中止などで譲渡がなかなか進まず、一方で殺処分対象犬の引き取りは続いているため、保護シェルターの運営が厳しくなっています。チャリティイベントの中止や、経済の落ち込みで、寄付収入も減ることが予想され、影響が長引けば「殺処分ゼロ」の維持が難しくなりかねない状況です。※ピースワンコの『殺処分ゼロ』とは，治癒見込みがない病気や譲渡に適さない等として愛護センターの判断で安楽死対象となった犬以外の殺処分をなくすことを指しています。新型コロナで命の危機にさらされるのは、人間だけではありません。この難局を乗り越えてワンコたちの命を守り続けるため、私たちは全力を尽くします。そして、それには皆様のご支援が必要です。どうぞよろしくお願い申し上げます。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,521,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="898" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">【緊急支援】コロナ危機を乗り越え、ワンコの命をつなぐ</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">【緊急支援】コロナ危機を乗り越え、ワンコの命をつなぐ</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1026">動物&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20200527/d_a353622fb1a5a2c82fa690428eb801756266c05d.jpg" alt="main_img" decoding="async" />
+<img class="gcf-lyt-detail__complete" src="/gcf/images_cf/icon_goal_brown.png" alt="達成" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E3%80%90%E7%B7%8A%E6%80%A5%E6%94%AF%E6%8F%B4%E3%80%91%E3%82%B3%E3%83%AD%E3%83%8A%E5%8D%B1%E6%A9%9F%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E3%80%81%E3%83%AF%E3%83%B3%E3%82%B3%E3%81%AE%E5%91%BD%E3%82%92%E3%81%A4%E3%81%AA%E3%81%90&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F898">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">31,466,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph2" style="width: 104.8%;"></div>
+<p class="gcf-cht-detail-bar__number">104.8%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">30,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">104.8</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">1,308</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>広島県神石高原町（ひろしまけん じんせきこうげんちょう）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="898" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2020年6月5日～2020年8月31日（88日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1057" class="sorting-list__item">動物</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="898" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">広島県神石高原町×ピースウィンズ・ジャパン</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20200603/o_276ad0b81e664c31565b3a06057dc60a047eeaf5.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">ピースワンコ・ジャパンの活動をご支援いただき、ありがとうございます。私たちは犬・猫殺処分数が全国ワーストだった広島県で、犬たちを保護し、２０１６年４月から１５００日以上、ガス室を使った残酷な殺処分をストップしています。みなさまのご支援のおかげで、これまでに２１００頭以上の保護犬を新しいご家族のもとへ送り出しました。<br/>
+<br/>
+しかし、新型コロナウイルスの感染拡大により、私たちの保護・譲渡活動にも大きな影響が出ています。譲渡センターの休業や譲渡会の中止などで譲渡がなかなか進まず、一方で殺処分対象犬の引き取りは続いているため、保護シェルターの運営が厳しくなっています。チャリティイベントの中止や、経済の落ち込みで、寄付収入も減ることが予想され、影響が長引けば「殺処分ゼロ」の維持が難しくなりかねない状況です。<br/>
+<br/>
+※ピースワンコの『殺処分ゼロ』とは，治癒見込みがない病気や譲渡に適さない等として愛護センターの判断で安楽死対象となった犬以外の殺処分をなくすことを指しています。<br/>
+<br/>
+新型コロナで命の危機にさらされるのは、人間だけではありません。この難局を乗り越えてワンコたちの命を守り続けるため、私たちは全力を尽くします。そして、それには皆様のご支援が必要です。どうぞよろしくお願い申し上げます。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">新型コロナウイルスによる大きな影響</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">譲渡会は中止、譲渡センターは休業。でも引き取りは続いています。</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200603/gpfd_24490c3fc6948ea4ae0cedcde07ca8b0597aa3fb.jpg" />
+</figure>
+<p class="gcf-txt-article">春は保護犬たちの「卒業」の季節です。例年、気候が暖かくなるにつれて、里親さんに巡り合う幸せなワンコが増えていきます。しかし、新型コロナの影響を受けたこの春は違いました。<br/>
+<br/>
+毎週末に各地で予定されていた譲渡会は、３月以降、軒並み中止に。政府の緊急事態宣言と自治体からの営業自粛要請を受け、東京・神奈川にある計３カ所の譲渡センターは、４月上旬から休業せざるを得なくなりました。ワンコたちをいったん神石高原町のシェルターに戻し、スタッフは５月下旬まで在宅勤務しました。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200603/gpfd_3091dd761535b481b906cce1951d14908b3c4674.jpg" />
+</figure>
+<p class="gcf-txt-article">西日本の５カ所の譲渡センターも、営業時間の短縮や来場制限など、活動の縮小を余儀なくされています（６月１日時点）。譲渡センターから新しい家庭に迎えられた犬の数は、４月は昨年の６割弱、５月は半分以下にまで減りました。<br/>
+<br/>
+一方、動物愛護センターに収容され保護される犬は依然として多く、私たちは定期的にセンターに通って、今にも消えそうな命を保護しています。新型コロナウイルスの影響により、飼育放棄の犬が増えることも心配されています。</p>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">シェルターの滞留時間が長くなり、高齢犬の割合も高まっています。</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200528/gpfd_cd3ab1642eef47ba6decf42b5407e85743ce0cf0.jpg" />
+</figure>
+<p class="gcf-txt-article">譲渡活動の縮小に伴い、コロナの影響がなければすぐに新しいご家族の元へ卒業できそうな犬たちも、シェルターで暮らす時間が長くなっています。新たに保護された犬たちも、野犬の成犬が大半を占め、世話により労力がかかる高齢犬の割合が高まっています。また、心臓病や腎臓病など重い持病を抱える子も多く、手術費を含む医療費、療法食の費用などがどうしてもかさみます。<br/>
+<br/>
+飼育環境を維持するために、犬舎の増設など新たな設備投資も必要です。現在、６月中の完成を目指し、神石高原町内で新しい犬舎の建設が急ピッチで進んでいます。<br/>
+<br/>
+そんななか、飼育スタッフは新型コロナウイルスの感染防止に細心の注意を払いながら、懸命にワンコたちの世話を続けています。２８００頭以上の命を預かるシェルターでは、仕事を止めることはできず、テレワーク（在宅勤務）もできません。<br/>
+<br/>
+しかし、万が一シェルター内で感染者が出れば、スタッフ間で感染が広がり、スタッフだけでなく、ワンコたちの命をも危険にさらすことになってしまいます。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">それでもワンコの命を救うために</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">オンライン譲渡会など、活動継続のための工夫を重ねています。</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200601/gpfd_3f32a11c760a08f7bab2c1086b2f2838d51c85e6.jpg" />
+</figure>
+<p class="gcf-txt-article">神石高原町にある仙養シェルターでは、４月中旬から５月末までドッグランの利用や施設見学を休止し、里親希望者さんのみ予約制で対応してきました。来客が少なくなり、譲渡数は半減しました。<br/>
+<br/>
+このようななか、少しでも譲渡につながるように、Facebookやインスタグラム、LINEを活用して「オンライン譲渡会」を開催し、情報発信しています。５月の連休中に初めて開催したオンライン譲渡会では、三日間でのべ１０００人近い方々に視聴いただきました。<br/>
+<br/>
+全国各地の譲渡センターでも、自治体の要請に応じた休業やイベントの中止などで、譲渡活動は思うにまかせません。それでも、１頭でも多くの犬が新しい家族と出会うことができるように、SNSを活用した情報発信など、工夫しながらできる活動を続けています。<br/>
+<br/>
+１頭でも多くの命を救い、人と動物が支え合う社会を実現するという目標は、コロナの感染が広がっても変わりません。様々な困難を乗り越えて活動を継続できるよう、皆さまのご支援をよろしくお願い申し上げます。</p>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">動物をお世話する全国の仲間たちにもマスクを支援しました。</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200528/gpfd_ac3075018df2de5547e198f08689d0277299de55.jpg" />
+</figure>
+<p class="gcf-txt-article">消毒や手洗いの徹底、「密」を避けること、来客の制限など、考えられる限りの感染予防策は確実に実行しています。<br/>
+<br/>
+また、全国的にまだマスクの入手が困難だった５月初め、全国の動物保護関係団体を対象に公募を行い、動物たちのお世話をするスタッフや、動物病院の医療従事者などにマスクを送りました。<br/>
+<br/>
+コロナ感染への不安を感じながら、日夜を分かたず動物のために活動しているのは、どの団体さんも同じです。少しでも感染のリスクを下げ、安心して動物のお世話をしてもらえるように、との思いからでした。<br/>
+<br/>
+さっそく多くの団体さんから、写真とともに感謝のメッセージをいただきました。その一部をご紹介します。</p>
+<h4 class="gcf-ttl-h4">「マスク届きました！ありがとうございます。これで沢山のワンコのお散歩やドッグランにて心起きなく遊んであげられます。そして、我猫部のスタッフ達も大変喜んでおります。」<br/>
+<br/>
+「この度はマスクをご支援頂き、ありがとうございました。このマスクを着用し、保護犬達のお世話をさせて頂きます。早くコロナが落ち着きますように！」<br/>
+<br/>
+「支援マスクを受け取りました。新型コロナウイルス感染予防をしながら、ずっと元気に動物たちのお世話ができるよう、マスクを大切に使わせてもらいます。本当にありがとうございました。」<br/>
+<br/>
+「マスクがなかなか手に入らないので、大変助かります。私たちがコロナウィルスに感染することがないように、消毒なども徹底して行っていますし、三密を避けるようになどもしております。」<br/>
+<br/>
+「一人ひとりの意識の持ち方で、人の命はもちろん犬猫の命も守って行けます。マスクを大切に使いながら、今後の活動に精進して、１匹でも幸せな動物を増やしていきたいです。」</h4>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">「殺処分ゼロ」をあきらめないために。</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">どんな困難があっても、救った命を明日へつなぎたい。</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200528/gpfd_87b3f834d1f93db1b441c3afe2072ee61e1ca04d.jpg" />
+</figure>
+<p class="gcf-txt-article">日本全体の犬猫の殺処分数は、６年間で４分の１まで減少しています。（平成３０年度の全国の犬猫殺処分数は３８，４４４頭。私たちが殺処分ゼロを目指して活動を始めた平成２４年度は１６１，８４７頭）。私たちだけでなく、多くの動物保護団体と支えてくださる皆様のおかげで、犬猫の殺処分の状況ははるかに改善されてきています。<br/>
+<br/>
+しかし、新型コロナウイルスの感染拡大という想定外の事態により、このまま保護団体の活動が制限されたり、資金が集まらなくなったりすれば、動物の殺処分の状況はまた悪化する可能性もあります。<br/>
+<br/>
+どんな困難があっても、救った命を明日へつなぐ活動を止めるわけにはいきません。どうか皆様のあたたかなご支援をよろしくお願い申し上げます。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">殺処分から犬たちを救いたい。ピースワンコ・ジャパンプロジェクトとは</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">「ドリームボックス」から救われた夢之丞</span></h3>
+<p class="gcf-txt-article">２０１０年１１月、広島県動物愛護センターで１頭の雑種の子犬に出会いました。暗くガランとした収容室で、その子は錆びたケージに入れられ、コンクリートの冷たい床にポツンと置かれていました。<br/>
+<br/>
+その日私たちが譲り受けなければ、その子は生後約３カ月の小さな命を絶たれるはずでした。ボタンひとつで動く金属製の壁に押され、最後は狭い通路を通って「ドリームボックス」と呼ばれるガス室に追い込まれて、炭酸ガスで窒息させられるのです。<br/>
+<br/>
+「処分」が終わると、ドリームボックスの床が開き、犬たちは下の焼却場で灰になります。この子も死んでいく仲間たちの最後の叫びを、震えながら聞いていたに違いありません。<br/>
+<br/>
+いのちをつないだ子犬は、私たちのもとで成長し、災害救助犬・夢之丞になりました。<br/>
+<br/>
+ドリームボックスには、もがき苦しんだ犬や猫たちが残した爪あとが無数にありました。それを見て、「殺処分機をもう二度と稼働させてはいけない」と私たちは心に誓いました。</p>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j4rvbox-Iro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">私たちの活動</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200603/gpfd_55492c32698a8b42066a47e6ddd613075b55480f.jpg" />
+</figure>
+<p class="gcf-txt-article"> </p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">プロジェクトリーダー・安倍誠より</span></h3>
+<h3 class="gcf-ttl-h3">コロナ危機を乗り越え、命をつなげるためにあたたかなご支援をお願い申し上げます</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200603/gpfd_9fa682d138cc0f841e8b06a42784f1648058a3a4.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">新型コロナウィルスの世界的感染拡大により、様々な影響が出ています。譲渡活動が制限される中、運営にも影響が出始めています。私たちが保護できなくなれば犬たちの行き着く先は「殺処分」です。殺処分がなくなり、動物と人が共生していける社会が実現してくために、これからも応援をよろしくお願いします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">みなさまのご寄附でできること</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">皆様からの温かい支援がたくさんのワンコを救います。</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200703/gpfd_9b784bcdb1b8fc577329a03a35128c23b8815f81.jpg" />
+</figure>
+<p class="gcf-txt-article"> </p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">「実質負担2,000円」の「ふるさと納税」でご支援ください！</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200408/gpfd_7edf940ae82f36d7965806ebf3a76afd944c99ef.png" />
+</figure>
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<p class="gcf-txt-article">※ PWJでは、ご寄附額の最大15%を団体の運営全般にかかる費用（事務所の管理運営費、調査・提言活動のための費用など）に活用させていただいています。ご了承ください。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">お礼の品をご紹介</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">様々なお礼の品をお選びいただけます</span></h3>
+<p class="gcf-txt-article">神石高原米の新米や素材にこだわったデザート類、地元の食材を使い手作りで調理されたレトルトカレーセットなど、神石高原町ならではのお礼の品をお選びいただけます。<br/>
+<br/>
+※一部、お礼の品には限りがあり、変更の可能性があります。<br/>
+※写真はイメージです。内容物に変更の可能性がございます。<br/>
+※発送までに2〜3ヵ月程度かかることがあります。あらかじめご了承ください。<br/>
+※新型コロナウイルス感染症の影響により、一部返礼品関連業者が休業することとなりました。お届けまで今しばらくお待ちいただければ幸いです。ご迷惑をおかけしますがご理解のほどよろしくお願いいたします。</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">おススメのお礼の品</span></h3>
+<h4 class="gcf-ttl-h4">◆ピースワンコツアー</h4>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200603/gpfd_5143045e5f12cee77d8d9f8a2a9cd54aa390ae16.jpg" />
+</figure>
+<p class="gcf-txt-article">ピースワンコで暮らす老犬や病を抱える犬、障害のある犬たちのお世話をしていただくツアー。<br/>
+<br/>
+支援者の皆さまにピースワンコの活動をより深く知っていただき、犬の保護活動の現場を間近で見て、体験できるツアーです。（50万円以上のご寄付の方対象）<br/>
+※現在コロナの影響により、募集を中止しております。</p>
+<h4 class="gcf-ttl-h4">◆特製夢之丞人形</h4>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200210/gpfd_df1e74fae91324aa8a3d7bc3aab907894e4541c5.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">50,000円以上の寄附していただいた方で、希望される方にはお礼の品とは別に特製夢之丞人形を贈呈させていただきます。<br/>
+※全て手作りのためデザインが多少写真と異なる場合がございます。<br/>
+※在庫が無くなり次第終了します。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<h4 class="gcf-ttl-caution">【注意事項】</h4>
+<p class="gcf-lst-caution">新型コロナウイルス感染症の影響により、一部返礼品関連業者が休業することとなりました。お届けまで今しばらくお待ちいただければ幸いです。ご迷惑をおかけしますがご理解のほどよろしくお願いいたします。</p>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868302/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200528/pd_f91d0bc830f75f89222ba536a62bc300a8de171a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【数量限定、期間限定】神石高原町の黒いダイヤ　ピオーネ2㎏</h4>
+<p class="goods-col_price inline">40,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※9月以降、収穫後の発送となりますのであらかじめご了承ください。</p>
+</div>
+<p class="goods-col_textinfo pc">新鮮な水と空気の恵で育った大粒のぶどうは昼夜の寒暖差があるため、濃い色付きに仕上がり、「神石高原の黒いダイヤ」と呼ばれています。
+一房ずつベテラン検査員が色や形を厳しく検査し、お届けいたします。
+9月以降、収穫後の発送となりますのであらかじめご了承ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868303/38">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200528/pd_84250233b17c1f8d69375b88ac6effdd6d2275b9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【数量限定、期間限定】神石高原町産シャインマスカット2㎏</h4>
+<p class="goods-col_price inline">40,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>9月以降、収穫後の発送となりますのであらかじめご了承ください。</p>
+</div>
+<p class="goods-col_textinfo pc">新鮮な水と空気の恵で育った大粒のぶどうは昼夜の寒暖差があるため、とても甘く酸味が少なく育ちます。シャインマスカットは種なしで皮ごと食べられ、幅広い世代に愛されています。
+9月以降、収穫後の発送となりますのであらかじめご了承ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868304/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200528/pd_ca50f43a514f75a1dcfa143e38976452cdab4e45.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">フェアトレードコーヒー・レギュラー粉</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※新型コロナウイルス感染症の影響により、一部返礼品関連業者が休業することとなりました。お届けまで今しばらくお待ちいただければ幸いです。ご迷惑をおかけしますがご理解のほどよろしくお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">グレードアップした煎り立て、挽きたての薫り高い有機フェアトレードピースコーヒーをお届けします！
+[ピースコーヒーとは]
+農薬や化学肥料を一切使わない昔ながらの自然農法で栽培し、完熟豆のみをていねいに手摘みした東ティモールピースコーヒー。
+甘みと酸味がバランスよく共存し、透明感ですっきりしたきれいなコーヒーです。作る人の気持ちがこもった「有機フェアトレードコーヒー」を、焙煎したての状態で神石高原町より皆様にお届けします。
+＊ギフトボックスに入れてお届けします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868305/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200528/pd_495197478905e03d9dcee447734ccef1beffa48a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有機フェアトレードコーヒー・焙煎豆</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>※新型コロナウイルス感染症の影響により、一部返礼品関連業者が休業することとなりました。お届けまで今しばらくお待ちいただければ幸いです。ご迷惑をおかけしますがご理解のほどよろしくお願いいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">グレードアップした煎り立ての薫り高い有機フェアトレードピースコーヒーをお届けします！
+[ピースコーヒーとは]
+農薬や化学肥料を一切使わない昔ながらの自然農法で栽培し、完熟豆のみをていねいに手摘みした東ティモールピースコーヒー。
+甘みと酸味がバランスよく共存し、透明感ですっきりしたきれいなコーヒーです。作る人の気持ちがこもった「有機フェアトレードコーヒー」を、焙煎したての状態で神石高原町より皆様にお届けします。
+＊焙煎豆でのお届けです、挽いてお楽しみください。
+＊ギフトボックスに入れてお届けします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868306/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200528/pd_f9b987e5328bb738905c218524a071a14ef4dffb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">書籍『世界が、それを許さない。』</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<p class="goods-col_textinfo pc">プロジェクトの運営母体であるNPO法人ピースウィンズ・ジャパンの20年余の歩みを代表理事の大西健丞が振り返る
+『世界が、それを許さない。』
+ぜひ手に取ってご覧いただければ幸いです</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868307/38">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200528/pd_f71ffdc4296e0ead8edcce01e5de198ed4858b13.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">神石高原町産こんにゃくを使った抹茶ケーキ</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から2か月前後で発送
+用意ができ次第順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">神石高原町産のこんにゃくを使った抹茶風味のケーキ「じんせきケーキ」。こんにゃくをジュレ状に加工したものをケーキの生地やこしあんに加えました。こんにゃくの成分で、ケーキにしっとり感が増し大変おいしく仕上がっております。この機会にぜひご賞味くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868308/38">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200528/pd_ce782e4ac77cdfd1cb7431b1795fedb58588a9f1.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">神石高原町産こんにゃく詰め合わせ　</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から2か月前後で発送</p>
+</div>
+<p class="goods-col_textinfo pc">神石高原町の自社農場にて栽培した「在来種（和玉）」を使用しております。
+芋の風味をしっかりと感じられ、風味と食感に優れたこんにゃくに仕上げました。昔気質な農家が造ったこんにゃくをお楽しみください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868309/38">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200528/pd_86b73a3d9f87e73099bbe0f95e2e5ceef4574506.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">神石高原放牧牛の特製ヨーグルトドリンク5本セット　</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から2か月前後で発送</p>
+</div>
+<p class="goods-col_textinfo pc">神石高原町の牧場で放牧された牛たちからとれた、毎朝絞り立ての新鮮な牛乳を、丁寧に「ノンホモ・低温殺菌」でヨーグルトドリンクにしました。保存料・安定剤無添加です。ミネラル豊富なてん菜糖を使用しており、甘さもまろやかです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868310/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200528/pd_345b4073492f63bc400c0ba974d863b0bac7f7e8.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ワンコにフードをプレゼント！</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">皆さまに返礼品をお送りする代わりに、その返礼品代をピースワンコ・ジャパンで暮らすワンコ達のフード代として使わせていただきます。
+毎月1頭あたり約6㎏分のフードを消費しており、中には病気などのため療法食を食べているワンコたちもいます。
+1頭1頭の体調に合わせてなるべく栄養価の高い、身体に良いフードを使用し、健康管理を行います。
+※このプレゼントは、ご寄附者いただいた方への返礼品送付ではありません。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868311/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200528/pd_262b5fbe3b064c838fa68df327eaf9073abca4ee.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ピオーネパンラスク</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から2か月前後で発送</p>
+</div>
+<p class="goods-col_textinfo pc">神石高原町の仙養ヶ原高原のふもと、水はけのよい勾配の急な山間部で栽培されたピオーネは甘味が強く粒が大きいのが特徴です。
+生で食べてもおいしいピオーネ粒を乾燥させ、自家製のパンと組み合わせピオーネパンラスクを作りました。
+カリッとした食感にピオーネの甘さが加わりおいしいラスクになりました。是非ご賞味下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868312/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200529/pd_342d0fb4494ec49e4ac6d7f243db09d69c1745e2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">こんにゃくラーメンセット（かき味噌味・豚骨醤油味） </h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※受注生産のため、お申込をいただいてからお作りし、発送させていただきます。
+　お届けまで数ヶ月ほどかかる場合がございますのでご了承くださいませ。</p>
+</div>
+<p class="goods-col_textinfo pc">神石高原産こんにゃく粉を麺に練りこんである、こんにゃくらーめんが2つの味で新登場しました。中国山地に囲まれた高原育ちの蒟蒻から作られた、神石高原産のこんにゃく粉を使用しています。
+こんにゃくのもちもちとした食感とラーメンの風味がいきており、味わい豊かなスープが一層おいしさを際立てます。
+かき味噌味
+広島ますやみその白味噌と米味噌をブレンドして広島産の牡蠣エキスを使った旨味濃厚なかき味噌味です。
+豚骨醤油味
+豚骨をベースに鶏ガラや野菜をじっくり煮込んだ豚骨醤油味です。
+※受注生産のため、お申込をいただいてからお作りし、発送させていただきます。
+　お届けまで数ヶ月ほどかかる場合がございますのでご了承くださいませ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868313/38">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200529/pd_3deb6771e34483fed497149c9c2ac807d7f956d1.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">神石高原米2㎏+唐辛子佃煮のセット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>10月以降に順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">清らかな水と澄み切った空気の中で丹精込めて育てられた神石高原米。昼間と夜間の温度差によって引き出された甘みと、粘りのある触感をお楽しみください。
+また広島県の山間にある地域、「源流の里しんさか」では、地元のお母さんたちが、昔から伝わるレシピで唐辛子の佃煮を作っています。
+辛みの強い唐辛子の佃煮と、麹を入れてまろやかにした唐辛子の佃煮を神石高原産のお米とセットにしました。
+おでんやおにぎりにつけて食べるのはもちろん、パスタや肉料理、野菜炒めなどに隠し味で使うとより一層美味しくなります。
+神石高原町でとれた美味しいコシヒカリと唐辛子の佃煮、どうぞ合わせてお召し上がりください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868314/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200529/pd_37108899eae7295d48b5c7068a58e558b4a94217.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ピオーネパンラスク＆ドライピオーネセット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">神石高原町の仙養ヶ原高原のふもと、水はけのよい勾配の急な山間部で栽培されたピオーネは甘味が強く粒が大きいのが特徴です。
+生で食べてもおいしいピオーネ粒を乾燥させ、小袋に入れて小分けしています。
+また自家製のパンと組み合わせピオーネパンラスクを作りました。
+カリッとした食感にピオーネの甘さが加わりおいしいラスクになりました。是非ご賞味下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868315/38">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200529/pd_3cc62ada19a90028e31145f16014d39d464cee65.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">レトルトカレーセット（ビーフ・ポーク）</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から2か月前後で発送
+用意ができ次第順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">神石高原町産のビーフとポークを使用したレトルトカレーです。製造過程は全て手作業、生産者の顔が見える安心の商品です。地元神石高原町産の食材をふんだんに使用したオリジナルのレトルトカレーをお楽しみください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868316/38">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200529/pd_015c45f0bd58e7199ab0399644916e2df8529d77.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">神石高原町コンニャクジェラート　</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から2か月前後で発送
+用意ができ次第順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">こんにゃくは神石高原町が誇る特産品の一つです。その蒟蒻の新たな魅力を発信するために、同町の蒟蒻農家「森岡農園」が蒟蒻ジェラート「AIQON」を開発いたしました。蒟蒻粉特有のとろみとクリーミーさをもちながら、意外にもさっぱりしています。蒟蒻の秘めた魅力が凝縮されたコンニャクジェラートをお楽しみください！</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868317/38">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200529/pd_03c9c86d5180abd9a3f951d094b7e70995a8928d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">神石高原ピオーネワイン</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から2か月前後で発送
+用意ができ次第順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">神石高原町にある仙養ヶ原高原のふもとで育てられたピオーネで造ったほんのり甘い微発砲ワインです。
+無濾過のため濁っていますがオリも楽しめる仕上がりになっています。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868318/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200529/pd_de984aec84023cd3321867c78c6f5ccaa360d3e8.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">神石高原町地酒　神雷（純米酒+本醸造酒）セット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">江戸時代中期の享保元年(１７１６年)に創業の老舗酒蔵です。
+酒銘｢神雷｣の由来はその昔酒造場に雷が落ちたが大過なかった事、また神の宿る国｢神石(じんせき)｣にあやかり命名されました。
+信頼して飲んでほしいとの思いも込められています。
+酒造蔵は標高500ｍに位置し年間平均気温で言うと東北地方の北部と同等の寒さとなる広島県随一の寒冷地でもあります。
+この寒冷な気候な気候と広島県に伝わる軟水醸造法により米の旨みをしかっかりと感じられるお酒を醸しています。
+純米酒・本醸造酒ともに広島県産の八反錦で醸したお酒です。
+酒蔵の風土と神石高原町の息吹を感じて頂けましたら幸いです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868319/38">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200529/pd_196aa7aeadffb2014e09ebfdb0eeca537670e58c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">神石高原米5kg+唐辛子佃煮のセット</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>10月以降に順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">清らかな水と澄み切った空気の中で丹精込めて育てられた神石高原米。昼間と夜間の温度差によって引き出された甘みと、粘りのある触感をお楽しみください。
+また広島県の山間にある地域、「源流の里しんさか」では、地元のお母さんたちが、昔から伝わるレシピで唐辛子の佃煮を作っています。
+辛みの強い唐辛子の佃煮と、麹を入れてまろやかにした唐辛子の佃煮を神石高原産のお米とセットにしました。
+おでんやおにぎりにつけて食べるのはもちろん、パスタや肉料理、野菜炒めなどに隠し味で使うとより一層美味しくなります。
+神石高原町でとれた美味しいコシヒカリと唐辛子の佃煮、どうぞ合わせてお召し上がりください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868320/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200529/pd_03ef0cd0c17464194806d10eccfb8a3aa5558cf2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有機フェアトレードコーヒー大好き2.4kgボックス・レギュラー粉</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">コーヒー愛飲家の皆様に向けて、ボリュームパックのご案内です。総量何と2.4kg！さらに、色々なワンコのラベルでお送りしますので楽しさも倍増です。ご家庭ではもちろん、職場、プレゼントなどに幅広くご利用ください。
+[ピースコーヒーとは]
+農薬や化学肥料を一切使わない昔ながらの自然農法で栽培し、完熟豆のみをていねいに手摘みした東ティモールピースコーヒー。
+甘みと酸味がバランスよく共存し、透明感ですっきりしたきれいなコーヒーです。作る人の気持ちがこもった「有機フェアトレードコーヒー」を、焙煎したての状態で神石高原町より皆様にお届けします。
+＊ご自宅用の包装でお届けします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868321/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200529/pd_e2a4b1ad344bb5ed55704695767b6ef7658aa37c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有機フェアトレードコーヒー大好き2.4kgボックス・焙煎豆</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">コーヒー愛飲家の皆様に向けて、ボリュームパックのご案内です。総量何と2.4kg！さらに、色々なワンコのラベルでお送りしますので楽しさも倍増です。ご家庭ではもちろん、職場、プレゼントなどに幅広くご利用ください。
+[ピースコーヒーとは]
+農薬や化学肥料を一切使わない昔ながらの自然農法で栽培し、完熟豆のみをていねいに手摘みした東ティモールピースコーヒー。
+甘みと酸味がバランスよく共存し、透明感ですっきりしたきれいなコーヒーです。作る人の気持ちがこもった「有機フェアトレードコーヒー」を、焙煎したての状態で神石高原町より皆様にお届けします。
+＊焙煎豆でのお届けです、ミルで挽いてお楽しみください。
+＊ご自宅用の包装でお届けします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868322/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200529/pd_d7a7d2edbeadc88bb8b03e1ef1b65e646df0df41.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">「幻の神石牛カレー」セット</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<p class="goods-col_textinfo pc">神石高原町のブランド牛である「神石牛」を使ったレトルトカレーです。製造過程は全て手作業、生産者の顔が見える安心の商品です。地元神石高原町産の食材をふんだんに使用したオリジナルのレトルトカレーをお楽しみください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868323/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200529/pd_734f2322457c94c64a05febf845882e163cb389b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">神石高原のはちみつ</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から2か月前後で発送
+用意ができ次第順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">神石高原町内で養蜂されている蜂からとれた貴重なはちみつを瓶詰にしてお届けします。自然な甘さをお楽しみください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868324/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200529/pd_2a50df0eebd8cceb0b9908c737ea585f82c316c2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">フェアトレードコーヒー・レギュラー粉定期便6回</h4>
+<p class="goods-col_price inline">60,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">定期便始めました！グレードアップした煎りたて、挽きたての薫り高い有機フェアトレードピースコーヒーを、毎月さまざまなワンコのラベルでお届けします！（全6回）
+[ピースコーヒーとは]
+農薬や化学肥料を一切使わない昔ながらの自然農法で栽培し、完熟豆のみをていねいに手摘みした東ティモールピースコーヒー。甘みと酸味がバランスよく共存し、透明感ですっきりしたきれいなコーヒーです。作る人の気持ちがこもった「有機フェアトレードコーヒー」を、焙煎したての状態で神石高原町より皆様にお届けします。
+＊2袋を6カ月間お届けします。
+＊ご自宅用の包装でお届けします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868325/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200529/pd_128709a79d885cd3ad1a9670202495c84b84a5af.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">㉒フェアトレードコーヒー・焙煎豆定期便6回</h4>
+<p class="goods-col_price inline">60,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">定期便始めました！グレードアップした煎りたての薫り高い有機フェアトレードピースコーヒーを、毎月さまざまなワンコのラベルでお届けします！（全6回）
+[ピースコーヒーとは]
+農薬や化学肥料を一切使わない昔ながらの自然農法で栽培し、完熟豆のみをていねいに手摘みした東ティモールピースコーヒー。甘みと酸味がバランスよく共存し、透明感ですっきりしたきれいなコーヒーです。作る人の気持ちがこもった「有機フェアトレードコーヒー」を、焙煎したての状態で神石高原町より皆様にお届けします。
+＊焙煎豆でのお届けです、ミルで挽いてお楽しみください。
+＊2袋を６カ月間お届けします。
+＊ご自宅用の包装でお届けします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868326/38">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200529/pd_bdfb279a7cfb5176f65388bf3179659c3524e45e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">神石高原米10㎏+唐辛子佃煮のセット</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>10月以降に順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">清らかな水と澄み切った空気の中で丹精込めて育てられた神石高原米。昼間と夜間の温度差によって引き出された甘みと、粘りのある触感をお楽しみください。
+また広島県の山間にある地域、「源流の里しんさか」では、地元のお母さんたちが、昔から伝わるレシピで唐辛子の佃煮を作っています。
+辛みの強い唐辛子の佃煮と、麹を入れてまろやかにした唐辛子の佃煮を神石高原産のお米とセットにしました。
+おでんやおにぎりにつけて食べるのはもちろん、パスタや肉料理、野菜炒めなどに隠し味で使うとより一層美味しくなります。
+神石高原町でとれた美味しいコシヒカリと唐辛子の佃煮、どうぞ合わせてお召し上がりください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868327/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200529/pd_dd7bf2b170f7c1460d1a57d4ff1436c10a063b0e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">フェアトレードコーヒー・レギュラー粉定期便12回</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">定期便始めました！グレードアップした煎りたて、挽きたての薫り高い有機フェアトレードピースコーヒーを、毎月さまざまなワンコのラベルでお届けします！（全12回）
+[ピースコーヒーとは]
+農薬や化学肥料を一切使わない昔ながらの自然農法で栽培し、完熟豆のみをていねいに手摘みした東ティモールピースコーヒー。甘みと酸味がバランスよく共存し、透明感ですっきりしたきれいなコーヒーです。作る人の気持ちがこもった「有機フェアトレードコーヒー」を、焙煎したての状態で神石高原町より皆様にお届けします。
+＊2袋を12カ月間お届けします
+＊ご自宅用の包装でお届けします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868328/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200529/pd_5f1d2bfa68e8f34c8152577fab5b88d170600954.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">フェアトレードコーヒー・焙煎豆定期便12回</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">定期便始めました！グレードアップした煎りたての薫り高い有機フェアトレードピースコーヒーを、毎月さまざまなワンコのラベルでお届けします！（全12回）
+[ピースコーヒーとは]
+農薬や化学肥料を一切使わない昔ながらの自然農法で栽培し、完熟豆のみをていねいに手摘みした東ティモールピースコーヒー。甘みと酸味がバランスよく共存し、透明感ですっきりしたきれいなコーヒーです。作る人の気持ちがこもった「有機フェアトレードコーヒー」を、焙煎したての状態で神石高原町より皆様にお届けします。
+＊焙煎豆でのお届けです、ミルで挽いてお楽しみください。
+＊2袋を12カ月間お届けします
+＊ご自宅用の包装でお届けします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868329/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200601/pd_c8ef4cbb533f66bc7fbeeadfa4f2a8c3c7c230d4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">神石高原米10㎏+神石高原のはちみつ</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>10月以降に順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">清らかな水と澄み切った空気の中で丹精込めて育てられた神石高原米。昼間と夜間の温度差によって引き出された甘みと、粘りのある触感をお楽しみください。
+合わせて、神石高原町内で養蜂されている蜂からとれた貴重なはちみつを瓶詰にしてお届けします。自然な甘さをお楽しみください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868330/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200529/pd_295638cea4ce19c1bef2f40eed29f94b7fcb4130.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">神石高原米60㎏（年3回に分けてお届け）+季節の特産品（年1回）+お名前プレート<br/>
+</h4>
+<p class="goods-col_price inline">500,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>10月以降に順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">神石高原町産のお米60kgを3回（2か月ごとにお送りします）に分けて、また秋には季節の特産品をお届けいたします。寄付者のお名前を記したプレートをピースワンコ・ジャパンの施設に掲示させていただきます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868331/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200529/pd_caf0945c07c98f9fe1ca767ca050e62fe9d70f02.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">神石高原米60kg(年3回に分けてお届け)+季節の特産品(年1回)</h4>
+<p class="goods-col_price inline">500,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>10月以降に順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">神石高原町産のお米60kgを3回（2か月ごとにお送りします）に分けて、また秋には季節の特産品をお届けいたします。寄付者のお名前を記したプレートをピースワンコ・ジャパンの施設に掲示させていただきます</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4868332/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200603/pd_ea6ac99735e3e2097f9fbaf17cf23489365ebfe4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">神石高原町米2kg</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>10月以降に順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">清らかな水と澄み切った空気の中で丹精込めて育てられた神石高原町米。昼間と夜間の温度差によって引き出された甘みと、粘りのある触感をお楽しみください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/34545/4876972/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200619/pd_48a3c771e5c7246bed1065bc08769553ed35771f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ピオーネクッキー</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">大粒で甘みの強さに定評のある神石高原町産のピオーネ。時間をかけてドライフルーツにしたあと、贅沢にラム酒漬けにしました。
+しっとりと口溶けの良い軽いクッキー生地に挟み、焼き上げました。
+一つ一つ丁寧に手作りをしています。是非食べてみてください。</p>
+</div>
+</a>
+</li>
+</ul><ul class="goods_list">
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">広島県神石高原町</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">神石高原町について<br/>
+<br/>
+●「神石高原町（じんせきこうげんちょう）」をご存知ですか？<br/>
+ほとんどの方は初めてお聞きになる町名かと思います。広島県にある世界遺産「宮島」や「平和公園」から約100㌔東の岡山県との県境に位置する豊かな自然に恵まれた町です。人口は約9,000人。標高約400～700ｍの中国山地の中にわずかな平地と里山，丘陵地で構成された中山間地域です。戦後から緩やかに続く近郊都市への人口の流出により，全国的にも早い時期から過疎高齢化社会を迎えてきた町ですが，自然だけでなく，都会では得られない「本当の豊かさ」が溢れる町，それが神石高原町の魅力です。<br/>
+<br/>
+●神石高原町は豊かな自然に恵まれた，天然の遊び場の宝庫です！<br/>
+夏は水遊び，冬は雪遊び・・・。都会では遠出しないと退館できないような自然と隣り合わせの環境がここにはあります！<br/>
+<br/>
+●中山間地にも，いろんな仕事があります。新しいチャレンジを応援しています。<br/>
+特産品のトマトや畜産にチャレンジする方，無農薬にこだわって農業に取組む方，地元の酒造メーカーや近隣都市に通勤する方まで，仕事も様々です。<br/>
+テレワークでできる仕事も増えている昨今。ＩＴ系の仕事で移住された方も。ストレスのないインターネット環境を整備しています。<br/>
+<br/>
+●子どもが少ないから待機児童もなく，登下校もスクールバスで安心・安全<br/>
+保育所は待機児童なし！小学校も少人数なので，先生や友達と距離も近く，学年を越えて仲良く遊びます。スクールバスのため登下校時の事故リスクも少なく，ご近所の目も届きやすいから治安が良いのも特徴です。<br/>
+<br/>
+●ゆとりの住空間と広い敷地。静かでゆったり流れる時間を満喫！<br/>
+近年，多くの移住者が古民家を改装して住まわれています。庭だけでなく，畑や山まで付いている物件もあり，都会のようにとなり近所を気にすることなく，ゆったりと暮らせる贅沢な時間もこの町の醍醐味です。<br/>
+<br/>
+●綺麗な水と空気，豊かな大地に恵まれ神石高原町は特産品も豊富！<br/>
+「まる豊とまと」や「神石牛」などのブランド特産を筆頭に，「こんにゃく」や「ピオーネ」など多くの地元産品が生産されています。６次産業課も推進され加工品として流通するものも増えています。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">ピースワンコ、譲渡がすすむとよいのですが。うちも近ければいただきたいです。</p>
+<p class="gcf-bx-message__date">2020年8月12日 12:57</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">ピースワンコの活動を、どうか今後もコロナに負けず、応援お願いいたします。私も、微力ながら、寄付を続けてまいります。</p>
+<p class="gcf-bx-message__date">2020年8月9日 20:25</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">ワンちゃんの殺処分０の町になって下さい。</p>
+<p class="gcf-bx-message__date">2020年8月6日 14:42</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">町をあげて動物保護に取り組んでいるご姿勢に感謝する気持ちでおります。動物も私たちも神様が創られたものです。動物を大切にすることは私たちを大切にすることに通じると信じております。</p>
+<p class="gcf-bx-message__date">2020年8月4日 8:56</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">頑張ってください　ありがとうございます</p>
+<p class="gcf-bx-message__date">2020年8月3日 23:41</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">多くのワンちゃんが幸せになれますように。<br/>
+応援しています。</p>
+<p class="gcf-bx-message__date">2020年8月3日 22:12</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">我が家のワンちゃん病気で天国、その分も、今のワンちゃんたちによろしくお願いします。</p>
+<p class="gcf-bx-message__date">2020年8月3日 20:00</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">去年、今年とここ2年、僅かですが応援させて頂いてます。<br/>
+これからも頑張って。<br/>
+</p>
+<p class="gcf-bx-message__date">2020年8月3日 13:00</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">たくさんのワンちゃんが幸せになれますように。</p>
+<p class="gcf-bx-message__date">2020年8月2日 21:33</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">いつもありがとうございます！</p>
+<p class="gcf-bx-message__date">2020年8月2日 20:03</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">応援しております。がんばってください。</p>
+<p class="gcf-bx-message__date">2020年8月2日 18:17</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">活動を応援しております。この寄付が少しでも支えになりますように。</p>
+<p class="gcf-bx-message__date">2020年8月1日 20:01</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">1匹でも多くの犬が幸せになりますように。</p>
+<p class="gcf-bx-message__date">2020年8月1日 14:39</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">ピースワンコ・ジャパンへの応援を今後もしていきたいと思います。<br/>
+御礼品はピースワンコ・ジャパンへ配送してください。</p>
+<p class="gcf-bx-message__date">2020年8月1日 11:53</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">尊い命を守るため、わずかではございますが寄附させていただきます。</p>
+<p class="gcf-bx-message__date">2020年7月31日 20:59</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">ありがとうございます。</p>
+<p class="gcf-bx-message__date">2020年7月31日 20:57</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">頑張ってください</p>
+<p class="gcf-bx-message__date">2020年7月30日 23:53</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">ワンちゃん達が少しでも幸せになれることを願っています。</p>
+<p class="gcf-bx-message__date">2020年7月30日 12:58</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">動物保護支援の活動は素晴らしく今後も継続されて下さい。</p>
+<p class="gcf-bx-message__date">2020年7月29日 17:33</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">この時期、本当に大変かと思いますが、少しでもお力になればとご支援させていただきます。がんばってください。</p>
+<p class="gcf-bx-message__date">2020年7月28日 20:29</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/898">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">広島県神石高原町の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/34545/38?from=2&amp;gcf_project_id=898"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,521,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g898,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

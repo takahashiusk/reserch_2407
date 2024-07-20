@@ -1,0 +1,2162 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/1953" />
+
+<title>地域に根ざす人材の育成～「当たり前」ではない島の魅力を発見しよう～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="地域に根ざす人材の育成～「当たり前」ではない島の魅力を発見しよう～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/1953" />
+<meta property="og:description" content="今回で5回目となる徳之島高校応援プロジェクトを行います。離島という地理的条件から、島の子ども達は本土の高校生に比べて、様々な職業や、価値観に出会う場面が少なく、結果的に職業選択の視野も狭くなってしまいます。本町としては、島の豊かな環境で育ちながらも、将来に向けて多種多様な夢を考えるきっかけを提供することは非常に重要と考えており、GCFプロジェクトを活用して様々な応援プロジェクトを行ってきました。昨年度実施したプロジェクトでは、JAL（日本航空株式会社）様、JALUX（ジャルックス）様、JAC（日本エアコミューター）様、SST（スープストックトーキョー）様の4社にも多大なるご協力をいただき、高校生に様々なプログラムの提供や助言、発表の場を設けていただきました。この場を借りて、心よりお礼申し上げます。今年も徳之島高校と上記4社がタッグを組み、「地域に根ざす人材の育成～“当たり前”ではない島の魅力を発見しよう～」と題して、町内唯一の高校である徳之島高校の生徒さんと改めて徳之島の魅力について考え、フィールドワークなどを実施しながら徳之島の特産品を集めた「食材BOX」を作り、本プロジェクトにご協力いただいた皆様へ返礼品としてもお届けしたいと考えております。今回のGCFでは、ページの作成から生徒さんにも手伝っていただき、島では経験することのできない貴重な体験や刺激を通して、高校生が普段から接しているあらゆる“当たり前”の価値を知り、高校生が考えた島の魅力を全国に伝えていきたいと思います。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20220907/d_e5448559598b6e6cb58929e267bf7257af1e0e13.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20220907/d_e5448559598b6e6cb58929e267bf7257af1e0e13.jpg" />
+<meta property="twitter:title" content="地域に根ざす人材の育成～「当たり前」ではない島の魅力を発見しよう～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="今回で5回目となる徳之島高校応援プロジェクトを行います。離島という地理的条件から、島の子ども達は本土の高校生に比べて、様々な職業や、価値観に出会う場面が少なく、結果的に職業選択の視野も狭くなってしまいます。本町としては、島の豊かな環境で育ちながらも、将来に向けて多種多様な夢を考えるきっかけを提供することは非常に重要と考えており、GCFプロジェクトを活用して様々な応援プロジェクトを行ってきました。昨年度実施したプロジェクトでは、JAL（日本航空株式会社）様、JALUX（ジャルックス）様、JAC（日本エアコミューター）様、SST（スープストックトーキョー）様の4社にも多大なるご協力をいただき、高校生に様々なプログラムの提供や助言、発表の場を設けていただきました。この場を借りて、心よりお礼申し上げます。今年も徳之島高校と上記4社がタッグを組み、「地域に根ざす人材の育成～“当たり前”ではない島の魅力を発見しよう～」と題して、町内唯一の高校である徳之島高校の生徒さんと改めて徳之島の魅力について考え、フィールドワークなどを実施しながら徳之島の特産品を集めた「食材BOX」を作り、本プロジェクトにご協力いただいた皆様へ返礼品としてもお届けしたいと考えております。今回のGCFでは、ページの作成から生徒さんにも手伝っていただき、島では経験することのできない貴重な体験や刺激を通して、高校生が普段から接しているあらゆる“当たり前”の価値を知り、高校生が考えた島の魅力を全国に伝えていきたいと思います。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,577,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="1953" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">地域に根ざす人材の育成～「当たり前」ではない島の魅力を発見しよう～</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">地域に根ざす人材の育成～「当たり前」ではない島の魅力を発見しよう～</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1018">子ども・教育&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20220907/d_e5448559598b6e6cb58929e267bf7257af1e0e13.jpg" alt="main_img" decoding="async" />
+<img class="gcf-lyt-detail__complete" src="/gcf/images_cf/icon_goal_brown.png" alt="達成" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%99%E4%BA%BA%E6%9D%90%E3%81%AE%E8%82%B2%E6%88%90%EF%BD%9E%E3%80%8C%E5%BD%93%E3%81%9F%E3%82%8A%E5%89%8D%E3%80%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E5%B3%B6%E3%81%AE%E9%AD%85%E5%8A%9B%E3%82%92%E7%99%BA%E8%A6%8B%E3%81%97%E3%82%88%E3%81%86%EF%BD%9E&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F1953">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">1,018,500</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph2" style="width: 101.8%;"></div>
+<p class="gcf-cht-detail-bar__number">101.8%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">1,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">101.8</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">50</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>鹿児島県徳之島町（かごしまけん とくのしまちょう）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="1953" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+<li>
+<a class="js-modal-not-available-in-mobile-app-trigger i-arrow" href="#" data-modal-id="contact">お問い合わせ先</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2022年10月11日～2023年1月8日（90日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1033" class="sorting-list__item">子ども・教育</a></li><li><a href="/gcf/project/tag/1051" class="sorting-list__item">不平等・格差</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1083" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_4.png 1x, /gcf/images_cf/sdg/sdg_icon_4@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_4.png" alt="SDGアイコン" decoding="async" />4.質の高い教育をみんなに</a></li><li><a href="/gcf/project/sdgs/1089" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_10.png 1x, /gcf/images_cf/sdg/sdg_icon_10@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_10.png" alt="SDGアイコン" decoding="async" />10.人や国の不平等をなくそう</a></li><li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="1953" class="gcf-nv-tab__button js-tab">進捗情報
+<span class="gcf-nv-tab__button-progress-number">10</span>
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">鹿児島県徳之島町</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20220907/o_8fa5c2fb384f47475255ee87b92928caf7169148.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">今回で5回目となる徳之島高校応援プロジェクトを行います。<br/>
+<br/>
+離島という地理的条件から、島の子ども達は本土の高校生に比べて、様々な職業や、価値観に出会う場面が少なく、結果的に職業選択の視野も狭くなってしまいます。<br/>
+本町としては、島の豊かな環境で育ちながらも、将来に向けて多種多様な夢を考えるきっかけを提供することは非常に重要と考えており、GCFプロジェクトを活用して様々な応援プロジェクトを行ってきました。<br/>
+<br/>
+昨年度実施したプロジェクトでは、JAL（日本航空株式会社）様、JALUX（ジャルックス）様、JAC（日本エアコミューター）様、SST（スープストックトーキョー）様の4社にも多大なるご協力をいただき、高校生に様々なプログラムの提供や助言、発表の場を設けていただきました。<br/>
+この場を借りて、心よりお礼申し上げます。<br/>
+<br/>
+今年も徳之島高校と上記4社がタッグを組み、「地域に根ざす人材の育成～“当たり前”ではない島の魅力を発見しよう～」と題して、町内唯一の高校である徳之島高校の生徒さんと改めて徳之島の魅力について考え、フィールドワークなどを実施しながら徳之島の特産品を集めた「食材BOX」を作り、本プロジェクトにご協力いただいた皆様へ返礼品としてもお届けしたいと考えております。<br/>
+<br/>
+今回のGCFでは、ページの作成から生徒さんにも手伝っていただき、島では経験することのできない貴重な体験や刺激を通して、高校生が普段から接しているあらゆる“当たり前”の価値を知り、高校生が考えた島の魅力を全国に伝えていきたいと思います。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">当たり前がゆえに気付けない島の魅力</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220916/gpfd_772986c84ca7e4c8037cde3bae1951cf89a7ebb9.jpg" />
+</figure>
+<p class="gcf-txt-article">徳之島は手付かずの大自然が色濃く残っており、2021年7月26日には世界自然遺産登録が決定し、ここにしか生息しない希少な動植物も数多く存在する世界的にも自然豊かな島です。<br/>
+<br/>
+島の大部分にサトウキビ畑が広がり、のんびりとした雰囲気の中で、島の子ども達は学生生活を過ごしています。<br/>
+<br/>
+しかしながら、生まれてからずっと島で生活している子どもにとって、豊かな自然は「当たり前」であり、島の魅力を認識している子どもは多くありません。<br/>
+また、子ども達が普段の生活において目にする職業が、離島という環境により制限され、進路の実質的な選択肢が限られてしまうことも大きな問題です。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">徳之島の教育的課題</span></h2>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">徳之島の高校生の課題として下記の点が上げられます。<br/>
+<br/>
+●徳之島における最高教育機関である高校を卒業する意義・価値が認識されていないため、島外高校への進学者が増加している。<br/>
+<br/>
+●進路の実質的な選択肢が限られているため、既存の「安定モデル」指向が強く、進路希望状況（進路への視野）に偏りが出ている。<br/>
+<br/>
+●自らの主体性と地域貢献力の可能性に気付いている生徒が少なく、島の将来性への期待が希薄な生徒が多い。</p>
+</div>
+</div>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">徳之島を知ってもらう機会を提供する</span></h2>
+<p class="gcf-txt-article">上記の課題を克服する為に、子ども達には学校や行政が協力して、様々な体験学習や島外の方々との交流の場が必要と考えます。<br/>
+<br/>
+今回のプロジェクトでは、徳之島の魅力や特産品について考えることで、自分たちが暮らす島の事を深く知るきっかけとなり、自分たちの言葉で島をＰＲして、自分たちが自慢したい“島の美味しいもの”を多くの方に知っていただくことで、徳之島が持つ可能性に気付いていただくことを目標としています。<br/>
+<br/>
+そして、様々な出会いや経験から、将来の目標や夢を大きく広げてもらいたいと考えています。</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">高校生が感じる徳之島高校・徳之島の魅力について</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">ページ作成にあたって</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">今回のプロジェクトでは、高校生にもページ作成を手伝っていただきました。<br/>
+<br/>
+高校生が自分たちの言葉で徳之島高校についての紹介や徳之島の魅力について考え、自分たちの言葉で表現しています。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">徳之島高校ってどんな学校？</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220907/gpfd_41d064824a3e43e2f8629acd9c67847b6e769519.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220914/gpfd_f228ba6fb650b892a15109ed36ed3c2cd1593322.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220914/gpfd_d64e9bcd10567b29d026faea59e82319e9f0b253.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220914/gpfd_799f9625b01e9bfe05048e79f8c8461a573e710e.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220914/gpfd_8c80b7f14899c7b87f1ffb9f21146668f1459a75.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220914/gpfd_c6ed790d2c237d2d730d9c2a0bebadfb3501066f.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220914/gpfd_342415c754b7d82504a359ad5cba48fe42e6bba4.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220914/gpfd_4b2b6b627ea405066e7f65efa8356fefe3b9cdde.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220914/gpfd_802ca2d8f0dbebb7dffe075381eb7a9ea4a54fd1.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">高校生が感じる徳之島の魅力</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220907/gpfd_91ca5b3b896a38457410e78082670d11ca0e0cee.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220915/gpfd_6309e5a00641736793f3dc1440735e5c37efe802.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">本プロジェクトに携わる方の想い</span></h3>
+<h3 class="gcf-ttl-h3">徳之島高等学校教諭　美坂　康太郎（みさか　こうたろう）先生</h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221003/gpfd_1bdc79ee85d478b2e22e5acb26db1e9c12910a11.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">徳之島は山と海が近く、自然が降り注いでくるような印象を受けるほど自然豊かな島です。<br/>
+徳之島で生活していると、どうしても近くにありすぎて気付かない部分がたくさんあると思いますので、このプログラムを通して、生徒には改めて徳之島の魅力を再発見してほしいと思います。<br/>
+<br/>
+また、今回のプログラムが進行していくにつれ、最初の頃と比べると生徒の発言が増え、コミュニケーションスキルが身についてきていると実感しています。大手企業の方々が講義してくださる貴重な機会ということで、生徒には多くのことを学び、生きる力を身につけてほしいと考えます。</p>
+</div>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">徳之島高等学校２年　鶴野　茉莉（つるの　まつり）さん</h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220914/gpfd_773ff3bab392afaac6e534c1162bb530dfd623ba.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">昨年、このプログラムに参加していた先輩達が楽しそうだったのを見て、今回このプログラムを希望しました。こういうプログラムに参加できることは貴重な機会なので、自分たちの意見も出しながら積極的に取り組んでいきたいと思います。<br/>
+徳之島は人と人との繋がりを大切にし、のびのびした生活や暮らしは島ならではの空気感があります。また、徳之島には島バナナや鶏飯といった美味しいフルーツや郷土料理がたくさんあり、こういった島の魅力をたくさん発信していけるよう頑張ります。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">私達も徳之島高校の生徒さんを応援します！</span></h2>
+<p class="gcf-txt-article">今回のプロジェクトでは、「日本航空株式会社」様、「株式会社JALUX」様、「株式会社スープストックトーキョー」様にもご協力いただき、島の高校生を一緒に応援いたします！</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221005/gpfd_070cc3ba8d1e5715913db19dfe0e8636b423ebbd.jpg" />
+</figure>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.jal.co.jp/jp/ja/">日本航空株式会社Webサイトへ</a></p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.jalux.com/">株式会社JALUX Webサイトへ</a></p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211020/gpfd_48d9a7277d484eadb8da1cccfb9b82c37d492bf7.jpg" />
+</figure>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.soup-stock-tokyo.com/">株式会社スープストックトーキョーWebサイトへ</a></p>
+<p class="gcf-txt-article">「日本航空株式会社」様、「株式会社JALUX」様、「株式会社スープストックトーキョー」様は、プロジェクト費用の一部を負担頂きながらご協力下さっています。<br/>
+徳之島の高校生を応援して下さり、誠にありがとうございます。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">応援いただいた寄附金の使い道</span></h2>
+<p class="gcf-txt-article">徳之島町では、今回のプロジェクト事業の目標金額を100万円に設定させていただきました。<br/>
+目標金額を超えるご支援をいただいた場合は、徳之島高校の活性化に向けた事業に活用させていただきます。<br/>
+（※他サイトでも寄附の募集を行っているため、事業費の一部を目標金額に設定しています。）<br/>
+（※目標金額に達成しなかった場合でも、事業費を一部見直して事業を実施いたします。）</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221003/gpfd_f8c9f01a4794c90adea1d8781e01898e75daeabe.jpg" />
+</figure>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">徳高生からのお願い</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220915/gpfd_b3d48b6897ebbf236f6fb145930a0402e416bad7.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe width="853" height="480" src="https://www.youtube.com/embed/LgCYvMEPULg" title="徳之島高校生徒によるPR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">寄附者の皆様へ～徳之島町ふるさと納税担当者より～</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220928/gpfd_bbcf773df26af45fa5656cb87682623971fb0065.jpg" />
+</figure>
+<p class="gcf-txt-article">徳之島町にとって、子ども達は島の宝であり未来です。<br/>
+<br/>
+徳之島は小さな島ですが、豊かな自然に囲まれたこの島で大きな夢や目標を持って過ごして欲しいと思います。<br/>
+<br/>
+ふるさと納税担当者も、島の子ども達をいつまでも応援しています！<br/>
+<br/>
+皆様からのあたたかい応援を心よりお待ちしております。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221005/gpfd_30d4a6d183f60985be77dbc0e39ca35b0e47000d.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211109/gpfd_5b2b79ed73c4d371d526c915c9ca98f625f9d0a5.jpg" />
+</figure>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.facebook.com/2179636908931651/">鹿児島県徳之島町ふるさと納税ｆａｃｅｂｏｏｋ</a></p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://twitter.com/tokuno_furusato">鹿児島県徳之島町ふるさと納税Ｔwitter</a></p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">応援下さった皆様へのお礼の品</span></h3>
+<p class="gcf-txt-article">今回のプロジェクトでは、高校生が自慢したい島の“美味しいもの”を全国の皆様にお届けいたします。<br/>
+島のフルーツを使ったジェラートや魅力たっぷり食材BOXなど、一生懸命考えております！<br/>
+<br/>
+高校生の支援にも繋がりますので、ぜひ返礼品をお選びいただきますようお願い申し上げます。</p>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46530/5559519/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221003/pd_220e36755dfbbe5071ee6d656c179dc541e45d2e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">1833【徳高応援プロジェクト】高校生が考えた島の魅力たっぷり食材ＢＯＸ（寄附額5千円）</h4>
+<p class="goods-col_price inline">5,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>GCF寄附受付期間となります。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>2023年3月頃からご希望くださった皆様へ発送させていただきます。
+※常温配送を予定しています。</p>
+</div>
+<p class="goods-col_textinfo pc">徳之島高校応援プロジェクト！！
+島の“みらい”である島の子ども達のチャレンジを一緒に応援していただけませんか。
+徳之島町唯一の高校である「徳之島高校」の生徒さんが、島の魅力を再発見しながら全国の皆様に知ってもらいたい島自慢の食材をご紹介させていたします。
+こちらの島の魅力たっぷり食材ＢＯＸ（寄附額５千円）では、令和３年度に本プログラムに参加した徳之島高校の生徒さんが授業の中で全国の皆様にご紹介したい島の特産品を詰め込んだＢＯＸとなります。
+徳之島産新じゃがいも、徳之島産タンカン等、高校生が厳選した徳之島の美味しいものをお届けいたします。
+島の子ども達が考えた魅力的な島の食材ＢＯＸを楽しみにしていただければ幸いです。
+【徳之島高校応援プロジェクト オリジナル返礼品】
+こちらの返礼品をご希望いただいた寄附金は、島の高校生を応援する取り組みに大切に活用させていただきます。
+島の子ども達を応援してくださり誠にありがとうございます。
+※こちらの返礼品は2023年3月頃にご希望くださった皆様へ発送させていただきます。
+※アレルギー等がある方は十分ご注意ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46530/5559520/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221003/pd_fa2cd011ce7ea95d23c6a5b5ce9ea6c2892da78e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">1834【徳高応援プロジェクト】高校生が考えた島の魅力たっぷり食材ＢＯＸ（寄附額1万円）</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>GCF寄附受付期間となります。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>2023年3月頃からご希望くださった皆様へ発送させていただきます。
+※常温配送を予定しています。</p>
+</div>
+<p class="goods-col_textinfo pc">徳之島高校応援プロジェクト！！
+島の“みらい”である島の子ども達のチャレンジを一緒に応援していただけませんか。
+徳之島町唯一の高校である「徳之島高校」の生徒さんが、島の魅力を再発見しながら全国の皆様に知ってもらいたい島自慢の食材をご紹介させていたします。
+こちらの島の魅力たっぷり食材ＢＯＸ（寄附額１万円）では、令和３年度に本プログラムに参加した徳之島高校の生徒さんが授業の中で全国の皆様にご紹介したい島の特産品を詰め込んだＢＯＸとなります。
+徳之島産新じゃがいも、徳之島産タンカン、徳之島産黒砂糖、パパイヤ漬け等、高校生が厳選した徳之島の美味しいものをお届けいたします。
+島の子ども達が考えた魅力的な島の食材ＢＯＸを楽しみにしていただければ幸いです。
+【徳之島高校応援プロジェクト オリジナル返礼品】
+こちらの返礼品をご希望いただいた寄附金は、島の高校生を応援する取り組みに大切に活用させていただきます。
+島の子ども達を応援してくださり誠にありがとうございます。
+※こちらの返礼品は2023年3月頃にご希望くださった皆様へ発送させていただきます。
+※アレルギー等がある方は十分ご注意ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46530/5559521/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221003/pd_37b57794cdd4039b3657666354a3d235ac138209.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">1837【徳高応援プロジェクト】高校生がセレクト＆デザインした島のジェラートセット（8個）</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>GCF寄附受付期間となります。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※2023年3月頃発送。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>乳・オレンジ
+※マンゴーはウルシ科の植物であるため、アレルギーを起こす可能性がございます。</p>
+</div>
+<p class="goods-col_textinfo pc">徳之島高校応援プロジェクト！！
+島の“みらい”である島の子ども達のチャレンジを一緒に応援していただけませんか。
+徳之島町唯一の高校である「徳之島高校」の生徒さんが、島の魅力を再発見しながら全国の皆様に知っていただきたい美味しい食材をご紹介します。
+こちらのジェラートセットでは、高校生が全国の皆様にご紹介したい島の食材を厳選し、それぞれのジェラートを実際に試食して、おススメのジェラートのみをお届けする返礼品です。
+また、パッケージデザインについても高校生が考えたオリジナルデザインでのお届けとなり、ぜひ楽しみにお待ちいただければ幸いです。
+【徳之島高校応援プロジェクト オリジナル返礼品】
+こちらの返礼品をご希望いただいた寄附金は、島の高校生を応援する取り組みに大切に活用させていただきます。
+島の子ども達を応援してくださり誠にありがとうございます。
+※2023年3月からご希望いただいた寄附者様へお届け致します。
+※（完熟マンゴー、ラムレーズン、パッション＆ドラゴン、シークニン、塩、向春草、生姜、たんかん）の中から高校生がセレクトします。
+※内容はまだ未定ですが、8種類の中にアレルギー等がある方は十分ご注意ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46530/5559522/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221003/pd_28f48a5d5d639d4f83214c276184161a53d12369.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">1846【徳高応援プロジェクト】高校生がセレクト＆デザインした島のジェラートセット（16個）</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>GCF寄附受付期間となります。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※2023年3月頃発送。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>乳・オレンジ
+※マンゴーはウルシ科の植物であるため、アレルギーを起こす可能性がございます。</p>
+</div>
+<p class="goods-col_textinfo pc">徳之島高校応援プロジェクト！！
+島の“みらい”である島の子ども達のチャレンジを一緒に応援していただけませんか。
+徳之島町唯一の高校である「徳之島高校」の生徒さんが、島の魅力を再発見しながら全国の皆様に知っていただきたい美味しい食材をご紹介します。
+こちらのジェラートセットでは、高校生が全国の皆様にご紹介したい島の食材を厳選し、それぞれのジェラートを実際に試食して、おススメのジェラートのみをお届けする返礼品です。
+また、パッケージデザインについても高校生が考えたオリジナルデザインでのお届けとなり、ぜひ楽しみにお待ちいただければ幸いです。
+【徳之島高校応援プロジェクト オリジナル返礼品】
+こちらの返礼品をご希望いただいた寄附金は、島の高校生を応援する取り組みに大切に活用させていただきます。
+島の子ども達を応援してくださり誠にありがとうございます。
+※2023年3月からご希望いただいた寄附者様へお届け致します。
+※（完熟マンゴー、ラムレーズン、パッション＆ドラゴン、シークニン、塩、向春草、生姜、たんかん）の中から高校生がセレクトします。
+※内容はまだ未定ですが、8種類の中にアレルギー等がある方は十分ご注意ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46530/5559523/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221005/pd_1677fe5e6c7f921253b7eedb2132178a71026e19.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">1835【徳高応援プロジェクト】アツアツご飯に！徳之島高校伝統の豚味噌（２缶）</h4>
+<p class="goods-col_price inline">3,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>GCF寄附受付期間となります。
+</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>2023年3月から順次発送。
+※郵便局の「レターパックプラス」を使用して発送いたします。</p>
+</div>
+<p class="goods-col_textinfo pc">徳之島高校応援プロジェクト！！
+島の“みらい”である島の子ども達のチャレンジを一緒に応援していただけませんか。
+徳之島町唯一の高校である「徳之島高校」の生徒さんが、島の魅力を再発見しながら全国の皆様に知ってもらいたい島自慢の食材をご紹介させていたします。
+こちらの返礼品では、徳之島高校の生徒さんが愛情込めて手づくりした豚味噌（２缶）をご用意しました。
+徳之島でも大人気の豚味噌は、豚肉と味噌に加え、黒砂糖やピーナッツをふんだんに使用していて、ごはんやおにぎりに抜群の相性です。
+また、野菜とからめて野菜炒めにすると程よい味噌味で調味料としても素材の美味しさを引き立たせます。
+島民オススメの”最後の一粒まで食べたくなる”究極のごはんのお供を食べて、島の高校生を応援して下さるとうれしいです。
+【徳之島高校応援プロジェクト オリジナル返礼品】
+こちらの返礼品をご希望いただいた寄附金は、島の高校生を応援する取り組みに大切に活用させていただきます。
+島の子ども達を応援してくださり誠にありがとうございます。
+（※豚味噌２缶セットはこの徳之島高校応援プロジェクトオリジナルの返礼品です。）
+※こちらの返礼品は郵便局の「レターパックプラス」を使用して発送いたします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46530/5559524/38">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221005/pd_2e72cf0b89959a050b7a0e1c78255d57abe4cbcf.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">1836【徳高応援プロジェクト】春の訪れを告げる！徳之島の新じゃがいも+徳之島高校名物豚味噌（2缶）</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>GCF寄附受付期間となります。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>2023年2月～3月頃から順次発送。
+※新じゃがいも4kg～5kgと豚味噌（2缶）をセットでお届けいたします。</p>
+</div>
+<p class="goods-col_textinfo pc">徳之島高校応援プロジェクト！！
+島の“みらい”である島の子ども達のチャレンジを一緒に応援したいただけませんか。
+徳之島町唯一の高校である「徳之島高校」の生徒さんが、島の魅力を再発見しながら全国の皆様に知ってもらいたい島自慢の食材をご紹介させていたします。
+こちらの返礼品では、春の訪れを告げる徳之島の「新じゃがいも」をお届け致します。
+徳之島の新じゃがいもは、全国的にも珍しく2月から収穫が始まるじゃがいもです。
+ミネラルを多く含んだ赤土の土壌で育った新じゃがいもは、肉じゃがやカレーなど、どの料理に入れても存在感は抜群で、料理の主役になること間違いなしです！
+ご飯のお供に大人気の徳之島高校伝統の豚味噌缶2つと一緒に梱包して2月～3月頃にかけてお届け致します。
+【徳之島高校応援プロジェクト オリジナル返礼品】
+こちらの返礼品をご希望いただいた寄附金は、島の高校生を応援する取り組みに大切に活用させていただきます。
+島の子ども達を応援してくださり誠にありがとうございます。
+※発送は2023年2月～3月頃にご希望いただいた皆様にお届け致します。</p>
+</div>
+</a>
+</li>
+</ul><ul class="goods_list">
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<ul class="gcf-lst-bx" id="progress_list">
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年09月07日 09:33</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">お礼の報告（実績報告）を郵送させていただきます。</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230907/t_e38a56c3625420e21dcf9f5423302051097c893c.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">みなさま、きゅ～うがめら（こんにちは）！<br/>
+鹿児島県徳之島町ふるさと納税（アマミノクロウサギふるさと納税）です。<br/>
+<br/>
+この度は「地域に根ざす人材の育成～「当たり前」ではない島の魅力を発見しよう～」に、たくさんのご寄附と応援メッセージをいただき誠にありがとうございました。<br/>
+<br/>
+今回、みなさまからいただいた「ふるさと納税」を活用した実績報告を作成致しました。<br/>
+本日、徳之島から郵送させて頂きますので、ご覧いただければ幸いです。<br/>
+<br/>
+みなさまからの応援で島の子ども達の夢や目標、未来がどんどん輝いています！！<br/>
+あたたかい応援をいただき誠にありがとうございました。<br/>
+<br/>
+おぼらだれん。<br/>
+（ありがとうございます。）<br/>
+<br/>
+鹿児島県徳之島町ふるさと納税担当者一同</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-info__image">
+<div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230907/1_a1014e16f835abb4431128a6da4db34d6a62da22.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230907/1_a1014e16f835abb4431128a6da4db34d6a62da22.jpg" /></a>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="2354" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="2354">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="2354">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F1953%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年03月20日 18:33</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">★応援くださった寄附者へ食材BOXを発送させていただきました！！★</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230320/t_907e3ab0612806d4d42b01b236cbeb6ed2ea6477.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">みなさん、きゅ～うがめら（こんにちは）！！<br/>
+鹿児島県徳之島町ふるさと納税です。<br/>
+<br/>
+ふるさとチョイスGCFで、島の高校生を応援して下さった寄附者様へ、高校生が考えた「食材BOX」の発送をさせていただきました。<br/>
+<br/>
+※高校生が考えたジェラートについて、製造が少し遅れており近日中に発送させていただきます。<br/>
+※「新じゃがいも」をご希望された皆様にも本日発送いたしました。<br/>
+<br/>
+高校生が島の魅力を伝える為に考えた、島たっぷりの食材BOXとなっていますので、楽しみにお待ちいただければ幸いです。<br/>
+<br/>
+全国各地からあたたかい想いをいただき誠にありがとうございました。<br/>
+<br/>
+おぼらだれん。（ありがとうございました。）</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-info__image">
+<div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230320/1_2d8fed42b4f0eefba5af8ef65720529df1d861e6.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230320/1_2d8fed42b4f0eefba5af8ef65720529df1d861e6.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230320/2_5fb6ef6616cbf8fbc1ddddeb751cbf38b4aed5cc.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230320/2_5fb6ef6616cbf8fbc1ddddeb751cbf38b4aed5cc.jpg" /></a>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="2054" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="2054">3</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="2054">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F1953%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年01月13日 21:38</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">★リーフレットの中身を考えよう！★</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230113/t_77427e8136c9a0c5dd95b3c9a039ad55e163cd75.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">みなさん、きゅ～うがめら（こんにちは）！<br/>
+アマミノクロウサギふるさと納税（徳之島町ふるさと納税）です。<br/>
+<br/>
+まずはじめに12月22日の授業は、急遽なくなってしまい活動報告ができませんでした。<br/>
+ご連絡が遅くなり申し訳ございませんでした。<br/>
+<br/>
+さて、本日は冬休み明け最初の授業でしたが、ジェラートのフレーバーの生産者さんにお越しいただき、インタビューを実施いたしました！<br/>
+特別講師として以前も徳高生に授業をしてくださったライターの川内イオさんが再来島してくださり、インタビューの仕方など実際にインタビューしながら教えてくださりました。<br/>
+<br/>
+生徒たちは、インタビューで聞く際に大切なことや対面だからこそ聞き出せるリアルな情報について真剣に学んでいました。<br/>
+<br/>
+その後、生徒は2グループに分かれインタビューを実施し、聞き出した内容をグループ毎に発表しました。<br/>
+生産者のこだわりやここでしか聞けない情報など、入れたい情報がいっぱいで魅力的なリーフレットが出来上がりそうです♪<br/>
+<br/>
+並行してパッケージデザインも進んでおりますので、公開まで今しばらくお待ちください。<br/>
+今年も徳之島高校の応援よろしくお願いいたします！！<br/>
+（※次回の授業は1月19日（木）となっております。）</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-info__image">
+<div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230113/1_df18ec41a9ed8adeb7909c7d90fc95fd42cf0199.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230113/1_df18ec41a9ed8adeb7909c7d90fc95fd42cf0199.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230113/2_69c9db79ee7b061a5e6274feaaeb6ae65233ec76.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20230113/2_69c9db79ee7b061a5e6274feaaeb6ae65233ec76.jpg" /></a>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="1954" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="1954">1</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="1954">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F1953%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2022年12月31日 15:47</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">≪目標金額達成!!≫島の高校生はますます元気です！！</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221231/t_14985747df9f4374910f4558e020d7577f8bdce9.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">みなさん、きゅ～うがめら（こんにちは）！<br/>
+<br/>
+鹿児島県徳之島町ふるさと納税（愛称：アマミノクロウサギふるさと納税）です。<br/>
+<br/>
+全国の皆様からのあたたかい応援によって、本日、プロジェクトの目標金額を達成することが出来ました。<br/>
+<br/>
+たくさんのご寄附に加えて、応援コメントもいただき、本当に本当にありがとうございます。<br/>
+※応援コメントは高校生も見ています！！<br/>
+<br/>
+私達の島は小さな島ですが、島を大好きな子ども達が、世界に羽ばたけるような環境を作りたいと、様々なプロジェクトを考えてきました。<br/>
+<br/>
+そして、昨年に引き続きJALグループ様や、スープストックトーキョー様にもご協力いただき、素敵なプロジェクトが進んでおります。<br/>
+<br/>
+応援下さった皆様のおかげで、島では高校生の「笑顔」と「元気」が溢れています。<br/>
+<br/>
+あたたかい想いをたくさんいただき、誠にありがとうございました。<br/>
+<br/>
+おぼらだれん。<br/>
+（ありがとうございます。）<br/>
+<br/>
+そして、皆様、よいお年をお迎えください！！</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-info__image">
+<div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221231/1_e7ce79b65abaa1b0d40399b04ff7ef773d106c4a.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221231/1_e7ce79b65abaa1b0d40399b04ff7ef773d106c4a.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221231/2_5292580b9a0d22d877cb0b9fcc0f5b2164e317da.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221231/2_5292580b9a0d22d877cb0b9fcc0f5b2164e317da.jpg" /></a>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="1930" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="1930">1</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="1930">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F1953%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2022年12月16日 09:23</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">★ロゴ・パッケージデザインを決定しよう！★</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221216/t_174682935a00791b31566991272f0b3c7587efb3.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">みなさん、きゅ～うがめら（こんにちは）！<br/>
+アマミノクロウサギふるさと納税（徳之島町ふるさと納税）です。<br/>
+<br/>
+本日の授業は、徳之島町役場に中学生が職場体験に来ていたため、中学生も授業に参加させていただきました。<br/>
+前回の授業からの宿題として、考えてきたロゴ・パッケージデザインの発表をし、中学生も交えてみんなの意見を聞きながらデザインをブラッシュアップしていきました。<br/>
+<br/>
+みんなの意見が詰まったロゴ・パッケージデザインとなっておりますので、商品の完成を楽しみにしていてください♪<br/>
+<br/>
+完成した後の時間では、ジェラートに同梱するリーフレットの構成や内容を考えました。<br/>
+先に完成したロゴ・パッケージデザインからイメージを膨らませ、また、ジェラートを受け取る相手のことを考えながら話し合っていました。<br/>
+こちらも非常に良いものができそうで楽しみです！<br/>
+<br/>
+授業の最後には、中学生からお礼の言葉を送られ、少し照れてるみんなの様子が可愛らしかったです♪<br/>
+（※次回授業は12月22日（木）の予定です。）</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-info__image">
+<div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221216/1_039b3675ff4ffc287c2220deba0e572576da60dc.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221216/1_039b3675ff4ffc287c2220deba0e572576da60dc.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221216/2_5f5eae7c0ae5f06066b1102bfea5a9984548c844.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221216/2_5f5eae7c0ae5f06066b1102bfea5a9984548c844.jpg" /></a>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="1889" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="1889">1</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="1889">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F1953%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2022年12月01日 19:15</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">★商品名を決定しよう！★</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221201/t_dee2ce9e9fcaf6abeaaf502136549a9d07dd7693.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">～【徳之島高校支援プロジェクト】活動報告！～<br/>
+みなさん、きゅ～うがめら（こんにちは）！<br/>
+アマミノクロウサギふるさと納税（徳之島町ふるさと納税）です。<br/>
+徳之島高校支援プロジェクトの活動報告をさせていただきます。<br/>
+<br/>
+12月1日（木）は、前回の授業で決まったキャッチコピーをもとに、各チーム毎に考えてきた商品名を発表してもらいました。<br/>
+<br/>
+どのチームも伝えたいことを上手くまとめて商品名を考えていました。発表されたものの中から、みんなで協議し商品名が決定いたしました！<br/>
+キャッチコピーを踏まえつつ島らしさもある素晴らしい商品名が決まりましたので、発表まで楽しみにしていてください♪<br/>
+<br/>
+次に、ジェラートに同梱するリーフレットに掲載したい内容をまとめました。<br/>
+こちらもチーム毎に発表してもらいましたが、ジェラートをお贈りする人に何を伝えたいか、何を知ってほしいのかを一生懸命考えていました。<br/>
+<br/>
+高校生の”想い”がこもったリーフレットも、間違いなく素晴らしいものができると思うと今から楽しみです。<br/>
+次回の授業では、今日決まった商品名をもとにロゴ・パッケージデザインを作っていきます。次回の授業までにどんなデザインを考えてくるのか、そして、どんなデザインができあがるのかワクワクしています♪<br/>
+<br/>
+（※次回授業は12月15日（木）の予定です。）</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-info__image">
+<div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221201/1_289d23529d6a7b03ba3149e3d4033084b486c7e1.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221201/1_289d23529d6a7b03ba3149e3d4033084b486c7e1.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221201/2_04a218fa31d5c676d528ff912d0dda5494fa59e4.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221201/2_04a218fa31d5c676d528ff912d0dda5494fa59e4.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221201/3_50d9653278d907ebaf6dadebc635ea6dcc1a8a45.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221201/3_50d9653278d907ebaf6dadebc635ea6dcc1a8a45.jpg" /></a>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="1849" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="1849">1</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="1849">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F1953%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2022年11月18日 20:53</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">★商品のデザインを考えよう！★～島の魅力が伝わるオリジナルデザインpart2～</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221118/t_a9b6c16c9bdf33059752c90179446052ce9f7be6.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">～【徳之島高校支援プロジェクト】活動報告！～<br/>
+みなさん、きゅ～うがめら（こんにちは）！<br/>
+アマミノクロウサギふるさと納税（徳之島町ふるさと納税）です。<br/>
+徳之島高校支援プロジェクトの活動報告をさせていただきます。<br/>
+<br/>
+11月17日（木）は、前回の授業で考えた商品コンセプトやパッケージデザインを各グループ毎にプレゼンしていただきました。<br/>
+どのグループもしっかりと考え込まれた内容で、かつ、グループ毎に特色が出てて素晴らしいプレゼンでした！<br/>
+<br/>
+発表した内容をもとに、デザイナーさんと一緒に各班のアイデアをより良いものに仕上げていきました。<br/>
+まだ内容は教えられませんが、高校生が一生懸命頑張ってデザインしたジェラートの完成を楽しみにしていてください♪<br/>
+（※次回授業は12月1日（木）の予定です。）</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-info__image">
+<div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221118/1_a784bc1a02b6581475facb704f2474f506fb0961.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221118/1_a784bc1a02b6581475facb704f2474f506fb0961.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221118/2_6327008d52be60f06693b7a443aec708966df500.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221118/2_6327008d52be60f06693b7a443aec708966df500.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221118/3_7fe0b9802917024f65486aae5387d5c6c55e3ee2.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221118/3_7fe0b9802917024f65486aae5387d5c6c55e3ee2.jpg" /></a>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="1823" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="1823">1</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="1823">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F1953%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2022年11月10日 19:01</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">★商品のデザインを考えよう！★～島の魅力が伝わるオリジナルデザイン～</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221110/t_7cf728ef71e9b6ed63a137df47e43baa8b7c50ef.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">～【徳之島高校支援プロジェクト】活動報告！～<br/>
+みなさん、きゅ～うがめら（こんにちは）！<br/>
+アマミノクロウサギふるさと納税（徳之島町ふるさと納税）です。<br/>
+徳之島高校支援プロジェクトの活動報告をさせていただきます。<br/>
+<br/>
+さて、本日11月10日（木）は生徒の皆さんに商品コンセプトやパッケージデザインを考えていただきました。<br/>
+生徒は4つのグループに分かれ、前回の授業で学んだことを生かしながら、個性豊かなデザインを考えていました。<br/>
+まだ、皆さまにお見せすることはできませんが、高校生ならではの発想で面白いものがたくさん出来ていました♪<br/>
+次回の授業では、生徒さんが作ったデザインを実際にデザイナーさんに見ていただき、フィードバック等をしていただく予定です。次回もお楽しみに！<br/>
+（※次回授業は11月17日の予定です。）</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-info__image">
+<div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221110/1_9b67a220b0e363ab7f8a5857814887a955033b06.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221110/1_9b67a220b0e363ab7f8a5857814887a955033b06.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221110/2_fb2382b3b8e3f1bedd435cdb4dc562232e3acd9b.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221110/2_fb2382b3b8e3f1bedd435cdb4dc562232e3acd9b.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221110/3_8b2f1cff35e966c04223738426e64a0231faf4ce.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221110/3_8b2f1cff35e966c04223738426e64a0231faf4ce.jpg" /></a>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="1812" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="1812">1</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="1812">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F1953%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2022年10月28日 16:40</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">★私のイチ押しフレーバーはこれだ！★～プレゼン大会♪～</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221028/t_2cdf89b35c9f2ca2ff84e8bdbdce164db0498688.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">みなさん、きゅ～うがめら（こんにちは）！<br/>
+<br/>
+10月27日（木）の授業では、生徒さんに前回の授業で試食したジェラートについて、「私のイチ押しフレーバーはこれだ！」という内容でプレゼンしていただきました。<br/>
+一人3分ほどのプレゼン時間の中で、一番おいしかったフレーバーについての味の感想やおすすめポイントを発表していただきました。<br/>
+果物を皮ごと使用しているものや、果汁のみを使用しているものなど、こだわりを持って製造していることを知りました。<br/>
+また、好きなフレーバーの果物について自分の体験を含めての発表もあり、思わず食べてみたくなるプレゼンばかりでした♪<br/>
+今日のプレゼン内容から、返礼品の中身をみんなで決定していきますので、楽しみにお待ちください。<br/>
+<br/>
+授業の後半では、スープストックトーキョーの方にデザインについて学びました。<br/>
+デザインといっても、いきなり絵や文字を書き始めるわけではなく、商品にあったデザインになるよう事前にたくさんの調査をしなければならないということに、生徒も興味津々に聞き入っていました。<br/>
+全国の面白デザインなども見せてもらい、生徒はデザインについてのイメージが少しずつ固まってきたような感じでした。<br/>
+<br/>
+どのような商品が出来上がるか楽しみです♪<br/>
+（※次回授業は、11月10日（木）となります。）</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-info__image">
+<div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221028/1_521fba62bd908d8ebbe9a15a061b0a92b2f41a39.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221028/1_521fba62bd908d8ebbe9a15a061b0a92b2f41a39.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221028/2_e3ebcb1bcabe656e00987861acecd767e33775cc.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221028/2_e3ebcb1bcabe656e00987861acecd767e33775cc.jpg" /></a>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="1789" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="1789">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="1789">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F1953%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2022年10月28日 16:23</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">★私のイチ押しフレーバーはこれだ！★～ジェラート試食会♪～</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221028/t_1e5d695931dc102673226969e0ca6270e81cf824.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">みなさん、きゅ～うがめら（こんにちは）！<br/>
+<br/>
+10月13日（木）の授業では、本町の美農里館で製造されているジェラート＆ソルベを生徒さんに試食していただきました。<br/>
+<br/>
+8種類あるフレーバーを試食し、「私のイチ押しフレーバーはこれだ！」という内容で次回授業で発表していただく予定です。<br/>
+<br/>
+生徒さんはジェラート＆ソルベに舌鼓を打ちながらも、疑問に思ったことを積極的に質問していました。<br/>
+<br/>
+今後は、生徒さんが選んだフレーバーにパッケージデザインまで考え、返礼品として皆さまにお届け予定となります♪</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-info__image">
+<div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221028/1_be48084d718d66a489d4961a96f3abc93470e6dc.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221028/1_be48084d718d66a489d4961a96f3abc93470e6dc.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221028/2_924e079a9589af0ff87decdf2b328a9a8259e76e.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221028/2_924e079a9589af0ff87decdf2b328a9a8259e76e.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221028/3_56d492d255db88e09752d76753652bd7f0056512.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20221028/3_56d492d255db88e09752d76753652bd7f0056512.jpg" /></a>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="1788" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="1788">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="1788">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F1953%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+</ul>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">鹿児島県徳之島町</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">徳之島町は、鹿児島から南南西約490キロ、奄美群島のほぼ中心に浮かぶ徳之島の東部に位置し、人口およそ1万人が暮らす自然豊かな町です。<br/>
+手付かずの大自然や透き通るコバルトブルーの海が広がる徳之島は、2021年7月26日に世界自然遺産登録が決定し世界から注目を浴びています。<br/>
+また、アマミノクロウサギをはじめとする多くの固有種や種の多様性に富むサンゴ礁、地域特有の伝統芸能や闘牛大会などの歴史・文化が今なお色濃く残っており、都会の暮らしとは違ったスローライフが魅力の町です。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">徳之島出身の知人を思い浮かべ…しかし、決め手は学生さんらのメッセージビデオ…コロナ禍での明るいパワーに、“頑張れ➰”とエールを送りたかった。何かうまれるか‼️最後まで、やりきってくださいませ➰❤と祈ります。</p>
+<p class="gcf-bx-message__date">2022年12月30日 16:03</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">都会でも地方でも、良い面も悪い面もあり。　周囲が良い人達に恵まれていて、健康で、良い時間を過ごそうという意志を持てる限り、そこがどこであれ、良い青春では。</p>
+<p class="gcf-bx-message__date">2022年12月28日 9:24</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">私も沖縄の離島出身で、自分の生まれ育った島が大好きです！離島にはそれぞれの離島ならではの魅力がたくさんあり、それを将来に向けて考え、そして島外に発信していくことはとても大切なことだと思います。未来ある島の高校生の皆さんの前向きなチャレンジを微力ながら応援させてもらいます！頑張ってください！</p>
+<p class="gcf-bx-message__date">2022年12月27日 23:35</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">高校生の取り組みを応援しています！！いつか徳之島にも行ってみたいです！</p>
+<p class="gcf-bx-message__date">2022年12月22日 20:20</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">昨年徳之島で1年過ごしましたが、<br/>
+結のある温かい島で好きになりました。<br/>
+島の宝である生徒たちが将来の夢を叶えて、<br/>
+素敵な“YOUR STORY“になることを熱く熱く〜♪願っています。</p>
+<p class="gcf-bx-message__date">2022年12月17日 9:01</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">高校生のうちに地元のことを考えるのは大切なことだと思います。こちら秋田も若者の地元離れが激しい地域です。皆さんの素晴らしい取り組みを参考にさせていただきたいです。</p>
+<p class="gcf-bx-message__date">2022年12月15日 22:41</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">これからもずっと、素敵な徳之島町とこの町に暮らすすべての皆様が平和で、元気にお過ごしになれますように願っております。</p>
+<p class="gcf-bx-message__date">2022年12月15日 13:20</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">わが子も鹿児島の学校へ行っています。<br/>
+徳之島の子供たちが地元の誇りである徳之島高校で未来への足掛かりを手にし、立派に育っていってほしいです。</p>
+<p class="gcf-bx-message__date">2022年12月10日 18:09</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">徳之島のじゃがいもが最高！<br/>
+今年も応援させていただきます。<br/>
+今年の高校生は「当たり前でない」何を見つけるのでしょう？<br/>
+楽しみにしています。</p>
+<p class="gcf-bx-message__date">2022年11月23日 18:05</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">微力ながら、お役に立てたらと思います。<br/>
+応援してます。</p>
+<p class="gcf-bx-message__date">2022年11月23日 15:19</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">皆さんのアクション素敵です。これからも受け継いでいってくださいね。</p>
+<p class="gcf-bx-message__date">2022年10月23日 19:02</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/1953">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>申し込み後の内容変更・寄附金受領証明書・ワンストップ特例申請書</h3>
+<p>【お問合せ先】<br/>
+〒891-7192　鹿児島県大島郡徳之島町亀津7203<br/>
+徳之島町役場企画課ふるさと思いやり応援推進係<br/>
+TEL：0997-82-1113（※平日08：30～17：15）<br/>
+E-mail：kikaku2@tokunoshima-town.org<br/>
+<br/>
+※年末年始は2022年12月29日（木）～2023年1月3日（火）まで閉庁いたします。<br/>
+閉庁期間中はお電話での問合せは受付ておりません。kikaku2@tokunoshima-town.orgまでメールにてお問合せください。<br/>
+※返信は2023年1月4日（水）以降順次ご連絡させていただきます。あらかじめご了承ください。</p>
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</section>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">鹿児島県徳之島町の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/46530/38?from=2&amp;gcf_project_id=1953"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,577,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g1953,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

@@ -1,0 +1,2321 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/1302" />
+
+<title>～みんなの応援をカタチに～ 徳島ヴォルティスの若手選手育成を応援しよう！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="～みんなの応援をカタチに～ 徳島ヴォルティスの若手選手育成を応援しよう！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/1302" />
+<meta property="og:description" content="鳴門市ではこのたび、徳島ヴォルティスへの支援としては初めての試みとなる、ガバメントクラウドファンディングを実施いたします。本プロジェクトによって集められた寄付金は、ユース世代を含む若手選手の育成環境の拡充のために活用されます。本プロジェクトでの支援がチームのＪ１定着に必要となる戦力の底上げにつながることはもちろんですが、若手選手が一層の活躍を見せることは子どもたちに夢と希望を与えてくれます。　サポーターの皆様の応援が明確な形となり、チームと選手の強化につながります。ご支援、ご協力をよろしくお願いいたします。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20210707/d_094c57c5dfc6f4302fb40d5415c0a47daabacc83.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20210707/d_094c57c5dfc6f4302fb40d5415c0a47daabacc83.jpg" />
+<meta property="twitter:title" content="～みんなの応援をカタチに～ 徳島ヴォルティスの若手選手育成を応援しよう！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="鳴門市ではこのたび、徳島ヴォルティスへの支援としては初めての試みとなる、ガバメントクラウドファンディングを実施いたします。本プロジェクトによって集められた寄付金は、ユース世代を含む若手選手の育成環境の拡充のために活用されます。本プロジェクトでの支援がチームのＪ１定着に必要となる戦力の底上げにつながることはもちろんですが、若手選手が一層の活躍を見せることは子どもたちに夢と希望を与えてくれます。　サポーターの皆様の応援が明確な形となり、チームと選手の強化につながります。ご支援、ご協力をよろしくお願いいたします。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,521,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="1302" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">～みんなの応援をカタチに～ 徳島ヴォルティスの若手選手育成を応援しよう！</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">～みんなの応援をカタチに～ 徳島ヴォルティスの若手選手育成を応援しよう！</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1027">その他&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20210707/d_094c57c5dfc6f4302fb40d5415c0a47daabacc83.jpg" alt="main_img" decoding="async" />
+<img class="gcf-lyt-detail__complete" src="/gcf/images_cf/icon_goal_brown.png" alt="達成" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%EF%BD%9E%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E5%BF%9C%E6%8F%B4%E3%82%92%E3%82%AB%E3%82%BF%E3%83%81%E3%81%AB%EF%BD%9E%20%E5%BE%B3%E5%B3%B6%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%86%E3%82%A3%E3%82%B9%E3%81%AE%E8%8B%A5%E6%89%8B%E9%81%B8%E6%89%8B%E8%82%B2%E6%88%90%E3%82%92%E5%BF%9C%E6%8F%B4%E3%81%97%E3%82%88%E3%81%86%EF%BC%81&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F1302">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">3,430,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph2" style="width: 114.3%;"></div>
+<p class="gcf-cht-detail-bar__number">114.3%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">3,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">114.3</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">190</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>徳島県鳴門市（とくしまけん なるとし）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="1302" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2021年7月15日～2021年8月30日（47日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1048" class="sorting-list__item">スポーツ</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1082" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_3.png 1x, /gcf/images_cf/sdg/sdg_icon_3@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_3.png" alt="SDGアイコン" decoding="async" />3.すべての人に健康と福祉を</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="1302" class="gcf-nv-tab__button js-tab">進捗情報
+<span class="gcf-nv-tab__button-progress-number">1</span>
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">鳴門市</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20210615/o_7a15eb61d54432d65d8fb18d8b80f97d1aac4f2c.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">鳴門市ではこのたび、徳島ヴォルティスへの支援としては初めての試みとなる、ガバメントクラウドファンディングを実施いたします。本プロジェクトによって集められた寄付金は、ユース世代を含む若手選手の育成環境の拡充のために活用されます。<br/>
+<br/>
+本プロジェクトでの支援がチームのＪ１定着に必要となる戦力の底上げにつながることはもちろんですが、若手選手が一層の活躍を見せることは子どもたちに夢と希望を与えてくれます。<br/>
+　<br/>
+サポーターの皆様の応援が明確な形となり、チームと選手の強化につながります。ご支援、ご協力をよろしくお願いいたします。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">～みんなの応援をカタチに～<br/>
+徳島ヴォルティスの若手選手育成を応援しよう！</span></h2>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210629/gpfd_3f8d02058849a9ed8197f6b933048e201f68c9ec.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">2020シーズン、鳴門市をホームタウンとするＪリーグチーム『徳島ヴォルティス』は７年ぶりのＪ１昇格・クラブ史上初のＪ２優勝を果たし、このコロナ禍において、多くの市民に勇気と感動を与えてくれました。<br/>
+　<br/>
+今シーズン、Ｊ１定着を目指して戦う厳しいリーグ戦においては、チーム力の底上げを図る必要があります。また、育成型クラブを掲げるクラブの理念からも若手選手の成長は非常に重要だと考えています。<br/>
+　<br/>
+さらに、若手選手の活躍は地域の子どもたちに夢や希望を与えてくれます。そこで、ユース世代やトップチームの若手選手の育成を支援するための資金を募集します。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">７年ぶりのＪ１リーグ戦</span></h2>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2--reverse">
+<div class="lyt-image2__content">
+<p class="gcf-txt">今から７年前、鳴門市をホームタウンとするＪリーグチーム『徳島ヴォルティス』は、四国初となるＪ１クラブとなりました。<br/>
+しかし、初めての挑戦となるＪ１リーグ戦では非常に厳しい戦いを強いられ、１年でのＪ２降格という結果でした。<br/>
+<br/>
+あれから選手、監督、スタッフをはじめクラブ関係者はもちろん、クラブを支えるサポーターが一丸となり、もう一度Ｊ１の舞台へ返り咲くために、たくさんの困難を乗り越えてきました。<br/>
+<br/>
+そして「叶」のクラブスローガンのもと戦った２０２０シーズン、７年ぶりのＪ１復帰・クラブ史上初のＪ２優勝を果たし、コロナ禍において、暗いニュースが続く中、私たちに大きな勇気と感動を与えてくれました。</p>
+</div>
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210629/gpfd_fdc1d8d564aaf5f485941c64dc5effae7c6c1782.jpg" />
+</div>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">２０２１シーズン、新たなチャレンジ</span></h2>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210702/gpfd_453f7d9326be8d05e9cc4604706357bda6bf38f2.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">そして、２０２１シーズン、厳しいＪ１リーグでの新たなチャレンジが始まっています。<br/>
+<br/>
+今シーズンは、前回果たせなかった「Ｊ１ホーム初勝利」を達成し、市内主要交通機関とポカリスエットスタジアムを結ぶヴォルティスロードへ、岩尾憲主将と泉理彦市長により、記念の路面シールを設置することができました。</p>
+</div>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">みんなの応援をカタチに</span></h2>
+<p class="gcf-txt-article">７年ぶりのＪ１リーグで奮戦する徳島ヴォルティス。<br/>
+今後もＪ１に定着し、私たちにその雄姿を見せてほしい。<br/>
+<br/>
+そのために鳴門市として何ができるのかを考え、「育成型クラブ」としてのビジョンを掲げるヴォルティスの若手選手の育成をサポートしたいという思いに至りました。<br/>
+<br/>
+今後、Ｊ１リーグで定着していくためには、トップチームはもちろん、ユース世代も含めた若い選手の成長は欠かせません。そして、若手選手の活躍は、サッカーを志す子どもたちにとって、夢や希望、明確な目標を与えてくれます。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210707/gpfd_e93254a42f0abd81432541fdc35a45208267833c.jpg" />
+</figure>
+<h4 class="gcf-ttl-h4">私たちに勇気と感動を与えてくれるチームのために何かできないだろうか。</h4>
+<p class="gcf-txt-article">みんなの応援をカタチに。<br/>
+皆様のご支援・ご協力をよろしくお願いいたします。</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">寄附金の使い道</span></h2>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">徳島ヴォルティスの若手選手（ユース世代含む）育成環境の拡充のために使用します。<br/>
+・食事環境<br/>
+・トレーニング環境<br/>
+<br/>
+※目標金額に達しなかった場合も、本プロジェクトの補助として活用させていただきます。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210629/offd_58f35f7f5448581662ca084993cd2d1fcddf08af.jpg" alt />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">鳴門市からのメッセージ</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">鳴門市長　泉　理彦</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200923/gpfd_a48905bac84a1830e0ade077a41cd580b259a1c4.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">鳴門市長の泉　理彦です。<br/>
+<br/>
+鳴門市は、徳島ヴォルティスのホームスタジアムのあるまちとして、２００５年のJリーグ参入以来、市民一丸となってチームを応援してきました。ホームゲーム開催日には、市民だけでなく市外・県外から多くのサポーターが本市を訪れるなど、交流人口の増加により地域活性化とにぎわいの創出につながっています。そして、何よりプロスポーツチームの活躍は地域に元気を与えてくれます。<br/>
+<br/>
+７年ぶりのJ１復帰とクラブ史上初のJ２優勝を成し遂げ、J１定着に向け、今まさに徳島ヴォルティスは大きな変革の時を迎えています。若手選手の成長は、クラブが飛躍を遂げるために非常に重要であり、若手選手の活躍は、子どもたちに夢や希望を与えてくれます。<br/>
+<br/>
+市としてもヴォルティスロードの整備をはじめ、これまで様々な支援を行ってきました。そして、今回はふるさと納税制度を活用して、クラブを愛する方々の思いを集めて徳島ヴォルティスに届けたいと思っています。皆様のご支援・ご協力をよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">徳島ヴォルティスからのメッセージ<br/>
+</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">徳島ヴォルティス株式会社　代表取締役社長　岸田　一宏</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2--reverse">
+<div class="lyt-image2__content">
+<p class="gcf-txt">徳島ヴォルティス株式会社　代表取締役社長の岸田　一宏です。<br/>
+<br/>
+日頃より、徳島ヴォルティスへ格別なるご支援、ご声援を賜り、厚くお礼申し上げます。<br/>
+<br/>
+７年ぶりのＪ１昇格、そしてＪ２優勝を果たした昨シーズンを経て、今シーズンはＪ１定着に向けてチーム一丸となって戦っているところです。こうしてクラブ１７年目を迎えられたのも、多くの方々に支えていただいております賜物であると、心より感謝申し上げます。<br/>
+<br/>
+クラブでは、さらなる発展のために「県民に愛され、地域の誇りとなるチームづくり」の一環として、組織力の向上を目指し、若手選手の育成に積極的に取り組んでいます。Ｊ１昇格にも若手選手の活躍が寄与しており、今日のチームの強化においても、育成環境を整えることは非常に重要な要素となっております。<br/>
+<br/>
+そのような折、この度鳴門市様にこのようなサポートをいただける運びとなり、クラブとしても大変光栄に思っております。地域スポーツの振興はもとより、より多くの皆さまに笑顔を届けられるよう邁進してまいりますので、ご支援のほどよろしくお願いいたします。</p>
+</div>
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210629/gpfd_afe1007c4d38a720c68157d183e9e2be69e44367.jpg" />
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">お礼の品一覧</span></h2>
+<div class="gcf-lyt-detail__block">
+<h4 class="gcf-ttl-caution">【注意事項】</h4>
+<p class="gcf-lst-caution">このプロジェクトへのご寄附は、ふるさと納税制度の対象となります。<br/>
+鳴門市にお住まいの方につきましては、ご寄附をいただくことは可能ですが、お礼の品をお送りすることができません。ご了承ください。</p>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/4943803/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211216/pd_be8edf11facc2b176148e26ad81ba4862f32a8af.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">オロナミンC 25本 ( 1ケース ) 120ml 【大塚グループ発祥の地】 炭酸飲料 栄養ドリンク ソフトドリンク 清涼飲料</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<p class="goods-col_textinfo pc">【元気ハツラツ！ オロナミン C！】
+オロナミンＣドリンクにはカラダに必要な5大栄養素のひとつ、
+ビタミン群（ビタミンC、B2、B6など）が含まれています。
+オロナミンＣドリンクの黄色はビタミンB2本来の色です。
+お子さまからご年配の方まで　美味しく召し上がっていただける栄養炭酸ドリンクです。
+【原材料名】
+糖類（砂糖（国内製造）、ぶどう糖果糖液糖）、ハチミツ、食塩 ／ 炭酸、香料、ビタミンC、
+クエン酸、カフェイン、ナイアシンアミド、ビタミンB6 、ビタミンB2 、溶性ビタミンP、
+イソロイシン、トレオニン、フェニルアラニン、グルタミン酸Na
+【栄養成分】
+1本（120ml）当たり：エネルギー 79kcal、タンパク質 0g、脂質 0g、炭水化物 19g、食塩相当量 0g、
+ビタミンB₂ 2.4mg、ビタミンB₆ 4.9mg、ナイアシン 12mg、ビタミンC 220mg
+注目キーワード
+大塚製薬 ふるさと納税オロナミンC 120ml 25本 瓶 炭酸 飲料 栄養 ドリンク 送料無料 ソフトドリンク ビタミンC アミノ酸 清涼飲料 健康 差し入れ 贈り物 元気ハツラツ ハチミツ スポーツドリンク オロナミンCふるさと納税 炭酸飲料ふるさと納税</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/4943804/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211216/pd_c575c11eb20535a01d298371746cf3f1d22f031e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">オロナミンC 50本 ( 1ケース ) 120ml 【大塚グループ発祥の地】 炭酸飲料 栄養ドリンク ソフトドリンク 清涼飲料</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<p class="goods-col_textinfo pc">【元気ハツラツ！ オロナミン C！】
+オロナミンＣドリンクにはカラダに必要な5大栄養素のひとつ、
+ビタミン群（ビタミンC、B2、B6など）が含まれています。
+オロナミンＣドリンクの黄色はビタミンB2本来の色です。
+お子さまからご年配の方まで　美味しく召し上がっていただける栄養炭酸ドリンクです。
+【原材料名】
+糖類（砂糖（国内製造）、ぶどう糖果糖液糖）、ハチミツ、食塩 ／ 炭酸、香料、ビタミンC、
+クエン酸、カフェイン、ナイアシンアミド、ビタミンB6 、ビタミンB2 、溶性ビタミンP、
+イソロイシン、トレオニン、フェニルアラニン、グルタミン酸Na
+【栄養成分】
+1本（120ml）当たり：エネルギー 79kcal、タンパク質 0g、脂質 0g、炭水化物 19g、食塩相当量 0g、
+ビタミンB₂ 2.4mg、ビタミンB₆ 4.9mg、ナイアシン 12mg、ビタミンC 220mg
+注目キーワード
+大塚製薬 ふるさと納税オロナミンC 120ml 50本 瓶 炭酸 飲料 栄養 ドリンク 送料無料 ソフトドリンク ビタミンC アミノ酸 清涼飲料 健康 差し入れ 贈り物 元気ハツラツ ハチミツ スポーツドリンク オロナミンCふるさと納税 炭酸飲料ふるさと納税</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366258/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240501/pd_ccbcc567e9f81196ca73928f4919c9a65f8e3663.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【 予約受付中・2024年10月頃より順次発送 】なると金時 3kg さつまいも 鳴門金時 熟成 国産 スイーツ 焼き芋 焼芋 焼いも 干し芋 ギフト 贈り物 お土産 サツマイモ</h4>
+<p class="goods-col_price inline">9,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>2024年10月頃より順次発送の予約受付分です。</p>
+</div>
+<p class="goods-col_textinfo pc">※2024年10月頃より順次発送の予約受付です※
+※10月頃より順次出荷予定ですが多数お申込みをいただいた場合は出荷開始からお届けまでに1～2ヶ月程度お時間をいただく場合がございます。
+さつまいものトップブランド「なると金時」。
+鳴門市の代表的な農産物で、鮮やかな紅色の皮、ホクホクした食感と甘さが特長です。
+食べ方として、素材の美味しさが際立つ焼き芋や天ぷらがいちばんのおススメ！
+他にも、和・洋・中の様々な料理にお菓子にお使い頂けます。
+ほっこりとした食感と上品な甘みをぜひお楽しみください。
+※より新鮮にお召し上がりいただくため収穫時の砂を落とさず発送させていただきます。
+【保存方法】
+1本づつ新聞紙に包んで乾燥を防ぎ、冷暗所で保存してください。
+貯蔵温度13℃、湿度85～90％がベストな状態です。
+温度が低すぎると腐り易くなりますので冷蔵庫には入れずに、必ず常温保存してください。
+注目キーワード
+さつまいも 鳴門金時 人気 ほくほく 甘い 熟成 国産 産地直送 スイーツ 焼き芋 焼芋 焼きいも スイートポテト おやつ 天ぷら 干し芋 ギフト お土産 おみやげ</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366326/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240501/pd_95c867f5a2db0df38aa1d4747f4bcecf339c19c0.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【 予約受付中・2024年10月頃より順次発送 】なると金時 （ 里むすめ ） 5kg さつまいも 鳴門金時 熟成 国産 スイーツ 焼き芋 焼芋 焼いも 干し芋 ギフト 贈り物 お土産 サツマイモ 里娘</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>2024年10月頃より順次発送の予約受付分です。</p>
+</div>
+<p class="goods-col_textinfo pc">※2024年10月頃より順次発送の予約受付です※
+※10月頃より順次出荷予定ですが多数お申込みをいただいた場合は出荷開始からお届けまでに1～2ヶ月程度お時間をいただく場合がございます。
+2023年1月31日放送のTBS系のトークバラエティ番組、「マツコの知らない世界」の焼き芋の世界で紹介されました！
+鳴門が誇るトップブランド「なると金時」。
+その中でもJA里浦が定めた厳しい品質基準を満たしたものが「里むすめ」というブランド名にて出荷されます。
+ホクホクとした食感と強い甘み、その甘みと旨みのバランスの良さをお楽しみください。
+【保存方法】
+1本づつ新聞紙に包んで乾燥を防ぎ、冷暗所で保存してください。
+貯蔵温度13℃、湿度85～90％がベストな状態です。
+温度が低すぎると腐り易くなりますので冷蔵庫には入れないで、必ず常温保存してください。
+注目キーワード
+里むすめ 里娘 さつまいも さつま芋 なると金時 鳴門金時 スイーツ 焼き芋 焼芋 焼きいも スイートポテト おやつ 天ぷら 干し芋 ギフト お土産 おみやげ ほくほく 甘い 熟成 国産 テレビ TV</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366273/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211121/pd_6568c1b725c1d84db220a5ea5b525b550b545538.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">すだち牛 黒毛和牛 （ すき焼き用 ） 300g 国産 牛肉 すき焼き 赤身 冷凍 お肉 肉 グルメ ギフト 和牛 霜降り カット 小分け</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済完了から2~3週間程度で発送致します</p>
+</div>
+<p class="goods-col_textinfo pc">全国でも鳴門市内の牧場でしか生産されていない貴重な牛。通常の飼育ではサプリメントを使うところをスダチに変更したことで、歯ごたえのある質の高い肉牛となっています。その質は京都や大阪の高級フレンチ店でも高評価を受け、使用されています。（A4～A５ランク）
+【注意事項】
+※クール便にて配送いたしますので、伊豆諸島（大島・八丈島を除く）および小笠原村（小笠原諸島）への配送はできかねますので、ご了承ください。
+注目キーワード
+黒毛和牛 すだち牛 300g すき焼き すきやき 赤身 国産 牛肉 冷凍 お肉 肉 ブランド 和牛 霜降り カット 小分け グルメ ギフト お歳暮 お土産 味 美味しい 人気</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366274/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220228/pd_291d21797e6fbe98e22d148c59a40ad92ab1aa7b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">すだち牛 黒毛和牛 （ 焼き肉用 ） 300g 国産 牛肉 焼き肉 焼肉 赤身 冷凍 お肉 肉 ブランド 和牛 霜降り カット 小分け 人気 10000円</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済完了から2~3週間程度で発送致します</p>
+</div>
+<p class="goods-col_textinfo pc">全国でも鳴門市内の牧場でしか生産されていない貴重な牛。通常の飼育ではサプリメントを使うところをスダチに変更したことで、歯ごたえのある質の高い肉牛となっています。その質は京都や大阪の高級フレンチ店でも高評価を受け、使用されています。（A4～A５ランク）
+【注意事項】
+※クール便にて配送いたしますので、伊豆諸島（大島・八丈島を除く）および小笠原村（小笠原諸島）への配送はできかねますので、ご了承ください。
+注目キーワード
+黒毛和牛 すだち牛 300g 焼き肉 焼肉 赤身 国産 牛肉 冷凍 お肉 肉 ブランド 和牛 霜降り カット 小分け グルメ ギフト お歳暮 お土産 味 美味しい 人気 1万円</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366275/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211121/pd_0453f52d03aee2556563044b0cda98fdf409ba92.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">すだち牛 黒毛和牛 （ ステーキ用 ） 250g 国産 ステーキ 牛肉 冷凍 お肉 肉 ブランド 和牛 カット 人気</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※現在多数お申込みをいただいており決済完了から2週間～1か月程度お待ちいただく場合がございます※</p>
+</div>
+<p class="goods-col_textinfo pc">全国でも鳴門市内の牧場でしか生産されていない貴重な牛。通常の飼育ではサプリメントを使うところをスダチに変更したことで、歯ごたえのある質の高い肉牛となっています。その質は京都や大阪の高級フレンチ店でも高評価を受け、使用されています。（A4～A５ランク）
+【注意事項】
+※クール便にて配送いたしますので、伊豆諸島（大島・八丈島を除く）および小笠原村（小笠原諸島）への配送はできかねますので、ご了承ください。
+注目キーワード
+黒毛和牛 すだち牛 250g ステーキ 赤身 国産 牛肉 冷凍 お肉 肉 ブランド 和牛 霜降り カット 小分け グルメ ギフト お歳暮 お土産 味 美味しい 人気</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366285/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230823/pd_257682d912ef6522db539befe8df1017151c0782.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">鳴門の漁師が育てた 本気の生わかめ（湯通し塩蔵） 1kg （ 100g × 10袋 ） 鳴門わかめ わかめ 国産 ブランド 人気 小分け 湯通し 味噌汁 みそ汁 スープ 料理 ギフト</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<p class="goods-col_textinfo pc">【徳島県認証 鳴門わかめ】
+世界でも最大規模と言われる鳴門の渦潮。その力強い潮流にもまれて育つ鳴門わかめは、肉厚でしっかりとしたコシが特長であり、味噌汁・煮物・酢の物・サラダなど、どのような料理でも活躍する万能さを備えています。
+まずは、風味豊かな天然の生わかめをお刺身でご賞味ください。鳴門のそのまんまをどうぞ。
+【注意事項】
+※クール便にて配送いたしますので、伊豆諸島（大島・八丈島を除く）および小笠原村（小笠原諸島）への配送はできかねますので、ご了承ください。
+注目キーワード
+塩蔵 生 わかめ 1kg 鳴門わかめ ワカメ 国産 ブランド 人気 徳島 小分け 肉厚 湯通し 味噌汁 みそ汁 スープ サラダ 料理 ギフト 贈り物 お土産</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/412004/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20171102/pd_6e4e8bd3b1001d573d1b17847169ab00e6de30d9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【農林水産大臣賞】 潮里わかめ 【塩分無添加】</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<p class="goods-col_textinfo pc">鳴門わかめ本来の風味と食感の良さが美味の「潮里わかめ」。冷凍加工に取り組み約10年 試行錯誤の末ようやく冷凍鳴門わかめが完成しました。塩蔵でも乾燥でもない、まるでボイルした直後のわかめを食べているようなコリコリした食感。塩分無添加なので、生活習慣病を気にされる方にもおすすめです。
+また、食べやすくカットもしているので、解凍するだけで簡単に食べられる手軽さも魅力のひとつです。ありそうでなかった「潮里わかめ」ぜひご賞味ください。
+本製品は新技術開発部門（2017）で農林水産大臣賞を受賞しております。
+鳴門わかめ加工商品は、塩蔵わかめや乾燥わかめのみで、鳴門わかめ本来の風味・食感を再現することが難しかったのですが、本製品により、鳴門わかめでは初となる冷凍加工商品が誕生し、鳴門わかめ本来の風味と食感を、旬の時以外にも味わうことが可能となりました。
+【注意事項】
+※クール便にて配送いたしますので、伊豆諸島（大島・八丈島を除く）および小笠原村（小笠原諸島）への配送はできかねますので、ご了承ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/5001356/114">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201204/pd_4ddb1fb4fb76697df80b15c81de93b15c7d2fb4b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ヴォルティス勝ッとわかめ　18g×7袋</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<p class="goods-col_textinfo pc">瀬戸内海と太平洋を結ぶ鳴門海峡の激流と日本三大暴れ川の一つである
+吉野川の淡水も流れ込んでくる鳴門市里浦で育った
+肉厚でコシがある歯ごたえのわかめです。
+みんなで食べて徳島ヴォルティスを応援しよう！！
+※売り上げの一部は徳島ヴォルティス運営資金の一部に充てられます</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/444847/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20180103/pd_342f89a8e6847b31a0e39278273ed6d79948099f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">鳴門産しそわかめふりかけ（6個）</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<p class="goods-col_textinfo pc">【徳島限定販売】
+鳴門産わかめを使用したソフトタイプのふりかけ、しその風味も良くマッチしてご家族でお召し上がりいただけます。温かいごはんやおむすびに、玉子焼きや大根おろしにお勧めです。
+第3回全国ふるさと甲子園（2017年8月開催）「世界に誇る逸品大賞」お土産部門第1位について日本全国から選抜された55地域が“行きたいまち№1”を目指して、映画やテレビなどのロケ地やご当地グルメでアピール合戦を行い、「お土産部門」第1位を獲得しました。
+原材料名：わかめ（鳴門産）、砂糖、ブドウ糖、食塩、かつおエキス、酵母エキス、ホタテエキス、香料（シソ）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366404/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181023/pd_4c25977560a1164b008996566056c77fe702da64.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">大谷焼 辰砂大皿</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>申請をいただきましてから製作いたしますので、申請より２～３ヶ月程度お待ちいただく場合がございます。</p>
+</div>
+<p class="goods-col_textinfo pc">徳島県鳴門市大麻町の名産品であり、県を代表する「大谷焼」の大振り辰砂（しんしゃ）大皿です。ホームパーティー、ご家族での食卓での器として使用すると鮮やかな赤が食卓を明るくなります。人数分の前菜やサラダ、煮物や刺身、お寿司、チーズやケーキ、お正月のお節など、ダイナミックに料理を盛り付けてみてください。賑やかで楽しい食卓になること間違いなしです。また、大皿ですので飾り皿等にも使用できます。（直径35ｃｍ×高さ5cm）（佳実窯）
+【注意事項】
+●申請をいただきましてからの製作となりますので、申請から２～３ヶ月程度お待ちいただく可能性がございます。
+●手造りの為、記載している寸法・色とは多少異なる場合があります。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/4959776/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201021/pd_9e4f0e7a6a8ce1fcca2937f93d6f276cdaed829c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">大谷焼 【焼〆】 徳利と盃セット（矢野陶苑）</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>申請をいただきましてから製作いたしますので、申請より２～３ヶ月程度お待ちいただく場合がございます。</p>
+</div>
+<p class="goods-col_textinfo pc">大谷焼は230年以上の伝統がある徳島を代表する陶器です。
+【登り窯で焼成した徳利と盃（2個）セット】
+釉薬を使わず、高温で長時間しっかり焼き上げられた焼〆（やきしめ）の陶器です。
+窯の中で焼いている間に自然とかかる灰などが自然釉になり、自然な色や模様が入りますので一つとして同じものはありません。
+焼〆特有のざらっとした質感や、自然な色や模様をお楽しみください。
+徳利　高さ：約13㎝　胴巾：約9cm
+盃　　 高さ：約4㎝ 口径：約5.8㎝
+窯元　矢野陶苑
+【注意事項】
+●申請をいただきましてからの製作となりますので、申請から２～３ヶ月程度お待ちいただく可能性がございます。
+●手造りの為、記載している寸法・色とは多少異なる場合があります。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366453/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181023/pd_6f9caf7fd7a63a278499b0306e1e6b293a822420.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">大谷焼 茶器セット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>申請をいただきましてから製作いたしますので、申請より２～３ヶ月程度お待ちいただく場合がございます。</p>
+</div>
+<p class="goods-col_textinfo pc">徳島県鳴門市大麻町の名産品であり、県を代表する「大谷焼」の湯呑ペア茶器セットです。湯呑を中心とした風情ある作品を揃えました。 暖かみのある素朴な風合いの湯呑でいただくお茶の時間はホッと心が癒されます。
+（急須　直径：9.5cm、高さ：8cm　湯さまし　直径：9.5cm、高さ：5.5cm、湯呑（５個）　直径：7cm、高さ　4.5cm）（矢野陶苑）
+窯元「矢野陶苑」は130年の歴史を持ち現在も登り窯で日本でも珍しい大物を製作しています。
+【注意事項】
+●申請をいただきましてからの製作となりますので、申請から２～３ヶ月程度お待ちいただく可能性がございます。
+●手造りの為、記載している寸法・色とは多少異なる場合があります。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/4642517/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200805/pd_cb54de29abc0d5f06859b06b0dfbbc7108b26577.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">大谷焼　幻の渦潮そば猪口セット</h4>
+<p class="goods-col_price inline">41,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>申請をいただきましてから製作いたしますので、申請より２～３ヶ月程度お待ちいただく場合がございます。</p>
+</div>
+<p class="goods-col_textinfo pc">平成29年7月　第6回そば猪口アート公募展入選作品！
+今から約240年前江戸時代より続く大谷焼。その大谷焼の里の中でも数名しかいない熟練の伝統工芸士によって、成形に使用する土から最高級の素材を吟味した、地元鳴門の渦潮をイメージした上品で高級感あふれるそば猪口です。
+大谷焼 渦潮そば猪口は古来より焼物の染め付けに用いる鉱物質の顔料である呉須を用いて鳴門の美しい青を表現しております。
+まず、青色と紺碧色（こんぺきいろ）の二色を製作し、一つ一つ熟練の伝統工芸士の手で丁寧に下絵付けがされます。呉須を薄く溶いた青色は晴れた日の穏やかな鳴門海峡をイメージし描かれ、呉須を濃く溶いた紺碧色は力強く渦巻く深く美しい渦潮をイメージし描かれております。
+施釉、焼成後仕上げにプラチナで上絵付を施し、鳴門の渦潮の水しぶきや、煌めき、豪快さをより美しく表現しております。
+そば猪口としてだけでなく、お酒やお茶等を入れる高級でおしゃれなフリーカップとしても存分にお楽しみいただけます。
+（田村商事）
+●申請をいただきましてからの製作となりますので、申請から２～３ヶ月程度お待ちいただく可能性がございます。
+●手造りの為、記載している寸法・色とは多少異なる場合があります。
+●金彩を施しておりますので、食器洗浄機、電子レンジのご使用はお避けください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366445/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181023/pd_996aaf19fc4ba214913c15d41f59402506c5dfd8.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">大谷焼 幻の渦潮麺鉢</h4>
+<p class="goods-col_price inline">37,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>申請をいただきましてから製作いたしますので、申請より２～３ヶ月程度お待ちいただく場合がございます。</p>
+</div>
+<p class="goods-col_textinfo pc">徳島県鳴門市大麻町の名産品であり、県を代表する「大谷焼」の麺鉢です。鳴門の渦潮をイメージしたデザインと、最高級のプラチナを施して仕上げた、美しく上品な器となっております。
+渦潮麺鉢は従来の市販されているラーメン鉢とは違い、縦型のためラーメンまでの距離が近くなり、麺がすすり易くスープも飲みやすく仕上がっています。空気に触れる面積が少ないので食べ終わるまでスープが冷めにくく、最後までアツアツの状態で美味しく食べて頂けるのが最大の特徴です。徳島ラーメンの人気店「中華そば田村」で導入いただきご好評いただいております。
+・関西テレビ「スーパーニュースアンカー」・NHKBSプレミアム「イッピン」・テレビ東京「昼めし旅」等テレビ局や、雑誌等各種メディアで何度もとりあげられた幻の渦潮麺鉢を是非ご家庭でもお楽しみください。
+（口径：17cm、高さ：11.5cm）（田村商事）
+●申請をいただきましてからの製作となりますので、申請から２～３ヶ月程度お待ちいただく可能性がございます。
+●手造りの為、記載している寸法・色とは多少異なる場合があります。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366488/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200805/pd_86a90c753287bf970edb84c033f72851e47ed951.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">大谷焼 幻の渦潮麺鉢４個セット（茶２個、白２個）</h4>
+<p class="goods-col_price inline">147,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>申請をいただきましてから製作いたしますので、申請より２～３ヶ月程度お待ちいただく場合がございます。</p>
+</div>
+<p class="goods-col_textinfo pc">徳島県鳴門市大麻町の名産品であり、県を代表する「大谷焼」の麺鉢です。鳴門の渦潮をイメージしたデザインと、最高級のプラチナを施して仕上げた、美しく上品な器となっております。
+渦潮麺鉢は従来の市販されているラーメン鉢とは違い、縦型のためラーメンまでの距離が近くなり、麺がすすり易くスープも飲みやすく仕上がっています。空気に触れる面積が少ないので食べ終わるまでスープが冷めにくく、最後までアツアツの状態で美味しく食べて頂けるのが最大の特徴です。徳島ラーメンの人気店「中華そば田村」で導入いただきご好評いただいております。
+・関西テレビ「スーパーニュースアンカー」・NHKBSプレミアム「イッピン」・テレビ東京「昼めし旅」等テレビ局や、雑誌等各種メディアで何度もとりあげられた幻の渦潮麺鉢を是非ご家庭でもお楽しみください。
+（口径：17cm、高さ：11.5cm）（田村商事）
+【注意事項】
+●申請をいただきましてからの製作となりますので、申請から２～３ヶ月程度お待ちいただく可能性がございます。
+●手造りの為、記載している寸法・色とは多少異なる場合があります。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/4959777/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201021/pd_6661fd796e99d657297af1aeab29a7c36822349f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">大谷焼 【焼〆】 花瓶（矢野陶苑）</h4>
+<p class="goods-col_price inline">39,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>申請をいただきましてから製作いたしますので、申請より２～３ヶ月程度お待ちいただく場合がございます。</p>
+</div>
+<p class="goods-col_textinfo pc">大谷焼は230年以上の伝統がある徳島を代表する陶器です。
+【登り窯で焼成した花瓶】
+釉薬を使わず、高温で長時間しっかり焼き上げられた焼〆（やきしめ）の陶器です。
+窯の中で焼いている間に自然とかかる灰などが自然釉になり、自然な色や模様が入りますので一つとして同じものはありません。
+焼〆特有の自然な色や模様は、どんな花材でもあいます。
+高さ：約23㎝　口径：5㎝　胴巾：約13cm
+窯元　矢野陶苑
+【注意事項】
+●申請をいただきましてからの製作となりますので、申請から２～３ヶ月程度お待ちいただく可能性がございます。
+●手造りの為、記載している寸法・色とは多少異なる場合があります。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366486/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181023/pd_4e93988e24812b432b56805a9f0f93e523c16d03.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">大谷焼 メダカ鉢（森陶器）</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>申請をいただきましてから製作いたしますので、申請より２～３ヶ月程度お待ちいただく場合がございます。</p>
+</div>
+<p class="goods-col_textinfo pc">大谷焼は徳島県鳴門市において、240年の伝統がある徳島を代表する陶器です。
+窯元 森陶器では、伝統工芸士が蹴ロクロでひとつひとつ丹精込めて造り上げています。
+小さめサイズでメダカを入れると、とても可愛らしく涼やかです。
+すべて手造りの為、青の色合いはひとつずつ違います。
+窯元：森陶器</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366487/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181108/pd_9f0bdd1329bae6de74f1d6b7e4af668cf59ae34f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">大谷焼　睡蓮鉢2尺 （大西陶器）</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>申請をいただきましてから製作いたしますので、申請より4～6ヶ月程度お待ちいただく場合がございます。
+</p>
+</div>
+<p class="goods-col_textinfo pc">徳島県鳴門市大麻町の名産品であり、県を代表する「大谷焼」の睡蓮鉢です。窯元「大西陶器」の伝統商品の二尺鉢で、青色に水が良く映え、睡蓮の色彩とマッチして癒しと涼感を演出します。大きさは約60cmと十分あり睡蓮もたくさん植えることができます。メダカを一緒に入れるととても愛らしく涼やかです。（口径：約60cm、高さ：約27cm）（大西陶器） ●手造りの為、記載している寸法・色とは多少異なる場合があります。
+【注意事項】
+●申請をいただきましてからの製作となりますので、申請から4～6ヶ月程度お待ちいただく可能性がございます。
+●手造りの為、記載している寸法・色とは多少異なる場合があります。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366393/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20170811/pd_5422e164f6b0fdd9ab1864fb6afed1c43634304b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">鳴門産菌床生しいたけ・大谷焼七輪セット</h4>
+<p class="goods-col_price inline">55,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<p class="goods-col_textinfo pc">【最高の鳴門産しいたけを、鳴門の七輪で！】
+風味や鮮度を保ち、肉厚で雑味の一切ない最高の鳴門産しいたけを、趣のある上品な仕上がりの大谷焼七輪で焼いて、見た目、音、香り、食感、味の五感で食を楽しんでいただけるおすすめのセットです。
+【注意事項】
+※クール便にて配送いたしますので、伊豆諸島（大島・八丈島を除く）および小笠原村（小笠原諸島）への配送はできかねますので、ご了承ください。
+※内容物に炭を含んでおりますので、空輸便が利用できないため、沖縄県・離島への配送はできかねますので、ご了承ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/4682477/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190822/pd_290fd116ae33700c273297d908979868ceb9da6f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【鳴門の絶景を満喫】鳴門のホテル３館（鳴門海月・鯛丸海月・鳴門グランドホテル海月）共通利用券（3,000円分）</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から１～２か月程度で発送</p>
+</div>
+<p class="goods-col_textinfo pc">鳴門市にある３つの施設「鳴門海月」「鯛丸海月」「鳴門グランドホテル海月」のご宿泊、お食事、ご入浴でご利用いただける宿泊補助券となっております。
+それぞれ特長がございますので、お好きな施設でご利用ください。
+【ベイリゾートホテル鳴門海月】
+鳴門海月はロビー、お部屋、大浴場から絶景の鳴門海峡の景色をご堪能いただけます。
+また朝夕のお食事には、鳴門海峡でとれたての新鮮な魚、豊かな徳島の土地で採れた野菜や、名物の阿波牛、阿波尾鶏などなどを当館料理長が匠の技で仕上げる多彩な会席料理を味わうことができます。
+おいしい食事、ゆったりお風呂、そしてお部屋からの絶景に癒やされること間違いなし。
+うずしお観潮船、大塚国際美術館、渦の道など観光スポットまで数分という便利な立地も魅力の一つです。
+ぜひ徳島鳴門のベイリゾートホテル鳴門海月へお越し下さい。
+【鯛丸海月】
+人気の大塚国際美術館に徒歩でも行ける鳴門の人気宿。
+名物の鳴門鯛を堪能できる会席料理や漁師めしを味わえるレストラン。絶景を味わえる洋室、そして和室。大浴場からながめる鳴門海峡。
+そんな鳴門の素敵なエッセンスがリーズナブルに味わえるホテルが鯛丸海月。
+大塚国際美術館はもちろん、鳴門国立公園まで車で数分の立地も人気の秘密です。
+【鳴門グランドホテル海月】
+鳴門観潮の壮大なロケーションが楽しめる露天風呂や、大自然が織りなす四季折々の美しい風景を舞台に開放感あふれる旅と鳴門鯛の宝楽焼が味わえる旅館です。
+8階の展望台浴場では、大空と水平線に横たわる大鳴門橋の雄大な風景を眺めながら、ゆっくりとおくつろぎいただけます。
+泡風呂、寝湯、サウナなどさまざまなお風呂が楽しめます。
+【注意事項】
+・ご利用期限は発行日より1年間とさせていただきます。
+・お釣りはでませんので、券を利用される場合はお気をつけください。
+・有効期限を超過したもの、発行者の番号・印のないものは無効です。
+・再発行はいたしかねますので、あらかじめご容赦ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/4935757/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200915/pd_5d7f1d1bb82614dc160451a8c3ed5ba18d28e4b3.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ギフトチケット1万5千円分（リゾートホテル モアナコースト）</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">３０００坪の敷地にたった14室の「大人の隠れ家リゾートホテル」
+全室露天風呂付きの客室と、鳴門の海の幸のイタリアンディナーで、
+非日常の時間をお過ごしください。
+●使用期限はございません。
+●ギフトチケットはご宿泊のほか、レストランのご利用にもご使用いただけます。
+●宿泊・お食事でギフトチケットをご利用される場合は事前にご予約下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/4935758/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200915/pd_5d7f1d1bb82614dc160451a8c3ed5ba18d28e4b3.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ギフトチケット3万円分（リゾートホテル モアナコースト）</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">３０００坪の敷地にたった14室の「大人の隠れ家リゾートホテル」
+全室露天風呂付きの客室と、鳴門の海の幸のイタリアンディナーで、
+非日常の時間をお過ごしください。
+●使用期限はございません。
+●ギフトチケットはご宿泊のほか、レストランのご利用にもご使用いただけます。
+●宿泊・お食事でギフトチケットをご利用される場合は事前にご予約下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366400/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230828/pd_7a945d77951cd1ff0986ed9f16ebfcea702ec312.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ギフトチケット1万5千円分 （ ホテルリッジ ） 全室オーシャンビュー 人気 予約 徳島 鳴門 旅行 宿泊 おすすめ ギフト券 チケット ホテル</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">瀬戸内海、鳴門海峡を一望にする高台に建つホテルリッジ。わずか9室の客室すべてがオーシャンビュー。また、レストラン「カリフォルニアテーブル」のテラスからは瀬戸内海が180度見渡せます。さわやかな風をうけながらゆっくりと流れる時間をお楽しみください。
+●使用期限はございません。
+●ギフトチケットは、レストラン「カリフォルニアテーブル」、数寄屋造りの和食処「万里荘」、ホテルリッジの宿泊でご利用いただけます。（ご宿泊は中学生以上となります。）
+●ご予約制となっております。4日前までにご予約下さい。（予約状況によりお取り出来ない日もございます。）
+●年末年始等対象外となる日がございます。（詳細はホテルリッジへお問い合わせください。）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366426/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230828/pd_597def42f01f95f5f70e27b7f73e785d1d7f6b67.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ホテルリッジ 宿泊券 （一泊二食 1室2名分） 人気 予約 旅行 宿泊 おすすめ ギフト券 チケット ホテル 徳島 鳴門</h4>
+<p class="goods-col_price inline">500,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">※ こちらの返礼品は、2024年3月より寄付金額が変更となりました ※
+瀬戸内海、鳴門海峡を一望にするわずか9室の大人の隠れ家。
+行き届いたサービスと、地下1,500ｍより湧出する源泉掛け流しの天然温泉（宿泊者のみ利用可）、地元の食材を中心とした和食のコース料理で極上のひとときを。
+大塚国際美術館鑑賞チケットをプレゼントいたします。
+●ご宿泊は中学生以上となります。
+●ご予約制となっております。4日前までにご予約下さい。（予約状況によりお取り出来ない日もございます。）
+●GW、お盆、年末年始等対象外となる日がございます。（詳細はホテルリッジへお問い合わせください。）
+●有効期限は発行日より１年間です。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/5027858/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220902/pd_c15a73439e50bb6ea9b7f6e9d83d752190a29a28.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【NEHAN TOKYO】エプソルト＋バスアロマオイルセット（入浴剤）</h4>
+<p class="goods-col_price inline">21,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<p class="goods-col_textinfo pc">バスソルトブランド【NEHAN TOKYO】のエプソルトとバスアロマオイルのセットです。
+【エプソルト】（800g入　1袋）　
+医薬品製造基準の自社工場で生産されるボティケア入浴剤
+浴用化粧品であるエプソルトは肌に潤いを与える、肌を整えるなどの効果効能が認められています。
+一日15~20分程度の毎日のバスタイムを利用してボディケアする入浴剤、それがエプソルトです。
+主成分の硫酸マグネシウムは、欧米では”エプソムソルト”と呼ばれ、主に発汗やデトックスなどを意識した新美容法として多くの美容家やセレブリティに、
+またマグネシウムミネラルによる筋肉の疲労回復を期待しアスリートまで幅広い方々に注目されています。
+エプソルトは上質で機能性を重視する健康的なライフスタイルにぴったりなボディケア入浴剤です。
+※発汗の実感には個人差があります。
+お湯を入れた一般的なバスタブ（約１８０～２００リットル）に約100～200g入れます。
+【バスアロマオイル】（20ｍｌ）　
+ヒヤシンスの上品でナチュラル感のある花の香り
+ネハン・バスアロマオイルは自宅のお風呂をオアシスに変えるお風呂用アロマオイル。
+高品位なホホバ油をふんだんに使用したシンプルな処方で肌に艶を与えなめらかにします。
+浴用化粧品認可を受け、安心して上質なアロマバスが楽しめます。
+一般的なお風呂180~200リットルに１～２ml（目安１スポイト＝約１ml）垂らしよくかき混ぜてから入浴ください</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/4892034/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200710/pd_da9d3508f4df2a0bf3d2518bf2fb54b9f86a5a8f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【NEHAN TOKYO】クレイエプソルト 1袋（入浴剤）スプーン1本付</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<p class="goods-col_textinfo pc">クレイとエプソム、ホホバオイルの最高のハーモニー。クレイ粉だち抑制製法で新しくなったクレイエプソルト
+バスソルトブランド【NEHAN TOKYO】が新開発した、入浴料・スクラブ・泥パックとひとつで３役のバスソルトです。
+ネハントウキョウが世界に先駆けて新開発したクレイエプソルトはミネラルを豊富に含んだ国内産のクレイ（ベントナイト）と国内最高純度の自社生産エプソムソルトをブレンドした最新のバスソルト。
+クレイとエプソムソルトの相乗効果で、よりまろやかなお湯が肌をなめらかにし、多孔質な構造のクレイが肌表面の汚れをしっかり吸着、エプソムソルトは皮膚に薄い皮膜を形成、熱の放出を防ぎ、保湿、保温効果が持続します。クレイとエプソムソルト、ホホバオイルの最高のハーモニー。お風呂に入れるだけで、自宅のお湯が生まれ変わります。
+【ご使用方法】
+・バスソルトとして　
+お湯を入れた一般的なバスタブ（約180～200リットル）に約100gを湯面にまんべんなく振りかけ、よくかき混ぜてから入浴ください。
+【ご使用上の注意】
+・クレイ成分は不溶解性です。使用後は浴槽をシャワー等で30秒程度よく洗い流してください
+・製品の裏面に記載された「ご使用時の注意」をよく読んでからご使用下さい
+　※発汗の実感には個人差があります。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366361/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220203/pd_f665471edfc2dbe5b063d7d2c38a42203aa1c28b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【NEHAN TOKYO】 エプソム入浴セット（バスソルト＆バスボム）入浴剤</h4>
+<p class="goods-col_price inline">18,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<p class="goods-col_textinfo pc">バスソルトブランド【NEHAN TOKYO】のバスソルトとバスボムのセットです。
+フレグランスと天然精油それぞれの良さを分析し完成させたバスソルト「フレグラント」と「ボタニカル」に、「トータライズな癒し体験」をコンセプトに設計されたバスボム「エプリエンス」を加えました。
+1日40個程しか生産出来ないハンドメイド製です。
+入浴効果による血行促進、肌にうるおいを与える等の基本的効能に加え、日本人の繊細な嗅覚を意識した強すぎないそれでいてしっかりと香るエレガントな香りにこだわりました。
+・エプソルト
+徳島県産の純度99.99％の高純度硫酸マグネシウムに、フレグランスもしくは天然の花や果実の香りをつけたバスソルトです。
+・エプリエンス
+硫酸マグネシウムに炭酸ガス成分、クレイ成分を加えた入浴剤（バスボム）です。
+徳島県鳴門市の自社工場でひとつひとつハンドメイドで生産されています。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366473/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220905/pd_10d24ada1dd44018f3d255455c44bc66cdc3f5c8.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【NEHAN TOKYO】 ラブ・ユアセルフ・ファーストエプソルトセット（入浴剤）</h4>
+<p class="goods-col_price inline">33,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<p class="goods-col_textinfo pc">バスソルトブランド【NEHAN TOKYO】のバスソルトセットです。
+フレグランスと天然精油それぞれの良さを分析し完成させたバスソルトした「フレグラント」と「ボタニカル」に、
+ビューティーディレクターの早坂香須子氏とコラボレーションし、四季と月の満ち欠けをテーマに、純度99.99%の硫酸マグネシウム、クレイ成分、オーガニック精油で作られたspring、summer、autumn、winterの４つの香りのバスソルトを加えたセットです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/4914776/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200819/pd_cd45ae275bac9531286d435b7c19a6d0912bdc98.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">井上味噌醤油 味噌300ｇ3種セット 【三ツ星シェフ愛用】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<p class="goods-col_textinfo pc">明治８年の創業以来、七代にわたり「手仕事」を受け継ぐ老舗蔵です。
+日本でも希少となった技術は三ツ星シェフの方々からも厚い支持をいただいていております。
+国内に留まらずフランスでも高評価の「本格味噌」をご賞味ください。
+【注意事項】
+※クール便にて配送いたしますので、伊豆諸島（大島・八丈島を除く）および小笠原村（小笠原諸島）への配送はできかねますので、ご了承ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366270/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181023/pd_9e4d467f419fe5de394833dc9cfd0bcfcf526f7d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">鳴門ピクルス花レンコン 2本</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<p class="goods-col_textinfo pc">【「とくしま特選ブランド」認定】
+日本有数の生産高を誇る鳴門産のれんこんピクルスです。添加物や加熱時間を極力控え、鳴門れんこんの特徴・美味しさが最大限に活かされています。
+酸味が抑えられ、お子様にも食べやすくなっています。食材から出る旨味たっぷりのピクルス液までご堪能ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366293/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181023/pd_48f9538eecb7f2898b1f232229ae356460b555eb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">酒井農園れんこんパウダー 200g</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<p class="goods-col_textinfo pc">原材料は安全安心・特別栽培の「理りれんこん」を使用しています。他の材料や、添加物を一切加えていません。正真正銘、れんこん100%！色を白くするための漂白も行っていません。できる限り栄養成分を壊さないように、低温乾燥しています。きめの細かいサラサラパウダーなので、大変舌触りがよく、うどんやパン作りにもご利用いただけます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/4906138/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220202/pd_6818300a71ecd3eaf9e24857159dbf22f668cbf7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">お百姓さんが作ったスイートポテトセット 【しっとり食感】</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<p class="goods-col_textinfo pc">生産者だからこそ、惜しみなくた～っぷりサツマイモを使用しました。
+原材料の質にとことんこだわり、試行錯誤した【しっとりほくほく】のスイートポテトです。
+●プレーン　 10個
+「鳴門金時」をたっぷり使用して焼きあげたスイートポテトです。
+しっとりとした食感で、お芋の風味がいっぱいです。
+サツマイモの風味に程よい甘み、しっとりとした食感のバランスが絶妙で、あと味はさっぱり。
+鳴門金時芋ならではのおいしさがつまった逸品です。
+原材料：さつまいもペースト（さつまいも（徳島県産）、砂糖）、加糖卵黄（卵黄、砂糖）、砂糖、バター（生乳、食塩）、生クリーム/トレハロース、香料
+●紅茶　　　　 4個
+ホクホクで糖度が高い「鳴門金時」に、フレーバーティーの代表格「アールグレイ」の豊かな香りを。
+鳴門金時のふんわりとした甘さと柑橘系の香りは相性抜群！
+アールグレイに使用されるベルガモットオレンジが、スイートポテトの魅力を更に引き立てます。
+原材料：さつまいもペースト（さつまいも（徳島県産）、砂糖）、加糖卵黄（卵黄、砂糖）、砂糖、バター（生乳、食塩）、生クリーム、紅茶/トレハロース、香料
+●むらさき芋　4個
+甘みの強さが特徴の「鳴門金時」と、色鮮やかであっさりとした食感の「むらさき芋」。
+それぞれのお芋のイイトコ取りをしてしまった、シリーズ人気No.2です。
+原材料：紫芋ペースト、さつまいもペースト（さつまいも（徳島県産）、砂糖）、加糖卵黄（卵黄、砂糖）、砂糖、バター（生乳、食塩）、生クリーム/トレハロース、香料</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366266/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20191008/pd_22e47ab4efc64dab40a8e64c64eb4bab9bd3b94b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">御菓子処ことらやセット</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※時期や季節によって内容が異なりますので、くるみ・アーモンド等が含まれる場合がございます</p>
+</div>
+<p class="goods-col_textinfo pc">昭和7年創業の鳴門市の御菓子処『ことらや』。その代表銘菓「名代あん巻」は、良質の小豆あんと阿波和三盆糖と濃厚な平飼い鶏卵を使用。創業以来素材にこだわり続けた変わらぬ味が、今も親しまれています。
+名代あん巻をはじめ、ことやらの最高品質の和菓子をセットでどうぞ。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/4676489/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190807/pd_be2521c1d80dfa8c9efd8785782be63aa5646347.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">『月へ鳴門へ』～FRENCH★MONSTAR～</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<p class="goods-col_textinfo pc">※こちらの返礼品は6月30日にて受付休止とし、7月1日以降、順次再受付の予定ですが、寄附金額が変更となります。
+ご検討中に方は、お早めにお申し込みくださいませ。
+【瀬戸内おみやげコンクール（菓子・スイーツ）2018　最優秀賞受賞】
+フランスの伝統的なサブレに、鳴門金時のクリームをたっぷりサンドしたお菓子です。
+生産者・喜瀬さん（鳴門市）の鳴門金時を使用。
+低温の貯蔵庫で熟成したお芋を、直接譲り受けています。
+糖度を最大限に引き出すために、高温のオーブンでじっくり「焼き芋」に。鳴門金時本来の甘さがこのお菓子の生命線です。
+鳴門金時をペーストにするところから、パティシエが手作りならではの風合い・味、安心・安全にこだわってお作りしております。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366296/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181023/pd_9804566db4691511524f8c97047fe13f81d567fe.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">福寿醤油セット</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<p class="goods-col_textinfo pc">創業文政九年、180年以上も続く鳴門の老舗「福寿醤油」が作るバラエティー豊かな5種類のセットです。
+『天然醸造醤油二年仕込み』は国内産の丸大豆と小麦、天日塩を杉木桶で仕込み発酵させた無添加・無着色の醤油。おススメです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366360/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181023/pd_0a5e3510e0d6f9b97d5b8a1206228f627083a909.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">福寿醤油豪華二段セット</h4>
+<p class="goods-col_price inline">21,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<p class="goods-col_textinfo pc">創業文政九年、180年以上も続く鳴門の老舗「福寿醤油」が作る6種類の豪華二段セット。
+『再仕込醤油』は、国内産丸大豆・小麦を使用し一度搾った生醤油に、再度麹を加えてじっくり熟成させました。芳醇な香りとまろやかなコクをお楽しみください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366279/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_3403c7c62c9c7af0895eea9192f49975153b1ca4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ナルトタイ純米原酒（水ト米）2本　【Kura Master2019　プラチナ賞受賞】</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<p class="goods-col_textinfo pc">【ワイングラスでおいしい日本酒アワード2016　金賞受賞】
+【U.S.National Sake Appraisal 2018（全米日本酒歓評会）純米部門　金賞受賞
+【Kura Master2019（純米酒部門）プラチナ賞・TOP5受賞
+2015年IWC純米酒カテゴリー最高金賞「ナルトタイ 純米 水ト米」の原酒タイプです。
+今まで日本酒を飲まなかった女性や若い方々など、日本酒ビギナーにおすすめの純米酒。
+スッキリした味わいで、さわやかな香りが特徴です。
+さらに美味しさを追求するため、もろみの段階でアルコール度数を追求し、
+アルコールのトゲのない軽やかな口あたりに仕上げました。
+従来の「水ト米」の特徴である優しい味わいもそのまま継承されています。
+香りをより楽しむためにワイングラスでどうぞ。
+※20歳未満の飲酒は法律で禁止されています。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366283/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200206/pd_62cde7cb7abd56ef6aca5f84de82cea957d7b7c9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">すだち酒 3本</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<p class="goods-col_textinfo pc">徳島県特産のすだちのフルーティな香りと爽やかな酸味。
+はちみつの甘味と清酒の旨味が調和した美味しさ。
+やや甘口で、雑味が少なくキレが良い一品です。
+よく冷やして、ストレート、または、ロックでお楽しみください。
+郷土の懐かしい香りを伝えるお土産にも最適です。
+※20歳未満の飲酒は法律で禁止されています。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/4960689/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211125/pd_7b0617b7955fac26a4109b7ba05961208e18eda0.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【組み立て簡単】 非常用簡易トイレ エチケットタイプ 【約30回分】</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">大塚ホールディングス株式会社の子会社である大塚包装工業株式会社がアース製薬株式会社と、
+独自のはっ水コート液を塗布した紙と抗菌剤配合消臭凝固剤を活用した非常用簡易トイレを共同開発しました。
+水害時も安心な防水包装。
+便器内側ははっ水コートされ、開閉機能を備えた中の見えない安心安全のエチケット設計のトイレです。
+約250ｋｇの重さまで耐えることができ、約30回分の使用が可能です。　
+【注意事項】
+・防水包装となっておりますので使用する時まで袋を開けないでください。
+・なるべく平らな所で異物や水気のない場所に設置して下さい。
+・使用する際はなるべくゆっくりお座り下さい。ナナメに腰掛けたりドスンと強く腰掛けると便器がこわれる恐れがあります。
+・高温・多湿・直射日光を避けて保管して下さい。
+・凝固剤は食べられません。
+・便袋は尖ったものに接触させないで下さい。
+・はっ水コートの効果は尿や便の個人差により効果が出にくいことがあります。
+【製造元】
+大塚包装工業株式会社
+徳島県鳴門市大津町木津野字東辰巳1</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/4741396/114">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20191031/pd_d50fd77429209b7da91090777540b9ee51048244.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ナチュラルインディゴ　コットンスラブ　メンズVカラーTシャツ</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から1～2ヶ月程度で発送</p>
+</div>
+<p class="goods-col_textinfo pc">【鳴門市ふるさと納税記念品限定Tシャツ】
+ブランド名の「NARUTO AZZURRO」はイタリア語で「鳴門の青」。
+その名の通り、鳴門の海をイメージしたスタイリッシュなナチュラルインディゴ　ハンドダイ・コットンTシャツです。
+綿の優しい風合いが感じられるスラブ糸をしっかり編み上げた国産素材を使用。灰汁発酵建て天然藍染ならではの着心地の良さを体感していただけます。
+※素材：綿100％
+※１着ずつの手染めのため色の個体差があります。
+※お手入れの案内書を添えてお送りします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366406/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20170814/pd_bd385328d7149618019b883fca9f98bfc3a4c73f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">藍染シルクストール</h4>
+<p class="goods-col_price inline">56,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">徳島の誇る伝統産業の阿波藍で、鳴門市の工房で染められたシルク１００％のストールです。
+「青は藍より出でて藍より青し」ということわざどおり、藍染めの青い色は、「JAPAN BLUE」として世界に知られるほど深く鮮やかな色彩です。
+本藍で染めたシルクストール。日々の暮らしの中で、藍染を楽しみませんか。
+サイズ：約40ｃｍ×170ｃｍ
+●手造りのため、サイズ・柄が異なる場合があります。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366304/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181023/pd_e1bd9a5a1d056ae12b34aec014ee3ac9291b70f7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">藍染バンダナスカーフ 1枚</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">徳島の誇る伝統産業の阿波藍で、鳴門市の工房で染められたバンダナスカーフです。「青は藍より出でて藍より青し」ということわざどおり、藍染めの青い色は、「JAPAN BLUE」として世界に知られるほど深く鮮やかな色彩となっています。日々の暮らしの中で、藍染を楽しみませんか。
+●手作りのため絵柄と大きさは、変わる場合があります。
+●画像の柄がご希望の場合は必ず備考欄にご記入ください。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366308/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20170810/pd_01a9949c2544210251d5ca588fa80e823a424024.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">藍染コースター小 4枚</h4>
+<p class="goods-col_price inline">18,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">徳島の誇る伝統産業の阿波藍で、鳴門市の工房で染められたコースターです。
+「青は藍より出でて藍より青し」ということわざどおり、藍染めの青い色は、「JAPAN BLUE」として世界に知られるほど深く鮮やかな色彩となっています。
+日々の暮らしの中で、藍染を楽しみませんか。
+●手作りのため絵柄と大きさは、変わる場合があります。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/366467/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20170810/pd_1c9a96cabd7bd5d9383ec9e2324b04be19610ed4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">なると足袋セット 2足</h4>
+<p class="goods-col_price inline">17,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<p class="goods-col_textinfo pc">徳島での阿波踊りでは欠かすことのできない、100%国産素材の高級足袋です。最上の素材を使用し、最高の技術で造り上げたキャラコ足袋「極」と、指先特殊縫製の「パレル」をセットにしています。
+●申込時に、普段履いている靴のサイズをご記入ください。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/4919054/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200824/pd_c47687c62e2114962f061c1fd1aea0f791af3989.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">大塚国際美術館 入館チケット1枚</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">【2000年以上色褪せない、迫力の西洋名画が1,000点以上】
+大塚国際美術館は、世界で類をみない「陶板名画美術館」です。
+古代から現代に至る、西洋美術史を代表する名画1,000余点を、
+陶板で原寸大に再現し、展示しています。
+約４ｋｍにおよぶ鑑賞ルートには、レオナルド・ダ・ヴィンチ「最後の晩餐」、
+ゴッホ「ヒマワリ」、ピカソ「ゲルニカ」など、
+美術書などで一度は見たことがあるような名画を一堂に展示しており、世界中の美術館を味わうことができます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/4919055/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200824/pd_c47687c62e2114962f061c1fd1aea0f791af3989.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">大塚国際美術館 入館チケット2枚セット</h4>
+<p class="goods-col_price inline">23,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">【2000年以上色褪せない、迫力の西洋名画が1,000点以上】
+大塚国際美術館は、世界で類をみない「陶板名画美術館」です。
+古代から現代に至る、西洋美術史を代表する名画1,000余点を、
+陶板で原寸大に再現し、展示しています。
+約４ｋｍにおよぶ鑑賞ルートには、レオナルド・ダ・ヴィンチ「最後の晩餐」、
+ゴッホ「ヒマワリ」、ピカソ「ゲルニカ」など、
+美術書などで一度は見たことがあるような名画を一堂に展示しており、世界中の美術館を味わうことができます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/4919056/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200824/pd_c47687c62e2114962f061c1fd1aea0f791af3989.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">大塚国際美術館 入館チケット4枚セット</h4>
+<p class="goods-col_price inline">45,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">【2000年以上色褪せない、迫力の西洋名画が1,000点以上】
+大塚国際美術館は、世界で類をみない「陶板名画美術館」です。
+古代から現代に至る、西洋美術史を代表する名画1,000余点を、
+陶板で原寸大に再現し、展示しています。
+約４ｋｍにおよぶ鑑賞ルートには、レオナルド・ダ・ヴィンチ「最後の晩餐」、
+ゴッホ「ヒマワリ」、ピカソ「ゲルニカ」など、
+美術書などで一度は見たことがあるような名画を一堂に展示しており、世界中の美術館を味わうことができます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36202/4907012/114">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200801/pd_3ff8ba1fdd1bdb2d088a64ea97847941e232229b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">あらたえの湯 入浴券＆ロイヤルラウンジ　ペアチケット</h4>
+<p class="goods-col_price inline">9,000円</p><br class="sp" />
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から１～２か月程度で発送</p>
+</div>
+<p class="goods-col_textinfo pc">露天風呂、炭酸風呂、ロウリュサウナなど多様なスパを備える大浴場をメインに、
+ボートレース鳴門の競争コースや景観を見渡しながら、くつろげるロイヤルラウンジ、
+カラオケルーム、ボディケア、あかすりコーナーなどの各種リラクゼーション等を完備した複合温浴施設です。
+【注意事項】
+・こちらのチケットは「鳴門天然温泉 あらたえの湯」のみで使用できます。
+・ご利用期限は発行日より1年間とさせていただきます。
+・お釣りはでませんので、券を利用される場合はお気をつけください。
+・有効期限を超過したもの、発行者の番号・印のないものは無効です。
+・再発行はいたしかねますので、あらかじめご容赦ください。
+・休館日がございます。HPにてご確認ください。</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<ul class="gcf-lst-bx" id="progress_list">
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2021年08月31日 00:00</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">目標金額の達成と寄附のお礼</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">この度は本プロジェクトに多数のご寄付を賜り、誠にありがとうございました。おかげをもちまして、当初の目標金額を達成することができました。<br/>
+皆様からの寄付金は、若手選手のトレーニング環境整備に充てられます。本プロジェクトが、若手選手の一層の活躍とそれに伴うチーム力向上によるJ1定着につながることを期待しております。<br/>
+鳴門市では今後も徳島ヴォルティスのホームスタジアムがあるまちとして、様々な形で支援を行っていきたいと考えております。<br/>
+今回の寄付のご協力について心よりお礼を申し上げるとともに、これからも徳島ヴォルティスへの応援をよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="1015" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="1015">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="1015">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F1302%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+</ul>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">徳島県鳴門市</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">鳴門市は、四国の東端、徳島県の東北端に位置しており、鳴門海峡をへだてて淡路島に対峙する四国の東玄関として発展してきました。<br/>
+「鳴門の渦潮」をはじめとする豊かな自然が育んだ「鳴門鯛」「鳴門わかめ」「なると金時」などさまざまな特産品があり、「食」の宝庫です。<br/>
+また、「四国八十八箇所霊場」や「第九」アジア初演の地としてその名を知られる文化と歴史が薫るまちです。<br/>
+さらに、徳島ヴォルティスのホームスタジアムがあるまちとして、応援機運の醸成やサポーターの受入環境整備などさまざまな形での支援を行っています。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">唯一無二の渦潮のある街、鳴門市。<br/>
+合宿教習でお世話になった恩は、倍でお返しします。</p>
+<p class="gcf-bx-message__date">2021年8月30日 11:09</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">これからも徳島ヴォルティスの応援に力を入れてください！</p>
+<p class="gcf-bx-message__date">2021年8月28日 12:22</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">徳島ヴォルティスを応援しています。鳴門市のヴォルティスを応援する様々な活動をありがたく思っています。</p>
+<p class="gcf-bx-message__date">2021年8月26日 16:36</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">これで目標金額達成！<br/>
+J1残留の目標も必ず達成を！！</p>
+<p class="gcf-bx-message__date">2021年8月26日 15:36</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">徳島から素晴らしいサッカープレイヤーが生まれますように！</p>
+<p class="gcf-bx-message__date">2021年8月25日 16:07</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">徳島ヴォルティスのＪ１残留。そしていつの日かJ1優勝のため共にがんばっていきましょう。</p>
+<p class="gcf-bx-message__date">2021年8月25日 1:19</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">ヴォルティスがんばれ！J1定着！</p>
+<p class="gcf-bx-message__date">2021年8月24日 10:28</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">徳島ヴォルティスの試合が開催される街を羨ましく思います。ヴォルティスとともに鳴門市も上昇していってください。</p>
+<p class="gcf-bx-message__date">2021年8月24日 0:50</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">徳島ヴォルティスの少しでも活性化になると思い寄付することにしました。これからも応援しています。</p>
+<p class="gcf-bx-message__date">2021年8月23日 21:34</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">J1定着！！！</p>
+<p class="gcf-bx-message__date">2021年8月22日 22:02</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">徳島ヴォルティスは、徳島県の誇りです。心も体も強いチームになってください。</p>
+<p class="gcf-bx-message__date">2021年8月22日 21:08</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">徳島ヴォルティスを応援し、ホームゲームによく駆けつけています。徳島ヴォルティスが活躍すると、県内はもとより、県外からのお客さんも増えると思います。徳島ヴォルティスを応援するとともに、鳴門市を訪れた方が満足して帰ってくださるよう、鳴門市の観光面での更なる充実を応援しています。</p>
+<p class="gcf-bx-message__date">2021年8月22日 20:50</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">徳島ヴォルティス応援してます。J1定着目指してがんばって下さい！</p>
+<p class="gcf-bx-message__date">2021年8月22日 19:06</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">いつも家族で応援しています。ヴォルティスの選手たちががんばっている姿にいつも勇気と元気をもらっています。これからも、さらなる高みを目指してがんばってください！</p>
+<p class="gcf-bx-message__date">2021年8月22日 14:34</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">J1リーグのホームタウンの鳴門市がより良くサッカー文化を育んで、市民みんなが笑顔で暮らせるよう応援してます。</p>
+<p class="gcf-bx-message__date">2021年8月21日 21:23</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">ヴォルティス応援してます！！！若手にも、もっと向上して貰いたい！！！頑張って下さ〜い^ - ^</p>
+<p class="gcf-bx-message__date">2021年8月20日 20:12</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">今後の発展に繋がることを願っています。</p>
+<p class="gcf-bx-message__date">2021年8月20日 15:35</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">Ｊ１定着！<br/>
+がんばれ徳島ヴォルティス！！</p>
+<p class="gcf-bx-message__date">2021年8月19日 20:55</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">徳島ヴォルティスのJ1残留をかけて、応援しています！</p>
+<p class="gcf-bx-message__date">2021年8月18日 16:22</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">めざせJ1定着！</p>
+<p class="gcf-bx-message__date">2021年8月17日 8:34</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/1302">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">徳島県鳴門市の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/36202/114?from=2&amp;gcf_project_id=1302"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,521,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g1302,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

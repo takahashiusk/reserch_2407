@@ -1,0 +1,1320 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/910" />
+
+<title>過酷な漁に挑み続ける　洋上のいか釣り船団を応援しよう！ ｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="過酷な漁に挑み続ける　洋上のいか釣り船団を応援しよう！ ｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/910" />
+<meta property="og:description" content="例年6月に酒田港いか釣り船団出航式を賑やかに開催していますが、今年は新型コロナウイルス感染症の感染拡大防止のため残念ではありますが中止となりました。昨年の日本海スルメイカ漁は、歴史的な大凶漁となり山形船団も大きな打撃を受けました。さらに漁場である大和堆には違法操業を行う外国船が多数押し寄せ、日本の資源を奪っているだけでなくトラブルにも発展しかねない緊迫した中での操業を余儀なくされました。私たちは、こうした厳しい状況の中でもスルメイカ漁に向かう山形船団を応援するため、洋上での食事や帰港時の生活支援などの支援を行い、「いかのまち酒田」を旗印として地域水産業の活性化を図りたいと考えています。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20200824/d_31153a3a14d9c753c901536b072a5afaf6c54fa4.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20200824/d_31153a3a14d9c753c901536b072a5afaf6c54fa4.jpg" />
+<meta property="twitter:title" content="過酷な漁に挑み続ける　洋上のいか釣り船団を応援しよう！ ｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="例年6月に酒田港いか釣り船団出航式を賑やかに開催していますが、今年は新型コロナウイルス感染症の感染拡大防止のため残念ではありますが中止となりました。昨年の日本海スルメイカ漁は、歴史的な大凶漁となり山形船団も大きな打撃を受けました。さらに漁場である大和堆には違法操業を行う外国船が多数押し寄せ、日本の資源を奪っているだけでなくトラブルにも発展しかねない緊迫した中での操業を余儀なくされました。私たちは、こうした厳しい状況の中でもスルメイカ漁に向かう山形船団を応援するため、洋上での食事や帰港時の生活支援などの支援を行い、「いかのまち酒田」を旗印として地域水産業の活性化を図りたいと考えています。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,521,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="910" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">過酷な漁に挑み続ける　洋上のいか釣り船団を応援しよう！ </li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">過酷な漁に挑み続ける　洋上のいか釣り船団を応援しよう！ </span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1019">食・農林水産業・商工業&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20200824/d_31153a3a14d9c753c901536b072a5afaf6c54fa4.jpg" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E9%81%8E%E9%85%B7%E3%81%AA%E6%BC%81%E3%81%AB%E6%8C%91%E3%81%BF%E7%B6%9A%E3%81%91%E3%82%8B%E3%80%80%E6%B4%8B%E4%B8%8A%E3%81%AE%E3%81%84%E3%81%8B%E9%87%A3%E3%82%8A%E8%88%B9%E5%9B%A3%E3%82%92%E5%BF%9C%E6%8F%B4%E3%81%97%E3%82%88%E3%81%86%EF%BC%81%20&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F910">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">270,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 13.5%;"></div>
+<p class="gcf-cht-detail-bar__number">13.5%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">2,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">13.5</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">22</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>山形県酒田市（やまがたけん さかたし）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="910" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+<li>
+<a class="js-modal-not-available-in-mobile-app-trigger i-arrow" href="#" data-modal-id="contact">お問い合わせ先</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2020年10月2日～2020年12月31日（91日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1034" class="sorting-list__item">食</a></li><li><a href="/gcf/project/tag/1036" class="sorting-list__item">海・漁業</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1081" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_2.png 1x, /gcf/images_cf/sdg/sdg_icon_2@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_2.png" alt="SDGアイコン" decoding="async" />2.飢餓をゼロに</a></li><li><a href="/gcf/project/sdgs/1088" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_9.png 1x, /gcf/images_cf/sdg/sdg_icon_9@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_9.png" alt="SDGアイコン" decoding="async" />9.産業と技術革新の基盤をつくろう</a></li><li><a href="/gcf/project/sdgs/1093" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_14.png 1x, /gcf/images_cf/sdg/sdg_icon_14@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_14.png" alt="SDGアイコン" decoding="async" />14.海の豊かさを守ろう</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="910" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">山形県酒田市</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20200608/o_9f5bee00266a621f4025f21a9ebe7251ac170582.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">例年6月に酒田港いか釣り船団出航式を賑やかに開催していますが、今年は新型コロナウイルス感染症の感染拡大防止のため残念ではありますが中止となりました。<br/>
+昨年の日本海スルメイカ漁は、歴史的な大凶漁となり山形船団も大きな打撃を受けました。さらに漁場である大和堆には違法操業を行う外国船が多数押し寄せ、日本の資源を奪っているだけでなくトラブルにも発展しかねない緊迫した中での操業を余儀なくされました。<br/>
+私たちは、こうした厳しい状況の中でもスルメイカ漁に向かう山形船団を応援するため、洋上での食事や帰港時の生活支援などの支援を行い、「いかのまち酒田」を旗印として地域水産業の活性化を図りたいと考えています。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">洋上で頑張る「いか釣り船団」を応援したい！<br/>
+</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">昨年はスルメイカが大凶漁。今年に期待！<br/>
+</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200916/gpfd_a33404e5eff4a045ae1aa71ff191f037b65c9f6e.jpg" />
+<figcaption class="lyt-image__caption">今年こそ！</figcaption>
+</figure>
+<p class="gcf-txt-article">毎年6月上旬に開催する「いか釣り船団出航式」には、山形県船友漁撈長会所属の十数隻の中型いか釣り船が全国各地から集まり、大漁と操業の安全を祈願します。5色のテープを握る家族や多くの市民に見送られる中、次々と大海原に出航します。<br/>
+スルメイカの漁は、酒田港から西へ約600㎞にある大和堆から北海道西沖の日本海を漁場とし、北上するスルメイカを追いながら1か月から2か月もの期間にわたり沖合で操業し、翌年２月頃まで続きます。<br/>
+<br/>
+近年、全国的にスルメイカの水揚量が大きく減少する中、昨年は歴史的大凶漁に見舞われ、廃業に追い込まれた船もありました。さらに追い打ちをかけるように、沖合の漁場では外国船による違法操業が多発するなど、安全が脅かされる中での操業が続きました。<br/>
+酒田港は水揚のおよそ8割がスルメイカであり、本市にとって最も重要な水産物です。命がけでスルメイカ漁に取り組んでいる船団を市民を挙げて応援しています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">今年はコロナウイルスの影響で「出航式」は中止に・・・</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">代表者が漁撈長を激励！</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200824/gpfd_d7c0353142a34cf4e9fa71c27cbe816e1a9fd5fc.jpg" />
+<figcaption class="lyt-image__caption">6名の漁撈長を激励する漁協組合長（左）と市長（中央）、副市長（右）</figcaption>
+</figure>
+<p class="gcf-txt-article">例年、賑やかに開催している「いか釣り船団出航式」ですが、今年は、新型コロナウイルス感染症の影響によりが開催が見送られました。<br/>
+<br/>
+本来であれば、昨年の大凶漁を吹き飛ばすべく、市を挙げて大漁と安全操業を願い盛大に出航式を開催し、漁撈長と乗組員をお見送りしたいところでしたが、今年は、残念ながらコロナ禍により中止となりました。<br/>
+<br/>
+出航式は中止となりましたが、6月11日、酒田港から今期の漁に向かう６隻の漁撈長を激励するため、本間山形県漁業協同組合代表理事組合長、丸山酒田市長、矢口副市長が駆け付けました。<br/>
+<br/>
+船団長を務める第３８正徳丸の佐藤長悦郎漁撈長の力強い決意表明があり、その後、1隻ずつ、家族や関係者から「頑張って来いよ～」などの声援を受け、漁場に向けて出航しました。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">入港から次の出航までの期間を手厚くサポート</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">関係者一丸となって、酒田港入港を歓迎します！</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200824/gpfd_7b358e59b008ad4e7d0b3dc7e6786e0c049dec44.jpg" />
+<figcaption class="lyt-image__caption">入港後の荷揚げ作業</figcaption>
+</figure>
+<p class="gcf-txt-article">いか釣り船は、一度の航海で40日から２か月程度の期間操業して港に水揚げします。<br/>
+入港から次の出航までの少しの間、心と体を休めてもらうため、屋外風呂の設置やレンタカー利用料の助成などの生活環境支援を行います。また、船凍いかを収納する段ボール箱の購入支援や、船上での食事で英気を養ってもらうために酒田産米つや姫を贈呈しています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">命がけで取り組んでいるいか釣り船団を応援します</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">【寄附の使い道】<br/>
+・屋外風呂設備の設置とレンタカー借上<br/>
+・荷揚げ時の作業軽減を図るための設備改修<br/>
+・船凍いかを収納する段ボール箱購入補助<br/>
+・船上での食事用に酒田産米を贈呈<br/>
+<br/>
+【事業実施のスケジュール】<br/>
+・2020年6月：出航<br/>
+・2020年8月以降、続々と入港しています（最盛期は10月～12月）<br/>
+　生活環境支援、ダンボール箱購入補助や酒田産米の支援を随時実施します。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200916/offd_3523eac8973a94333d953a28c1530986f0ca77dd.jpg" alt="命がけで取り組んでいるいか釣り船団を応援します" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">『いかのまち酒田』を目指して！<br/>
+</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">スルメイカは酒田にとって重要な資源<br/>
+</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200824/gpfd_b07b7cc900751481f909a6563b17892121840a05.jpg" />
+</figure>
+<p class="gcf-txt-article">酒田港は、県内外の多くのいか釣り船が入港・水揚することにより、全国でも有数のスルメイカの産地です。中でも山形船団が水揚する冷凍スルメイカは、釣り上げて直ぐに急速冷凍しているため非常に鮮度が良く、しかも使いやすいように１尾ずつ凍結しているのが特徴で、「船凍いか」と呼ばれています。<br/>
+<br/>
+酒田市では、「酒田船凍いか」として商標登録を行いました。市の特産のスルメイカを新たなブランドとして認知していただきたいと考えています。また、酒田市にある水産物加工会社では、船凍いかを使った刺身や塩辛を製造しており、市民はもとより全国から大変好評いただいております。スルメイカの消費拡大により、いかのまち酒田を全国に発信していきます。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">事業に携わる方の思い</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">酒田市長　　丸山　至<br/>
+</span></h3>
+<h3 class="gcf-ttl-h3">■いか釣り漁業がこの地域の水産業を引っ張る！</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200903/gpfd_78b22e4794b36500302d9ee7b2d58ba930189e00.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">ここ庄内浜は、四季を通して１３０種類もの魚介類が水揚げされる豊かな海です。春はサクラマス、ヒラメ、夏はスルメイカ、秋は庄内おばこサワラやマダイ、ブリ、冬はマダラ、トラフグ、ズワイガニなどが水揚げされますが、近年、漁業者の減少により水産業の衰退が大きな課題となっています。<br/>
+酒田市では、酒田港の重要品目であるスルメイカに着目し、いか釣り漁業の活性化を図ることで「いかのまち酒田」をアピールし、地域水産業全体の活性化につなげていきたいと考えています。しかし、スルメイカ資源の減少により、昨年は歴史的な不漁となり、また、好漁場「大和堆」における外国船違法操業問題など、いか釣り漁業者にとって非常に厳しい状況が続いています。<br/>
+船団の皆さんには、安全に留意しながら頑張っていただきたいと思っているところです。<br/>
+<br/>
+</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">山形県船友漁撈長会　佐藤 長悦郎 船団長<br/>
+</span></h3>
+<h3 class="gcf-ttl-h3">■昨年より若干上向いてきているが、これからが勝負！</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200903/gpfd_50efa49e5a2b85f6f39c15985c5ef4a112c6ac86.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">「昨年は５０年以上の漁師生活の中でも経験がないほどの不漁だったが、今年は少し上向いてきいる」。１１隻の山形船団を取りまとめる佐藤船団長は、７月と９月の２回水揚げをしており、若干の手ごたえを感じているものの、これからが本当の勝負と話す。<br/>
+今後は好漁場と言われる大和堆での操業が中心となりますが、昨年、一昨年と外国船が多数押し寄せた場所。不安は消えませんが、今年は水産庁の取締船２隻が新たに配備され、警戒態勢も増強されたとの情報を頼りにしています。<br/>
+数々の不安にさらされながら、佐藤船団長は、「自分たちの力で何とか漁獲量が前年を上回ることを目標に、船団で力を合わせて頑張るしかない」と決意を新たに再び漁場へ向かいます。<br/>
+<br/>
+</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">山形県漁業協同組合 専務理事　西村 盛</span></h3>
+<h3 class="gcf-ttl-h3">■陸にいる我々も、全力で応援！<br/>
+</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20200903/gpfd_e7a79a2201239d17b554e65d4f837a90f78ad8cf.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">日本の排他的経済水域内での外国船による違法操業問題については、これまでも関係機関と連携して、国に対して取締り等について要請を行ってきました。水産庁や海上保安庁からは年々対応を強化してもらってきており、とてもありがたく感じていますが、漁場環境は年々厳しさを増しています。<br/>
+漁業者が安全に操業できるよう、関係者と連携して引き続き要請活動を行っていきます。漁場でたたかっている船頭や乗組員たちのためにも、陸にいる我々も全力で応援します。<br/>
+<br/>
+</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">プロジェクトを応援する声</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">酒田市民　斎藤さん<br/>
+</span></h3>
+<h3 class="gcf-ttl-h3">■いつもおいしいイカをありがとう！</h3>
+<p class="gcf-txt-article">いか釣り船団をいつも応援しています。<br/>
+１１隻の中型いか釣り船団、通称「山形船団」ですが、このうち９隻の船頭、いわゆる漁撈長さんは酒田市・飛島の出身です。私の父も飛島出身で、子どものころから漁業の話を聞いて育ちました。飛島の漁師さんは、「船に乗るなら船頭になる」という意気込みで、四方を海に囲まれた環境の中で腕を磨いて育った方が多いとのことです。船頭は、北海道や石川県の水産会社との雇用関係にあり、野球でいえばプロ野球の監督のようにチームを預けられているわけですから、絶大な信頼があってのこと。また、船団のチームワークも良く、日本一の水揚げを何度も記録していると聞きました。飛島とのつながりがある私も、とても誇りに思っています。<br/>
+昨年は歴史的な不漁に見舞われ、廃船に追い込まれた船もあったと聞いていますが、今年こそ、大漁になるよう応援しています。様々な苦労があって本当に大変な仕事だと思いますが、大漁で無事に帰ってこられますようお祈りしています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06204/4657479/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230621/pd_581881e6c20e5caf24eb13614212843b780dfd95.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">SB0490　令和6年産【精米】特別栽培米 つや姫10kg(5kg×2袋)　「最優秀金賞」受賞農家直送・鳥海山麓やわたの米 TR</h4>
+<p class="goods-col_price inline">17,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年　※ただしなくなり次第終了</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>令和6年産米のため、令和6年10月上旬より発送開始予定です。</p>
+</div>
+<p class="goods-col_textinfo pc">＜こちらの返礼品は令和6年産米のため、令和6年10月上旬より発送開始予定です。＞
+平良農園は「2021年度日本一おいしい米コンテストin庄内町」にて全国第1位となる「最優秀金賞」を受賞しました。
+その平良農園が自信を持って育てた特別栽培米つや姫です。
+鳥海山麓に位置する平良農園の田んぼは、長年環境保全に努め、珍しいカブトエビをはじめ多種多様な生き物が共生しています。この生き物たちが最高の土作りの名人。
+そこで育ったつや姫は自慢の逸品です。数に限りがございますが、ぜひ一度ご賞味ください。
+平良農園
+〈到着後のお米のお取扱いについて〉
+返礼品の発送には万全を期していますが、到着後は必ず、すぐに開封し、中身のご確認をお願いいたします。
+外装破損・水漏れ・異物・汚れ・誤配送等、異常があった場合は、お早目にご連絡ください。
+当市の不備による初期不良・破損についての交換等の対応は【到着後1週間以内】までとさせていただきます。
+※到着後1週間を経過したものについての返品・交換等の対応等は一切お受けできませんので、あらかじめご了承ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06204/4574166/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210525/pd_e9ab5cc52d6233d7939754b11227e34a6b16e0fd.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">SA0022　酒田港船凍いかづくしセット　Ａ－２</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から30日前後で発送</p>
+</div>
+<p class="goods-col_textinfo pc">酒田港水揚げの船凍いかをふんだんに使ったいか三昧の品です。船凍いかとは水揚げ後すぐに船内で急速凍結させたものです。いかが新鮮なうちに急速凍結をしますので、いかの身も肝もそのままのおいしさです。船凍いかを使い、いかのお刺身はもちろん、本物志向の塩辛、肝醤油など、こだわりの商品を揃えました。
+※離島へのお届けはできませんのであらかじめご了承下さい。
+山形飛鳥</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06204/4821921/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210430/pd_102d8d1546b99c14e0f575fc3faf91eb6895f80b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">SB0401　船内急速冷凍するめいか　8尾</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から30日前後で発送</p>
+</div>
+<p class="goods-col_textinfo pc">酒田のイカ釣り船が、釣れたばかりの活きたイカを船内で急速冷凍したものです。
+刺身はもちろんのこと、イカ焼きや塩辛、フライにしても最高です。鮮度抜群のイカを是非ご賞味ください。
+※離島へのお届けはできませんのであらかじめご了承下さい。
+山形県漁業協同組合</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06204/4575190/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210525/pd_aa1d4b0287662781a76a8b8a3d00f4f668e3a574.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">SC0020　酒田港船凍いかづくしセット　B－２</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から30日前後で発送</p>
+</div>
+<p class="goods-col_textinfo pc">酒田港水揚げの船凍いかをふんだんに使ったいか三昧の品です。船凍いかとは水揚げ後すぐに船内で急速凍結させたものです。いかが新鮮なうちに急速凍結をしますので、いかの身も肝もそのままのおいしさです。船凍いかを使い、いかのお刺身はもちろん、本物志向の塩辛、肝醤油など、こだわりの商品を揃えました。
+※着日指定・離島への発送はできません。
+※味や品質が変わることがございますので、再凍結は行わないでください。
+山形飛鳥</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06204/4807313/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230209/pd_f3ca837594b0c1de085351b3f8b04153671a3bfb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">SC0352　「初孫 純米大吟醸超辛口 黒魔斬」「楯野川 純米大吟醸 凌冴(りょうが)+10」計2本(各1800ml×1本) 【き、つけでのセット】</h4>
+<p class="goods-col_price inline">24,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<p class="goods-col_textinfo pc">■ 初孫 純米大吟醸超辛口 黒魔斬 ■
+生酛の味わい、大辛口のシャープな切れ味の限定品。
+生酛の純米大吟醸を楽しんでください。肩張りと裏ラベルの超辛口の表記の通りプラス12は初孫で最辛口の部類です。
+大吟醸のフルーティさと生酛の味わい。後味のシャープな切れ味は飲み手の心を鷲掴み間違いなしです。
+魔斬(まきり)は酒田の漁師さんが使用する切れ味鋭い小刀です。魔を斬ることから魔除けの縁起物とされています。
+【蔵元】東北銘醸株式会社
+【原料米】美山錦
+【精米歩合】50%
+【酵母】自社酵母
+【日本酒度】+12
+【酸度】1.4
+【アルコール度】16.2％
+■ 楯野川 純米大吟醸 凌冴(りょうが)+10 ■
+辛口の殻を破り冴を追求した味わいの山形県限定流通品。
+米の旨味と軽快な切れ味が冴える純米大吟醸の超辛口酒になります。食中酒として穏やかな吟醸香と冴えわたる後味は最適です。
+最近流行の酒とは一線引いた楯野川の最辛口酒。鳥海山系の伏流水と山形県産「美山錦」米を使用し丁寧に醸しました。
+【蔵元】楯の川酒造株式会社
+【原料米】美山錦
+【精米歩合】50%
+【酵母】山形酵母
+【日本酒度】+10
+【酸度】1.1
+【アルコール度】15％
+セット名の「き、つけでの」は、酒田の方言で「気を付けてください」の意味です。
+人と人とを結びつける温かい言葉です。
+※日本酒度等のスペックは酒造年度によって多少前後する場合があります。予めご了承ください。
+※20歳未満の飲酒は法律で禁止されています。
+池田屋酒店</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06204/4911536/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200818/pd_40b78b616b0b969b1da9e10f86680338cc576d31.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">SZ0025　酒田の郷土料理　むきそば・そばたれ（小）4缶セット☆美容とダイエット効果で注目☆</h4>
+<p class="goods-col_price inline">8,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年 </p>
+</div>
+<p class="goods-col_textinfo pc">「むきそば」は、蕎麦の実を茹でて冷たいタレをかけて食べる、江戸時代から受け継がれる酒田の郷土料理です。ダイエット効果抜群の健康食品として、テレビ番組でも特集され注目を集めました。
+食物繊維やビタミンB2が豊富で、レジスタントプロテインというタンパク質は、血中のコレステロール値を下げてくれる効果もあるようです。
+セットのそばたれは、良質のかつお節、昆布を主原料とし、独自の製法でつくりあげたむきそば専用のストレートつゆです。お好みで冷たいまま、あるいは温めて、薄めずにそのままお使いください。
+ねぎ、わさび、焼き海苔などを添えると、一層風味が増します。
+庄内い～ものや</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/06204/4850371/35">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240305/pd_a7a90529cdffb9db200d118544ad1574519108ee.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">SA2032　磯のり　8g×8袋セット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から30日前後で発送</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>本製品工場では、えび・かに・小麦・乳・卵・ごまを含む製品を製造しています。</p>
+</div>
+<p class="goods-col_textinfo pc">冬の荒磯で一番採りされた良質の「磯のり」を厳選しました。
+香り・風味・食感は一度食べたら忘れられない美味しさです。
+上質な磯の香りが、いつもの料理をランクアップさせてくれます。お味噌汁はもちろん、ラーメンやお蕎麦、お雑煮などさまざまなお料理にお使いいただけます。
+保存に便利な少量小分けタイプです。
+山形県産食品</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">山形県酒田市</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">酒田市は、山形県の北西部に位置し、日本３大急流の最上川と日本海が出会う港町です。 北に鳥海山を望み、海沿いには庄内砂丘、その背後には雄大な庄内平野が広がります。肥沃な大地と澄んだ水で育った庄内米は、全国的に高い評価をいただいております。 <br/>
+また、イチゴやメロン、梨、柿など果物の栽培も盛んです。 江戸時代、北前船交易により上方文化が伝わり活気あふれる商人の町として栄えてきた本市には、今なお多くの歴史文化が残っています。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">イカが大好きです。漁へ行く皆さまを応援しています！</p>
+<p class="gcf-bx-message__date">2020年12月31日 20:20</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">来年も美味しいスルメイカを楽しみにしています。</p>
+<p class="gcf-bx-message__date">2020年12月29日 23:12</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">外国船大変ですね。<br/>
+微力ですが応援します。頑張ってください。</p>
+<p class="gcf-bx-message__date">2020年12月20日 19:34</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">いかつり船団のみなさん、がんばってください！<br/>
+おいしいイカ待っています！</p>
+<p class="gcf-bx-message__date">2020年11月21日 23:37</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">祖母が山形（鶴岡市）出身なのと、私自身が海洋・漁業保全活動に興味があるため寄付させていただきました。いかは祖母と一緒に食べさせていただきます。故郷の味なので喜んでくれると思います。頑張ってください。</p>
+<p class="gcf-bx-message__date">2020年11月9日 10:48</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">毎年旅行で訪れております。酒田港を訪れたとき、泊まっていたイカ釣り漁船とさかた海鮮市場の海鮮丼がとても印象的でした。コロナで大変な状況ですが、水産業のお役に立てれば幸いです。来年はぜひまた酒田を訪れたいです。</p>
+<p class="gcf-bx-message__date">2020年10月11日 14:18</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/910">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>申し込み後の内容変更・寄附金受領証明書・ワンストップ特例申請書</h3>
+<p>酒田市ふるさと納税担当<br/>
+Tel　　0120-544-450（フリーダイヤル）　平日　9:00～17:00<br/>
+Mail　 furusato@city.sakata.lg.jp<br/>
+<br/>
+【返礼品に関するお問合せは下記までお願いいたします】<br/>
+(株)チャンピオン　ふるさと納税担当<br/>
+Tel　　0120-372-315（フリーダイヤル）　平日　9:00～17:00<br/>
+Mail　 2525sakata@champion.co.jp　　<br/>
+</p>
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</section>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">山形県酒田市の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/06204/35?from=2&amp;gcf_project_id=910"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,521,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g910,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

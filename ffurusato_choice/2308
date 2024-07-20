@@ -1,0 +1,4502 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/2308" />
+
+<title>孤食の子ども達を励まそう！子ども食堂を応援します！！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="孤食の子ども達を励まそう！子ども食堂を応援します！！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/2308" />
+<meta property="og:description" content="NPO法人パルサポートキッズの会は病気や、経済的に恵まれない子ども達や家族のサポートを行うと同時に社会的に認知してもらう活動をしています。これまで、会長の稲田が小児がんの担当医であることから、小児がんの子ども達に医療用ウィッグや医療用帽子のプレゼントをしてきました。また、昨年末には児童養護施設の子ども達を支援する為、独自で作ったレトルト食品をクリスマスに向けて、約1400人の子ども達にプレゼント、更に今年のこどもの日には九州のソウルアイス「ブラックモンブラン」もお送りし大変喜んで頂きました。厚生労働省の調査によれば、日本の子どもの貧困率（2018年）は13.5%。さらにひとり親家庭の貧困率は48.1%と、先進国の中でも最悪な水準だと言われています。このような状況から子ども達の孤立を防ぎ、地域的な活動として「こども食堂」が増えています。しかし子ども食堂の運営においては、食材の調達や人員の確保が難しく、月に1度しか実施できないところも多く、本来来てほしい子ども達が集まりにくい等が大きな課題と聞きます。このように恵まれない環境にある佐賀県の子ども達においしい食事、すなわち子ども達が大好きなカレーををお腹いっぱい食べさせてあげて、笑顔にする活動を行います。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230614/s_9bd1596389d33a28e3b54413909aa3e1b3fd1c80.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230614/s_9bd1596389d33a28e3b54413909aa3e1b3fd1c80.jpg" />
+<meta property="twitter:title" content="孤食の子ども達を励まそう！子ども食堂を応援します！！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="NPO法人パルサポートキッズの会は病気や、経済的に恵まれない子ども達や家族のサポートを行うと同時に社会的に認知してもらう活動をしています。これまで、会長の稲田が小児がんの担当医であることから、小児がんの子ども達に医療用ウィッグや医療用帽子のプレゼントをしてきました。また、昨年末には児童養護施設の子ども達を支援する為、独自で作ったレトルト食品をクリスマスに向けて、約1400人の子ども達にプレゼント、更に今年のこどもの日には九州のソウルアイス「ブラックモンブラン」もお送りし大変喜んで頂きました。厚生労働省の調査によれば、日本の子どもの貧困率（2018年）は13.5%。さらにひとり親家庭の貧困率は48.1%と、先進国の中でも最悪な水準だと言われています。このような状況から子ども達の孤立を防ぎ、地域的な活動として「こども食堂」が増えています。しかし子ども食堂の運営においては、食材の調達や人員の確保が難しく、月に1度しか実施できないところも多く、本来来てほしい子ども達が集まりにくい等が大きな課題と聞きます。このように恵まれない環境にある佐賀県の子ども達においしい食事、すなわち子ども達が大好きなカレーををお腹いっぱい食べさせてあげて、笑顔にする活動を行います。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,601,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="2308" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">孤食の子ども達を励まそう！子ども食堂を応援します！！</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">孤食の子ども達を励まそう！子ども食堂を応援します！！</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1018">子ども・教育&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230614/d_6223e6fa6594f9b8485034fd7f648d225c06d55f.jpg" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E5%AD%A4%E9%A3%9F%E3%81%AE%E5%AD%90%E3%81%A9%E3%82%82%E9%81%94%E3%82%92%E5%8A%B1%E3%81%BE%E3%81%9D%E3%81%86%EF%BC%81%E5%AD%90%E3%81%A9%E3%82%82%E9%A3%9F%E5%A0%82%E3%82%92%E5%BF%9C%E6%8F%B4%E3%81%97%E3%81%BE%E3%81%99%EF%BC%81%EF%BC%81&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F2308">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">1,086,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 54.3%;"></div>
+<p class="gcf-cht-detail-bar__number">54.3%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">2,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">54.3</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">48</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>佐賀県NPO支援（さがけん えぬぴーおーしえん）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="2308" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2023年6月19日～2023年9月16日（90日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1033" class="sorting-list__item">子ども・教育</a></li><li><a href="/gcf/project/tag/1049" class="sorting-list__item">福祉・障がい</a></li><li><a href="/gcf/project/tag/1050" class="sorting-list__item">貧困</a></li><li><a href="/gcf/project/tag/1051" class="sorting-list__item">不平等・格差</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1080" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_1.png 1x, /gcf/images_cf/sdg/sdg_icon_1@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_1.png" alt="SDGアイコン" decoding="async" />1.貧困をなくそう</a></li><li><a href="/gcf/project/sdgs/1089" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_10.png 1x, /gcf/images_cf/sdg/sdg_icon_10@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_10.png" alt="SDGアイコン" decoding="async" />10.人や国の不平等をなくそう</a></li><li><a href="/gcf/project/sdgs/1096" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_17.png 1x, /gcf/images_cf/sdg/sdg_icon_17@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_17.png" alt="SDGアイコン" decoding="async" />17.パートナーシップで目標を達成しよう</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="2308" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">佐賀県NPO支援 × NPO法人パルサポートキッズの会</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20230606/o_9d25f08d328b51c17cd45599db1939e0c578182f.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">NPO法人パルサポートキッズの会は病気や、経済的に恵まれない子ども達や家族のサポートを行うと同時に社会的に認知してもらう活動をしています。<br/>
+これまで、会長の稲田が小児がんの担当医であることから、小児がんの子ども達に医療用ウィッグや医療用帽子のプレゼントをしてきました。<br/>
+また、昨年末には児童養護施設の子ども達を支援する為、独自で作ったレトルト食品をクリスマスに向けて、約1400人の子ども達にプレゼント、更に今年のこどもの日には九州のソウルアイス「ブラックモンブラン」もお送りし大変喜んで頂きました。<br/>
+<br/>
+厚生労働省の調査によれば、日本の子どもの貧困率（2018年）は13.5%。さらにひとり親家庭の貧困率は48.1%と、先進国の中でも最悪な水準だと言われています。このような状況から子ども達の孤立を防ぎ、地域的な活動として「こども食堂」が増えています。しかし子ども食堂の運営においては、食材の調達や人員の確保が難しく、月に1度しか実施できないところも多く、本来来てほしい子ども達が集まりにくい等が大きな課題と聞きます。<br/>
+このように恵まれない環境にある佐賀県の子ども達においしい食事、すなわち子ども達が大好きなカレーををお腹いっぱい食べさせてあげて、笑顔にする活動を行います。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">ひとりでご飯はさびしい！</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">子ども食堂を拡げます！！</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230610/gpfd_e61bf5faf1e20dbaba5ec037dcf4ff7c3448fc5b.jpg" />
+</figure>
+<p class="gcf-txt-article">近年は家庭内の様々な理由から家族一緒にご飯を食べられない子どもが増えており、子ども達のために地域団体が温かみのある場所や、ふれあい、会話できる場所を提供しようという思いから、こども食堂が広がりを見せています。しかし開設した後、様々な問題点があるようです。<br/>
+来て欲しい子ども達や家庭の参加が思うように進まない事や、地域との連携が進まず認知がされにくい事。特に資金の確保ができない事、スタッフの負担が大きくスタッフの確保が難しい事などにより頻繁にに実施できない事が大きな課題と聞きます。<br/>
+当会はそのような環境にある子ども達に「少しでも笑顔になってもらいたい」「みんな応援してるよ」「たくさん食べて元気を出して」との思いで、当会開発した「ぬくもりのカレー」を子ども食堂を通じてプレゼントすることにしました。<br/>
+「ぬくもりのカレー」は食品会社の協力を得て、当会独自で開発した子ども達の大好きなカレーです。お肉や野菜だけではなく、タンパク質、食物繊維がたっぷり入った大豆ミートを使用した栄養価の高いカレーで、子ども達が沢山食べれるように、はちみつ入りの甘めの仕上げです。調理の必要がなくスタッフの負担も軽減されると思います。<br/>
+この「ぬくもりのカレー」をプレゼントすることで各地域の子ども達のために頑張って運営されている方々の力に少しでもなれればと思います。<br/>
+<br/>
+また同時に「社会的サポートの必要性」を認知させていく活動をしていきたいと思っています。<br/>
+当会は今年からは小児がんの子ども達や家族の支援に加え、児童養護施設や、子ども食堂への支援を本格的に行って参ります。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230610/gpfd_cc415bd24ec85b6c2e671bc03d2776b6adcbbdd3.jpg" />
+</figure>
+<p class="gcf-txt-article">「こども食堂」とは、子どもが一人でも行ける無料または低額の食堂で月1回開催のところから365日3食を提供しているところまで、また少人数を対象としているところから毎回数百人が集まるところまで、実に多様です。<br/>
+子ども食堂の目的は、おなかをすかせた子ども達への食事提供から、孤食の解消、滋味豊かな食材による食育、地域交流の場づくりと、さまざまです。<br/>
+また子ども食堂は居場所としての機能もあり、子ども、子育て世帯等とのつながりを守ることを目的に活動されています。<br/>
+また地域によってはこのような施設が不足している、または実施できる回数が少なすぎると言った声も多く聞かれます。<br/>
+<br/>
+私たちはこのような活動を応援し少しでもたくさんの子ども達に食べてもらう機会を増やすために、佐賀県内の子ども食堂（47施設）に子ども達が大好きなカレーを計1200食分プレゼントしていきます。<br/>
+育ち盛りの子供達に美味しい食事をお腹いっぱい食べてもらい「少しでも笑顔になってもらいたい」そんな思いで食品会社のご協力を受けて開発した当会オリジナルのカレーを開発しました。<br/>
+特に配布を予定している7月以降は夏休みもあり、子ども食堂の実施を増やしたい時期です。<br/>
+<br/>
+たくさんの子ども達が寂しい思いをせず元気に笑顔で過ごしてもらうことがができればと考えています。子ども達の笑顔が町づくりを支えます。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230610/gpfd_04e34a22892839f518c00ade522466917304dc7e.jpg" />
+</figure>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">寄付金の使い道</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">① より多くの施設の子ども達にプレゼントできる為の提供資金。<br/>
+② 上記カレーの生産資金。<br/>
+③ 啓蒙活動資金（HP・SNS・リーフレットなど）<br/>
+④ふるさと納税返礼品の受注・発注費用<br/>
+<br/>
+【内 訳】<br/>
+１．夏休みにみんなで食べるカレーの生産、調達：550,000円<br/>
+２．夏休みにみんなで食べるカレーの受注・発送費用：250,000円<br/>
+３．ふるさと納税返礼品の費用、送料：700,000円<br/>
+４．ふるさと納税返礼品の事務手数料：300,000円<br/>
+５．啓蒙活動資金（HP、SNS強化、リーフレットなど）：200,000円</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230610/offd_9dab9844531a0e5c5b0563543758bc632a0245cc.jpg" alt />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">パルサポートキッズの会では親に頼れず、困難に一生懸命立ち向かおうとしている子ども達が少しでも笑顔になれるようサポートしていきます。</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">達成したい数値目標</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">①佐賀県内で運営されている子ども食堂、それを利用する子ども達(47施設/約1200食分)に「夏休みにみんなで食べるカレー」をプレゼントする(7月中旬～)<br/>
+②子ども食堂を利用する子ども達の環境を理解し、子ども食堂をサポートする必要性の社会的認知を高める為の啓蒙活動をする。<br/>
+③エリアを拡大して、できるだけ多くの子ども食堂にカレーなどをプレゼントし、子ども達が笑顔で集う機会を増やして行きたいと思います。<br/>
+(2024年度中には月に1回配布できるインフラを整えたい)</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230610/offd_84c855372dd2db0f81ed17963cd79ce3f6eadde2.jpg" alt="達成したい数値目標" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">事業実施のスケジュール</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">①2023年6月～夏休みに向けたカレーの調達の実施<br/>
+②施設の情報発信・受注<br/>
+③2023年7月末～配送開始</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230610/offd_5a5b9ee30a3864091b38613b3a4ee249f6bb8e01.jpg" alt="事業実施のスケジュール" />
+</div>
+</div>
+</div>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230610/gpfd_6f409ea161533e0c327e9db073425158cea81dcf.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230612/gpfd_55f2dcf3d3e4a42e4d825792cadc6c59057c3a28.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">厚生労働省の調査では子どもの貧困割合は13.5％といわれている中、佐賀県内には47カ所程の子ども食堂があるが、ほとんどの子ども食堂が月1回の運営にとどまっており、1回あたり平均30名の利用と仮定しても1400名分（佐賀県の小学生約43000名のうち3.3％）をサポートしているに過ぎない状況です。<br/>
+子ども食堂は、食材などを主に寄付などに頼っているため、安定的な資金や栄養価の高い食材の確保が難しい。また、実施するための人員の確保も課題となっている。<br/>
+<br/>
+子ども食堂は開催頻度も少ないため、認知も得られていない状況で利用者数の拡大に至っていません。子ども達の笑顔が町づくりの基本です。子ども食堂の発展が地球の未来を支えます。<br/>
+これからも、少しでも子ども食堂の実施回数を増やし、自治体を含めた広報の強化を図れるように応援していきたいと考えています。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">利用者からの声</span></h2>
+<h4 class="gcf-ttl-h4">◆福岡県 MJ学園 園長様</h4>
+<p class="gcf-txt-article">日頃より児童福祉に温かいご理解とご支援を賜り感謝致します。今般はたくさんのカレーを寄贈して頂きお礼を申し上げます。子ども達はカレーライスが大好きなのでゴールデンウィーク中に賞味させて頂きます。<br/>
+子ども達には食事の時間は一番大切です。みんなで楽しく食べる事を楽しみにしています。</p>
+<h4 class="gcf-ttl-h4">◆福岡県北九州市 F学園 T・I様</h4>
+<p class="gcf-txt-article">寄付していただいたカレーは５月１日の夕食で頂きました。<br/>
+私はカレーが好きなのでおかわりして２杯も食べました。</p>
+<h4 class="gcf-ttl-h4">◆佐賀県S園 J・S 様</h4>
+<p class="gcf-txt-article">先日は僕たちにカレーの寄付を頂きありがとうございました。カレーは大好きでテンションが上がってすぐに完食してしまいました。<br/>
+学園のカレーと違って新鮮な気持ちになれて本当においしかったです。また機会があればよろしくお願いします。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230612/gpfd_a3da272dc7f23e11967d1862c758c551f718b8c1.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20230610/gpfd_21cdda8c7bf135ac490227a908ddaf625d5c1049.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4631140/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_10085b6cb254c2c11665fa6ff0934bb4161b6112.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】切り落とし (400g)</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万2千円以上のご寄附をいただいた方
+【佐賀牛】切り落とし (400g)
+熟年の職人の目利きにより厳選した佐賀産和牛バラ肉の切り落としです。
+佐賀牛特有の旨味と甘味を堪能できる切り落とし。
+すき焼き、肉じゃが、牛丼、カレーなどのさまざまなお料理でお楽しみください。
+佐賀牛はＪＡグループ佐賀管内の肥育農家で飼育され、
+同グループ肉牛安心システムに登録した「黒毛和種」の中から、
+（社）日本食肉格付協会の定める牛枝肉取引規格の肉質等級「４」、
+ＢＭＳ「７」以上の肉牛を「佐賀牛」、
+肉質等級「２～４」、ＢＭＳ「６」以下の肉牛を「佐賀産和牛」と分けてブランド化しています。
+提供：佐賀牛専門店 肉の三栄（三栄の商株式会社／江北町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4631197/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230227/pd_fcbf37109edfe5f0f3a05f2235f68fd32965955e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀県産】豚ロースブロック（1000g）</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万1千円以上のご寄附をいただいた方
+【佐賀県産】豚ロースブロック（1000g）
+熟年の職人の目利きにより選び抜いた佐賀産の豚肉。
+その中でも一番甘味がある部位のロース肉ブロックです。
+こだわった佐賀産豚肉で旨味が凝縮された豚ロースのブロックをご用意しました。
+好きな厚さにお切りいただけますので、
+厚切りトンカツやポークソテーに最適です。
+佐賀産ならではの豚の甘味をご堪能下さい。
+提供：佐賀牛専門店 肉の三栄（三栄の商株式会社／江北町）
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4631179/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230323/pd_891dec6b2fbbb76e0317d1516f1091c11532912c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀県産豚肉】みそ豚（5枚）520g</h4>
+<p class="goods-col_price inline">7,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+7千円以上のご寄附をいただいた方
+【佐賀県産豚肉】みそ豚（5枚）520g
+肉の三栄特製の熟成みそを使用した佐賀産豚ロースです。
+熟年の肉職人が選びぬいた豚ロースを使用し、職人が一枚一枚丁寧にみそに漬け込んでおります。
+佐賀産ならではの豚の甘味と味噌の旨味が合わさり自信を持って提供するお品です。
+提供：佐賀牛専門店 肉の三栄（三栄の商株式会社／江北町）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　佐賀県内で生産され自社工場（江北町）で製造・加工された品
+　
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4631828/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230216/pd_289d43425413cf5f797e85a29240830b06060a3b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛A5ランク】モモ肉とウデ肉 鉄板焼き用セット（各400g）</h4>
+<p class="goods-col_price inline">25,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+2万5千円以上のご寄附をいただいた方
+【佐賀牛A5ランク】モモ肉（400g）ウデ肉（400g）のスライスセット800g
+熟年の職人の目利きにより厳選した佐賀牛。
+赤身と霜降りのバランスが良いモモ肉と甘味が強いウデ肉のセットです。
+佐賀牛のモモ肉はしつこさを感じず、ウデ肉はとても甘味が強いですので両方の食べ比べで
+旨味を感じてみてはいかがでしょうか。
+すき焼きやしゃぶしゃぶどちらの場面でもご使用いただけるようにお切りしております。
+すき焼きやしゃぶしゃぶの他にも焼きしゃぶや鉄板焼きにもどうぞ。
+佐賀牛はＪＡグループ佐賀管内の肥育農家で飼育され、
+同グループ肉牛安心システムに登録した「黒毛和種」の中から、
+（社）日本食肉格付協会の定める牛枝肉取引規格の肉質等級「４」、
+ＢＭＳ「７」以上の肉牛を「佐賀牛」、肉質等級「２～４」、ＢＭＳ「６」以下の肉牛を
+「佐賀産和牛」と分けてブランド化しています。
+提供：佐賀牛専門店 肉の三栄（三栄の商株式会社／江北町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4631829/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_8984fd708cf5703d4e4984e6f339989f61a8107d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛A5ランク】三栄の佐賀牛ハンバーグ（140ｇ×5個）</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、1月中旬から順次発送いたします。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>玉葱　パン粉　卵　塩こしょう　アミノ酸等　※一部に牛、卵、小麦粉を含む</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万1千円以上のご寄附をいただいた方
+【佐賀牛A5ランク】三栄の佐賀牛ハンバーグ（140g×5個）
+熟年の職人が選び抜いたＡ５ランクのみ使用した佐賀牛ハンバーグ
+三栄の佐賀牛ハンバーグは、何十年と培ってきた佐賀牛を使用し、
+他の材料も県内産にこだわっています。
+肉の旨味をより引き出す為数時間寝かせ、すべて手作りです。
+佐賀牛本来の旨味を堪能して頂きたいのでまずは塩胡椒でお召し上がりください。
+佐賀牛はＪＡグループ佐賀管内の肥育農家で飼育され、
+同グループ肉牛安心システムに登録した「黒毛和種」の中から、
+（社）日本食肉格付協会の定める牛枝肉取引規格の肉質等級「４」、
+ＢＭＳ「７」以上の肉牛を「佐賀牛」、肉質等級「２～４」、ＢＭＳ「６」以下の肉牛を
+「佐賀産和牛」と分けてブランド化しています。
+提供：佐賀牛専門店 肉の三栄（三栄の商株式会社／江北町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4631830/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_3b4c9418aa31a48ae1a6e34887b1b4f12c98dbcb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛A5ランク】佐賀牛ロースセット（ステーキ用200g×2枚・スライス400g）</h4>
+<p class="goods-col_price inline">45,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+4万5千円以上のご寄附をいただいた方
+【佐賀牛A5ランク】佐賀牛ロースセット（ステーキ200g×2枚・スライス400g）
+濃厚な旨味と甘味がある牛ロース肉ステーキ用と牛ローススライスのセット
+佐賀牛のロース肉は旨味・甘味ともに強く、噛むたびに極上のうまさが広がります。
+いろいろな場面で楽しんで頂けるよう厚切りステーキ肉とスライス肉の両方をご用意しました。
+ステーキ肉は鉄板焼きに。塩とワサビで頂くと本来の肉の旨味が味わえます。
+スライスはすき焼きやしゃぶしゃぶどちらでもご使用いただけるようにお切りしております。
+とろける旨味、甘味をご堪能下さい。
+佐賀牛はＪＡグループ佐賀管内の肥育農家で飼育され、
+同グループ肉牛安心システムに登録した「黒毛和種」の中から、
+（社）日本食肉格付協会の定める牛枝肉取引規格の肉質等級「４」、
+ＢＭＳ「７」以上の肉牛を「佐賀牛」、肉質等級「２～４」、ＢＭＳ「６」以下の肉牛を
+「佐賀産和牛」と分けてブランド化しています。
+提供：佐賀牛専門店 肉の三栄（三栄の商株式会社／江北町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4632735/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_9a93db76fca1b5d32b14686d79903fe4aece0232.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【嬉野茶】芳薫一服 （80g×３）</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万1千円以上のご寄附をいただいた方
+【特上・極上・特選うれしの茶】
+自慢の茶畑で大切に育て上げたお茶の若葉を摘み取り製造しています。
+【武藤製茶園について】
+山々に囲まれた盆地、佐賀県嬉野市に武藤製茶園はあります。
+60年程前からお茶の栽培を本格的に始めました。
+「自園・自製・自販」で栽培、製造、販売まで一貫して行っています。
+茶畑は嬉野市内に６ヵ所あり、その土地にあった品種を栽培しています。
+品種は８種類あり、主に「さえみどり」「やぶきた」「おくゆたか」です。
+土を作ることを基本とし、厳選した有機肥料（魚粕・油粕）を主とした配合肥料を使っています。
+その時期に適した肥料を施すことで、良質なお茶ができます。
+提供：武藤製茶園（嬉野町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4632736/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_1683bf474c9d1250fb4431604d1dfd03f4dff846.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【嬉野茶】おくゆたか 100g×2・やぶきた 100g×1</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万1千円以上のご寄附をいただいた方
+【特選・特上うれしの茶】
+自慢の茶畑で大切に育て上げたお茶の若葉を摘み取り製造しています
+上品な香りと、まろやかで甘味のあるお茶です。
+【武藤製茶園について】
+山々に囲まれた盆地、佐賀県嬉野市に武藤製茶園はあります。
+60年程前からお茶の栽培を本格的に始めました。
+「自園・自製・自販」で栽培、製造、販売まで一貫して行っています。
+茶畑は嬉野市内に６ヵ所あり、その土地にあった品種を栽培しています。
+品種は８種類あり、主に「さえみどり」「やぶきた」「おくゆたか」です。
+土を作ることを基本とし、厳選した有機肥料（魚粕・油粕）を主とした配合肥料を使っています。
+その時期に適した肥料を施すことで、良質なお茶ができます。
+提供：武藤製茶園（嬉野町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4632737/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_eff57e4355990f3cee0dd28dd03b9ff6250cbc68.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【嬉野茶】やぶきた （100g×2）</h4>
+<p class="goods-col_price inline">7,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+7千円以上のご寄附をいただいた方
+【特上うれしの茶】やぶきた×2（100g×2）
+自慢の茶畑で大切に育て上げたお茶の若葉を摘み取り製造しています
+優しい口当たりと、濃厚ながら上品な甘味、新茶ならではのうま味が口いっぱいに広がります。
+【武藤製茶園について】
+山々に囲まれた盆地、佐賀県嬉野市に武藤製茶園はあります。
+60年程前からお茶の栽培を本格的に始めました。
+「自園・自製・自販」で栽培、製造、販売まで一貫して行っています。
+茶畑は嬉野市内に６ヵ所あり、その土地にあった品種を栽培しています。
+品種は８種類あり、主に「さえみどり」「やぶきた」「おくゆたか」です。
+土を作ることを基本とし、厳選した有機肥料（魚粕・油粕）を主とした配合肥料を使っています。
+その時期に適した肥料を施すことで、良質なお茶ができます。
+提供：武藤製茶園</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4640433/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_a71861888527b66aa7d27a6a0bc2d384d7a75455.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛A5ランク】赤身ステーキ 200g</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万1千円以上のご寄附をいただいた方
+【佐賀牛A5ランク】赤身ステーキ 200g
+お肉と脂のうまみが口の中に広がります。
+特別な日に特別な人と召し上がりください。贈り物にも喜ばれます。
+提供：山下牛舎（アグリッジ株式会社／江北町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4640434/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_0ff0f2c3aa0c1dbb57b9763b2e168821c965c90c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛A5ランク】赤身ステーキ 200g×2</h4>
+<p class="goods-col_price inline">16,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万6千円以上のご寄附をいただいた方
+【佐賀牛A5ランク】赤身ステーキ 200g×2
+お肉と脂のうまみが口の中に広がります。
+特別な日に特別な人と召し上がりください。贈り物にも喜ばれます。
+提供：山下牛舎（アグリッジ株式会社／江北町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4640435/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_398d644ddbd7bdb57963aedec0b6246d6bc551a0.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛A5ランク】赤身ステーキ 200g×4</h4>
+<p class="goods-col_price inline">25,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき
+2万5千円以上のご寄附をいただいた方
+【佐賀牛A5ランク】赤身ステーキ 200g×4
+お肉と脂のうまみが口の中に広がります。
+特別な日に特別な人と召し上がりください。贈り物にも喜ばれます。
+提供：山下牛舎（アグリッジ株式会社／江北町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4640440/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_5d9c6770bb8b13ac3507faa5df04fe903385b47b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】赤身スライス 300g</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万2千円以上のご寄附をいただいた方
+【佐賀牛】赤身スライス 300g
+赤身は脂身が少なく、旨味の詰まったさっぱりとした食感です。
+赤身の弾力を感じながらも、歯切れの良い食感で満足感を感じられる部位です。
+自社で飼育した佐賀牛の部位を選び抜いたお品です。贈り物にも喜ばれます。
+提供：山下牛舎（アグリッジ株式会社／江北町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4650683/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_a3d53e01e1a5a8c6d35e98492f62e8d86b13d9f2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛A5ランク】ロースセット（ステーキ350g×4枚・スライス1.3kg）</h4>
+<p class="goods-col_price inline">170,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+17万円以上のご寄附をいただいた方
+【佐賀牛A5ランク】ロースセット（ステーキ350g×4枚・スライス1.3kg）
+佐賀牛のロース肉は旨味・甘味ともに強く、噛むたびに極上のうまさが広がります。
+いろいろな場面で楽しんで頂けるよう厚切りステーキ肉とスライス肉の両方をご用意しました。
+ステーキ用は1枚350gあるので食べごたえがあり、塩とワサビで頂くと本来の肉の旨味が味わえます。
+スライスはすき焼きやしゃぶしゃぶどちらでもご使用いただけるようにお切りしております。
+とろける旨味、甘味を是非ご堪能下さい。
+佐賀牛はＪＡグループ佐賀管内の肥育農家で飼育され、
+同グループ肉牛安心システムに登録した「黒毛和種」の中から、
+（社）日本食肉格付協会の定める牛枝肉取引規格の肉質等級「４」、
+ＢＭＳ「７」以上の肉牛を「佐賀牛」、肉質等級「２～４」、ＢＭＳ「６」以下の肉牛を
+「佐賀産和牛」と分けてブランド化しています。
+提供：佐賀牛専門店 肉の三栄（江北町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4650684/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_763bab36552d17126490c3fa07edb70bc12f7970.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛A5ランク】味付けカルビ（焼肉用 300g）</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万2千円以上のご寄附をいただいた方
+【佐賀牛A5ランク】味付けカルビ（焼肉用 300g）
+佐賀牛専門店「肉の三栄」が取り扱う佐賀牛カルビは、とても軟らかく、
+旨味が濃厚でしかもしつこくなく食べ飽きず噛むたびに甘みが広がります。
+また秘伝のタレに漬け込んでおりますので、旨味が凝縮しています。
+ご家庭での焼肉やBBQなど、ご家族、ご友人、みなさまでお楽しみ下さい。
+佐賀牛はＪＡグループ佐賀管内の肥育農家で飼育され、
+同グループ肉牛安心システムに登録した「黒毛和種」の中から、
+（社）日本食肉格付協会の定める牛枝肉取引規格の肉質等級「４」、
+ＢＭＳ「７」以上の肉牛を「佐賀牛」、肉質等級「２～４」、ＢＭＳ「６」以下の肉牛を
+「佐賀産和牛」と分けてブランド化しています。
+提供：佐賀牛専門店 肉の三栄（江北町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4650685/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_b4d513a67717bdf9c76c30bd9c97a42204506a60.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛A5ランク】佐賀牛ミンチ（300g）</h4>
+<p class="goods-col_price inline">7,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+7千円以上のご寄附をいただいた方
+【佐賀牛A5ランク】佐賀牛ミンチ（300g）
+佐賀牛専門店ならではの佐賀牛ミンチです。「肉の三栄」独自の黄金比率で配合しています。
+佐賀牛の旨味を存分に凝縮したミンチですので、ピーマンの肉詰めやミートソースなど、
+さまざまなお料理の場面にてお使いください。
+佐賀牛はＪＡグループ佐賀管内の肥育農家で飼育され、
+同グループ肉牛安心システムに登録した「黒毛和種」の中から、
+（社）日本食肉格付協会の定める牛枝肉取引規格の肉質等級「４」、
+ＢＭＳ「７」以上の肉牛を「佐賀牛」、肉質等級「２～４」、ＢＭＳ「６」以下の肉牛を
+「佐賀産和牛」と分けてブランド化しています。
+提供：佐賀牛専門店 肉の三栄（江北町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4650686/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_adc60436894cdf79f9bb9b32e7361e959bc36093.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛A5ランク】サイコロステーキ（300g）</h4>
+<p class="goods-col_price inline">16,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万6千円以上のご寄附をいただいた方
+【佐賀牛A5ランク】サイコロステーキ（300g）
+佐賀牛のロース肉は旨味・甘みともに強く、噛むたびに極上の旨味が口いっぱいに広がり
+、おろしポン酢とわざびでいただくと、本来の肉の旨味が味わえます。
+食べやすいサイコロ状にカットしておりますので、ご家庭での焼肉やBBQなど、
+ご家族、ご友人、みなさまでお楽しみ下さい。
+佐賀牛はＪＡグループ佐賀管内の肥育農家で飼育され、
+同グループ肉牛安心システムに登録した「黒毛和種」の中から、
+（社）日本食肉格付協会の定める牛枝肉取引規格の肉質等級「４」、
+ＢＭＳ「７」以上の肉牛を「佐賀牛」、肉質等級「２～４」、ＢＭＳ「６」以下の肉牛を
+「佐賀産和牛」と分けてブランド化しています。
+提供：佐賀牛専門店 肉の三栄（江北町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4650688/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_1e3cdbb91c8f4c42d966cecac04c4589f8e4c2b5.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀県産豚肉】豚肉切り落とし 600g</h4>
+<p class="goods-col_price inline">7,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+7千円以上のご寄附をいただいた方
+【佐賀県産豚肉】豚肉切り落とし 600g
+こだわった佐賀県産豚肉で、旨味が凝縮された豚ロースと豚バラの切り落としです。
+豚の生姜焼きや野菜炒め等に最適で、その他いろいろな料理にご利用いただけます。
+佐賀県産ならではの豚の甘みを是非ご堪能下さい。
+提供：佐賀牛専門店 肉の三栄（江北町）
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4650689/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_65753cc3fe0d1cfa11dc7777e9285659d879e3d5.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛A5ランク】ミスジブロック（600g）</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+3万円以上のご寄附をいただいた方
+【佐賀牛A5ランク】ミスジブロック（600g）
+佐賀牛のミスジ肉は甘みと旨味が凝縮しており、ウデ肉の部分で数キロしかとれない
+とても希少価値の高い部位です。
+お好みの厚さでカットしていただけますので、ステーキ用や焼肉用などいろいろな場面でお楽しみください。
+佐賀牛はＪＡグループ佐賀管内の肥育農家で飼育され、
+同グループ肉牛安心システムに登録した「黒毛和種」の中から、
+（社）日本食肉格付協会の定める牛枝肉取引規格の肉質等級「４」、
+ＢＭＳ「７」以上の肉牛を「佐賀牛」、肉質等級「２～４」、ＢＭＳ「６」以下の肉牛を
+「佐賀産和牛」と分けてブランド化しています。
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　佐賀県内で生産され自社工場（江北町）で製造・加工された品
+　
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。
+提供：佐賀牛専門店 肉の三栄（江北町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4650690/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_ec482204ad3e073b35f8c4e8704e106ad52056f7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛A5ランク】ロースステーキ ミスジ（250g×1枚）</h4>
+<p class="goods-col_price inline">16,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万6千円以上のご寄附をいただいた方
+【佐賀牛A5ランク】ロースステーキ ミスジ（250g×1枚）
+佐賀牛のミスジ肉は甘みと旨味が凝縮しており、
+ウデ肉の部分で数キロしかとれないとても希少価値の高い部位です。
+いろいろな場面で楽しんでいただけるよう厚切りステーキ肉をご用意しました。
+ステーキ用や焼肉用などいろいろな場面でお楽しみください。
+粗塩とワサビでいただくと本来の肉の旨味が味わえます。
+とろける旨味、甘味をご堪能下さい。
+佐賀牛はＪＡグループ佐賀管内の肥育農家で飼育され、
+同グループ肉牛安心システムに登録した「黒毛和種」の中から、
+（社）日本食肉格付協会の定める牛枝肉取引規格の肉質等級「４」、
+ＢＭＳ「７」以上の肉牛を「佐賀牛」、肉質等級「２～４」、ＢＭＳ「６」以下の肉牛を
+「佐賀産和牛」と分けてブランド化しています。
+提供：佐賀牛専門店 肉の三栄（江北町）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　佐賀県内で生産され自社工場（江北町）で製造・加工された品
+　
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4650693/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_a432755a3947f1bdd53deadeceaeb73f8e41008a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛A5ランク】三栄のハンバーグ（200g×5個）</h4>
+<p class="goods-col_price inline">16,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万6千円以上のご寄附をいただいた方
+【佐賀牛A5ランク】三栄の大きなハンバーグ（200g×5個）
+三栄の佐賀牛ハンバーグは、何十年と培ってきた肉の目利きにより選び抜いた佐賀牛を使用し、
+他の材料も県内産にこだわっています。肉の旨味をより引き出す為数時間寝かせ、すべて手作り。
+自信をもってお届け致します。
+佐賀牛本来の旨味を堪能して頂きたいのでまずは塩胡椒でお召し上がりください。
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+佐賀牛はＪＡグループ佐賀管内の肥育農家で飼育され、
+同グループ肉牛安心システムに登録した「黒毛和種」の中から、
+（社）日本食肉格付協会の定める牛枝肉取引規格の肉質等級「４」、
+ＢＭＳ「７」以上の肉牛を「佐賀牛」、肉質等級「２～４」、ＢＭＳ「６」以下の肉牛を
+「佐賀産和牛」と分けてブランド化しています。
+提供：佐賀牛専門店 肉の三栄（江北町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4650694/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_67fffed1149c7073e261a1c6d86e1386ba117b36.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛A5ランク】ローススライス （600g）</h4>
+<p class="goods-col_price inline">35,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+3万5千円以上のご寄附をいただいた方
+【佐賀牛A5ランク】ローススライス （600g）
+佐賀牛のロース肉は旨味・甘味ともに強く、噛むたびにうまさが広がります。
+すき焼きやしゃぶしゃぶどちらの場面でもご使用いただけるようにお切りしております。
+至福のひと時をご堪能下さい。
+佐賀牛はＪＡグループ佐賀管内の肥育農家で飼育され、
+同グループ肉牛安心システムに登録した「黒毛和種」の中から、
+（社）日本食肉格付協会の定める牛枝肉取引規格の肉質等級「４」、
+ＢＭＳ「７」以上の肉牛を「佐賀牛」、肉質等級「２～４」、ＢＭＳ「６」以下の肉牛を
+「佐賀産和牛」と分けてブランド化しています。
+提供：佐賀牛専門店 肉の三栄（江北町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4650697/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230323/pd_bb80d413eae5b6dab226b809763270573092951e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛A5ランク】カルビ（焼肉用400g）</h4>
+<p class="goods-col_price inline">16,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万6千円以上のご寄附をいただいた方
+【佐賀牛A5ランク】カルビ（焼肉用400g）
+佐賀牛専門店「肉の三栄」が取り扱う佐賀牛カルビはとても軟らかく、
+旨味が濃厚でしかもしつこくなく食べ飽きず噛むたびに甘みが広がります。
+ご家庭での焼肉やBBQなど、ご家族、ご友人、みなさまでお楽しみ下さい。
+佐賀牛はＪＡグループ佐賀管内の肥育農家で飼育され、
+同グループ肉牛安心システムに登録した「黒毛和種」の中から、
+（社）日本食肉格付協会の定める牛枝肉取引規格の肉質等級「４」、
+ＢＭＳ「７」以上の肉牛を「佐賀牛」、肉質等級「２～４」、ＢＭＳ「６」以下の肉牛を
+「佐賀産和牛」と分けてブランド化しています。
+提供：佐賀牛専門店 肉の三栄（江北町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4650698/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_c75dc4234ba8a0e2032e551c0cea467e427ae98f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛A5ランク】もも肉スライス（500g）</h4>
+<p class="goods-col_price inline">16,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万6千円以上のご寄附をいただいた方
+【佐賀牛A5ランク】もも肉スライス（500g）
+佐賀牛のモモ肉はしつこさを感じず、旨味と甘味のバランスが良いお肉です。
+すき焼きやしゃぶしゃぶ用の他にも焼きしゃぶにもどうぞ。
+佐賀牛はＪＡグループ佐賀管内の肥育農家で飼育され、
+同グループ肉牛安心システムに登録した「黒毛和種」の中から、
+（社）日本食肉格付協会の定める牛枝肉取引規格の肉質等級「４」、
+ＢＭＳ「７」以上の肉牛を「佐賀牛」、肉質等級「２～４」、ＢＭＳ「６」以下の肉牛を
+「佐賀産和牛」と分けてブランド化しています。
+提供：佐賀牛専門店 肉の三栄（江北町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4652266/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_c62d0027a2df0616bb6d3a780b0044583b7b47b3.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】ローストビーフ 600g（200g×3）</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+3万円以上のご寄附をいただいた方
+【佐賀牛】ローストビーフ 200g×3個
+厳選した佐賀牛モモを使用しシンプルな味付けでお肉本来の旨味が凝縮したローストビーフ。
+ほのかに、ガーリックの風味がし、ご飯のおかずにも、おつまみにもピッタリのお品です。
+解凍して、お好みの厚さにスライスするだけでお気軽にお召し上がりいただけます。
+ポン酢またはお好みのドレッシングをかけてお召し上がりください。
+提供：株式会社上場食肉（上場亭／唐津市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4652267/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230323/pd_c5c051c68d82df94a518fb4b5b39990b689113f9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】焼肉セット（佐賀牛カルビ600g／佐賀産和牛ホルモン400g／上場亭特製ウインナー200g／佐賀産豚ロース250g／佐賀産鶏モモ1枚）</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+3万円以上のご寄附をいただいた方
+【佐賀牛】焼肉セット
+（佐賀牛カルビ600g／佐賀産和牛ホルモン400g／上場亭特製ウインナー200g／佐賀産豚ロース250g／佐賀産鶏モモ1枚）
+良質で安全なお肉を安心して食べて頂ける様、長年培った経験と知識に基づき一般小売から業務用まで
+厳選した仕込みと真心込めた精肉に専念しております。
+部位ごとのブロックから選び抜いたものだけを丁寧に仕上げております。
+Ａ5ランクの佐賀牛カルビ、佐賀産豚ロース、佐賀産鶏もも、プリプリ佐賀産和牛ホルモン、
+お子様にも人気の高いパリっとジューシーな特製ウインナーのセットメニューです。　
+提供：株式会社上場食肉（上場亭）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4652798/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_a87493ade5ba11167d4cd17b1cf12ee01bb25c6f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【明太子】切子 ご家庭用 1kg×２</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万5千円以上のご寄附をいただいた方
+【明太子】切子 ご家庭用 1kg×２
+味を隅々まで染み込ませた美味しく食べ応え満点の明太子です。
+「唐津ブランド」に認証された明太子、ぜひご賞味下さいませ。
+製造工程中に出る良質な原卵の端切れのみを使用しております。
+秘伝の調味液が隅々まで染み込み美味しく、パスタをはじめ色々な料理に気軽に使える明太子です。
+「唐津ブランド」に認証された明太子、ぜひご賞味下さいませ。
+提供：唐津魚市場（とと屋／唐津市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4652799/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_208df0f619538b41305c919bbe23e4a9a42a02a1.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【無着色明太子】切子1kg×2</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万5千円以上のご寄附をいただいた方
+【無着色明太子】切子1kg×2
+なかなかお目にする事が出来ない大きなサイズの原卵を秘伝の調味液に漬け込み、
+味を隅々まで染み込ませた美味しく食べ応え満点の明太子です。
+「唐津ブランド」に認証された明太子、ぜひご賞味下さいませ。
+製造工程中に出る良質な原卵の端切れのみを集めました。
+たっぷり使えるお得な切れ子です。
+提供：唐津魚市場（とと屋／唐津市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4652800/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_d6da3cc7d5a25395bf0c75bd4390cedf32980d94.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【唐津いかしゅうまい詰め合わせ】いかしゅうまい／明太子入いかしゅうまい／えび入りいかしゅうまい各20個入り</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万5千円以上のご寄附をいただいた方
+【唐津いかしゅうまい詰め合わせ】
+いかしゅうまい／明太子入いかしゅうまい／えび入りいかしゅうまい各20個入り
+唐津産の地卵・地玉葱等の素材を使用して作った生地にいかを
+ふんだんに練り込んだ旨味たっぷりの「いかしゅうまい」、
+明太子のピリ辛が絶妙にまっちした「明太子入」、揚げる事により香ばしさを出し、
+えび脂で味に深みを持たせた風味豊かな「えび入り」を3種詰め合わせております。
+しかも各味、1パックに20粒入っておりますので、食卓、お酒のおつまみ、
+お弁当の一品に色々なシチュエーションにてお気軽にお使いいただけます。
+いかしゅうまい発祥の地・海産物の宝庫、唐津からお届けする海の恵みがいっぱい詰まったお品です。
+提供：唐津魚市場（とと屋／唐津市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4652801/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_cdc8fda5f5491918d464495e958c5df71bd6a154.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【魚市めんたい詰め合わせ】定番明太子150g×2・ゆず風味150g×1・青じそ風味 150g×1</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万1千円以上のご寄附をいただいた方
+【魚市めんたい詰め合わせ】定番明太子150g×2・ゆず風味150g×1・青じそ風味 150g×1
+粒感ある美味しさの辛子明太子。3種類の味わいをお楽しみください。
+提供：唐津魚市場（とと屋／唐津市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4652802/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_d86806c25cb8506a79cf5afb111c5be9cbf75e71.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【明太子】上金 1kg</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万1千円以上のご寄附をいただいた方
+【明太子】上金 1kg
+スタンダードな味付けの辛子明太子です。
+提供：唐津魚市場（とと屋／唐津市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4652804/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_69f89e6ef9d9ca830685f778e0d68ad67fcd777d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【唐津いかしゅうまい詰め合わせ】4種詰め合わせ（いかしゅうまい／明太子入いかしゅうまい／えび入りいかしゅうまい／あおさ入いかしゅうまい各9個入り）</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万1千円以上のご寄附をいただいた方
+【唐津いかしゅうまい詰め合わせ】4種詰め合わせ
+（いかしゅうまい／明太子入いかしゅうまい／えび入りいかしゅうまい／あおさ入いかしゅうまい各9個入り）
+唐津名産いかしゅうまいの詰め合わせです。
+唐津産の地卵・地玉葱といおったこだわりの素材を使用して作った生地にいかをふんだんに
+練り込んだ旨味たっぷりの「いかしゅうまい」、明太子のピリ辛がマッチした「明太子入」、
+揚げる事により香ばしさを出し、えび脂で味に深みを持たせた風味豊かな「えび入」、
+あおさの磯の香りがいっそう食欲を駆り立てる「あおさ入」の4種詰め合わせております。
+しかも各味、1パックに9粒入っておりますので、食卓、お酒のおつまみ、
+お弁当の一品に色々なシチュエーションにてお気軽にお使いいただけます。
+いかしゅうまい発祥の地・海産物の宝庫、
+唐津からお届けする海の恵みがいっぱい詰まったお品です。
+提供：唐津魚市場（とと屋）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4652806/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_68646358d2e8ef986d9490f47c2549e37cc64dc5.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【有明産焼き海苔】潮彩 8切5枚24袋</h4>
+<p class="goods-col_price inline">14,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>（味付のりに使用）</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万4千円以上のご寄附をいただいた方
+【有明産焼き海苔】潮彩 8切5枚24袋
+潮彩は、厳選した一番摘みの佐賀海苔だけを使用しました。
+香りと味、口溶けのいい海苔を使い、
+一枚一枚丹念に焼き上げちょっと贅沢な「焼き海苔」です。
+雲竜和紙を使って個別包装しており、大切な方やこだわり派の方への贈り物にオススメのお品です。
+また、この潮彩は、高級旅館・ホテル様の高級朝食用の海苔としてもご利用いただいております。
+日本一の海苔生産地「佐賀県」の中でも、漁家・生産量そして品質共にトップクラスの町、
+川副町で1971年に創業いたしました。周囲は漁家に囲まれたまさに産地中の産地。
+海苔のシーズンに入ると、収穫に向かう船の音が聞こえ町が活気づく。そんな町で育った会社です。
+漁師さんのことを地元では、海苔師と呼ばれていますが、
+その海苔師さんたちが丹精込めて育て上げたおいしい佐賀海苔を、
+産地より全国の皆様にお届けさせて頂いております。
+提供：三福海苔株式会社（佐賀市）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　佐賀県内で生産され自社工場（佐賀市川副町）で製造・加工された品
+　
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4652807/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_f9b971a89a0e91dcc93c07477e069812a58d4a03.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【有明産味付け海苔】潮彩 8切5枚24袋</h4>
+<p class="goods-col_price inline">14,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万4千円以上のご寄附をいただいた方
+【有明産味付け海苔】潮彩 8切5枚24袋
+香と味、口溶けのいい海苔を使い、一枚一枚丹念に焼き上げ
+その焼き海苔に秘伝のタレで味付したちょっと贅沢な「味付け海苔」です。
+雲竜和紙を使って個別包装しており、大切な方やこだわり派の方への贈り物にオススメのお品です。
+提供：三福海苔株式会社（佐賀市）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　佐賀県内で生産された海苔に県外より調達した調味料で自社工場（佐賀市川副町）で製造・加工された品
+　
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4652808/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_388a85a7254b00aad7200238fee9fad1b4c476be.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【有明産海苔詰め合わせ】潮彩 8切5枚24袋（焼き海苔 8切5枚×12袋／味付け海苔 8切5枚×12袋）</h4>
+<p class="goods-col_price inline">14,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万4千円以上のご寄附をいただいた方
+【有明産海苔詰め合わせ】潮彩 8切5枚24袋
+（焼き海苔 8切5枚×12袋／味付け海苔 8切5枚×12袋）
+潮彩は、厳選した一番摘みの佐賀海苔だけを使用しました。
+香と味、口溶けのいい海苔を使い、
+一枚一枚丹念に焼き上げた海苔本来の旨みを楽しめる「焼き海苔」と、
+その焼き海苔に秘伝のタレで味付したちょっと贅沢な「味付け海苔」を詰合せました。
+雲竜和紙を使って個別包装しており、大切な方やこだわり派の方への贈り物にオススメのお品です。
+提供：三福海苔株式会社（佐賀市）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　佐賀県内で生産された海苔に県外より調達した調味料で自社工場（佐賀市川副町）で製造・加工された品
+　
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4652809/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_4666cdc5a3ce3f58da49f5f9cf9516fbf847efea.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【有明産海苔】焼きのり30枚〈艶〉</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万2千円以上のご寄附をいただいた方
+【有明産海苔】焼きのり30枚〈艶〉
+一番摘み有明のりを使用しました。
+口に入れた瞬間の風味、口どけを味わったらもう手放せません。
+おにぎりなどに使いやすい全形サイズ。　
+有明海苔師からのバトンを届け致します。
+なぜ、有明海苔は美味しいのか？
+有明海は干満の差が最大６ｍにもなります。その干満の差を、
+うまく利用し海苔を作っていきます潮が満ちている時、海水の中で、
+栄養分を存分に吸収し、潮が引き海面から露出した時、日光をしっかり浴びて旨みを閉じ込めます。
+また、有明海は一級河川である大きな筑後川、矢部川からミネラルを多く含む栄養豊富な水が流れ込みます
+その川の真水と海水が混ざり、海苔の養殖に適した低い塩分濃度に調合され、
+あの口どけ良く、旨みたっぷりの海苔が生まれる有明海を形成しているのです。
+【原料仕入れのこだわり】
+多くの河川からミネラル豊富な水が流れ込み、最大６ｍにもなる干満の差をうまく利用し、
+栄養分を存分に吸収した有明海苔へのこだわりはもちろん、
+長年培ってきた『目』、『舌』で最良な品質を見分け原料の仕入れを行います。
+各お品に適した原料を仕入れ、使い分けることにより、それぞれの美味しさを引き出しています。
+【製造のこだわり】
+機械化が進む現代において、弊社が大事にしている事。それは手の温もりです。
+幼いころ、母親が作ってくれた温かいおにぎりの様にいつまでも心に残っていくような海苔作り。
+弊社のお品をお召し上がりいただいた時、有明海苔の美味しさと、
+温もりを感じて頂けるよう真心込めて一つ一つ製造させて頂きます。
+提供：有限会社不知火海苔（鹿島市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4652812/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_966e35d9d223455dcdd980c4d5e189ff1bfa6142.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【有明産海苔セット】海苔屋の便り4個詰合せ 1個＝8切56枚（板のり7枚分）４個詰め合わせ〈焼きのり×2、塩のり×1、味付けのり×1〉</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万円以上のご寄附をいただいた方
+【有明産海苔セット】海苔屋の便り4個詰合せ 1個＝8切56枚（板のり7枚分）
+４個詰め合わせ〈焼きのり×2、塩のり×1、味付けのり×1〉
+味付のり、焼のり詰合せ。
+白を基調とした和紙のラベルに、焼のり、味付のりの詰合せです。
+海苔屋自慢の卓上ポットタイプ。
+旨い有明海苔をじっくりと焼上げました。
+●焼のりはちょっとお醤油を付けてあったかいご飯を巻いて。
+ちょっとお醤油を付けてあったかいお餅を巻いて。
+●味のりは有明海産の旨いのりをじっくりと焼き上げ、醤油ベースのタレで味を付けました。
+白いご飯、卵かけごはん、おやつに、おつまみに食べやすい８切サイズ。
+●塩のりはほんのり瀬戸内の塩をまぶしました。
+白いごはん、おやつに、おつまみに食べやすい８切サイズ。
+チーズやお野菜との相性も良いです。
+海苔屋の便りシリーズ、味付、焼、塩、色んなシーンに合わせてお召し上がりください。
+提供：有限会社不知火海苔（鹿島市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4652813/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_24d8879821a22de70d4af600dab7e2793749f05a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【有明産海苔セット】海苔屋の便り〈1個＝8切56枚/板のり7枚分〉6個詰合せ〈焼きのり×2、塩のり×2、味付けのり×2〉</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万3千円以上のご寄附をいただいた方
+【有明産海苔セット】
+海苔屋の便り〈1個＝8切56枚/板のり7枚分〉6個詰合せ〈焼きのり×2、塩のり×2、味付けのり×2〉
+味付のり、焼のり詰合せ。
+白を基調とした和紙のラベルに、焼のり、味付のりの詰合せです。
+色々な贈り物にいかがでしょうか。
+●焼のりはちょっとお醤油を付けてあったかいご飯を巻いて。
+ちょっとお醤油を付けてあったかいお餅を巻いて。
+●味のりは有明海産の旨いのりをじっくりと焼き上げ、醤油ベースのタレで味を付けました。
+白いご飯、卵かけごはん、おやつに、おつまみに最適な８切サイズ。
+●塩のりはほんのり瀬戸内の塩をまぶしました。
+白いごはん、おやつに、おつまみに最適な８切サイズ。
+チーズやお野菜との相性も良いです。
+海苔屋の便りシリーズ、味付、焼、塩、色んなシーンに合わせてお召し上がりください。
+提供：有限会社不知火海苔（鹿島市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4730591/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_635de138929eac0fdf2b198cb4f61dbe5b293138.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【日本三大珍味】本からすみ コロコロ12g×5個+パウダー50g×1個</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>【原材料】ボラの卵、塩、酒</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万1千円以上のご寄附をいただいた方
+【日本三大珍味】本からすみコロコロ12g×5個+パウダー50g×1個
+国産(九州内）の沖ボラにこだわりの美味しさを追求し唐津海独自の製法でうまれた本からすみです。
+唐津市加唐島で造られた「一の塩」と「聚楽太閤大吟醸」を使用し、
+一本一本手作りで、完成まで3週間手間ひまかけて作られた完全手作りの本からすみです。
+そのからすみをサイコロ状にカットしてオシャレでかわいいからすみです。
+パウダーはイタリアン、フレンチ、和食など様々な家庭料理にかけるだけで一味違う料理を味合うことができるお品です。
+提供：（株）唐津海</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4730592/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_f68690b4d0939ac8ac3cf986aafd22708c680e8c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【日本三大珍味】本からすみ 切り分け40g×2個</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>【原材料】ボラの卵、塩、酒</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万1千円以上のご寄附をいただいた方
+【日本三大珍味】本からすみ切り分け40g×2個
+国産(九州内）の沖ボラにこだわりの美味しさを追求し唐津海独自の製法でうまれた本からすみです。
+唐津市加唐島で造られた「一の塩」と「聚楽太閤大吟醸」を使用し、
+一本一本手作りで、完成まで3週間手間ひまかけて作られた完全手作りの本からすみです。
+からすみは仕上がりの味の差が大きく、中には泥臭いものもあります。
+唐津海ではすべて味をたしかめてから発送しております。
+是非、高級料理店のおせち、イタリアン、フレンチレストラン等でも使われる、
+本からすみを味わってみてください。
+提供：（株）唐津海</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4730594/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_26c11889c64f518c05dbb10f0f2a17fd96b03b56.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【日本三大珍味】本からすみ パウダー50g×3個</h4>
+<p class="goods-col_price inline">16,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>【原材料】
+ボラの卵、塩、酒</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万6千円以上のご寄附をいただいた方
+【日本三大珍味】本からすみパウダー50g×3個
+国産(九州内）の沖ボラにこだわりの美味しさを追求し
+唐津海独自の製法でうまれた本からすみをパウダー状にしました。
+イタリアンレストランを始めフランス料理店、日本料理店、蕎麦屋さん、
+等いろんなジャンルの料理に使われています。
+提供：（株）唐津海</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4730596/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_4c1a0c0a0251cfdd3ae6fd32af406d50e67d46cc.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【日本三大珍味】本からすみ 切り分け60g×1個 切り分け40g×1個</h4>
+<p class="goods-col_price inline">16,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>【原材料】
+ボラの卵、塩、酒</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万6千円以上のご寄附をいただいた方
+【日本三大珍味】本からすみ切り分け60g×1個切り分け40g×1個
+国産(九州内）の沖ボラにこだわりの美味しさを追求し唐津海独自の製法でうまれた本からすみです。
+唐津市加唐島で造られた「一の塩」と「聚楽太閤大吟醸」を使用し、
+一本一本手作りで、完成まで3週間手間ひまかけて作られた完全手作りの本からすみです。
+からすみは仕上がりの味の差が大きく、中には泥臭いものもあります。
+唐津海ではすべて味をたしかめてから発送しております。
+是非、高級料理店のおせち、イタリアン、フレンチレストラン等でも使われる、
+本からすみを味わってみてください。。　
+　　
+提供：（株）唐津海</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4730597/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_57456a71735766fa7250858e50739953ccafad8d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【日本三大珍味】本からすみ 切り分け60g×本からすみパウダー60g</h4>
+<p class="goods-col_price inline">16,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>【原材料】
+ボラの卵、塩、酒</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万6千円以上のご寄附をいただいた方
+【日本三大珍味】本からすみ切り分け60g×本からすみパウダー60g
+国産(九州内）の沖ボラにこだわりの美味しさを追求し唐津海独自の製法でうまれた本からすみです。
+唐津市加唐島で造られた「一の塩」と「聚楽太閤大吟醸」を使用し、一本一本手作りで、
+完成まで3週間手間ひまかけて作られた完全手作りの本からすみです。
+からすみは仕上がりの味の差が大きく、中には泥臭いものもあります。
+唐津海ではすべて味をたしかめております。
+パウダーは本からすみをパウダー状にしました。
+イタリアンレストランを始めフランス料理店、日本料理店、蕎麦屋さん、等
+いろんなジャンルの料理に使われています。
+本品は特に南青山にあるアクアパッツァの日高良実シェフもおすすめのお品です。
+　　　
+提供：（株）唐津海</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4730836/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_157fe19dd54dba7df5068edbc964f3ed64bcdd66.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【日本三大珍味】本からすみ桐箱入り100g</h4>
+<p class="goods-col_price inline">25,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>【原材料】
+ボラの卵、塩、酒</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+2万5千円以上のご寄附をいただいた方
+【日本三大珍味】本からすみ桐箱入り100g
+国産(九州内）の沖ボラにこだわりの美味しさを追求し唐津海独自の製法でうまれた本からすみです。
+唐津市加唐島で造られた「一の塩」と「聚楽太閤大吟醸」を使用し、
+一本一本手作りで、完成まで3週間手間ひまかけて作られた完全手作りの本からすみです。
+からすみは仕上がりの味の差が大きく、中には泥臭いものもあります。
+唐津海ではすべて味をたしかめてから発送しております。
+是非、料理店のおせち、イタリアン、フレンチレストラン等でも使われる、
+本からすみを味わってみてください。　　　
+提供：（株）唐津海</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4751347/467">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210130/pd_bbc559be68e75ea7876c408df29ed4ceecb8c789.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【嬉野温泉 大正屋】とろける湯どうふ3丁入り1セット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度 。なお年末は注文が込み合っており、年内に配送できない可能性がございます。
+ご了承ください。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>鰹節</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万円以上のご寄附をいただいた方
+【嬉野温泉 大正屋】とろける湯どうふ3丁入り1セット
+ぐつぐつと煮込むほどに豆腐の表面や角が溶け出しなめらかに、スープは白くまろやかに。
+口に運べばふんわり、とろり。古くは江戸時代の文献にも登場する嬉野の温泉湯豆腐。
+この賞味期限が短く、地元でしか食べられない料理をなんとかお土産用にしたい。
+大正屋では「なぜ溶けるのか」を徹底的に解明。試行錯誤の末、1985年に1年がかりで生産に成功しました。
+それが「とろける温泉湯どうふ」です。その生命線は嬉野の温泉水(調理水)にあり。
+温泉水の絶妙なアルカリ成分によって豆腐のタンパク質が分解され、
+豆乳に戻るため“とろける”のです。
+●豆腐:350g×3丁
+●豆乳:90ml
+●温泉湯どうふ用調理水:900ml(ペットボトル入り)
+●ごましょう油(鰹節1袋、おろし生姜1袋、七味唐辛子2袋)
+提供：（株）嬉野観光ホテル 大正屋（嬉野市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4751352/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210130/pd_85693290229badd503a0ff096f2e6c44a117e102.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【さがみかんストレートジュース】さがみかん100％搾り（330ml 12本入）</h4>
+<p class="goods-col_price inline">9,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+9千円以上のご寄附をいただいた方
+【さがみかんストレートジュース】さがみかん100％搾り（330ml 12本入）
+みかん果汁のみを使用した１００％みかんストレートジュース『さがみかん１００％搾り』
+佐賀県産高品質温州みかん果汁のみを使用し、濃縮還元等を行っていないストレートジュースです。
+果汁１００％なので、お子様のおやつや、毎朝のお供にいかがですか？
+香り溢れる爽やかな味を是非、ご堪能ください。
+提供：さが風土館 季楽 （佐賀市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4751360/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_b0797e330ef63203e0daa254cebaaf18e97587ef.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀の酒 飲み比べ2本】能古見特別純米720㎖・能古見本醸造720㎖（各1本）</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万1千円以上のご寄附をいただいた方
+【佐賀の酒 飲み比べ2本】
+・能古見特別純米720㎖（1本）
+ほのかな香りとお米の味わいを感じることができるあっさりしたタイプの特別純米酒です。
+硬質米である佐賀の華（佐賀県の酒造好適米）を使用することで、
+ライトな純米酒に仕上げています。
+・能古見本醸造720㎖（1本）
+香りは控えめに。味わいは豊かに。
+醸造アルコールにより後味をシャープに整えております。
+丁寧にアルコール添加を行うことで、
+本醸造ならではの香味のまとまりの良さを追求しております。
+※20歳未満の飲酒は法律で禁止されています
+製造：馬場酒造場（鹿島市）/提供：淵上酒店（杵島郡白石町） </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4751361/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_eed6c6307f2a8e973c2bfa5ed8c10b333f51c067.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀の酒 飲み比べ3本】能古見純米吟醸720㎖・能古見特別純米720㎖・能古見本醸造酒720㎖（各1本）</h4>
+<p class="goods-col_price inline">17,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万7千円以上のご寄附をいただいた方
+【佐賀の酒 飲み比べ3本】
+能古見純米吟醸720㎖・能古見特別純米720㎖・能古見本醸造酒720㎖（各1本）
+・能古見純米吟醸720㎖（1本）
+鹿嶋市の契約農家による低農薬栽培で育まれた鹿島産の山田錦を
+50％磨きにした1本。芳しい果実香に包まれながら、
+甘みと酸味の素晴らしいバランス、味のふくらみをご堪能ください。
+・能古見特別純米720㎖（1本）
+ほのかな香りとお米の味わいを感じることができるあっさりしたタイプの特別純米酒です。
+硬質米である佐賀の華（佐賀県の酒造好適米）を使用することで、
+ライトな純米酒に仕上げています。
+・能古見本醸造720㎖（1本）
+香りは控えめに。味わいは豊かに。
+醸造アルコールにより後味をシャープに整えております。
+丁寧にアルコール添加を行うことで、
+本醸造ならではの香味のまとまりの良さを追求しております。
+※20歳未満の飲酒は法律で禁止されています
+製造：馬場酒造場（鹿島市）/提供：淵上酒店（杵島郡白石町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4751363/467">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210130/pd_22042cda66ba5bb81135360bd645d7c220280efd.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀の酒 東一】東一大吟醸720㎖・東一純米吟醸ネロ720㎖（各1本）</h4>
+<p class="goods-col_price inline">17,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万7千円以上のご寄附をいただいた方
+【佐賀の酒 東一】東一大吟醸720㎖・東一純米吟醸ネロ720㎖（各1本）
+・東一大吟醸720㎖
+「東一」は自社による山田錦の栽培から醸造まで、業界有数の技術で注目を集めています。
+フルーティーでややエッジの効いた香り。
+シャープな口当たりとスマートな酸味。
+クリアーな味わいと、余韻にビターさが加わります。
+・東一純米吟醸ネロ720㎖
+山田錦ならではの米由来のまろやか旨味を引き出すとともに、アルコール度数13度になるよう、
+独自の方法で醸造しました。落ち着いた南国フルーツのような香りが穏やかで、
+まろやかな味わいと見事に調和しています。
+酸味が味全体を上手く引き立たせ、後味のキレの良さをより演出しています。
+軽やかで飲みやすく、体にやさしくなじむお酒です。
+Nero(イタリア語)は、日本語で「黒」という意味です。
+提供：淵上酒店 五町田酒造株式会社</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4751364/467">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210130/pd_53345a1cbd2a48caaa73efc9cf22dd00fbbdbbc4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀の酒 飲み比べ3本】東一 大吟醸720㎖・能古見大吟醸720㎖・肥前蔵心 権右エ門 純米大吟醸720㎖ （各1本）</h4>
+<p class="goods-col_price inline">35,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+3万5千円以上のご寄附をいただいた方
+【佐賀の酒 飲み比べ3本】
+東一 大吟醸720㎖・能古見大吟醸720㎖・肥前蔵心 権右エ門 純米大吟醸720㎖ （各1本）
+・東一大吟醸720㎖
+「東一」は自社による山田錦の栽培から醸造まで、業界有数の技術で注目を集めています。
+フルーティーでややエッジの効いた香り。
+シャープな口当たりとスマートな酸味。
+クリアーな味わいと、余韻にビターさが加わります。
+・能古見大吟醸720㎖
+柔らかく繊細な香りの中に、リンゴを思わせる香りがたなびきます。
+軽やかな甘味の飲み口に続く、後を追いかけてくる旨味、
+雑味のないバランスのとれた仕上がりに極上の愉しみを覚えます。
+・肥前蔵心 権右エ門 純米大吟醸720㎖
+やや甘口でなめらかな口当たりと、フルーティで華やかなリンゴのような香り。
+華やかな吟醸香とどっしりとした味、上品な米の旨味が奏でる三位一体の
+絶妙なハーモニーをお楽しみいただけます。
+※20歳未満の飲酒は法律で禁止されています
+製造：東一　五町田酒造（嬉野市）
+　　　能古見　馬場酒造場（鹿島市）
+　　　肥前蔵心権右エ門　大吟醸　矢野酒造（鹿島市）
+提供：淵上酒店（杵島郡白石町）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　佐賀県産米及び梅を使用し、国内産の砂糖を使用し佐賀県内で造られた品
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4751373/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_01177c8a000c88352270e88f8bff9b082a76365e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【香蘭社】小鳥の詩・茶の間揃（内容：ポット1 湯呑2化粧箱/容量：満水で ポット400cc 湯呑150cc/サイズ：ポット高8.5㎝ 湯呑 高7㎝ 口径6.5㎝）</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+3万円以上のご寄附をいただいた方
+【香蘭社】小鳥の詩・茶の間揃
+（内容：ポット1 湯呑2化粧箱/容量：満水で ポット400cc
+湯呑150cc/サイズ：ポット高8.5㎝ 湯呑 高7㎝ 口径6.5㎝）
+木の葉と実を柿右衛門様式の色調で表現した香蘭社の二人用茶器セット（茶の間揃）です。
+可愛い小鳥がアクセントになっており、白磁の空間を生かしたデザインがおしゃれです。
+提供：（株）香蘭社</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4751377/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_ce72a9c8b09cbedc09e70aa48dcbc4762ac0e68f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【香蘭社】ブラスト洋らん・ペア碗皿（内容：碗皿2 化粧箱/容量：満水で180cc　/サイズ：カップ高7.5㎝ 口径8.5㎝ ソーサー高2.5㎝径15㎝）</h4>
+<p class="goods-col_price inline">55,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+5万5千円以上のご寄附をいただいた方
+【香蘭社】ブラスト洋らん・ペア碗皿
+（内容：碗皿2 化粧箱/容量：満水で180cc　/サイズ：カップ高7.5㎝ 口径8.5㎝ ソーサー高2.5㎝径15㎝）
+艶やかな美しいルリ色のカップ＆ソーサーはおすすめのお品です。
+美しい香蘭ブルーの瑠璃色に美しい咲き姿から
+「花の女王」とも呼ばれる洋蘭がブラストにて描かれています。
+金彩の縁取りが更に気品を添えています。 
+お客様のおもてなしやプレゼントなどにお勧めです。
+提供：（株）香蘭社</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4751380/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_021310e1e6c38d2cd0f6638dd96f4ef0f6ed3a52.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【乾麺物語スープ付き3種セット】とんこつしょうゆラーメン・カレーうどん・しょうゆラーメン各80g×3袋</h4>
+<p class="goods-col_price inline">6,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>【めん】小麦
+【とんこつしょうゆスープ】小麦・大豆・鶏肉・豚肉・ごま・魚介類
+【カレーうどんスープ】小麦・牛肉・大豆・鶏肉
+【しょうゆラ一メン】小麦・大豆・鶏肉</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+6千円以上のご寄附をいただいた方
+【乾麺物語スープ付き3種セット】
+とんこつしょうゆラーメン・カレーうどん・しょうゆラーメン各80g×3袋
+【とんこつしょうゆ】本醸造再仕込みしょうゆでまろやかに仕上げた上品な味わいの白湯スープと
+歯ごたえのあるしこしこ麺が絶妙に 絡み合い、やみっきになる美味しさです。
+【カレーうどん】鰹だしの風味がきいた和風カレ一スープです。
+麺もカレーうどんのためだけに作り上げた平麺で、
+こだわりの技と旨さが活きた納得の一杯です。
+【しょうゆラ一メン】本醸造しょうゆで仕上げた旨みあふれる香り豊かな スープ。
+さらに、歯ごたえのあるしこしこ麺がスープと絶妙に絡み合い やみつきになるおいしさです。
+提供：佐賀県ヤクルト販売（株）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4898265/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210130/pd_c5e1e2a75f20d7e9bbb7853999191ae499a69cac.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【深川製磁】ひめ丸紋プチセット 女の子用</h4>
+<p class="goods-col_price inline">70,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+7万以上のご寄附をいただいた方
+【深川製磁】ひめ丸紋プチセット 女の子
+唇に触れたときの驚きと楽しさがある女の子の子供用食器。
+格調ある明治時代の意匠ひめ丸紋。
+四季折々の季節の流れを丸紋に閉じ込めました。
+深川製磁ならではの、愛らしいなかに品のあるピンクが印象的です。
+形姿は温かみのある柔らかな手触りと強度も兼ね備えたもの。
+この器で「陶磁器は欠けるもの」だからこそ「大事に使ってね」と
+道具の大切さも学んでほしいと願っております。
+子供の誕生から１００日目に行われる「お喰い初め」、
+将来この子が食べ物に困りませんようにとお子様の健やかな成長を願う贈り物としてもおすすめのお品です。
+お子様が成長されても日常使いにも欠かせない器をセレクトした4点セットです。
+提供：深川製磁株式会社(有田町)</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4898266/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210130/pd_b01be1c8a3b16d15a47f2b44d318c68a28196c01.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【深川製磁】かぶと絵プチセット 男の子用</h4>
+<p class="goods-col_price inline">70,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+7万以上のご寄附をいただいた方
+【深川製磁】かぶと絵プチセット 男の子用
+遊び心ある兜文様をモダンにあしらった男の子の子供用食器。
+元気な男の子になるようにと由緒ある戦国武将の兜の模様をあしらいました。
+黄色、ピンク、緑、青といった子供が好きな楽しい色で描かれ想像力が広がります。
+形姿は温かみのある柔らかな手触りと強度も兼ね備えたもの。
+この器で「陶磁器は欠けるもの」だからこそ「大事に使ってね」と
+道具の大切さも学んでほしいと願っております。
+子供の誕生から１００日目に行われる「お喰い初め」、
+将来この子が食べ物に困りませんようにとお子様の健やかな成長を
+願う贈り物としてもおすすめのお品です。
+お子様が成長されても日常使いにも欠かせない器をセレクトした4点セットです。
+提供：深川製磁株式会社(有田町)</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4962322/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230519/pd_81eb0f29b3cf91b79403e5c61d05c7dea2a3784f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀県産米】ななしま家 コシヒカリ白米5kg</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万5千円以上のご寄附をいただいた方
+「こしひかり」は国内栽培面積の1/3を占めるブランド米です。
+味の最大の特徴は、ふっくらもっちりとした粘り気と、強い旨みです。
+みずみずしいお米はひと粒ひと粒が光り輝き炊きあがりの美しさもピカイチです。
+【佐賀県産米】ななしま家 コシヒカリ白米5kg
+ななしま家は太古の昔よりお米つくりの盛んな「三日月町」にあります。
+天山の麓に広がる肥沃な大地で有機肥料を主に使用し、
+美味しさと安心を追及して栽培期間中は農薬を一切使用せず栽培しました。
+ななしま家では鮮度が落ちないように真空パックでお届けいたします。
+私達の自信作をどうぞお召し上がりください。
+提供：有限会社七島農産／小城市</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4962323/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230519/pd_c7d13faa5bf7dfd7ecfd3514c3344e53f2db6da1.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀県産米】ななしま家 コシヒカリ玄米5kg</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+　寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万5千円以上のご寄附をいただいた方
+【佐賀県産米】ななしま家 コシヒカリ玄米5kg
+「こしひかり」は国内栽培面積の1/3を占めるブランド米です。
+味の最大の特徴は、ふっくらもっちりとした粘り気と、強い旨みです。
+「玄米」は胚芽部分に豊富なビタミン、ぬか層には
+食物繊維やリノール酸などを多く含み栄養豊富です。
+ななしま家は太古の昔よりお米つくりの盛んな「三日月町」にあります。
+天山の麓に広がる肥沃な大地で有機肥料を主に使用し、
+美味しさと安心を追及して栽培期間中は農薬を一切使用せず栽培しました。
+ななしま家では鮮度が落ちないように真空パックでお届けいたします。
+私達の自信作をどうぞお召し上がりください。
+提供：有限会社七島農産／小城市</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5189154/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_db580e445fa2e80617e9cc5468c7ce22def09589.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【深川製磁】有田焼 ブルーチャイナ 角サンドイッチトレイ （サイズ：縦17.5cm 横27cm 高3.5cm 男の子）</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+2万以上のご寄附をいただいた方
+ブルーチャイナコレクションの盛皿です。
+スクエア型のお皿で、サンドイッチトレイやスイーツプレート、またメインのプレートとして、
+お料理を引き立ててくれます。
+ブルーチャイナは、明治期に実際に制作されていた焼き物の意匠を小紋柄として描いたコレクションです。
+すべてブルーで描かれたこれらの陶磁器意匠は、
+伝統的な深川様式でありながら実に可愛くデザインされています。
+サイズ：縦17.5cm　横27cm　高3.5cm
+材　質：磁器（有田焼）
+その他：電子レンジ対応 不可
+提供：深川製磁株式会社(有田町)</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5189155/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_ff48ad2d049d347986766efa382897bda9928846.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【深川製磁】有田焼 ブルーワイナリー パスタ皿 （サイズ：縦17.5cm 横24cm 高4.5cm 男の子）</h4>
+<p class="goods-col_price inline">25,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+2万5千円以上のご寄附をいただいた方
+人気のブルーワイナリーコレクションのパスタ皿です。
+パスタはもちろんの事、深みがあるので炒め物や煮物などの汁物にも便利です。
+ぶどうの意匠は、古今東西を問わず吉祥紋様です。
+用の美を追求した現代的な形姿に、
+百年前の下絵技法「エアログラフ」によるブルーのグラデーションが真白な磁器肌に染め込まれ、
+現代のブルー&amp;ホワイトとして再現されています。
+白磁の間に、調子を取る様に伸びる「つる」を手描きで入れているのも、
+一つ一つの表情の違いが器に温かで気韻ある印象を与える為です。
+熟練した職人の手わざによる現代のブルー＆ホワイトには、
+明治期以来頑なに変わる事なく伝承してきた工芸品としての魅力が備わっています。
+サイズ：縦17.5cm　横24cm　高4.5cm
+材　質：磁器（有田焼）
+その他：電子レンジ対応 可
+提供：深川製磁株式会社(有田町)</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5327414/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_b0408d4aa8afeca93dcf1e6eb052393ddfc41ee9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】ヒレステーキ 1Kg</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>商品お申し込みから2週間以内</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+10万円以上のご寄附をいただいた方
+【佐賀牛】ヒレステーキ 1Kg
+牛肉の部位の中でも特に高級かつ稀少とされる部位「ヒレ」。
+このプランでは佐賀牛ヒレ肉を食べやすいように切り落としして1Kgお届けします。
+繊細で上品な佐賀牛をご堪能ください。
+「佐賀牛」とは
+ＪＡグループ佐賀管内（佐賀県全域）の肥育農家で飼育される黒毛和牛のうち、
+日本食肉格付協会による肉質の格付け５段階中の５等級と４等級を満たした上で、
+霜降りの度合いを示す脂肪交雑（ＢＭＳ）12段階中の７段階以上をクリアしたもの。
+つまり「佐賀牛」とは、はっきりと数字で肉質が保証されている牛肉であること。
+しかも、肉質基準の高さがトップクラスの牛肉だということです。
+提供：中山牧場（東松浦郡）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5306264/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_69d713836f2fdba0eaa63688ff4c752d9cf9927e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】切り落とし 500g</h4>
+<p class="goods-col_price inline">9,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附入金確認後2週間以内</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+9千円以上のご寄附をいただいた方
+【佐賀牛】切り落とし 500g
+佐賀牛をガッツリ食べてみたい方におススメの切り落としです。
+焼肉、しゃぶしゃぶ、すき焼きなんでも使いやすいお品です。
+「佐賀牛」とは
+ＪＡグループ佐賀管内（佐賀県全域）の肥育農家で飼育される黒毛和牛のうち、
+日本食肉格付協会による肉質の格付け５段階中の５等級と４等級を満たした上で、
+霜降りの度合いを示す脂肪交雑（ＢＭＳ）12段階中の７段階以上をクリアしたもの。
+つまり「佐賀牛」とは、はっきりと数字で肉質が保証されている牛肉であること。
+しかも、肉質基準の高さがトップクラスの牛肉だということです。
+提供：中山牧場（東松浦郡）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5306265/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_29b20e72930eb4b93e022e4891fc666f70ec913d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】サーロインステーキ 200g</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附入金確認後2週間以内</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万2千円以上のご寄附をいただいた方
+【佐賀牛】サーロインステーキ 200g
+サーロインはサシが入り込みジューシーで柔らかい部位です。
+脂の甘みが感じられると同時にお肉の旨みも感じられます。
+「佐賀牛」とは
+ＪＡグループ佐賀管内（佐賀県全域）の肥育農家で飼育される黒毛和牛のうち、
+日本食肉格付協会による肉質の格付け５段階中の５等級と４等級を満たした上で、
+霜降りの度合いを示す脂肪交雑（ＢＭＳ）12段階中の７段階以上をクリアしたもの。
+つまり「佐賀牛」とは、はっきりと数字で肉質が保証されている牛肉であること。
+しかも、肉質基準の高さがトップクラスの牛肉だということです。
+提供：中山牧場（東松浦郡）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5306267/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230216/pd_6713ca9f92b53d48725ecdaed7aafafc69c81448.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】しゃぶしゃぶ・すき焼き用 400g</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附入金確認後2週間以内</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万2千円以上のご寄附をいただいた方
+【佐賀牛】しゃぶしゃぶ・すき焼き用 400g
+モモ（200g）もしくはウデ（200g）と肩ロース（200g）
+ウデ肉は霜降り割合が多く見た目も鮮やかで、和牛独特のジューシーな甘みが味わえます。
+モモ肉はキメがやや粗いですが柔らかく、肉質が均一です。
+肩ロースは焼肉屋では特上カルビとして提供されています。
+しゃぶしゃぶはもちろんのこと、焼き肉にもおススメのお品です。
+提供：中山牧場（東松浦郡）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5327415/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_a1110f6b1e1e3ec7cf64ef5471dd36e257631812.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】ローストビーフ（低温熟成） 500g</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附入金確認後2週間以内</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+2万円以上のご寄附をいただいた方
+【佐賀牛】ローストビーフ（低温熟成） 500g
+低温熟成した赤身肉を自家製の漬け込みダレで味付けし、焼き上げたローストビーフです。
+佐賀牛赤身肉をご堪能ください。
+イベント事（お誕生日・クリスマス・お祝い事）にいかがでしょうか。
+美味しい和牛肉を一定期間「低温熟成」させることで
+さらに、やわらかく、風味も旨みもアップします。
+中山牧場の牛肉はマイナス１度でしっかり鮮度を保ちつつ、
+14～20日間じっくりと低温熟成させます。
+霜降りの和牛は個体差があり、熟成期間の見極めは大事なポイントで、
+いままでの経験から、タイミングを見計らって、加工いたしております。
+熟成された風味と旨みを、ぜひ味わってみて下さい。
+「佐賀牛」とは
+ＪＡグループ佐賀管内（佐賀県全域）の肥育農家で飼育される黒毛和牛のうち、
+日本食肉格付協会による肉質の格付け５段階中の５等級と４等級を満たした上で、
+霜降りの度合いを示す脂肪交雑（ＢＭＳ）12段階中の７段階以上をクリアしたもの。
+つまり「佐賀牛」とは、はっきりと数字で肉質が保証されている牛肉であること。
+【総務省告示第百七九号第五条に記載されている地場産品基準を満たす理由】
+佐賀県にある中山牧場で飼育された黒毛和牛に、県外産の調味料を利用し、
+東松浦郡の自社工場で加工された告示5条第3号に該当する返礼品
+提供：中山牧場（東松浦郡）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5327417/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210920/pd_06d5f8a26160b3163c4534a002023ca292ffac94.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】焼肉（冷温熟成） 400g</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>商品お申し込みから2週間以内</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万円以上のご寄附をいただいた方
+【佐賀牛】焼肉（冷温熟成） 400g
+モモもしくはウデ200g＋肩ロースもしくは三角バラ200g
+美味しい和牛肉を一定期間「低温熟成」させることで
+さらに、やわらかく、風味も旨みもアップします。
+中山牧場の牛肉はマイナス１度でしっかり鮮度を保ちつつ、
+14～20日間じっくりと低温熟成させます。
+霜降りの和牛は個体差があり、熟成期間の見極めは大事なポイントで、
+いままでの経験から、いちばん美味しくなったタイミングを見計らって、
+加工いたしております。
+熟成された風味と旨みを、ぜひ味わってみて下さい。
+「佐賀牛」とは
+ＪＡグループ佐賀管内（佐賀県全域）の肥育農家で飼育される黒毛和牛のうち、
+日本食肉格付協会による肉質の格付け５段階中の５等級と４等級を満たした上で、
+霜降りの度合いを示す脂肪交雑（ＢＭＳ）12段階中の７段階以上をクリアしたもの。
+つまり「佐賀牛」とは、はっきりと数字で肉質が保証されている牛肉であること。
+提供：中山牧場（東松浦郡）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5306268/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230912/pd_bbe1b3d806f1ed68392edf0437cc46e1990cde25.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】希少部位 焼肉用 800g </h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附入金確認後2週間以内</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+3万円以上のご寄附をいただいた方
+【佐賀牛】希少部位焼き肉用 800g
+ミスジ、トモサンカク、イチボ、カイノミ、ササミ、三角バラの中から
+おまかせで４点をお届けさせていただきます。
+「佐賀牛」とは
+ＪＡグループ佐賀管内（佐賀県全域）の肥育農家で飼育される黒毛和牛のうち、
+日本食肉格付協会による肉質の格付け５段階中の５等級と４等級を満たした上で、
+霜降りの度合いを示す脂肪交雑（ＢＭＳ）12段階中の７段階以上をクリアしたもの。
+つまり「佐賀牛」とは、はっきりと数字で肉質が保証されている牛肉であること。
+しかも、肉質基準の高さがトップクラスの牛肉だということです。
+提供：中山牧場（東松浦郡）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5327418/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230323/pd_12459a4fd459fac087a2876d341a8d9773c56d5d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】もも肉（赤身）ステーキ 100g×8枚 800g</h4>
+<p class="goods-col_price inline">25,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附入金確認後2週間以内</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+2万5千円以上のご寄附をいただいた方
+【佐賀牛】もも肉（赤身）ステーキ 100g×8枚 800g
+赤身肉は、他の部位よりも脂身が少なく、
+かつ身体を作るたんぱく質が多く含まれています。
+佐賀牛の赤身肉には程よくサシも入っているため、
+通常の赤身肉よりも柔らかいのが特徴です。
+「佐賀牛」とは
+ＪＡグループ佐賀管内（佐賀県全域）の肥育農家で飼育される黒毛和牛のうち、
+日本食肉格付協会による肉質の格付け５段階中の５等級と４等級を満たした上で、
+霜降りの度合いを示す脂肪交雑（ＢＭＳ）12段階中の７段階以上をクリアしたもの。
+つまり「佐賀牛」とは、はっきりと数字で肉質が保証されている牛肉であること。
+しかも、肉質基準の高さがトップクラスの牛肉だということです。
+提供：中山牧場（東松浦郡）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5328695/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210920/pd_929d89f9eda813e51127b8702684309900570764.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】 焼肉（冷温熟成）1Kg</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附入金確認後2週間以内</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+3万円以上のご寄附をいただいた方
+【佐賀牛】 焼肉（冷温熟成）1Kg
+モモもしくはウデ400g＋肩ロースもしくは三角バラ400g＋希少部位200g
+三角バラ・肩ロース、モモ・ウデの部位を、
+希少部位は、ミスジ、トモサンカク、イチボ、カイノミ、ササミからおまかせでお届けします。
+美味しい和牛肉を一定期間「低温熟成」させることで
+さらに、やわらかく、風味も旨みもアップします。
+中山牧場の牛肉はマイナス１度でしっかり鮮度を保ちつつ、
+14～20日間じっくりと低温熟成させます。
+霜降りの和牛は個体差があり、熟成期間の見極めは大事なポイントで、
+いままでの経験から、いちばん美味しくなったタイミングを見計らって、
+加工直売いたしております。
+熟成された風味と旨みを、ぜひ味わってみて下さい。
+「佐賀牛」とは
+ＪＡグループ佐賀管内（佐賀県全域）の肥育農家で飼育される黒毛和牛のうち、
+日本食肉格付協会による肉質の格付け５段階中の５等級と４等級を満たした上で、
+霜降りの度合いを示す脂肪交雑（ＢＭＳ）12段階中の７段階以上をクリアしたもの。
+つまり「佐賀牛」とは、はっきりと数字で肉質が保証されている牛肉であること。
+しかも、肉質基準の高さがトップクラスの牛肉だということです。
+提供：中山牧場（東松浦郡）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5327419/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230216/pd_120225e4e028dc25a52098924e78dfba29814c6f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛】ハンバーグ 6個セット</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附入金確認後2週間以内</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万2千円以上のご寄附をいただいた方
+【佐賀牛】ハンバーグ 6個セット
+中山牧場の自慢のハンバーグです。
+自家牧場の高品質な佐賀牛を使った自家製ハンバーグは、
+お肉の味がダイレクトに味わえると同時に、
+脂の甘さが引き立つハンバーグとなっています。
+「佐賀牛」とは
+ＪＡグループ佐賀管内（佐賀県全域）の肥育農家で飼育される黒毛和牛のうち、
+日本食肉格付協会による肉質の格付け５段階中の５等級と４等級を満たした上で、
+霜降りの度合いを示す脂肪交雑（ＢＭＳ）12段階中の７段階以上をクリアしたもの。
+つまり「佐賀牛」とは、はっきりと数字で肉質が保証されている牛肉であること。
+しかも、肉質基準の高さがトップクラスの牛肉だということです。
+【総務省告示第百七九号第五条に記載されている地場産品基準を満たす理由】
+肉は佐賀県にある中山牧場で飼育しされた黒毛和牛に玉ねぎ（佐賀県産）、
+人参（国産）、パン粉（国産）卵（国産）食塩、粗びき黒こしょう、
+（一部に小麦・卵・牛肉を含む）を利用し、東松浦郡の自社工場で加工された
+告示5条第3号に該当する返礼品
+製造：中山牧場（東松浦郡）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5566551/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230227/pd_0e01ca0ffcd2d831b37174767793cc2b9c07abf8.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【華味鳥】華味鳥もも肉1㎏ ＆ 華味鳥むね肉1㎏</h4>
+<p class="goods-col_price inline">9,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+9千円以上のご寄附をいただいた方
+【華味鳥】華味鳥もも肉1㎏ ＆ 華味鳥むね肉1㎏
+美味しい鶏肉は健康な鶏から生まれる。そう実感した私たちは、
+自然豊かな土地に太陽の光が注ぐ開放鶏舎を建て、
+鶏が自由に動き回れる平飼いで育てることにしました。
+一方、鶏の健康に大切な腸内環境を整えるため、海藻やハーブなど自然素材を加えた
+専用飼料を開発して与え、雛から育てることで質の安定化を目指しました。
+こうして九州産「華味鳥」は誕生しました。
+・生産／提供：株式会社トリゼン（佐賀県唐津市）
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5566552/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230227/pd_93fb0959ff899bea07a75d59b75c98e901a19e66.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【華味鳥】華味鳥もも肉750g ＆ こりこり軟骨入りつくね240g×2袋</h4>
+<p class="goods-col_price inline">6,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>小麦、乳成分、ごま、大豆、鶏肉、豚肉</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+6千円以上のご寄附をいただいた方
+【華味鳥】華味鳥もも肉750g ＆ こりこり軟骨入りつくね240g×2袋
+味しい鶏肉は健康な鶏から生まれる。そう実感した私たちは、
+自然豊かな土地に太陽の光が注ぐ開放鶏舎を建て、鶏が自由に動き回れる平飼いで
+育てることにしました。一方、鶏の健康に大切な腸内環境を整えるため、
+海藻やハーブなど自然素材を加えた専用飼料を開発して与え、
+雛から育てることで質の安定化を目指しました。
+こうして九州産「華味鳥」は誕生しました。
+軟骨入りつくねはコリコリとした食感が美味しく、水炊きはもちろん、
+油で揚げてケチャップやソースをからめてお弁当などにもお使いいただけます。
+・生産／提供：株式会社トリゼン（佐賀県唐津市）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　鶏肉は佐賀県産を使用し、佐賀県唐津市内のトリゼン自社工場で加工されたもの
+　※たまねぎは中国産使用、調味料など佐賀県外より調達
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5566553/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230330/pd_2b526247b397abbfe4c7fbc2e8b92526b0aabd65.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀県特別栽培農産品】いちご、白イチゴ、雪うさぎミルク、カカオジャム4本セット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>いちご ミルクジャムに牛乳を使用、カカオジャムに有機カカオニプを使用</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万円以上のご寄附をいただいた方
+【佐賀県特別栽培農産品】いちご、白イチゴ、雪うさぎミルク、カカオジャム4本セット
+唐津の白いちご井手農園で生まれた白いちご「雪うさぎ」「天使の実」は
+唐津市のいちご農家５人で結成した「唐津スノーベリー協会」メンバーが栽培する白いちごです。
+大玉で真っ白なイチゴは贈答用としてもおすすめです。
+2021年から有機栽培に切り替え、佐賀県特別栽培農産物（化学肥料：使用せず・化学農薬：使用せず）
+の認証いただいています。
+イチゴ栽培５０年の経験を生かし、皆様が安心して食べていただけるイチゴ作りをしています。
+このようなイチゴを使ったジャムをお届けします。
+・生産：井手農園（佐賀県唐津市）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　佐賀県唐津市で生産されたいちごを主原料とし、井手農園（佐賀県唐津市）で加工した品
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5566554/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220919/pd_ea166dabdd6aa2a23186203210cea643feeb69ce.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【さがびより 骨太有明鶏使用】鶏ごぼうピラフ 10袋</h4>
+<p class="goods-col_price inline">8,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>卵・小麦・鶏肉・大豆・ごま
+【原材料】
+米（佐賀県産）、野菜（ごぼう、いんげん、にんじん）、鶏肉、大麦、しょうゆ、
+植物油脂、スクランブルエッグ、発酵調味料、砂糖、しいたけエキス調味料、
+かつおエキス調味料、食塩／調味料（アミノ酸等）、安定剤（加工でん粉）、
+pH調整剤、香料、（一部に小麦・卵・ごま・大豆・鶏肉を含む）</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+8千円以上のご寄附をいただいた方
+【さがびより 骨太有明鶏使用】鶏ごぼうピラフ 10袋
+徹底した品質管理のもと、JAさがのグループ会社の株式会社JAフーズさがのピラフ工場で製造している冷凍食品です。
+佐賀県産米「さがびより」と佐賀県産「骨太有明鶏」を使用した鶏ごぼうピラフです。
+レンジで温めるだけで簡単にお召し上がりになれます。
+・提供事業者：さが風土館 季楽 （佐賀県佐賀市）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　米、鶏肉は佐賀県産、その他は佐賀県外より調達し、佐賀県JAフーズさがの工場で生産された品
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5566555/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220919/pd_f49bc7e13b6fb64784ca0ec33f0a7ab02edee13f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【さがびより 骨太有明鶏使用】チキンライス 10袋</h4>
+<p class="goods-col_price inline">8,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>乳・小麦・鶏肉・大豆
+【原材料】
+米（佐賀県産）、トマトケチャップ、鶏肉、野菜（たまねぎ、とうもろこし、いんげん、にんじん）、
+植物油脂、砂糖、しょうゆ、食塩、醸造酢、バター、チキンエキス調味料、
+香辛料／調味料（アミノ酸）、パプリカ色素、（一部に小麦・乳成分・大豆・鶏肉を含む）</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+8千円以上のご寄附をいただいた方
+【さがびより 骨太有明鶏使用】チキンライス 10袋
+徹底した品質管理のもと、JAさがのグループ会社の株式会社JAフーズさがのピラフ工場で製造している冷凍食品です。
+佐賀県産米「さがびより」と佐賀県産「骨太有明鶏」を使用したチキンライスです。
+レンジで温めるだけで簡単にお召し上がりになれます。
+・提供事業者：さが風土館 季楽 （佐賀県佐賀市）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　米、鶏肉は佐賀県産、その他は佐賀県外より調達し、佐賀県JAフーズさがの工場で生産された品
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5566558/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231102/pd_55f04fedd34b667ffdb2d6cec49885633ae29cfb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀牛使用】お肉屋さんが作ったご飯セット（佐賀牛ごはん 3個、かしわごはん 3個）</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>【原材料】
+【佐賀牛ごはん】
+米(佐賀県産)、牛肉、高菜醬油漬け、ぶなしめじ、昆布エキス、野菜(玉葱、にんにく)、醬油、食塩、
+いりごま、植物油、ブラックペッパー、調味料(アミノ酸等)、カイワレエキス、㏗調整剤、
+着色料(ウコン)、亜鉛含有酵母エキス、(原材料の一部に小麦、大豆を含む)　
+【かしわごはん】
+米(佐賀県産)、野菜(牛蒡、蓮根、人参)、たれ(醬油、砂糖、食塩、果糖ブドウ糖液糖、
+しいたけエキス、かつおエキス、チキン・ポークエキス、昆布)、鶏肉、鶏脂、植物油、
+調味料(アミノ酸等)、カイワレエキス、カラメル色素、甘味料(スクラロース)、増粘剤(キサンタン)、
+(原材料の一部に小麦、乳成分、大豆、豚肉を含む)</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万円以上のご寄附をいただいた方
+【佐賀牛使用】お肉屋さんが作ったご飯セット（佐賀牛ごはん 3個、かしわごはん 3個）
+佐賀牛ごはんは、佐賀県が全国に誇るブランド牛～艶さしプレミアム～「佐賀牛」と佐賀県米を使用しております。
+佐賀牛の旨味を存分に味わってもらえるようにガーリック風味の味付けをしております。
+かしわごはんは、佐賀県産ありたどりと佐賀県産米を使用しております。
+具材は鶏肉、牛蒡、人参、蓮根が入ったシンプルな炊き込みごはんです。
+九州本場のかしわごはんです。
+両返礼品ともに、電子レンジで温めるだけで、手軽においしいごはんがお召し上がりいただけます。
+また、女性やお子様、ご年配の方でも食べきれるほどのサイズに仕上げております。
+お土産やご自身用、ギフト贈答にもお喜びいただけます。
+本品は冷凍でのお届けとなります。－１８℃以下で保存してください。
+佐賀牛ごはん、かしわごはんは必ず電子レンジで加熱しすぎない程度に温めてから、お召し上がりください。
+・製造：株式会社上場食肉（佐賀県唐津市）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　米、牛肉、鶏肉、野菜は佐賀県産、その他高菜塩漬等は国内で調達し、佐賀県唐津市の工場に生産を委託した品
+　
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5566561/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220919/pd_9f52befd431a43c58ca13beab81935a0f4c42dfb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀県伊万里産古城梅使用】東一 (本格梅酒・黒糖梅酒・紫蘇梅酒) 720ml 3本セット</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万3千円以上のご寄附をいただいた方
+【佐賀県伊万里産古城梅使用】
+東一 (本格梅酒・黒糖梅酒・紫蘇梅酒) 720ml 3本セット
+佐賀県伊万里産古城梅を100％使用。
+自社製造の米焼酎をベースに仕込んだ梅酒の飲み比べセットです。
+[東一 本格梅酒 ]アルコール：14度
+梅の香りがふわりと広がり、梅の芳醇な味わいをとろりと感じます。
+飲み方もロック以外に、ソーダ割でスッキリ、冬はお湯割りもおすすめ。
+ピリ辛料理、カレー等のスパイス料理ともお試しください！
+[東一 黒糖梅酒 ]アルコール：14度
+氷砂糖の代わりに沖縄産の黒糖で仕込んだ梅酒です。
+黒糖で仕込んだ梅酒は、コクが深く、濃厚な味わいです。
+食後酒として、ビターチョコとゆっくりと楽しむのもおすすめです。
+バニラアイスにかけて大人なスイーツとしても。
+[東一 紫蘇梅酒 ]アルコール：14度
+紫蘇エキスを加えることで、見た目も味わいもスッキリと仕上げました。
+爽やかな紫蘇の香りとスッキリとした飲み口、食前酒にもおすすめです。
+暑い日には、ソーダで割ったり、シャーベットにしてひんやり楽しんでも！
+20歳未満の飲酒は法律で禁⽌されています
+・提供事業者：渕上酒店（佐賀県杵島郡）
+・製造：五町田酒造株式会社（佐賀県嬉野市）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　佐賀県産米及び梅を使用し、国内産の砂糖を使用し佐賀県内で造られた品
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5566562/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230317/pd_4e4d893036cc294e87eb851f2189c2d8499dd099.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【燻やの燻製通7点セット】チョリソー１個、コッパスライス45ｇ、ベーコンスライス70ｇ、牛タンスモークスライス65ｇ、牡蠣のスライスオイル漬け３ケ、ほたてのスモークオイル漬け３個、豚タンスライス１本</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附入金確認後2週間以内</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>ほたて、牡蠣</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万5千円以上のご寄附をいただいた方
+【燻やの燻製通7点セット】
+　チョリソー１個、コッパスライス45ｇ、ベーコンスライス70ｇ、牛タンスモークスライス65ｇ、牡蠣のスライスオイル漬け３ケ、ほたてのスモークオイル漬け３個、豚タンスライス１本
+「燻や」では、本物の美味しさを追求する為インジェクターという機材を使いません。
+この機材は、原料のブロック肉に水を加えてかさ増しをする製法です。
+職人田部は大手製造メーカーではないからこそできること、水や糖分、
+余計な添加物などを加えず、素材本来の旨味を活かした燻製を生み出しています。
+その味は世界にも認められ、数々の賞を受賞しました。
+そんなこだわりの燻製を詰め合わせセットにしました。
+セット内容
+チョリソー１個、コッパスライス45ｇ、
+ベーコンスライス70ｇ、牛タンスモークスライス65ｇ
+牡蠣のスモークオイル漬け３ケ、
+ほたてのスモークオイル漬け３個、
+豚タンスライス１本
+・生産：有限会社たなべ屋（燻や）（佐賀県唐津市）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　佐賀県を含み、国内及び海外（オーストラリア、アメリカ）より調達した品を自社（唐津市七山の自社工房）で加工した品
+　
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5566563/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230317/pd_ce3860f2f9f1f05c7b319d10e24e6f97a4f7caa3.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【燻やの燻製 8点セット】ベーコンブロック165ｇ、ロースハムブロック250ｇ、ヒレハムブロック1/2本、パストラミポーク200ｇ、パプリカリヨナー100ｇ、チーズリヨナー100ｇ、荒挽きウインナー108ｇ、ピリ辛ビアウインナー108ｇ</h4>
+<p class="goods-col_price inline">25,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附入金確認後2週間以内</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+2万5千円以上のご寄附をいただいた方
+【燻やの燻製 8点セット】
+「燻や」では、本物の美味しさを追求する為インジェクターという機材を使いません。
+この機材は、原料のブロック肉に水を加えてかさ増しをする製法です。
+職人田部は大手製造メーカーではないからこそできること、水や糖分、
+余計な添加物などを加えず、素材本来の旨味を活かした燻製を生み出しています。
+その味は世界にも認められ、数々の賞を受賞しました。
+そんなこだわりの燻製を詰め合わせセットにしました。
+・製造：有限会社たなべ屋（燻や）（佐賀県唐津市）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　九州県内及び国内より調達した品を自社（唐津市七山の自社工房）で加工した品
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5566564/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220921/pd_3a7c549539b310c9590ec201e790b71640eaea5b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【燻やの海産物燻製5種】寒さばの燻製１枚、さわらの燻製１枚、フォアグラの燻製45ｇ、牡蠣のスモークオイル漬け３ケ、ほたてのスモークオイル漬け３ケ</h4>
+<p class="goods-col_price inline">16,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附入金確認後2週間以内</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>フォアグラ、ひまわりオイル（牡蠣のスモークオイル漬け、ほたてのスモークオイル漬けに使用）</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万6千円以上のご寄附をいただいた方
+【燻やの海産物燻製5種】
+「燻や」では、本物の美味しさを追求する為インジェクターという機材を使いません。
+この機材は、原料のブロック肉に水を加えてかさ増しをする製法です。
+職人田部は大手製造メーカーではないからこそできること、水や糖分、
+余計な添加物などを加えず、素材本来の旨味を活かした燻製を生み出しています。
+その味は世界にも認められ、数々の賞を受賞しました。
+そんなこだわりの燻製を詰め合わせセットにしました。
+セット内容
+寒さばの燻製１枚、さわらの燻製１枚、
+フォアグラの燻製45ｇ、牡蠣のスモークオイル漬け３ケ、
+ほたてのスモークオイル漬け３ケ
+・製造：有限会社たなべ屋（燻や）（佐賀県唐津市）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　国内及び海外（フランス）より調達した品を自社（唐津市七山の自社工房）で加工した品
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5566565/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230317/pd_ae7b56c971621d821b1860acd21b546917f23a15.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【燻やの燻製 マスターセレクション5点セット】ロースハムスライス70ｇ、ベーコンスライス70ｇ、パプリカリヨナー100ｇ、荒挽きウインナー72ｇ、ハーブレモンウインナー72ｇ</h4>
+<p class="goods-col_price inline">9,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附入金確認後2週間以内</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+9千円以上のご寄附をいただいた方
+【燻やの燻製 マスターセレクション5点セット】
+「燻や」では、本物の美味しさを追求する為インジェクターという機材を使いません。
+この機材は、原料のブロック肉に水を加えてかさ増しをする製法です。
+職人田部は大手製造メーカーではないからこそできること、水や糖分、
+余計な添加物などを加えず、素材本来の旨味を活かした燻製を生み出しています。
+その味は世界にも認められ、数々の賞を受賞しました。
+そんなこだわりの燻製を詰め合わせセットにしました。
+セット内容
+ロースハムスライス70ｇ、ベーコンスライス70ｇ、
+パプリカリヨナー100ｇ、荒挽きウインナー72ｇ、
+ハーブレモンウインナー72ｇ
+・製造：有限会社たなべ屋（燻や）（佐賀県唐津市）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　九州県内より調達した品を自社（唐津市七山の自社工房）で加工した品
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5724776/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230302/pd_d7de5a857a66ce7f23d2e37d94bd46f0e15d2808.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【EBI研究所】EBIセットMサイズ（有頭えびフライ、無頭えびフライ、エビの香味焼き）</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後約３週間程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万5千円以上のご寄附をいただいた方
+【EBI研究所】EBIセットMサイズ（有頭えびフライ、無頭えびフライ、エビの香味焼き）
+えびフライ専門店EBI研究所がお届けする「有頭無頭えびフライセット」です。
+EBI研究所のえびフライはブラックタイガーを使用し、伸ばし加工・保水加工など余計な加工をせず、
+下味には沖縄県から取り寄せている「塩」のみで味付けをした後、丁寧に薄衣をまとわせたえびフライです。
+最大の特徴はその薄衣で、その衣率は驚異の20％です。
+その為、油っこく無くえびの旨味と食感がガツンとくる「今までに無いえびフライ」となっています。
+海老の神開き（海老の香味焼き）は焼くだけ簡単の海老の香味焼きです。
+火が通ると真っ赤に色付き下味にはハーブ塩を使っています。（未加熱調理品）
+製造地：佐賀県上峰町 提供：EBI研究所／EBI江口魚株式会社
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について佐賀県にお住いの方へ
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+（平成31年総務省告示第179号第2条第1号ニ）
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5724777/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230302/pd_7e41b6cc8d7fea489555bea8271af9d972380583.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【EBI研究所】有頭無頭えびフライセット（有頭えびフライ1尾約55g×5尾、無頭えびフライ1尾約40g×5尾）</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後約３週間程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万3千円以上のご寄附をいただいた方
+【EBI研究所】有頭無頭えびフライセット
+（有頭えびフライ1尾約55g×5尾、無頭えびフライ1尾約40g×5尾）
+えびフライ専門店EBI研究所がお届けする「有頭無頭えびフライセット」です。
+EBI研究所のえびフライはブラックタイガーを使用し、伸ばし加工・保水加工など余計な加工をせず、
+下味には沖縄県から取り寄せている「特別な塩」のみで味付けをした後、丁寧に薄衣をまとわせたえびフライです。
+最大の特徴はその薄衣で、その衣率は驚異の20％です。
+その為、油っこく無くえびの旨味と食感がガツンとくる「今までに無いえびフライ」となっています。
+製造地：佐賀県上峰町 提供：EBI研究所／EBI江口魚株式会社
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する
+返礼品等の送付について佐賀県にお住いの方へ
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+（平成31年総務省告示第179号第2条第1号ニ）
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5724782/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230303/pd_33153262c24d1ed0e84a5a4e822d61eda8ec52a4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀県産若鳥】バーベキューセット（骨付きもも肉 約800g、小肉500g、手羽先5本 約330g）計約1.5㎏</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万2千円以上のご寄附をいただいた方
+【佐賀県産若鳥】バーベキューセット（骨付きもも肉 約800g、小肉500g、手羽先5本 約330g）計約1.5㎏
+キャンプ、バーベキューで食べたい美味しい佐賀県産若鳥の人気の部位をセットにしました。
+部位ごとに真空パックし冷凍していますので、保存やクーラーボックスなどでの持ち運びにも便利です。
+骨付きもも肉 はそのまま焼いて豪快に焼いてお召し上がりください。
+筋肉が多いためやや堅くかみごたえがあり、鶏肉特有のおいしさが味わえます。
+小肉は焼き肉用に食べやすい大きさにカットしています。
+手羽先の関節から先の先端部分は、特にゼラチン質と脂肪が多く含まれているので、
+焼いても良し、じっくり煮込むと良質な出汁が取れます。
+・生産／提供：株式会社トリゼン（佐賀県唐津市）
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5724783/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230303/pd_29aed7834436fec1355c6f072c43107bd09e19a7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【佐賀県産若鳥】カット済みもも肉 200g×10袋（2㎏）</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万5千円以上のご寄附をいただいた方
+【佐賀県産若鳥】カット済みもも肉 200g×10袋（2㎏）
+佐賀県産若鳥のもも肉を、唐揚げやシチュー等、調理しやすいサイズにカットしました。
+200gずつ小分けにしておりますので、保存にも便利です。
+もも肉は筋肉が多いためやや堅くかみごたえがあり、鶏肉特有のおいしさが味わえます。
+さまざまな調理法に向く万能素材として、鶏肉の部位のなかでは特によく使われます。
+・生産／提供：株式会社トリゼン（佐賀県唐津市）
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5724784/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230309/pd_bc402401ed9286e9ba98fcaba58921a3485830e6.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【九州のソウルアイス】ブラックモンブラン 10本セット</h4>
+<p class="goods-col_price inline">6,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+6千円以上のご寄附をいただいた方
+【九州のソウルアイス】ブラックモンブラン 10本セット
+佐賀が誇るソウルフード「ブラックモンブラン」が10本入ったセットです。
+表面はカリカリのクッキークランチとピーナッツ、中身はさっぱりバニラアイスをチョコでコーティングしました。
+子供の頃から、あの味わいはいまも変わらず、誕生から50年を超えるソールフードを家族の皆様でお楽しみください。
+※当たりくじが出た場合は無効となりますので、予め、ご了承ください。
+●誕生より約半世紀
+●九州人なら懐かしか～
+・生産：竹下製菓（佐賀県小城市）
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5724787/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230309/pd_fdf83e0aa63aa6017c6e43e1b8a7aaf1bb0af359.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【九州のソウルアイス】竹下製菓 おうちでモンブランセット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万円以上のご寄附をいただいた方
+【九州のソウルアイス】竹下製菓 おうちでモンブランセット
+九州でお馴染みのバーアイス「ブラックモンブラン」を自分で手作りできる楽しくて美味しいアイスのセットです。
+「ブラックモンブラン」の”バニラアイス”と　”チョコアイス”の2種類のアイスミルクと“チョコ”と“クランチ”に区分けした、
+手作りアイス用のキットです。
+作り方は簡単で、チョコをレンジで温め溶かした後、それをアイスミルクバーにコーティングしてクランチをまぶせば出来上がり。
+味も品位も全て「ブラックモンブラン」そのもので、皆様でお楽しみ頂けます。
+誕生より50年以上のロングセールスを誇る、あの懐かしいアイスの味をお子さまとご家庭で作れる楽しいセットです。
+いつもと違ってホットチョコレートと冷たいアイス（バニラ味、チョコレート味）のコラボの味が新鮮です。
+古くていつまでも新しいブラックモンブランを12本入りでお届けいたします。
+・生産：竹下製菓（佐賀県小城市）
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5773652/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230323/pd_8cf7669c239ffba986831b7da331a3b20c4665e0.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【肥前さくらポーク】ロース（とんかつ用、しゃぶしゃぶ用）計1㎏セット</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万3千円以上のご寄附をいただいた方
+【肥前さくらポーク】ロース（とんかつ用、しゃぶしゃぶ用）計1㎏セット
+JAグループ佐賀オリジナルブランド「肥前さくらポーク」のロースとんかつ用とローススライスをセットしました。
+肥前さくらポークは成長に合わせた専用の銘柄資料を与え、健康的な発育を促し、
+徹底した飼育管理を行っているため、豚肉独特の臭みが少なく、肉質がやわらかく、ジューシーなののが特徴です。
+トンカツにすれば、一口食べただけでジューシーな肉汁があふれてきます。
+１００ｇでカットしていますので、衣をつけてトンカツにしてもよし、そのまま焼いてトンテキにするのもオススメです。
+スライスは、しゃぶしゃぶだけではなく、生姜焼きや豚丼、お野菜に巻いて肉巻き等様々な料理に使えます。
+・提供事業者：さが風土館 季楽 （佐賀県佐賀市）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　佐賀県内で生産された豚肉（地場産品基準第１号）で、JAグループ佐賀の工場（佐賀県内）で加工した品
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5773653/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230323/pd_40e841eb08d572b03d9de02e7164ef8e883761c1.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【肥前さくらポーク】ロース（とんかつ用、生姜焼き用、焼き肉用）計1.3㎏セット</h4>
+<p class="goods-col_price inline">17,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万7千円以上のご寄附をいただいた方
+【肥前さくらポーク】ロース（とんかつ用、生姜焼き用、焼き肉用）計1.3㎏セット
+JAグループ佐賀オリジナルブランド「肥前さくらポーク」のロースとんかつ用と、生姜焼き用、焼き肉用をセットしました。
+肥前さくらポークは成長に合わせた専用の銘柄資料を与え、健康的な発育を促し、
+徹底した飼育管理を行っているため、豚肉独特の臭みが少なく、肉質がやわらかく、ジューシーなののが特徴です。
+トンカツにすれば、一口食べただけでジューシーな肉汁があふれてきます。
+１００ｇでカットしていますので、衣をつけてトンカツにしてもよし、そのまま焼いてトンテキにするのもオススメです。
+スライスは、しゃぶしゃぶだけではなく、生姜焼きや豚丼、お野菜に巻いて肉巻き等様々な料理に使えます。
+・提供事業者：さが風土館 季楽 （佐賀県佐賀市）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　佐賀県内で生産された豚肉（地場産品基準第１号）で、JAグループ佐賀の工場（佐賀県内）で加工した品
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5773654/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230323/pd_594e518c3691340df825e76c565e179f6c0b6d80.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【肥前さくらポーク】ロースと肩ロースしゃぶしゃぶ用計1㎏セット</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万3千円以上のご寄附をいただいた方
+【肥前さくらポーク】ロースと肩ロースしゃぶしゃぶ用計1㎏セット
+JAグループ佐賀オリジナルブランド「肥前さくらポーク」のロースと肩ロースしゃぶしゃぶ用をセットしました。
+肥前さくらポークは成長に合わせた専用の銘柄資料を与え、健康的な発育を促し、
+徹底した飼育管理を行っているため、豚肉独特の臭みが少なく、肉質がやわらかく、ジューシーなののが特徴です。
+豚肉は、牛肉の約１０倍以上ものビタミンＢ１が含まれる上、良質で豊富なタンパク質が注目を集めています。
+佐賀県では、ランドレース種を基礎に、病気に強い大ヨークシャー種と、肉質の良いデュロック種を掛け合わせた豚肉です。
+スライス肉は、しゃぶしゃぶだけではなく、生姜焼きや豚丼、お野菜に巻いて肉巻き等様々な料理に使えます。
+・提供事業者：さが風土館 季楽 （佐賀県佐賀市）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　佐賀県内で生産された豚肉（地場産品基準第１号）で、JAグループ佐賀の工場（佐賀県内）で加工した品
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5773655/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230323/pd_68893d7053294d72b95071922e833a3dee7f5a31.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【肥前さくらポーク】とんかつ用 10枚 1㎏</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+1万3千円以上のご寄附をいただいた方
+【肥前さくらポーク】とんかつ用 10枚 1㎏
+JAグループ佐賀オリジナルブランド「肥前さくらポーク」のロースとんかつ用100gを10枚セットしました。
+肥前さくらポークは成長に合わせた専用の銘柄資料を与え、健康的な発育を促し、
+徹底した飼育管理を行っているため、豚肉独特の臭みが少なく、肉質がやわらかく、ジューシーなののが特徴です。
+トンカツにすれば、一口食べただけでジューシーな肉汁があふれてきます。
+１００ｇでカットしていますので、衣をつけてトンカツにしてもよし、そのまま焼いてトンテキにするのもオススメです。
+・提供事業者：さが風土館 季楽 （佐賀県佐賀市）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　佐賀県内で生産された豚肉（地場産品基準第１号）で、JAグループ佐賀の工場（佐賀県内）で加工した品
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5773656/467">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230324/pd_6736b0b684ec186db627490ba8a47a24422738ea.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【肥前さくらポーク】肩ローススライス 500g</h4>
+<p class="goods-col_price inline">8,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附入金確認後、2週間〜1ヶ月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】
+寄附金の使途に特定非営利活動法人パルサポートキッズの会をお選びいただき、
+8千円以上のご寄附をいただいた方
+【肥前さくらポーク】肩ローススライス 500g
+JAグループ佐賀オリジナルブランド「肥前さくらポーク」の肩ローススライスです。
+肥前さくらポークは成長に合わせた専用の銘柄資料を与え、健康的な発育を促し、
+徹底した飼育管理を行っているため、豚肉独特の臭みが少なく、肉質がやわらかく、ジューシーなののが特徴です。
+豚肉は、牛肉の約１０倍以上ものビタミンＢ１が含まれる上、良質で豊富なタンパク質が注目を集めています。
+佐賀県では、ランドレース種を基礎に、病気に強い大ヨークシャー種と、肉質の良いデュロック種を掛け合わせた豚肉です。
+スライス肉は、しゃぶしゃぶだけではなく、生姜焼きや豚丼、お野菜に巻いて肉巻き等様々な料理に使えます。
+・提供事業者：さが風土館 季楽 （佐賀県佐賀市）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+　佐賀県内で生産された豚肉（地場産品基準第１号）で、JAグループ佐賀の工場（佐賀県内）で加工した品
+【ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について】
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、
+「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。
+この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、
+返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">佐賀県NPO支援</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">NPO法人パルサポートキッズの会は、病気の子どもや経済的に恵まれない子ども達を支援することを目的に設立しました。困難に立ち向かう子ども達に、希望をもって笑顔の日々を少しでも送ってもらえるよう、また不平等な子ども達が多く存在している事を社会に認知してもらえるよう活動を続けています。<br/>
+これまで会長の稲田が小児がんの担当医であることから小児がんの子ども達に、医療用ウィッグや医療用帽子のプレゼントをする活動をしてきました。<br/>
+昨年からは、経済的に恵まれない、また家族に頼れない子ども達の支援活動も行っています。<br/>
+頂いた寄付金が子ども達の笑顔づくりに役立つように頑張って参ります！</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">佐賀県NPO支援の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/41001/467?from=2&amp;gcf_project_id=2308"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,601,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g2308,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

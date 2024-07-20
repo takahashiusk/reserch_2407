@@ -1,0 +1,1921 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/1515" />
+
+<title>地方からどんどんチャレンジできる＂ラボラトリー＂をつくり、有田からおもしろい未来をつくる！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="地方からどんどんチャレンジできる＂ラボラトリー＂をつくり、有田からおもしろい未来をつくる！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/1515" />
+<meta property="og:description" content="佐賀県有田町は、世界的にも有名な伝統産業・有田焼で栄えたまちです。しかし、長引く不景気と新型コロナウイルスの影響は大きく、まちの灯は少しずつ元気を失ってきています。そんな中、私たちは昨年挑戦したガバメントクラウドファンディングによって、有田の色々なモノやコトをたくさんの人たちに届けるための新しい仕組みづくりを進めています。こちらは2022年中にリリースできるように準備しているところです。そして、今回さらに私たちが挑戦したいのは、このまちでチャレンジするひとやチャレンジできる機会を増やすことです。クリエイティブな歴史と文化のあるこのまちで、私たちはポジティブな挑戦を次々と生み出す空間をつくります！" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20211115/d_47b8d78b9d71e6e08b7789b392339a2ea9ccddf9.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20211115/d_47b8d78b9d71e6e08b7789b392339a2ea9ccddf9.jpg" />
+<meta property="twitter:title" content="地方からどんどんチャレンジできる＂ラボラトリー＂をつくり、有田からおもしろい未来をつくる！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="佐賀県有田町は、世界的にも有名な伝統産業・有田焼で栄えたまちです。しかし、長引く不景気と新型コロナウイルスの影響は大きく、まちの灯は少しずつ元気を失ってきています。そんな中、私たちは昨年挑戦したガバメントクラウドファンディングによって、有田の色々なモノやコトをたくさんの人たちに届けるための新しい仕組みづくりを進めています。こちらは2022年中にリリースできるように準備しているところです。そして、今回さらに私たちが挑戦したいのは、このまちでチャレンジするひとやチャレンジできる機会を増やすことです。クリエイティブな歴史と文化のあるこのまちで、私たちはポジティブな挑戦を次々と生み出す空間をつくります！" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,554,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="1515" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">地方からどんどんチャレンジできる＂ラボラトリー＂をつくり、有田からおもしろい未来をつくる！</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">地方からどんどんチャレンジできる＂ラボラトリー＂をつくり、有田からおもしろい未来をつくる！</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1021">新産業・地域創生&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20211115/d_47b8d78b9d71e6e08b7789b392339a2ea9ccddf9.jpg" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E5%9C%B0%E6%96%B9%E3%81%8B%E3%82%89%E3%81%A9%E3%82%93%E3%81%A9%E3%82%93%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%82%E3%83%A9%E3%83%9C%E3%83%A9%E3%83%88%E3%83%AA%E3%83%BC%EF%BC%82%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8A%E3%80%81%E6%9C%89%E7%94%B0%E3%81%8B%E3%82%89%E3%81%8A%E3%82%82%E3%81%97%E3%82%8D%E3%81%84%E6%9C%AA%E6%9D%A5%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%EF%BC%81&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F1515">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">1,582,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 31.6%;"></div>
+<p class="gcf-cht-detail-bar__number">31.6%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">5,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">31.6</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">61</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>佐賀県NPO支援（さがけん えぬぴーおーしえん）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="1515" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2021年11月19日～2022年1月28日（70日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1028" class="sorting-list__item">まちづくり・コミュニティ</a></li><li><a href="/gcf/project/tag/1029" class="sorting-list__item">インフラ・交通・施設</a></li><li><a href="/gcf/project/tag/1040" class="sorting-list__item">移住定住</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1088" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_9.png 1x, /gcf/images_cf/sdg/sdg_icon_9@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_9.png" alt="SDGアイコン" decoding="async" />9.産業と技術革新の基盤をつくろう</a></li><li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="1515" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">佐賀県NPO支援×灯す屋</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20211115/o_75c197bc1d92e431c6162b21a8702bf5ed9708a0.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">佐賀県有田町は、世界的にも有名な伝統産業・有田焼で栄えたまちです。しかし、長引く不景気と新型コロナウイルスの影響は大きく、まちの灯は少しずつ元気を失ってきています。<br/>
+<br/>
+そんな中、私たちは昨年挑戦したガバメントクラウドファンディングによって、有田の色々なモノやコトをたくさんの人たちに届けるための新しい仕組みづくりを進めています。こちらは2022年中にリリースできるように準備しているところです。<br/>
+<br/>
+そして、今回さらに私たちが挑戦したいのは、このまちでチャレンジするひとやチャレンジできる機会を増やすことです。クリエイティブな歴史と文化のあるこのまちで、私たちはポジティブな挑戦を次々と生み出す空間をつくります！</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">クリエイティブな交流を日常にしたい</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">有田町でどんどんチャレンジできる空間を</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211115/gpfd_9a5bdbeb37663ee4b9d8bb8e4ad13d4f7ae45248.jpg" />
+</figure>
+<p class="gcf-txt-article">佐賀県有田町は、世界的にも有名な伝統産業・有田焼で栄えたまちです。最盛期の頃は、町民のおよそ9割もの人たちが陶磁器産業に従事し、多くの窯元や商社、職人たちがこのまちで豊かに暮らしていました。<br/>
+<br/>
+しかし、新型コロナウイルスの影響は大きく、まちの灯は少しずつ消えています。本来であれば有田町に100万人以上の集客が見込めるはずの「有田陶器市」というまちの一大イベントは、2年連続中止に。陶器市に毎年出店していたある窯元は、後継者がいないこともあり、廃業という選択をしました。陶器市のない有田内山地区で売上を出していくことが難しく、ここでお店を続けることを諦めざるを得ない商店も現れました。<br/>
+<br/>
+このような苦境の中で、有田をもっとおもしろいまちにしていくために、私たちはどんなことができるのか。どんなまちになったらワクワクするのかを考えたときに、色んなジャンルの、色んな世代の、色んな世界の人たちがこのまちでおもしろいことにチャレンジしている状況をつくりたいと思いました。それは、有田焼をつくり始めて400年以上もの間、ものづくりのまちとして紡いできた、ここにしかない歴史や文化、自然や人々がここにあるからだと思います。そして、有田の中と外をつなぐその仕事は、きっと私たち灯す屋だからこそできることだと信じています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">有田内山地区の空き家を活用し、色んな実験ができる＂ラボラトリー＂をつくる</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">地方の小さなまちから、おもしろい未来をつくり出していきたい</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211115/gpfd_4bec57fe0e5dfb928d449dccc17f11217e7ede97.jpg" />
+</figure>
+<p class="gcf-txt-article">有田内山地区でチャレンジするクリエイティブな人たちを増やしていくために、灯す屋は空き家を活用した＂ラボラトリー（実験室）＂をつくっていきます。<br/>
+<br/>
+なぜ、ラボラトリーなのか。<br/>
+それは、有田というまちのおもしろさを町内外に暮らす多くの人たちにもっと知ってもらいたいから。そして、町内外の色んな人たち同士が次々とつながり、ワクワクするおもしろいチャレンジにたくさん取り組んで欲しいからです。<br/>
+<br/>
+今回のご支援は、私たちが有田内山地区にある１軒の古民家をリノベーションし、実験室（色んな取組みにチャレンジできるレンタルスペース及びシェアオフィス）をつくる費用に充てさせていただきます。<br/>
+建物1階のレンタルスペースでは、例えば将来的にお店を開きたい人がポップアップの雑貨屋さんを開いたり、あるいはキッチンを活用してポップアップのカフェやレストランを開いたりすることができるようにします。他にも、子どもたち向けの教育イベントを開催したり、おじいちゃんおばあちゃんの憩いの場として使ったり、色んな世代の色んな人たちが集い交流を生み出すことができるような、有田で最も自由な空間をつくります。<br/>
+また、建物２階のシェアオフィスには、灯す屋及び灯す屋の協力企業数社と共に活用していく予定です。そこから、次々と新しいプロジェクトを生み出していきたいと思っています。<br/>
+<br/>
+また、この古民家のすぐ傍には、灯す屋が運営するプレオープン中のコワーキングスペース及び他拠点居住者向けのシェアハウスがあります。私たちは、この2つのラボラトリーを中心に、おもしろいチャレンジをたくさんつくりだしていきます。<br/>
+</p>
+<h3 class="gcf-ttl-h3">■有田がチャレンジするまちに選ばれるように</h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">着実に前へと進む準備をしています</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">■寄付金の使い道<br/>
+古民家のリノベーション工事費、什器購入費など<br/>
+<br/>
+【内訳】<br/>
+１．リノベーション工事費：４００万円<br/>
+２．什器購入費：１００万円 <br/>
+<br/>
+【目標金額に達成しなかった場合の寄付金の取り扱い】<br/>
+目標金額に達しなかった場合、積立し次年度以降の本プロジェクトへ活用させていただきます。また、目標金額以上の寄付を頂いた場合、本プロジェクトの制作費の追加費用として活用させて頂きます。<br/>
+<br/>
+■事業実施のスケジュール<br/>
+・2022年4月～7月　物件の改修<br/>
+・2022年8月　オープン</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211115/offd_410b58c40f0321142c88f8f21b5c105645163f2c.jpg" alt="着実に前へと進む準備をしています" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">まちをおもしろくするのは、小さなチャレンジから</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">地方だからこそ、チャンスはある</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211115/gpfd_e243134643b661ebb3d5625a6d3cc9794c0fc8be.jpg" />
+</figure>
+<p class="gcf-txt-article">私たちは、有田は研究者が集まっているようなまちだと常々感じてきました。元々暮らしている有田焼職人はもちろん、移住者たちもすごく個性的な人たちが集まってきています。流行や利便性とはかけ離れた、変わらないまちの魅力というものが有田にはあるのだと思います。<br/>
+<br/>
+これから新しいものを生み出していくためには、研究者たちが失敗を恐れずに気軽にチャレンジができる環境が必要だと思います。また、異なるジャンルの研究者たちがコラボレーションすることによって今までになかった視点からのものづくりに繋げることができるかもしれません。<br/>
+<br/>
+今回のように、空き家を改修し実験室として活用していく場所は、今後も少しずつ増やしていく計画をしています。有田内山地区にラボラトリーがいくつか生まれれば、日常的に有田のまちを歩くクリエイティブな人たちが確実に増えていきます。<br/>
+<br/>
+ラボラトリーをまちの日常に。<br/>
+そうすれば、有田から、きっと未来をおもしろくしていけると信じています。<br/>
+<br/>
+どうか暖かい応援をよろしくお願いします！</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">事業に携わる方の思い</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">有田町長　松尾 佳昭さん</span></h3>
+<h3 class="gcf-ttl-h3">■子どもたちが大人になって有田に戻ってくるきっかけに</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211115/gpfd_d0087a3994df095d1b6329f0c1d4b922b775a86e.png" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">有田町は15年前に二つの町が合併してできた町です。しかし、まだまだ1つになり切れていない感じがします。<br/>
+<br/>
+コロナでみんなが苦しんでいる今だからこそ、もっと前を向き元気を出していきたい。<br/>
+<br/>
+有田に暮らす人たちが繋がり、1つになっていくことでみんな元気になっていきます。 <br/>
+<br/>
+灯す屋の皆さんはこれまでも面白い人たちと有田とつなぎ合わせてこられました。<br/>
+<br/>
+関係人口づくりにも貢献してくれています。<br/>
+<br/>
+そして、有田の未来を見据えた「灯すラボ」をつくることにより、色々な挑戦が生まれるまちになって変わっていきます。<br/>
+<br/>
+どんどん実験して、どんどん挑戦していきましょう。 <br/>
+<br/>
+有田の子どもたちが大人になり、有田町に戻ってくる一助に、ここ「灯すラボ」はなると確信しております。 大いに期待しています！！</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">手塚商店　手塚 英樹さん</span></h3>
+<h3 class="gcf-ttl-h3">■色々なものづくりの発表が出来る場所をまちなかに</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211115/gpfd_4f59692a8fbf09dfc43d90ab6028e9e8113e41d2.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">有田焼には、日常（器）と非日常（芸術）が共存しています。<br/>
+<br/>
+だからこそ、有田というまちにもそういう性質が備わっていると思います。<br/>
+<br/>
+昔から色んな人たちが有田を訪れ、それで有田を気に入ってくれた人とは長い付き合いが生まれてきました。<br/>
+<br/>
+灯す屋は、これまでの活動でたくさんの若者との交流をつくってきましたが、これからますますその化学反応を起こしてほしいです。<br/>
+<br/>
+そして、焼き物に限らず、色々なものづくりの発表が出来る場所をまちなかにつくっていってほしいと願っています。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">わきみち堂　西岡 学さん</span></h3>
+<h3 class="gcf-ttl-h3">■「善の秘密結社」をつくって、どんな人にも安心して集まってほしい</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211115/gpfd_be2b1ae61cc031fb9dae04f4c0d194d6b5bc7d79.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">わたしは率直に言うと、「有田をもっとこうしたい！」というような郷土愛はありません。<br/>
+<br/>
+しかし、子どもの頃に自分が触れる機会があったらよかったなと思う音楽や芸術などを、有田の子どもたちには経験してほしいと思っています。<br/>
+<br/>
+「わきみち堂」は現在はパン屋ですが、これからは表現活動や色々な物事を通して、本当の学びの大切さや楽しさを伝えたり、どんな人でも安心して集まることができるような居場所を作る。<br/>
+<br/>
+変わった表し方ですが「善の秘密結社」みたいなものになっていきたいんです。 <br/>
+<br/>
+灯す屋はわたしがパン屋として動き出す、その始めの助走をしてくれた団体であり、とにかく信頼のおける人たちだと思います。<br/>
+<br/>
+着実に形にしながら、少しずつ変わっていっていることもなんだか嬉しいし、絶対に有田にあかりを灯してくれると信じています。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">アトリエタジ　坂本 玖美さん</span></h3>
+<h3 class="gcf-ttl-h3">■ワクワクするケーキ屋さんをつくって、有田をおもしろくしたい</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211115/gpfd_0575d10d235b791a2b5a9e253b9326f87594825e.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">有田にはおじいちゃんの家があって、子どもの頃よく遊びに来てました。<br/>
+<br/>
+でも当時は有田のまちを歩くこともなかったんです。<br/>
+<br/>
+それが灯す屋のちゃわん最中を見て、イメージが変わりました。<br/>
+<br/>
+すると、内山地区のおもしろさやワクワク感など、昔は気づかなかったことに気づけたんです。<br/>
+<br/>
+だから今はもっともっと有田を知ってほしいし、自分も有田をおもしろくしたいと思っています。<br/>
+<br/>
+わたしはお菓子づくりを通して、もっと色んな人たちと関わっていきたいです。<br/>
+<br/>
+お店に来てもらって、たくさんワクワクしてほしいし、たくさん楽しんでほしい。<br/>
+<br/>
+そんなケーキ屋さんじゃないようなケーキ屋さんのお仕事を、灯す屋と一緒に出来たらいいなと思っています。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">寄付者の皆様へ</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">NPO法人灯す屋からのメッセージ</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211115/gpfd_3f9d749ec3282c3ed9adc0fc10f9e3695132fc4d.jpg" />
+</figure>
+<p class="gcf-txt-article">灯す屋は２０２１年８月で、設立３周年を迎えました。<br/>
+<br/>
+ようやく今、自分たちの足で少しずつ前に進みだしたような感覚で、まだまだ出来ることは少なく日々歯がゆい思いをしながらも仲間たちと楽しく活動しています。<br/>
+<br/>
+この度、私たちは改めてビジョンを描きました。<br/>
+<br/>
+それは、「ぼくらが望む居・職・住が選べるまちをつくる」というものです。<br/>
+<br/>
+居とは人と人とのつながり、職は新たな仕事やプロジェクト、住は活用できる遊休不動産を指します。<br/>
+<br/>
+このビジョンを達成するために、私たちは今回チャレンジする２つの事業が着実に進められるようになることが必要だと思っています。<br/>
+<br/>
+着実に面白くなっていく有田のまちに、皆さんが笑顔で訪れることができる日が来ることを心より期待します。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4691670/422">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220819/pd_a863bdf9849f37205d3925d53a77848b54bec577.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有田焼 たなかふみえ 絵柄の選べる 一輪挿し（※5柄からお選びください。）手塚商店</h4>
+<p class="goods-col_price inline">25,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後6か月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、2万5千円以上のご寄附をいただいた方
+人気の女性作家たなかふみえさんの一輪挿し。手塚商店とのコラボレーション品です。
+一輪挿しの形状は、YUSUKE TAGUCHI DESIGNの田口祐介氏がデザインしたもので、食卓、水回り、窓辺など家庭内の色々な環境でそっと花を添えるデザインとなっています。
+たなかふみえさんの楽しい絵付けで空間も楽しくなります。
+◆お申込み時、「応援メッセージ」欄に、ご希望の絵柄をご記入ください。
+【ラインナップ】
+①銀彩鳥小花
+②内外福良雀
+③染錦鳥に花尽し
+④染錦祝々鶴亀
+⑤染錦松竹梅パンダ
+生産者：たなかふみえ(有田町)
+提供者：手塚商店(有田町)
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+佐賀県の伝統工芸品であり、長崎県波佐見町で成形した生地を仕入れ、佐賀県有田町内の工房で絵付、施釉、焼成、梱包までの工程を行うことにより、相応の付加価値が生じているもの。
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）　この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4705209/422">
+<div class="goods-col_img">
+<img width="195" height="121" src="/gcf/images/soldout_img.png" alt="品切れ中" class="soldoutImg" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210121/pd_8b964f9bc9ae3c436bf79d07f737d67979f79308.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">カネアオ 有田焼 市松スクエアプレート（小）2枚セット 親峯窯</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後1か月前後でお届け致します。
+品切れの場合は、お届けまで3,4か月程度かかる場合がございます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、1万5千円以上のご寄附をいただいた方
+市松スクエアプレート（小）2枚セットです。
+大きな市松柄が目を引き、食卓がキリッと引き締まります。
+唐揚げや生姜焼きなど、一人分のおかずを盛りつけるのに丁度良いサイズです。
+電子レンジ：使用可
+食洗機：使用可
+※見本の画像と色の濃淡が若干異なる場合がございます。
+生産者：有田焼窯元 親峯窯(有田町)
+提供者：カネアオ(有田町)
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+佐賀県の伝統工芸品であり、長崎県波佐見町で成形した生地を仕入れ、佐賀県有田町内の工場で絵付、施釉、焼成、梱包までの工程を行うことにより、相応の付加価値が生じているもの。
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）　この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4705219/422">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210121/pd_61e15c92a9730d73483fef00182ad1f917e91241.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">カネアオ 有田焼 麺鉢 2個セット そうた窯</h4>
+<p class="goods-col_price inline">40,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後1か月前後でお届け致します。
+品切れの場合は、お届けまで3,4か月程度かかる場合がございます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、4万円以上のご寄附をいただいた方
+「そうた窯」の麺鉢 2個セットです。
+適量が約400～500ml程と小さめの麺鉢はお蕎麦や冷凍うどんに丁度良いサイズで、夜食にもどうぞ。
+深さがあるので、かき揚げなどのトッピングも出来ますよ。
+煮物をたっぷり盛りつけたい時や、牛丼・天丼などの丼として使っても。
+電子レンジ：使用可
+食洗機：使用可
+※線の太さや濃さには個体差があります。
+生産者：有田焼窯元 そうた窯(武雄市)
+提供者：カネアオ(有田町)
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+佐賀県の伝統工芸品であり、佐賀県内の工房で原材料の仕入れ、成形、絵付、施釉、焼成、梱包までの工程を行うことにより、相応の付加価値が生じているもの。
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）　この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4913117/422">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211111/pd_1c370095bf165536e5bb5e33a443d6517d3c58c1.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有田焼 黒ぢょかセット (徳利１個・盃２個・台皿1個・ツル1本) 大樽陶山堂</h4>
+<p class="goods-col_price inline">25,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後1 ～ 2か月</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、2万5千円以上のご寄附をいただいた方。
+焼酎を“ただおいしく呑む”為だけに作られた、焼酎王国 鹿児島で昔から愛用されて来た「黒ぢょか」です。
+【ご使用方法】
+1. あらかじめ焼酎と水をお好みの濃度で割っておきます。（一晩おくと焼酎と水がなじんで、よりまろやかな焼酎になります）
+2. 「1」をぢょかに注ぎ弱火にかけます。※直火OK。
+3. ぢょかの表面を触って温かくなったら飲み頃です。
+（60℃位がおいしい温度とされています）
+4. ぢょかから杯に注ぎじっくり楽しみます。
+※使ったぢょかは洗う必要はありません。
+焼酎がしみこんだぢょか程まろやかで上品な甘みを楽しめます。
+◎直火や電子レンジにも対応できますので「お酒の熱燗」にもご使用下さい。
+生産者：有田焼窯元　平川製陶所（有田町）
+提供者：大樽陶山堂（有田町）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+佐賀県の伝統工芸品であり、有田町内の工房で原材料の仕入れ、成形、施釉、焼成、梱包までの工程を行うことにより、相応の付加価値が生じているもの。
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）　この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4913732/422">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210114/pd_4c6265ab346653aaf90531cb470c76e541688cc5.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有田焼 染錦萩文八角和皿 大小4枚セット 辻精磁社</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後1～2か月</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、10万円以上のご寄附をいただいた方
+萩は山野に自生し、紅紫色や白の小さな花をたくさんつける秋の七草のひとつです。
+儚げな雰囲気の萩ですが、再生、新たな門出を意味するおめでたい文様です。
+八角形は丸いお皿よりたくさんの料理をのせることができます。
+「メインのお料理と副菜」や「朝食のトーストとサラダ」のように、メイン＋αの盛り付けができるのでとても使い勝手が良い形状です。
+小皿はお漬物や果物をのせたり、タレや醤油皿として使ったりしていただけます。
+生産者：辻精磁社(有田町)
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+佐賀県の伝統工芸品であり、長崎県波佐見町で成形した生地を仕入れ、佐賀県有田町内の窯元で絵付、施釉、焼成、梱包までの工程を行うことにより、相応の付加価値が生じているもの。
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）　この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4914109/422">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220902/pd_a87d700c29645568a962140fb2b98473a8fc5e23.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有田焼 絵柄の選べる 桔梗渕7寸中鉢 (染錦双海老/染付蛸唐草山水 ※柄をお選びください。) 渓山窯</h4>
+<p class="goods-col_price inline">45,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後1か月前後</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、4万5千円以上のご寄附をいただいた方
+カレーライス、パスタ、蕎麦、冷やし中華など、また煮物やサラダなどを複数人分盛り付けて取り分けて使うこともでき、使い勝手がいいサイズの器です。
+２種類の絵柄からお選びいただけます。
+染錦双海老：つがいの海老を描いた器です。海老には長寿の意味があり縁起物です。
+染付蛸唐草山水：定番の蛸唐草に山水を描いています。
+※手描きのため個体差があります。
+◆お申込み時、「応援メッセージ」欄に、ご希望の絵柄をご記入ください。
+【ラインナップ】
+①染錦双海老
+②染付蛸唐草山水
+生産者：渓山窯(有田町)
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+佐賀県の伝統工芸品であり、長崎県波佐見町で成形した生地を仕入れ、佐賀県有田町内の工場で絵付、施釉、焼成、梱包までの工程を行うことにより、相応の付加価値が生じているもの。
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4964941/422">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210121/pd_9f5d49bb2492fe9dfe0fc6428dda51e5d489adee.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">佐賀県産鶏肉100％使用「フランクフルトソーセージ」3袋 本間農園</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後1か月程度</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、1万円以上のご寄附をいただいた方
+佐賀県神埼市脊振山の太陽・空気・水のめぐみを受け、ひよこの時からのびのびと運動し、しっかりと体を作ってから、毎日美味しい卵を産んでくれた、親鳥さんのお肉100パーセントのフランクフルトソーセージです。
+大自然の恵み、ニワトリさんの命、食べてくださる方々全てに感謝を込めて、「ありがとフランク」と名前を付けました。
+親鳥肉ならではの旨味、自家配合のエサによるクセのない鶏脂。鶏肉だけとは思えない美味しさ、歯ごたえのあるソーセージです。
+農園での飼育中、薬剤投与無し。
+純国産鶏「もみじ」の鶏肉100％フランクフルトソーセージを是非一度ご賞味ください。
+生産者：本間農園(神埼市)
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+重量の9割以上に本間農園（佐賀県神埼市）で生産された鶏肉を用いて、熊本市で製造された品
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）　この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4964965/422">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210121/pd_7087a369728dbf9e49221fee15b323d0c084c694.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">佐賀県産自然卵使用「おひさまケーキ(2箱)＆プリン(4個)セット」 本間農園</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後6週間程度</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>卵、牛乳、小麦</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、1万円以上のご寄附をいただいた方
+佐賀県神埼市にある本間農園自慢の「ほんまの卵」をたっぷり使ったおひさまケーキとおひさまプリンのセットです。
+ほんまの卵は自然養鶏法で育ったニワトリたちが環境豊かな山で元気に生んでくれた有精卵です。
+ケーキもプリンも本間農園のおかみが自慢の有精卵を使って、シンプルに無添加で作り上げました。
+ふわしゅわなケーキもトロ～リプリンも卵の風味いっぱいの優しい甘さです。
+おひさまケーキの賞味期限は到着して約3日間、おひさまプリンは約10日間です。
+セット内容：ケーキ2箱、プリン4個
+ケーキの材料にはちみつを使用しています。1歳未満の赤ちゃんには与えないでください。
+生産者：本間農園(神埼市)
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+おひさまケーキ：告示第5条第2号：卵は佐賀県内で飼育された養鶏の卵。小麦粉、調味料は県外産。佐賀県産の原材料が約80％を占める。
+製造、加工を佐賀県神埼市の菓子工房で行っている。
+おひさまプリン：告示第5条第2号：卵は佐賀県内で飼育された養鶏の卵。牛乳も佐賀県産。調味料は県外産。佐賀県産の原材料が約90％を占める。
+製造、加工を佐賀県神埼市の菓子工房で行っている。
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）　この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4979932/422">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220819/pd_98c47c5f4e131cfc034dadc6709bcc77cc4fd667.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【カネアオ】有田焼 リム楕円皿（大）2枚セット（※柄をお選びください。）皓洋窯</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後1か月前後でお届け致します。
+品切れの場合は、お届けまで3,4か月程度かかる場合がございます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、3万円以上のご寄附をいただいた方
+暮らしに寄り添う普段使いの食器を作っている皓洋窯さんはほのぼのとした雰囲気の和やかなご夫婦が営んでいます。
+使うたびに優しい気持ちにさせてくれる、あたたかみのある器たち。
+シンプルで他の器との相性も良く、リピーターさんがとても多い窯元です。
+オムライスやパスタ、ハンバーグとサラダ、魚料理など、何を盛り付けてもオシャレに決まる楕円皿。
+和食にも洋食にも使えるモダンなデザインです。
+生地の白い部分は、真っ白ではなく、やや青みがかっています。
+軽くて重なりが良く、収納時も安心です。
+レンジ：使用可
+食洗機：使用可
+※見本の画像と色の濃淡が若干異なる場合がございます。
+◆お申込み時、「応援メッセージ」欄に、ご希望の絵柄をご記入ください。
+【ラインナップ】
+①呉須錆十草
+②花つなぎ
+生産者：皓洋窯（有田町）
+提供者：カネアオ（有田町）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+佐賀県の伝統工芸品であり、有田町内の工房で原材料の仕入れ、成形、絵付、施釉、焼成、梱包までの工程を行うことにより、相応の付加価値が生じているもの。
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）　この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4979944/422">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210121/pd_b43a312d77facf48b2f146de0716e8d547931f85.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【カネアオ】有田焼 渕錆吹付白マットシリーズ 17点セット 瑞峯窯</h4>
+<p class="goods-col_price inline">170,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後1か月前後でお届け致します。
+品切れの場合は、お届けまで3,4か月程度かかる場合がございます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、17万円以上のご寄附をいただいた方
+ボリュームたっぷりの有田焼17点セットです。
+小付には、お浸しやひじき煮。
+取鉢には、サラダや煮物を。
+取皿は、ひとり分のおかずの取り分けに。
+約24cmと大きめの深皿は、家族分の野菜炒めや唐揚げを盛りつけるのに重宝します。
+白マットの釉薬は、すべすべとした肌触りです。
+シンプルですが、渕の錆ラインが引き締めてくれます。
+一般的な釉薬をかける作業とは異なり、スプレーを使い、ひとつひとつ手作業で釉薬を吹きつけています。
+そのため、塗りムラになりにくく、美しい仕上がりになります。
+有田の技術が詰まっている、洗練された器です。
+渕錆の太さや色の濃淡には個体差があります。
+製造工程上のものとなりますことをご理解いただけますようお願い致します。
+レンジ：使用可
+食洗機：使用可
+生産者：瑞峯窯（有田町）
+提供者：カネアオ（有田町）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+佐賀県の伝統工芸品であり、有田町内の工房で原材料の仕入れ、成形、絵付、施釉、焼成、梱包までの工程を行うことにより、相応の付加価値が生じているもの。
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）　この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4964942/422">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210927/pd_61065d8a0faee8b5117662c19a517cd5c932255e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">深川製磁 有田焼 ブルーワイナリー ペア19㎝皿</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後１か月程度
+※在庫がない場合は、製作に2か月程度お時間を頂きます</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、3万円以上のご寄附をいただいた方
+人気のブルーワイナリーコレクションのお皿です。
+リムが無いうつわなので、盛り付けの幅が広がります。
+ぶどうの意匠は、古今東西を問わず吉祥紋様です。
+用の美を追求した現代的な形姿に、百年前の下絵技法「エアログラフ」によるブルーのグラデーションが真白な磁器肌に染め込まれ、現代のブルー&amp;ホワイトとして再現されています。
+白磁の間に、調子を取る様に伸びる「つる」を手描きで入れているのも、一つ一つの表情の違いが器に温かで気韻ある印象を与える為です。
+熟練した職人の手わざによる現代のブルー＆ホワイトには、明治期以来頑なに変わる事なく伝承してきた工芸品としての魅力が備わっています。
+生産者：有田焼窯元 深川製磁(有田町)
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+佐賀県の伝統工芸品であり、有田町内の工場で原材料の仕入れ、成形、絵付、施釉、焼成、梱包までの工程を行うことにより、相応の付加価値が生じているもの。
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）　この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4981387/422">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211125/pd_ac65a828041161230e3c7180601521e90990f6e8.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有田焼　李荘窯　中国茶銀彩槌目宝瓶・湯呑2個セット　中山陶和堂</h4>
+<p class="goods-col_price inline">60,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後1～2か月</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、6万円以上のご寄附をいただいた方
+宝瓶(ほうひん)とは、取手のない小さな急須。
+玉露や煎茶など高級茶葉の旨味をじっくり引き出し、より美味しく頂くための茶器です。
+槌目を施し、銀彩加工してあり、とても上品な仕上がり。
+ご自身で豊かなお茶の時間を楽しむも良し、一風変わった贈り物としても大変喜ばれると思います。
+電子レンジ：×
+食器洗浄機：×
+生産者：有田焼窯元　李荘窯(有田町)
+提供者：中山陶和堂(有田町)
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+佐賀県の伝統工芸品であり、長崎県波佐見町で成形した生地を仕入れ、佐賀県有田町内の工場で絵付、施釉、焼成、梱包までの工程を行うことにより、相応の付加価値が生じているもの。
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）　この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4964944/422">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210121/pd_aef97783a7408820624a0317fb61cfac9f27c936.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有田焼箸置き(2個)と佐賀県産牛100%ハンバーグ(8個)セット TOMMY BEEF × 辻精磁社</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後1~2か月程度
+年末年始はご寄附の入金確認後3か月以内</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、2万円以上のご寄附をいただいた方
+【有田焼×佐賀県産牛の特別セット】
+【有田焼×佐賀県産牛】有田焼箸置きペアと佐賀県産白富牛のハンバーグ（110g×8個）のセットです。
+【有田焼箸置き 干支「丑」】
+オリジナルで干支「丑」モチーフの有田焼箸置きペアセットをつくりました。
+製造は300年を超える歴史をもつ有田焼窯元 辻精磁社。
+制作した箸置きは、気品漂う白磁をベースに紫と黄色の釉薬を用いて、ほんのりポップな印象に。日々の暮らしをやわらかく、優しく、楽しく演出します。
+【佐賀県産白富牛100％のハンバーグ】
+赤身肉がおいしい白富牛（TOMMY BEEFオリジナルブランド牛）のみを使用し、こだわり抜いて作った牛肉１００％のハンバーグです。
+ひとつひとつ手ごねで作ったハンバーグからは、牛肉の味をダイレクトに味わえます。1つ１１０ｇのハンバーグを8個(個包装)お届けします。
+生産者：企画：特定非営利活動法人灯す屋
+有田焼：辻精磁社(有田町)
+佐賀県産牛：有限会社佐賀セントラル牧場(杵島郡白石町)
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+有田焼箸置き：佐賀県の伝統工芸品であり、長崎県波佐見町で成形した生地を仕入れ、佐賀県有田町内の窯元で絵付、施釉、焼成、梱包までの工程を行うことにより、相応の付加価値が生じているもの。
+ハンバーグ：牛肉の生産から加工まで全工程を佐賀県白石町の牧場および加工場で行っている。
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）　この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4983726/422">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210121/pd_c66f1482eb9d2a1a99ef8caaada5feaec06fea08.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【卵・小麦粉・食品添加物不使用】佐賀県産牛ハンバーグ＆ステーキセット（計3回/定期便）TOMMY BEEF</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_period">定期</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄付の入金確認後1~2か月程度
+年末年始はご寄附の入金確認後3か月以内</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、5万円以上のご寄附をいただいた方
+牧場直営の精肉店「TOMMY BEEF」は、お子様に優しいハンバーグづくりを追求しています。
+子供が好きな食べ物ランキング上位に常に並ぶハンバーグ。みんなが大好きなハンバーグをつなぎに使用する「小麦」「卵」のためアレルギーが原因で食べれない方がたくさんいらっしゃることを知っております。
+家族みんなで楽しめる、お友達同士でも楽しめる、安心安全なハンバーグをご用意いたします。こだわり抜いて作った大人気のハンバーグをご堪能下さい。
+【年3回発送】
+1回目：【佐賀県産牛】牛肉100％のミルフィーユハートステーキ　　8個
+2回目：【佐賀県産牛】岩塩と牛肉のみで作るしろいし牛ハンバーグ　10個
+3回目：【佐賀県産牛】しろいし牛のサイコロステーキ　700ｇ
+※寄付受付月の翌月より発送開始いたします。（着日指定不可）
+生産者：有限会社佐賀セントラル牧場（白石町）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+ハンバーグ：牛肉の生産から加工まで全工程を佐賀県白石町の牧場および加工場で行っている。牛肉は佐賀県産、調味料はイタリア産。佐賀県産の原材料が90％以上を占める。
+ミルフィーユハートステーキ：牛肉の生産から加工まで全工程を佐賀県白石町の牧場および加工場で行っている。
+佐賀県産の原材料が100％を占める。
+ステーキ：佐賀県白石町の佐賀セントラル牧場で育てられた牛の牛肉
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）　この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4983739/422">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210121/pd_597b0a470757c46e9e56e15be9460f4de063587e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">佐賀県産3種のいちごと牧場直送佐賀県産牛の定期便（年12回）</h4>
+<p class="goods-col_price inline">195,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_period">定期</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄付の入金確認後1~2か月程度</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>牛肉</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、19万5千円以上のご寄附をいただいた方
+佐賀県白石町産の取れたておいしいイチゴを毎月お届けいたします。年7回
+いちごの季節が終わっても、
+うれしい白石町産牛肉セットを毎月お届けいたします。年5回
+合わせて12回
+【年12回発送】
+1月：パールホワイト/440ｇ
+2月：淡雪/440ｇ
+3月：パールホワイト/440ｇ
+4月：淡雪/440ｇ
+5月：パールホワイト/440ｇ
+6月：冷凍いちご/1000ｇ
+7月：しろいし牛の希少部位焼肉用/800ｇ
+8月：ミルフィーユロールステーキ/8個
+9月：しろいし牛の希少部位ステーキ/800ｇ
+10月：しろいし牛の煮込み用肉/700ｇ
+11月：しろいし牛の肩ロースすきしゃぶ用/600ｇ
+12月：淡雪/440ｇ
+※寄付受付月の翌月より発送開始いたします。
+生産者：　佐賀県産牛：有限会社佐賀セントラル牧場(白石町)
+　　　　　いちご：岸川勝、林田潤、川崎研一、鐘ヶ江善広(白石町)
+提供者：特定非営利活動法人灯す屋(有田町)
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+牛肉：佐賀県白石町の佐賀セントラル牧場で育てられた牛の牛肉を用い、同社内で加工された品
+いちご：佐賀県白石町で生産された品
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）　この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5163699/422">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211203/pd_4dc4c05745ad0cfc781f2379a1176d291a94b91c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有田焼 シャーベットグレー しのぎリムオーバル皿(L) ヤマト陶磁器</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後1か月前後</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、1万5千円以上のご寄附をいただいた方
+皓洋窯のシャーベットグレーシリーズ。
+大き目なサイズのオーバル皿です。少し深さがあり、汁気のあるお肉やお魚などメイン料理を盛るのに最適です。ワンプレート料理にもおすすめです。
+何度もテストして出来た結晶釉薬は、よく見ると細かい粒子が浮き出ており、見る角度によっても色味が変わる不思議な釉薬です。マットとグロスの中間の質感でお手入れもしやすくなっています。
+意図せずに出る自然な表情が一枚一枚違い、愛着がわく器に仕上がっています。
+食器洗浄機 〇/ 電子レンジ 〇
+生産者：皓洋窯(有田町)
+提出者：ヤマト陶磁器(有田町)
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+佐賀県の伝統工芸品であり、佐賀県有田町内の工房において原材料の仕入れ、成形、施釉、焼成、梱包までの工程を行うことにより、相応の付加価値が生じているもの。
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）　この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5163705/422">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211101/pd_16460f08db4d31b52e79775afd61d3026190262e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有田焼 黒 8寸洋風土鍋 ヤマト陶磁器</h4>
+<p class="goods-col_price inline">85,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後1か月</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、8万5千円以上のご寄附をいただいた方
+磁器の産地として有名な有田で、窯道具を生産してきた耐熱技術を活かし、土鍋を作っている窯元です。
+遠赤外線効果の高い原料を調合して製造しており、耐熱、耐久性に優れています。
+芯まで熱が通り、保温性に優れ、遠赤効果により一段と料理の味に深みが加わります。
+煮込み料理や2～3人で囲む鍋料理に最適です。
+生産者：安楽窯(有田町)
+提供者：ヤマト陶磁器(有田町)
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+佐賀県の伝統工芸品であり、有田町内の工房において原材料の仕入れ、成形、施釉、焼成、梱包までの工程を行うことにより、相応の付加価値が生じているもの。
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）　この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5163712/422">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211206/pd_d5d5ede8ec7fea4be3f2726b083b9978b5400ebe.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有田焼 花枕（一輪挿し） 二位関めぐみ</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後3ヶ月</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、2万円以上のご寄附をいただいた方
+花枕（はなまくら）
+花と器で一つの空間を作るオブジェのような一輪挿しです。
+そのまま窓辺に飾っても光の加減で表情が変わり、一刻一刻違った雰囲気を楽しめます。
+生産者：二位関めぐみ(有田町)
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+佐賀県の伝統工芸品であり、有田町内で成形、絵付、施釉、焼成（原材料の仕入れと素焼きのみ長崎県波佐見町）、梱包までの工程を行うことにより、相応の付加価値が生じているもの。
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）　この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5175081/422">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211206/pd_f2b1eb33b74b6ce7aeca5ba5798110cda50dc8d3.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有田焼 一片(銘々皿) 2枚セット 二位関めぐみ</h4>
+<p class="goods-col_price inline">25,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後3ヶ月</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、2万5千円以上のご寄附をいただいた方
+一片(ひとひら)
+鳥のような、花びらのような、ひらりと宙に舞った一片が手の平に収まるミニトレーです。
+滑らかで指で追いたくなるようなカーブや触り心地の良いふち仕上げが特徴です。
+お懐紙のように小さなお饅頭やお菓子を楽しむ時や、コーンタイプのお香を焚いたり、アクセサリーを置いて楽しめます。
+生産者：二位関めぐみ（有田町）
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+佐賀県の伝統工芸品であり、有田町内で原材料の仕入れ、成形、施釉、焼成（素焼きのみ長崎県波佐見町）、梱包までの工程を行うことにより、相応の付加価値が生じているもの。
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）　この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5236147/422">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240513/pd_24e64c5a6aa03b31ded1300da5307a2e95fd84e5.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">佐賀の日本酒 七田 純米大吟醸 1.8L×1本《良酒 佐嘉蔵屋》</h4>
+<p class="goods-col_price inline">25,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後1か月程度
+冬季（12～3月）は常温で発送いたします。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、2万5千円以上のご寄附をいただいた方
+・七田（純米大吟醸）
+国内外から高い評価を受けており、スミレを思わせるようなキレイな香りと濃厚な味わいが特徴。
+無濾過ならではの濃厚な味わいが食事との相性も良いお酒です。
+※ラベルの変更により、写真のものとラベルが異なる場合がございます。
+※20歳未満の飲酒は法律で禁止されています。　
+生産者：天山酒造(小城市)
+提供者：良酒佐嘉蔵屋(有田町)
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+七田：仕入から瓶詰めまで製造の全工程を佐賀県内の工場で行っている。
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）　この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/5236355/422">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210930/pd_031ed6350eed732eae0cf1b183cd2e480c1265b7.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">素ヱコ農園 平飼い鶏卵「ばあちゃんの昔たまご」 42個(6個入×7パック)</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後1ヶ月
+農繁期は1〜2ヶ月程度かかる場合もございます。
+夏期（6〜9月）は冷蔵発送。
+それ以外は常温発送致します。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>卵</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に特定非営利活動法人灯す屋をお選びいただき、1万円以上のご寄附をいただいた方
+こだわりの詰まった「ばあちゃんの昔たまご」42個を6個入×7パックの小分けにしてお届けします。
+「毎日食べるものだからこそ、ちょっと良いものを。」
+自分で食べるのはもちろん、6個入りで7パックも入っているので、お世話になってる方へのプレゼントとしても非常に喜ばれています。
+海と山に囲まれた佐賀県伊万里市で養鶏を営む素ヱコ農園。
+平飼い（放し飼い）でのびのびと鶏を育てています。
+地鶏の基準の10倍となる「一羽あたり1平方メートル」、広い環境が飼育のこだわりです。
+元気に走り回って、鶏たちものびのび、すくすく育ってくれます。
+そして、餌も地元で取れる食材を中心に天然のものを使用。
+鶏の体調や季節に合わせて作った餌を毎朝手作りして与えています。
+ニワトリの健康にもつながり卵の栄養や味も良くなります。
+のびのびとストレスフリーな環境で、栄養たっぷりの餌を食べて健康に育った鶏たちが産んだ卵は、ぷっくり、ぷるんとした白身ときれいなレモンイエローの黄身。
+臭みがなく、ほんのりやさしい味わいです。
+ぜひ、ゆで卵や卵かけご飯などシンプルな料理で食べてみてくださいね。
+夏期（6〜9月）は冷蔵発送。
+それ以外は常温発送致します。
+生産者：素ヱコ農園(伊万里市)
+【総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由】
+佐賀県伊万里市内にある素ヱコ農園で飼育された養鶏の卵
+※ふるさと納税（NPO等の支援）に係る佐賀県民の皆様からの御寄附に対する返礼品等の送付について
+平成31年4月1日付けで総務省から、ふるさと納税に係る返礼品等について、「当該地方団体の区域内に住所を有する者に対して返礼品等を提供しないこと」との通知がありました。（平成31年総務省告示第179号第2条第1号ニ）　この通知を受け、佐賀県民の皆様からのふるさと納税（NPO等の支援）への御寄附につきましては、返礼品等の送付が中止となりますので、御理解と御協力をいただきますようお願い申し上げます。</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">佐賀県NPO支援</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">佐賀県のふるさと納税は、皆さまが支援したい佐賀県内のNPO等を指定して寄付することができます。お返しの品は指定されたNPO等が自らの創意工夫で送ることで、県の事務経費を抑え、できる限り多くの額を指定されたNPO等にお渡しし、“自ら考え行動する自発の地域づくり”を応援しています。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">佐賀県NPO支援の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/41001/422?from=2&amp;gcf_project_id=1515"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,554,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g1515,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

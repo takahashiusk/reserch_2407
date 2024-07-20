@@ -1,0 +1,1413 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/2024" />
+
+<title>旧役場庁舎ににぎわいを！「誰もが遊べる！学べる！くつろげる！施設」建設プロジェクト｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="旧役場庁舎ににぎわいを！「誰もが遊べる！学べる！くつろげる！施設」建設プロジェクト｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/2024" />
+<meta property="og:description" content="役場機能の移転に伴い、旧庁舎跡地ににぎわいを創出します！旧役場庁舎は、1966年の竣工から50年以上が経過し、老朽化等に伴い、新たに庁舎を整備し、2019年9月に役場機能の移転を行いました。この移転を決定した2016年度に旧庁舎跡地等に関する利活用の議論を本格的にスタートさせ、2018年度に「垂井町現庁舎敷地等活用基本構想」を策定、2019～2020年度に「垂井町庁舎跡地等活用基本計画」を策定しました。これに基づき、2021年度から「誰もが楽しく・安全に集える垂井のにぎわい拠点」とする「（仮称）旧庁舎跡地にぎわい創出施設」の設計をし、いよいよ既存施設の解体・新施設の建設をスタートします。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221028/d_3d1c7933efec8707393671db771db2f4ea81c437.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221028/d_3d1c7933efec8707393671db771db2f4ea81c437.jpg" />
+<meta property="twitter:title" content="旧役場庁舎ににぎわいを！「誰もが遊べる！学べる！くつろげる！施設」建設プロジェクト｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="役場機能の移転に伴い、旧庁舎跡地ににぎわいを創出します！旧役場庁舎は、1966年の竣工から50年以上が経過し、老朽化等に伴い、新たに庁舎を整備し、2019年9月に役場機能の移転を行いました。この移転を決定した2016年度に旧庁舎跡地等に関する利活用の議論を本格的にスタートさせ、2018年度に「垂井町現庁舎敷地等活用基本構想」を策定、2019～2020年度に「垂井町庁舎跡地等活用基本計画」を策定しました。これに基づき、2021年度から「誰もが楽しく・安全に集える垂井のにぎわい拠点」とする「（仮称）旧庁舎跡地にぎわい創出施設」の設計をし、いよいよ既存施設の解体・新施設の建設をスタートします。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,591,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="2024" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">旧役場庁舎ににぎわいを！「誰もが遊べる！学べる！くつろげる！施設」建設プロジェクト</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">旧役場庁舎ににぎわいを！「誰もが遊べる！学べる！くつろげる！施設」建設プロジェクト</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1017">まちづくり&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221028/d_3d1c7933efec8707393671db771db2f4ea81c437.jpg" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E6%97%A7%E5%BD%B9%E5%A0%B4%E5%BA%81%E8%88%8E%E3%81%AB%E3%81%AB%E3%81%8E%E3%82%8F%E3%81%84%E3%82%92%EF%BC%81%E3%80%8C%E8%AA%B0%E3%82%82%E3%81%8C%E9%81%8A%E3%81%B9%E3%82%8B%EF%BC%81%E5%AD%A6%E3%81%B9%E3%82%8B%EF%BC%81%E3%81%8F%E3%81%A4%E3%82%8D%E3%81%92%E3%82%8B%EF%BC%81%E6%96%BD%E8%A8%AD%E3%80%8D%E5%BB%BA%E8%A8%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F2024">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">173,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 17.3%;"></div>
+<p class="gcf-cht-detail-bar__number">17.3%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">1,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">17.3</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">13</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>岐阜県垂井町（ぎふけん たるいちょう）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="2024" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2022年12月1日～2023年2月28日（90日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1028" class="sorting-list__item">まちづくり・コミュニティ</a></li><li><a href="/gcf/project/tag/1029" class="sorting-list__item">インフラ・交通・施設</a></li><li><a href="/gcf/project/tag/1033" class="sorting-list__item">子ども・教育</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="2024" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">岐阜県不破郡垂井町</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20220923/o_022d506b6c09349f62f09d915fdd7b1c10da0206.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">役場機能の移転に伴い、旧庁舎跡地ににぎわいを創出します！<br/>
+<br/>
+旧役場庁舎は、1966年の竣工から50年以上が経過し、老朽化等に伴い、新たに庁舎を整備し、2019年9月に役場機能の移転を行いました。<br/>
+この移転を決定した2016年度に旧庁舎跡地等に関する利活用の議論を本格的にスタートさせ、2018年度に「垂井町現庁舎敷地等活用基本構想」を策定、2019～2020年度に「垂井町庁舎跡地等活用基本計画」を策定しました。<br/>
+これに基づき、2021年度から「誰もが楽しく・安全に集える垂井のにぎわい拠点」とする「（仮称）旧庁舎跡地にぎわい創出施設」の設計をし、いよいよ既存施設の解体・新施設の建設をスタートします。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">施設の建設を通して目指すこと</span></h2>
+<p class="gcf-txt-article">2016年から検討してきた方針に基づいて、町内外から若者や子育て世代を中心とした人の交流を目指した「にぎわい」を創出する「誰もが楽しく・安全に集える垂井のにぎわい拠点づくり」を目指すことになりました。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221028/gpfd_0629d6fb5c48a119a5739d94059f9f19afb91c08.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221028/gpfd_2d3a8e6c239c9b957101d5ccee1e98c102f80ab3.jpg" />
+<figcaption class="lyt-image__caption">調理室では料理教室も開催可能</figcaption>
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">施設の活用方針</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221026/gpfd_3e25d5c89b2ab3e2da2647c092cc892fcb3425ac.jpg" />
+<figcaption class="lyt-image__caption">子どもが遊べるネット遊具、料理教室ができる調理室などを設計</figcaption>
+</figure>
+<p class="gcf-txt-article">にぎわい創出に向けて、次の１～５の方針を策定しました。<br/>
+<br/>
+１．町民・地域住民が集い交流できる場の確保<br/>
+２．若者・子育て世代を中心とした幅広い世代の住宅の確保<br/>
+３．歴史・文化を体感できるおまつり広場と観光サービス施設の確保<br/>
+４．地域の安全性を高める防災広場の確保<br/>
+５．新たな集客施設の確保・イベント等への対応</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">地域に賑わいをもたらす新施設の機能</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220923/gpfd_976452c1713ef69b25392317c0a52444dd508f31.jpg" />
+</figure>
+<h4 class="gcf-ttl-h4">「住民機能」</h4>
+<p class="gcf-txt-article">住民のたまり場となる「カフェ」<br/>
+子供向けの遊び場として「屋内型子ども遊具室」・「乳児用スペース」<br/>
+町の魅力や観光資源を発信する空間として「エントランスホール」<br/>
+子供の遊び場や幅広い世代の憩いの場、イベントなど多彩な行事、災害時の利用に「多目的広場」<br/>
+</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221026/gpfd_0a3e933d97b55fe8d4f5a82cb715a3c497b6ffee.jpg" />
+<figcaption class="lyt-image__caption">誰もがくつろげるカフェも設計中</figcaption>
+</figure>
+<h4 class="gcf-ttl-h4">「行政機能」</h4>
+<p class="gcf-txt-article">垂井地区まちづくりセンターと勤労青少年ホームで活動しているLet’sたるいの事務室</p>
+<figure class="lyt-image">
+<a target="_blank" href="https://lets-tarui.com/">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221026/gpfd_d14c490fb9be7ba058ca42bebce2eab3bf3ee484.jpg" alt="「Let&#039;sたるい」の活動内容は、画像をクリックで確認できます。" />
+</a>
+<figcaption class="lyt-image__caption">「Let'sたるい」の活動内容は、画像をクリックで確認できます。</figcaption>
+</figure>
+<h4 class="gcf-ttl-h4">「貸室機能」</h4>
+<p class="gcf-txt-article">多世代の方が軽スポーツや音楽、文化活動を行える諸室として「多目的ホール」・「音楽スタジオ」・「小会議室」・「和室」・「調理室」<br/>
+垂井地区まちづくりセンター、中央公民館、勤労青少年ホームの貸室機能も包含します</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221028/gpfd_5e93a562e262e9d971ac9a149014f35ffd071227.jpg" />
+<figcaption class="lyt-image__caption">スポーツ・文化の諸活動などを実施予定</figcaption>
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">いただいた寄附金を施設の設計・建設経費に活用します！</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">寄附金の使用用途</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">ご寄付いただいた寄附金は、「（仮称）旧庁舎跡地にぎわい創出施設」の設計や建設に係る経費に使わせていただきます。<br/>
+<br/>
+※目標金額を超えて寄附があった場合、目標金額に達しなかった場合のいずれも、上記の経費に活用させていただきます。<br/>
+※2000円未満の寄附についてはお断りをさせていただきます。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">垂井町長から</span></h2>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221006/gpfd_8c58b281062c3ab33cb2408552fa9fb95322f712.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">垂井町のページをご覧いただきありがとうございます。垂井町長の早野博文です。<br/>
+<br/>
+私もこの垂井町で生まれ育ちました。旧庁舎は、私が幼い頃からここにあり、慣れ親しんだ愛着のある町役場でした。<br/>
+<br/>
+しかしながら、老朽化や耐震不足など、町民の安全安心を守ることが困難であると考え、令和元年度に新庁舎を建設しました。<br/>
+<br/>
+これによりお役目を終えた旧庁舎ですが、町内外から若者や子育て世代を中心とした人の交流を目指した「にぎわい」を創出する施設に生まれ変わることを目指しています。<br/>
+<br/>
+本町の「誰もが楽しく・安全に集える垂井のにぎわい拠点づくり」にご賛同いただき、ご支援を賜りますようお願い申し上げます。<br/>
+<br/>
+また、「活用方針」に基づく施設機能により、地元住民をはじめ交流から生まれる「にぎわい」を創出します。どなた様もぜひお越しください。</p>
+</div>
+</div>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221006/gpfd_fdd22544860c9a89d5ec0a75f6721feb002bffcf.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21361/5204023/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211026/pd_0a68185a35beb7abfb2a1086635fb7b8faefcb1e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">A5飛騨牛バラカルビ焼肉用700g</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附入金確認日から1ヶ月以内に発送予定です。</p>
+</div>
+<p class="goods-col_textinfo pc">岐阜県が誇る銘柄牛、飛騨牛は、恵まれた自然環境の中で
+徹底管理された血統が織りなす最高のお肉で、
+きめ細やかでやわらかく、網目のような美しい霜降りと
+豊潤な味わいが特長です。
+さらに飛騨牛の中でも最上級である肉質等級5等級のものを
+お届けいたします。飛騨牛販売指定店第20号である
+トキノ屋食品が目利きし吟味したお肉をご賞味ください。
+バラカルビは、焼肉屋で「上カルビ」として
+出されるような上質なカルビで男性に特に人気のある部位です。
+脂の量が多いため、網の上で焼いて
+塩とわさびのようなシンプルな味付けでいただくのが
+おすすめの食べ方です。
+焼肉、バーベキューで「おいしいお肉を食べたい」と思われた際、
+ぜひお申込みください。
+※画像はイメージです。
+※脂の量が多い部位になります。あらかじめご了承ください。
+事業者名：トキノ屋食品株式会社
+＜検索用キーワード＞
+飛騨牛 和牛 牛肉 ブランド牛 A5等級 焼肉 バラカルビ 上カルビ 700g 豪華 贅沢 家族 贈答品 贈り物 ギフト プレゼント</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21361/5204025/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211026/pd_8ef03327c685609fdd7d05325959664f65c476d7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">A5飛騨牛肩ロースすき焼き用900g</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附入金確認日から1ヶ月以内に発送予定です。</p>
+</div>
+<p class="goods-col_textinfo pc">岐阜県が誇る銘柄牛、飛騨牛は、恵まれた自然環境の中で
+徹底管理された血統が織りなす最高のお肉で、
+きめ細やかでやわらかく、網目のような美しい霜降りと
+豊潤な味わいが特長です。
+さらに飛騨牛の中でも最上級である肉質等級5等級のものを
+お届けいたします。飛騨牛販売指定店第20号である
+トキノ屋食品が目利きし吟味したお肉をご賞味ください。
+肩ロースは、きれいなサシと赤身、ロース肉に
+近いやわらかさのある部位です。おすすめの召し上がり方は、
+すき焼きです。和牛香（わぎゅうこう）という独特の
+「あまい香り」を独特のあまい香りを楽しみつつ、
+肉の甘味、旨味を味わっていただくことができます。
+「家族で楽しくいただくことができた」との
+お声をいただいたこともございます。
+ご家族でのすき焼きの肉として、おすすめです。
+※画像はイメージです。
+事業者名：トキノ屋食品株式会社
+＜検索用キーワード＞
+飛騨牛 和牛 牛肉 ブランド牛 A5等級 すき焼き 肩ロース 900g 豪華 贅沢 家族 贈答品 贈り物 ギフト プレゼント</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21361/5219595/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210924/pd_efeaefeb148dd49dfafcc61284d1fa5ac7443a73.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">大満足飛騨牛三昧6か月コース</h4>
+<p class="goods-col_price inline">300,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_period">定期</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附納入確認後、翌月に1回目を発送します。その後、1ヶ月に1度発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">岐阜県が誇る銘柄牛、飛騨牛は、恵まれた自然環境の中で
+徹底管理された血統が織りなす最高のお肉で、
+きめ細やかでやわらかく、網目のような美しい霜降りと
+豊潤な味わいが特長です。
+さらに飛騨牛の中でも最上級である肉質等級5等級のものを
+お届けいたします。飛騨牛販売指定店第20号である
+トキノ屋食品が目利きし吟味したお肉をご賞味ください。
+大満足飛騨牛三昧6か月コースでは、
+1ヶ月ごとに飛騨牛の多種多様な部位をボリュームのある量で
+お届けします。飛騨牛を使ったお料理をご家庭で
+毎月、味わっていただくことができます。
+飛騨牛がお好きな方はもちろん、
+まだ飛騨牛を召し上がったことのない方この機会に
+ご家族と一緒に飛騨牛を召し上がってみませんか。
+※画像はイメージです。
+※寄附納入確認後、翌月に1回目を発送します。その後、1ヶ月に1度発送します。
+事業者名：トキノ屋食品株式会社</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21361/5043253/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211113/pd_5c4feda16457461e8bbacd6c5952220694df7dd7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【12ヶ月定期便】Ａ5等級飛騨牛すき焼き・しゃぶしゃぶ用1.2ｋｇ　ロース又は肩ロース肉</h4>
+<p class="goods-col_price inline">600,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_period">定期</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附納入確認後、翌月に1回目を発送します。その後、1ヶ月に1度発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">「飛騨牛」は、山々に囲まれ清らかな水と澄んだ空気など、自然豊かな岐阜県で育った黒毛和種の牛です。
+豊かな自然の恵みを受けて育った「飛騨牛」は、霜降り肉で口に入れた瞬間とろけるほど、とても柔らかい肉質となっています。
+その「柔らかさ」と「旨み」がとても美味しく、1度食べたらまた食べたくなるほど印象に残る牛肉です。
+また「飛騨牛」は脂の質が良く、
+脂っぽさが少ない印象ため、女性でも食べやすい牛肉として定評があります。
+魅力的な要素がたくさん詰まった「飛騨牛」は、
+2002年に開催された第8回全国和牛能力共進会の「種牛の部」および「肉牛の部」で、
+それぞれ「名誉賞」（内閣総理大臣賞）および「最優秀枝肉賞」を獲得しています。
+「和牛のオリンピック」とも呼ばれる同会には、5年に1度全国各地から品質がとても優れた和牛が勢揃い。
+その大会で、改良の成果を競う「種牛の部」と肉質を競う「肉牛の部」において、競り勝ちました。
+まさに「飛騨牛」は、全国の優秀な和牛に引けをとらない高品質なブランド牛です。
+今回12ヶ月連続でお届けする「Ａ5等級飛騨牛すき焼き・しゃぶしゃぶ用1.2ｋｇ　ロース又は肩ロース肉」は、「A5等級」という肉の品質評価でもっとも高いランクの飛騨牛をご用意しました。
+こちらのセットは、大人数でのすき焼き・しゃぶしゃぶをする際に、おすすめのセットです。
+ボリュームはもちろんすき焼き・しゃぶしゃぶで、お使いいただきやすいようにカットしました。
+毎月の楽しみに、こちらの飛騨牛のセットいかがでしょうか。
+※画像はイメージです。
+※冷凍にて保存の上、お早めにお召し上がりください。
+※寄附納入確認後、翌月に1回目を発送します。その後、1ヶ月に1度発送します。
+事業者：（株）小川ミート </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21361/5424345/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211214/pd_7d1aef17f155292040eca33f0492bb1102214e78.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">国産はちみつ300g 2本セット</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附入金確認日から1ヶ月以内に発送予定です。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>1 歳未満の乳児には与えないで下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">国産はちみつ300g2本セット
+お花の香り豊かな蜂蜜(はちみつ)です。採れたそのままの国産蜂蜜(はちみつ)をご賞味ください。
+岐阜県垂井町の豊かな自然は、良質な蜂蜜(はちみつ)が採れる蜜源植物がたくさんあります。人が入り込まない自然の中に咲く花々の香り豊かな蜂蜜(はちみつ)を、そのままの状態でお届けしています。食の3重丸セレクション認定。垂井町ブランド認定商品。岐阜県「飛騨・美濃すぐれもの」認定蜂蜜(はちみつ)です。
+はちみつ発送：みつばち村・春日養蜂場
+※画像はイメージです。
+※はちみつの種類は、採取する時期等によってことなります。
+事業者：春日養蜂場</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21361/5468278/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211217/pd_25a63f9fc9e1d8eb474395861b2aa961147cf447.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">国産はちみつ1kg 2本セット</h4>
+<p class="goods-col_price inline">40,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附入金確認日から1ヶ月以内に発送予定です。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>1 歳未満の乳児には与えないで下さい。</p>
+</div>
+<p class="goods-col_textinfo pc">国産はちみつ1kg2本セット
+お花の香り豊かな蜂蜜(はちみつ)です。採れたそのままの国産蜂蜜(はちみつ)をご賞味ください。
+岐阜県垂井町の豊かな自然は、良質な蜂蜜(はちみつ)が採れる蜜源植物がたくさんあります。人が入り込まない自然の中に咲く花々の香り豊かな蜂蜜(はちみつ)を、そのままの状態でお届けしています。食の3重丸セレクション認定。垂井町ブランド認定商品。岐阜県「飛騨・美濃すぐれもの」認定蜂蜜(はちみつ)です。
+※画像はイメージです。
+※はちみつの種類は、採取する時期等によってことなります。
+事業者：春日養蜂場</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21361/5513205/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210426/pd_269027be54545f26f623f2f1aa8700f1618e50bb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">平飼い有精卵で作るロールケーキショートサイズとプリン2個</h4>
+<p class="goods-col_price inline">5,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附入金確認日から1ヶ月以内に発送予定です。
+※9月20日～10月31日までのお申込み分は、11月以降発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">エヴァン厳選。こだわりの濃厚な平飼い有精卵を使用し、作られたロールケーキとプリンのセットです。
+ロールケーキは、有精卵とハチミツで焼き上げしっとりフワフワのロール生地をあっさりした生クリームで巻き上げました。
+プリンは有精卵とエヴァンが厳選した牛乳を使い、昔ながらの製法で作り上げています。
+素材本来の味を活かし作られたプリンは、濃厚で深い甘みを感じていただけるプリンとなっています。
+またプリンにつきましては、垂井町の特性を活かし作られた食品、工芸品、畜産物に贈られる「垂井ブランド」の認定を
+垂井特産品認証制度より受けています。
+小さなお子様からご年配の方まで、多くの方に美味しく召し上がっていただけるスィーツセットです。
+※画像はイメージです。
+※ロールケーキの味はプレーンになります。
+事業者：果子工房エヴァン</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21361/5237653/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220427/pd_24e54137acdc579caeb38b1a364ef8f9c43e3d65.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【国産小麦・バター100%】味わい食パンセット</h4>
+<p class="goods-col_price inline">5,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附入金確認日から1ヶ月以内に発送予定です。
+※12/26～1/7は申込受付のみ対応します。発送は1/7日以降になります。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※米を使ったパンがあります。
+※卵、乳製品、大豆、ナッツ類、海老、牛肉、豚肉、鶏肉、りんご、オレンジを使用した製品と一緒の工場で製造しております。</p>
+</div>
+<p class="goods-col_textinfo pc">BreadGarden Nakatake人気の“味わい食パンセット”です。
+パン生地はすべて国産小麦（愛知県産ゆめあかり、岐阜県産、北海道産）に国産バターを使用。
+厳選した素材を使い、製造過程に徹底してこだわりぬいたパンはくちどけが良く、優しい風味のパン。
+国産小麦を使用することで、保水力が高く生でも、焼いても美味しく食べられます。
+・さつま芋と小豆の食パン
+さつまいもの甘露煮、大納言小豆入りのおやつにもなる食パン。
+ほんのり薄紫桃色は紫芋パウダーです。かわいい見た目と柔らかな口溶けの食パン
+・くるみ全粒粉入り食パン
+食物繊維、鉄分が豊富な国産小麦の表皮、胚芽（はいが）、胚乳（はいにゅう）を含んだ全粒粉を20%配合。くるみの食感と香ばしい味わいで朝から夜までいつ食べても楽しめます。
+・黒糖ぶどう食パン
+鉄分を多く含み、カリウム、カルシウム、マグネシウムをバランスよく含んだサルタナレーズンを配合しています。甘味が強く濃厚な味わいが特徴です。波照間産黒糖の甘味と上手く合わさり、おやつや食事パンとして楽しめます。
+■保存方法
+すぐにお召し上がらない場合は冷凍庫（－18度以下）にて保存をお願いします。
+■ナカタケお勧め美味しい召し上がり方
+あらかじめ3分ほど予熱したオーブンやトースターで温めてからお召し上がりください。
+パン全体に霧吹きなどで軽く水をかけてから中温くらいの温度設定トースターで3～4分ほど加熱すると外はサックリ、中はモッチリとした食感に。
+出来たてのように美味しく召し上れますのでオススメです。
+食パンはスライスして冷凍し、食べる時に凍ったまま予熱したトースターに入れて焼いてください。
+事業者名：ブレッドガーデンナカタケ</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21361/5412589/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220422/pd_d8c30796848d190e73f8d13e1f1286cc3b1d0aab.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【国産小麦・バター100%】味わい食パンセット【12ヵ月定期便】</h4>
+<p class="goods-col_price inline">80,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_period">定期</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附納入確認後、翌月に1回目を発送します。その後、1ヶ月に1度発送します。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※米を使ったパンがあります。
+※卵、乳製品、大豆、ナッツ類、海老、牛肉、豚肉、鶏肉、りんご、オレンジを使用した製品と一緒の工場で製造しております。</p>
+</div>
+<p class="goods-col_textinfo pc">BreadGarden Nakatake人気の“味わい食パンセット”の定期便。
+パン生地はすべて国産小麦（愛知県産ゆめあかり、岐阜県産、北海道産）に国産バターを使用。
+厳選した素材を使い、製造過程に徹底してこだわりぬいたパンはくちどけが良く、優しい風味のパン。
+国産小麦を使用することで、保水力が高く生でも、焼いても美味しく食べられます。
+・さつま芋と小豆の食パン
+さつまいもの甘露煮、大納言小豆入りのおやつにもなる食パン。
+ほんのり薄紫桃色は紫芋パウダーです。かわいい見た目と柔らかな口溶けの食パン
+・くるみ全粒粉入り食パン
+食物繊維、鉄分が豊富な国産小麦の表皮、胚芽（はいが）、胚乳（はいにゅう）を含んだ全粒粉を20%配合。くるみの食感と香ばしい味わいで朝から夜までいつ食べても楽しめます。
+・黒糖ぶどう食パン
+鉄分を多く含み、カリウム、カルシウム、マグネシウムをバランスよく含んだサルタナレーズンを配合しています。甘味が強く濃厚な味わいが特徴です。波照間産黒糖の甘味と上手く合わさり、おやつや食事パンとして楽しめます。
+■保存方法
+すぐにお召し上がらない場合は冷凍庫（－18度以下）にて保存をお願いします。
+■ナカタケお勧め美味しい召し上がり方
+あらかじめ3分ほど予熱したオーブンやトースターで温めてからお召し上がりください。
+パン全体に霧吹きなどで軽く水をかけてから中温くらいの温度設定トースターで3～4分ほど加熱すると外はサックリ、中はモッチリとした食感に。
+出来たてのように美味しく召し上れますのでオススメです。
+食パンはスライスして冷凍し、食べる時に凍ったまま予熱したトースターに入れて焼いてください。
+事業者名：ブレッドガーデンナカタケ</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21361/5497412/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230106/pd_45bc44ac6d834aef47cc0499ebb2b0be00ce90a3.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">T rice Store 岐阜県産コシヒカリ 15kg(5kg×3回）</h4>
+<p class="goods-col_price inline">38,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_period">定期</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附納入確認後、翌月に1回目を発送します。その後、1ヶ月に1度発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">出産祝いや季節の贈り物としても好評。
+一見すると米袋とは思えない、おしゃれなパッケージに包まれたコシヒカリ。
+毎月届くおいしいコシヒカリを毎食の楽しみにしませんか。
+「食味を、もうワンランク、アップしたいんです」。
+米作りに夢を託す高木Familyさんの想いです。
+会社員から家業の米作へ転進した3代目。親子一丸となって米作に従事。
+まったく別の面白さにはまっています。
+精妙な水管理と穂肥がコメのうまさを決めるといわれ、冷めても美味しい甘みのある仕上がりに。
+粒がよりしっかりしていると言われる今年度産の新米を発送時に精米することで、新鮮な状態でお届けします。
+「会社員は、攻めの目線がメイン。米作りは作業の結果、つまり後を見ていないとできないんです」。
+イネの生育を毎日、「見て」、「感じて」農作業。正解がないだけにクリエイティブ。
+地元農協の最優秀賞をもらうなど探求心はとまりません。
+「実は、田植えが1番難しいんです」と笑う。深植えと浅植えの差が見えてきたという。
+ドローンで害虫予防等、最新機器を活用し、若手ならではの稲作を行っています。
+いずれはAI活用にも関心を寄せ、品種も増やしたいと意欲満々。
+「若い世代」が作るコシヒカリの美味を味わいませんか。
+※画像はイメージです。
+※高温、多湿、直射日光を避けて保存して下さい。
+※においの強いものの近くで保存しないで下さい。
+※容器のお米はすべて使い切ってから入れ替えて下さい。
+事業者：T rice Store</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/21361/5344321/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211202/pd_b4905e17fe0c6da887de11eadf488e78dee2b928.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【3か月定期便】≪令和5年産新米≫岐阜コシヒカリ（約5kg×3回）</h4>
+<p class="goods-col_price inline">23,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_period">定期</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄附納入確認後、翌月に1回目を発送します。その後、1ヶ月に1度発送します。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>特定原材料7品目および特定原材料に準ずるもの21品目は含まれません。</p>
+</div>
+<p class="goods-col_textinfo pc">垂井町宮代地区で栽培された「岐阜コシヒカリ約5㎏」を3か月連続でお届けいたします。
+垂井町宮代は、金山彦命（カナヤマヒコノミコト）を祀る美濃国一の宮「南宮大社」を山裾に持つ南宮山のふもとにあります。
+すぐ西の空には「日本百名山」の伊吹山がそびえます。
+かつて垂井町は中山道の宿場町としても栄え、町内のいたるところに湧き水があり、町民に利用されてきました。
+特に垂井町宮代は、南宮山麓、伊吹山麓の扇状地（中山間地）ゆえに、おいしい米づくりの条件に挙げられる「きれいな水」、
+「昼夜の寒暖差」があり、この条件を十分生かして米作りをしています。
+米作りに適した地域で栽培された米だからこそ、米のおいしさである、粘り、香り、甘さ、炊き上がりのツヤ感を堪能できます。
+生産者が「山手の米は昔からうまい！」と自信をもって作ったコシヒカリを、
+あなたも味わってみてください。米のおいしさを知り、虜になるかもしれません。
+※画像はイメージです。
+※高温、多湿、直射日光を避けて保存して下さい。
+※においの強いものの近くで保存しないで下さい。
+※容器のお米はすべて使い切ってから入れ替えて下さい。
+事業者：農事組合法人宮代生産組合</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">岐阜県垂井町</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__image"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221118/m_8b0ad4d6f241bdd1007b24bd86027dbef05a449a.jpg" /></div>
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">岐阜県垂井町は、かつて豊臣秀吉の軍師であった竹中半兵衛公が活躍し、関ケ原合戦の舞台になったまち、そして日本の原風景といえる田園や川の眺めが美しいまちです。<br/>
+町のどこからでも目の前に山が見え、空気がおいしく、水がきれい。<br/>
+美濃の国一の宮南宮大社が鎮座し、春夏秋冬さまざまな祭りがあり、春、まちの中心を流れる相川に約350匹の鯉のぼりが一斉遊泳する姿は、200本の桜と霊峰伊吹山の残雪と相まって見事です。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">岐阜県垂井町の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/21361/31?from=2&amp;gcf_project_id=2024"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,591,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g2024,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

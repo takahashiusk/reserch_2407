@@ -1,0 +1,1318 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/2899" />
+
+<title>大町山岳博物館ライチョウ応援プロジェクト｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="大町山岳博物館ライチョウ応援プロジェクト｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/2899" />
+<meta property="og:description" content="市立大町山岳博物館は、昭和38年からライチョウの飼育を開始し、一時は飼育中断もあったものの、2019年に人工繁殖、2021年に自然繁殖に成功し、現在7羽を飼育する日本有数の博物館です。本年にはなんと、飼育開始から６０年の時を経て、繁殖させたライチョウを野生に戻す取り組みが決定しました。この取組には飼育環境調整のためのコストを中心に、多額の費用が必要となります。プロジェクトを通して、ライチョウ飼育の取組を多くの皆さんに知って応援いただき、一緒に育てていただければ幸いです。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20240422/d_9f9df44d4e969b2712657e24261b1136d0393628.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20240422/d_9f9df44d4e969b2712657e24261b1136d0393628.jpg" />
+<meta property="twitter:title" content="大町山岳博物館ライチョウ応援プロジェクト｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="市立大町山岳博物館は、昭和38年からライチョウの飼育を開始し、一時は飼育中断もあったものの、2019年に人工繁殖、2021年に自然繁殖に成功し、現在7羽を飼育する日本有数の博物館です。本年にはなんと、飼育開始から６０年の時を経て、繁殖させたライチョウを野生に戻す取り組みが決定しました。この取組には飼育環境調整のためのコストを中心に、多額の費用が必要となります。プロジェクトを通して、ライチョウ飼育の取組を多くの皆さんに知って応援いただき、一緒に育てていただければ幸いです。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,668,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="2899" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/project"><span itemprop="name">受付中プロジェクト</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">大町山岳博物館ライチョウ応援プロジェクト</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">大町山岳博物館ライチョウ応援プロジェクト</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1024">自然・環境&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20240422/d_9f9df44d4e969b2712657e24261b1136d0393628.jpg" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E5%A4%A7%E7%94%BA%E5%B1%B1%E5%B2%B3%E5%8D%9A%E7%89%A9%E9%A4%A8%E3%83%A9%E3%82%A4%E3%83%81%E3%83%A7%E3%82%A6%E5%BF%9C%E6%8F%B4%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F2899">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">1,191,500</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 47.6%;"></div>
+<p class="gcf-cht-detail-bar__number">47.6%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">2,500,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">47.6</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">53</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">43</span><span class="gcf-lyt-detail-total__text">日 </span><br class="sp" />/
+<span class="gcf-lyt-detail-total__quantity2">90</span>日</dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>長野県大町市（ながのけん おおまちし）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="2899" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive" target="_blank" href="/city/donation/20212/33?from=2&amp;gcf_project_id=2899">ふるさと納税で応援</a></div>
+<div class="gcf-txt-link2">
+<a class="js-products-anchor" href="#products_list">お礼の品を選んでこのプロジェクトへ寄付をする</a>
+</div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2024年4月26日～2024年7月24日（90日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1054" class="sorting-list__item">自然・環境</a></li><li><a href="/gcf/project/tag/1057" class="sorting-list__item">動物</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1094" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_15.png 1x, /gcf/images_cf/sdg/sdg_icon_15@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_15.png" alt="SDGアイコン" decoding="async" />15.陸の豊かさも守ろう</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="2899" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">長野県大町市</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20240408/o_8bd92482808a8bc4bc0d8dfb938b883154c7a682.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">市立大町山岳博物館は、昭和38年からライチョウの飼育を開始し、一時は飼育中断もあったものの、2019年に人工繁殖、2021年に自然繁殖に成功し、現在7羽を飼育する日本有数の博物館です。<br/>
+本年にはなんと、飼育開始から６０年の時を経て、繁殖させたライチョウを野生に戻す取り組みが決定しました。<br/>
+この取組には飼育環境調整のためのコストを中心に、多額の費用が必要となります。<br/>
+プロジェクトを通して、ライチョウ飼育の取組を多くの皆さんに知って応援いただき、一緒に育てていただければ幸いです。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">市立大町山岳博物館について</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">山岳の自然や文化の発信基地「さんぱく」</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20240419/gpfd_60c1b4a7f589d8df98fe68b9626e67df1f6b92dc.jpg" />
+</figure>
+<p class="gcf-txt-article">大町市は、黒部ダム・立山黒部アルペンルートの長野県側の玄関口であり、3,000ｍ級の爺ガ岳や鹿島槍ヶ岳、裏銀座などへの登山口があり、大正６年に全国で初めて山案内人組合が設立された北アルプスの麓に位置する人口約25,000人の山岳文化都市です。<br/>
+この大町市の東山の中腹に位置し、北アルプスの大パノラマが展望できる大町山岳博物館は、戦後間もない昭和２６年に、熱意ある地元の青年たちによって設立されました。<br/>
+大町の魅力として、山の自然や文化を発信していく基地として開館した山岳博物館では、国内で唯一、開館後間もない昭和３８年から、山を象徴する生き物である鳥「ライチョウ」の保護のため、飼育、研究を継続してきました。（2004年～2016年までは、一時、飼育を中断していました。）<br/>
+</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive" target="_blank" href="/city/donation/20212/33?from=2&amp;gcf_project_id=2899">ふるさと納税で応援</a>
+</div>
+</div>
+<div class="gcf-txt-link text-center gcf-txt mT16"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄付をする</a></div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">国内唯一のライチョウ飼育の伝統と郷土のライチョウを守る取り組み</span></h3>
+<p class="gcf-txt-article">北アルプスの高山帯には、国の特別天然記念物であり絶滅危惧種の鳥「ライチョウ」が暮らしています。<br/>
+北アルプスの麓に位置する大町山岳博物館では、ライチョウの保護を目的とした飼育繁殖の研究を行うとともに、多くの皆様にライチョウの生態を知っていただけるよう、博物館内において、生まれてから成鳥になるまでのライチョウの展示や北アルプスでの暮らしなどの展示を行っています。<br/>
+<br/>
+絶滅の危機に瀕しているライチョウは、現在、環境省の主導により保護活動が行われており、全国各地の動物園で飼育繁殖の取組みが行われており、その一環として、大町山岳博物館でも、ライチョウの保護増殖事業としての飼育を2016年より再開しました。<br/>
+<br/>
+現在、飼育舎内で日照時間や温度管理を高山帯に合わせた環境を作るなど、衛生管理を徹底して飼育を行っており、2019年には人工繁殖、2021年には自然繁殖に成功し、現在（2024年４月）では、７羽のライチョウを飼育しています。<br/>
+そのため、大町山岳博物館では、１年を通してライチョウの生活をご覧いただくことができます。<br/>
+この度、ライチョウの生態や繁殖の研究を進めていくため、　山岳博物館ライチョウ応援プロジェクトを立ち上げました。<br/>
+多くの皆様にご協力いただきたくお願いいたします。<br/>
+</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20240408/gpfd_0594d1da348abd64c0459f521861bbe67710ce63.png" />
+<figcaption class="lyt-image__caption">飼育されているライチョウ（オス）</figcaption>
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive" target="_blank" href="/city/donation/20212/33?from=2&amp;gcf_project_id=2899">ふるさと納税で応援</a>
+</div>
+</div>
+<div class="gcf-txt-link text-center gcf-txt mT16"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄付をする</a></div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">山岳博物館のライチョウ、野生復帰へ！</span></h3>
+<p class="gcf-txt-article">山岳博物館がライチョウの飼育・繁殖を行ってきた目標の一つは、ライチョウを野生復帰させることでした。野生のライチョウが危機に瀕した際に、放鳥という対応ができるようにするため、そして、繁殖技術や野生復帰の技術を確立するため、山岳博物館では飼育・繁殖を継続的に行ってきました。<br/>
+そして本年、飼育開始から60年の時を経て、ついに、山岳博物館で繁殖させたライチョウを野生に戻す取組みが実現します。<br/>
+<br/>
+</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">県内初、人の手で生まれ育ったライチョウの野生復帰</span></h3>
+<p class="gcf-txt-article">このたび、環境省と日本動物園水族館協会が連携し、ライチョウの野生復帰の取組みが行われることとなりました。野生復帰させる場所は、大町から少し離れた中央アルプスです。<br/>
+中央アルプスは、かつてライチョウが生息していたものの、昭和の時代に絶滅したとされる場所です。新たな生息地が増えることで、国内のライチョウが絶滅するリスクが減ることから、この地でライチョウを増やすことが決まりました。<br/>
+山岳博物館でも、これまでの経験を活かしてこの野生復帰の取組みに参画することになりました。今年は、人工繁殖（人の手で孵化・子育て）したライチョウを秋まで成長させ、放鳥することが予定されています。県内の動物園でも、山岳博物館としても、初めての取組みとなります。様々なハードルが予想されますが、ライチョウを将来に残すため、全力を挙げて繁殖と野生復帰に取り組んでまいります。<br/>
+<br/>
+<br/>
+</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20240408/gpfd_64fd332452a4d948007ccc709211095d8b557440.png" />
+<figcaption class="lyt-image__caption">ライチョウのヒナ</figcaption>
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20240408/gpfd_f3835877b3161467b46687549c6dfbc5ee4010bd.png" />
+<figcaption class="lyt-image__caption">食事中の親子ライチョウ</figcaption>
+</figure>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">ライチョウ飼育の日常</span></h3>
+<p class="gcf-txt-article">大町山岳博物館では、高山に暮らすライチョウの飼育繁殖の研究を行っているため、１年を通して、皆様にご覧いただくことができます。<br/>
+ライチョウは、夏はきりっとした姿、冬は丸くなる姿がとても可愛らしいです。<br/>
+</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20240408/gpfd_6fc64a5961d7e2e919f7bb6a91bfe4dec3f070cc.jpg" />
+<figcaption class="lyt-image__caption">夏のすがた</figcaption>
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20240408/gpfd_c00d944a6b31faa5fb7ea2548998ceee527ae4d0.jpg" />
+<figcaption class="lyt-image__caption">冬のすがた</figcaption>
+</figure>
+<p class="gcf-txt-article">＜飼育環境＞<br/>
+現在、４人の飼育員が、日々、ライチョウを育てています。<br/>
+<br/>
+きれいな飼育環境を維持するために、毎日、欠かさず飼育舎の清掃を行っています。さらに高山帯の環境を再現するための温度管理を行っており、細菌やウィルスの発生を防ぐためのフィルターの掃除などを行い清潔な状態を保っています。<br/>
+<br/>
+</p>
+<p class="gcf-txt-article">＜給餌（エサやり）＞<br/>
+ライチョウのエサは、小松菜や専用のペレットなどです。今年度は、生息現地の餌に近づけるため、高山植物を与える予定です。<br/>
+給餌は、１日に１回から２回で、週に１回は体重測定も行っています。<br/>
+</p>
+<p class="gcf-txt-article">＜健康管理＞<br/>
+ライチョウは、体調を崩すこともあります。<br/>
+そのため、糞の状態や日常の行動などを毎日確認するとともに、月に一回、糞を採取し、専門の研究機関に送り、細菌検査を行っています。24時間監視できるようカメラと録画でのチェックも行い、異常があれば早期に発見できるようにしています。<br/>
+<br/>
+</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20240408/gpfd_4ec46206b89fb9533336a12ff0608f9f339dfebf.png" />
+<figcaption class="lyt-image__caption">小松菜をついばむライチョウのヒナ</figcaption>
+</figure>
+<p class="gcf-txt-article">＜繁殖の取組み＞<br/>
+大町山岳博物館では、毎年、夏期の繁殖に向けて研究をしています。<br/>
+ライチョウの雛は、生育率が低く死んでしまうこともあります。そのため、生後１週間程度は、ライチョウが起きる日の出から日の入りまで、異常がないか徹底して観察を行っています。<br/>
+<br/>
+</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20240408/gpfd_08269b27a3b989de3cd5dcaae9537c50dcb87838.jpg" />
+<figcaption class="lyt-image__caption">人工孵化のライチョウの卵</figcaption>
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20240408/gpfd_0198f2f3ab8d1288cb81342d94358457c8ead5ab.jpg" />
+<figcaption class="lyt-image__caption">巣で卵を温めるライチョウ</figcaption>
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive" target="_blank" href="/city/donation/20212/33?from=2&amp;gcf_project_id=2899">ふるさと納税で応援</a>
+</div>
+</div>
+<div class="gcf-txt-link text-center gcf-txt mT16"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄付をする</a></div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">プロジェクトの目的と目標金額について</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">プロジェクトを行うこととなった経緯</span></h3>
+<p class="gcf-txt-article">大町山岳博物館では、昭和３８年からライチョウの飼育に取り組んできました。<br/>
+当時の時点で、ライチョウの生息数等を把握するため、信州大学などと協力し、延べ150日にわたり北アルプスで現地調査を行いました。<br/>
+そして、ライチョウを保全していくための研究として、より具体的な生態を知ることや増殖方法を確立することが重要であると考え、ライチョウの飼育を開始することとしました。<br/>
+<br/>
+ライチョウの飼育繁殖の取組みは、将来的に北アルプスのライチョウの生息環境の維持や山岳環境を守ることに重要な役割を果たすものと考えており、　現在、４人の飼育員が愛情をこめて、ライチョウを育てています。<br/>
+<br/>
+飼育には、きれいな環境を維持するための清掃や高山帯の環境を再現するための温度管理、細菌やウィルスの発生を防ぐためのエアコンのフィルターの掃除やカメラによる24時間の監視、健康状態を把握するための検査や週に１回の体重測定など、細心の注意を払って飼育しております。<br/>
+<br/>
+今後も、高山帯の環境を模した飼育舎の維持や健康管理のための検査費用、設備の改修などを行っていく必要があるため、この度、ライチョウを未来に向けて育て、保護していく飼育繁殖の研究を進めていくため、大町山岳博物館ライチョウ応援プロジェクトを立ち上げました。<br/>
+<br/>
+ライチョウを守るためには、まず多くの皆様に、ライチョウを知っていただく、関心を持っていただくことが重要です。<br/>
+北アルプスのライチョウ保全につながる飼育研究に、ぜひ、皆様にご協力いただきたくお願いいたします。<br/>
+<br/>
+</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20240419/gpfd_616aad5ac924bc68d6a8f0c4e3c732a4682900eb.jpg" />
+<figcaption class="lyt-image__caption">博物館に付属する小さな動物園（ここでライチョウを飼育）</figcaption>
+</figure>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">使い道</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">【使途】<br/>
+ライチョウの飼育繁殖のための研究や施設整備等のために活用します。<br/>
+<br/>
+【目標金額】<br/>
+2,500,000円<br/>
+※目標金額に達しなかった場合や、目標金額以上の寄附をいただいた場合も、ライチョウの飼育繁殖のための研究や施設整備等のために継続的に活用します。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive" target="_blank" href="/city/donation/20212/33?from=2&amp;gcf_project_id=2899">ふるさと納税で応援</a>
+</div>
+</div>
+<div class="gcf-txt-link text-center gcf-txt mT16"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄付をする</a></div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">さいごに<br/>
+</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">大町山岳博物館名誉館長からのメッセージ<br/>
+</span></h3>
+<p class="gcf-txt-article">気候変動をはじめとする自然環境の変化は、現在世界中で大きな課題となっています。野生のライチョウが暮らす高山帯においても、様々な変化が生じ、そこに暮らす動植物にも、すでに深刻な影響が現れています。そのような状況と向き合い、必要な対応をしていくためにも、山岳の自然や文化に関する情報を発信し、皆様に理解を深めていただくことが、山岳博物館の極めて重要な役割と考えています。<br/>
+このプロジェクトを通して、ライチョウのことや、ライチョウを取り巻く環境・取り組みなどを知っていただき、ライチョウたちの未来を守っていくため、ぜひご協力いただきますようお願いいたします。<br/>
+</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">大町市長からのメッセージ<br/>
+</span></h3>
+<p class="gcf-txt-article">昭和２９年に大町市が誕生し、ライチョウを市のシンボルに位置付けて以来、大町はライチョウとともに今日まで歩んでまいりました。<br/>
+大町山岳博物館での飼育研究では、これまでも幾度も困難に直面し、一時中断する時期もありましたが、現在では他機関との連携を取り、通年の飼育展示を実現しており、多くの来館者の皆様から称賛の声をいただいております。<br/>
+「神の鳥」とも呼ばれる、美しいライチョウの未来をこれからも守っていくこのプロジェクトに、ぜひご協力いただきますようお願いいたします。<br/>
+</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20240408/gpfd_16bb12170a450e06b30e382aa78ba336c7f13759.png" />
+<figcaption class="lyt-image__caption">寄り添うライチョウの親子</figcaption>
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive" target="_blank" href="/city/donation/20212/33?from=2&amp;gcf_project_id=2899">ふるさと納税で応援</a>
+</div>
+</div>
+<div class="gcf-txt-link text-center gcf-txt mT16"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄付をする</a></div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">ご寄付いただいた方への特典</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">◯本プロジェクトでは、ご希望いただいた皆様に、事業の報告としてライチョウの近況をお伝えするメール配信を予定しています。<br/>
+　※大町市在住の方にもお受け取りいただけます。<br/>
+<br/>
+◯大町市外在住の方には、寄付額に応じてページ下部の返礼品をお選びいただくことができます。<br/>
+<br/>
+◯注意事項<br/>
+　本プロジェクトへのご寄付は、ふるさと納税制度の対象となります。大町市にお住まいの方は、ご寄付をいただくことは可能ですが、お礼の品をお受け取りいただくことができません。何卒ご了承ください。<br/>
+　※大町市にお住まいの方が寄付される場合でも、寄付金控除はお受けいただけます。<br/>
+</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/20212/4750356/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201001/pd_7cac540ef0dd357a2b8f53b2e164a5b262616928.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【長野 大町温泉 北アルプス 立山 黒部】JTBふるぽWEB旅行クーポン（3,000円分）| 長野県 大町市</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄付完了後にご予約に必要なクーポンコード・パスワードをメールにてお知らせします。
+※発送物はありません。
+※【info@jtb-furusato.jp】【jtbdirect@jtb.co.jp】からのメールが受信できるよう設定ください。</p>
+</div>
+<p class="goods-col_textinfo pc">大町市で1泊以上の宿泊を伴う旅行に利用できるクーポンです。※発送物はありません。
+（１）取扱窓口
+JTBホームページ限定
+※JTB店舗、JTB総合提携店 、JTB国内商品取扱店、JTB旅の予約センター（電話受付専用）、JTBリモートコンシェルジュ（リモート相談専用）ではご利用になれません。
+※クーポン利用にはJTBトラベルメンバー登録会員の登録（無料）が必要です。登録サイト：https://member.jtb.co.jp/myjtb/Regist.aspx?pn=002
+（２）対象商品
+寄付した自治体（対象地区）に1泊以上する以下商品
+【JTBプラン、るるぶトラベルプラン(ホテル・旅館・宿)、JTBダイナミックパッケージMySTYLE（JR・飛行機＋宿・ホテル）※一部対象外あり】
+※旅物語、海外旅行、旅行保険、取消料、現地精算、予約済の旅行にはご利用になれません。
+（３）旅行申込
+お申込はJTBホームページ限定です。
+※使用方法や宿泊できる施設：http://www.jtb.co.jp/myjtb/campaign/coupon/furupo/
+・予約画面で【クーポンコード】と【パスワード】を入力ください。
+・旅行代表者（契約責任者）は寄付者ご本人様に限ります。
+・旅行代金がクーポンの合計利用料金を下回る場合、差額返金はありません。
+・予約済の旅行への利用をご希望の場合は予約の取り直しが必要です。空室状況・取消料発生期間にご注意ください。ご旅行予約を取消した場合、有効期限内のクーポンは再度ご利用可能です。
+・1回のご予約に利用可能なクーポンは10枚です。
+（４）その他
+クーポンコード・パスワードのメールが届かない、クーポンの分割・統合をご希望の場合は以下宛先までメールにてお問い合わせください。
+■宛先：jtbdirect@jtb.co.jp
+■必須記載項目：1.注文番号　2.寄付した自治体　3.クーポン金額　4.寄付者名　5.クーポンコード　6.パスワード（※5.6.はクーポンの分割および統合をご希望の場合記載ください）
+関連キーワード：長野県 大町市 大町 トラベル 宿泊 予約 人気 おすすめ</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/20212/4750357/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201001/pd_a3954f76e89ce426e7094e1b9f0e16f38396e231.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【長野 大町温泉 北アルプス 立山 黒部】JTBふるぽWEB旅行クーポン（15,000円分）｜ 長野県 大町市</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄付完了後にご予約に必要なクーポンコード・パスワードをメールにてお知らせします。
+※発送物はありません。
+※【info@jtb-furusato.jp】【jtbdirect@jtb.co.jp】からのメールが受信できるよう設定ください。</p>
+</div>
+<p class="goods-col_textinfo pc">大町市で1泊以上の宿泊を伴う旅行に利用できるクーポンです。※発送物はありません。
+（１）取扱窓口
+JTBホームページ限定
+※JTB店舗、JTB総合提携店 、JTB国内商品取扱店、JTB旅の予約センター（電話受付専用）、JTBリモートコンシェルジュ（リモート相談専用）ではご利用になれません。
+※クーポン利用にはJTBトラベルメンバー登録会員の登録（無料）が必要です。登録サイト：https://member.jtb.co.jp/myjtb/Regist.aspx?pn=002
+（２）対象商品
+寄付した自治体（対象地区）に1泊以上する以下商品
+【JTBプラン、るるぶトラベルプラン(ホテル・旅館・宿)、JTBダイナミックパッケージMySTYLE（JR・飛行機＋宿・ホテル）※一部対象外あり】
+※旅物語、海外旅行、旅行保険、取消料、現地精算、予約済の旅行にはご利用になれません。
+（３）旅行申込
+お申込はJTBホームページ限定です。
+※使用方法や宿泊できる施設：http://www.jtb.co.jp/myjtb/campaign/coupon/furupo/
+・予約画面で【クーポンコード】と【パスワード】を入力ください。
+・旅行代表者（契約責任者）は寄付者ご本人様に限ります。
+・旅行代金がクーポンの合計利用料金を下回る場合、差額返金はありません。
+・予約済の旅行への利用をご希望の場合は予約の取り直しが必要です。空室状況・取消料発生期間にご注意ください。ご旅行予約を取消した場合、有効期限内のクーポンは再度ご利用可能です。
+・1回のご予約に利用可能なクーポンは10枚です。
+（４）その他
+クーポンコード・パスワードのメールが届かない、クーポンの分割・統合をご希望の場合は以下宛先までメールにてお問い合わせください。
+■宛先：jtbdirect@jtb.co.jp
+■必須記載項目：1.注文番号　2.寄付した自治体　3.クーポン金額　4.寄付者名　5.クーポンコード　6.パスワード（※5.6.はクーポンの分割および統合をご希望の場合記載ください）
+関連キーワード：長野県 大町市 大町 トラベル 宿泊 予約 人気 おすすめ</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/20212/4750358/33">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201001/pd_e6b1448262633c28a83afe85771fd22ec11af724.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【長野 大町温泉 北アルプス 立山 黒部】JTBふるぽWEB旅行クーポン（30,000円分）| 長野県 大町市</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>寄付完了後にご予約に必要なクーポンコード・パスワードをメールにてお知らせします。
+※発送物はありません。
+※【info@jtb-furusato.jp】【jtbdirect@jtb.co.jp】からのメールが受信できるよう設定ください。</p>
+</div>
+<p class="goods-col_textinfo pc">大町市で1泊以上の宿泊を伴う旅行に利用できるクーポンです。※発送物はありません。
+（１）取扱窓口
+JTBホームページ限定
+※JTB店舗、JTB総合提携店 、JTB国内商品取扱店、JTB旅の予約センター（電話受付専用）、JTBリモートコンシェルジュ（リモート相談専用）ではご利用になれません。
+※クーポン利用にはJTBトラベルメンバー登録会員の登録（無料）が必要です。登録サイト：https://member.jtb.co.jp/myjtb/Regist.aspx?pn=002
+（２）対象商品
+寄付した自治体（対象地区）に1泊以上する以下商品
+【JTBプラン、るるぶトラベルプラン(ホテル・旅館・宿)、JTBダイナミックパッケージMySTYLE（JR・飛行機＋宿・ホテル）※一部対象外あり】
+※旅物語、海外旅行、旅行保険、取消料、現地精算、予約済の旅行にはご利用になれません。
+（３）旅行申込
+お申込はJTBホームページ限定です。
+※使用方法や宿泊できる施設：http://www.jtb.co.jp/myjtb/campaign/coupon/furupo/
+・予約画面で【クーポンコード】と【パスワード】を入力ください。
+・旅行代表者（契約責任者）は寄付者ご本人様に限ります。
+・旅行代金がクーポンの合計利用料金を下回る場合、差額返金はありません。
+・予約済の旅行への利用をご希望の場合は予約の取り直しが必要です。空室状況・取消料発生期間にご注意ください。ご旅行予約を取消した場合、有効期限内のクーポンは再度ご利用可能です。
+・1回のご予約に利用可能なクーポンは10枚です。
+（４）その他
+クーポンコード・パスワードのメールが届かない、クーポンの分割・統合をご希望の場合は以下宛先までメールにてお問い合わせください。
+■宛先：jtbdirect@jtb.co.jp
+■必須記載項目：1.注文番号　2.寄付した自治体　3.クーポン金額　4.寄付者名　5.クーポンコード　6.パスワード（※5.6.はクーポンの分割および統合をご希望の場合記載ください）
+関連キーワード：長野県 大町市 大町 トラベル 宿泊 予約 人気 おすすめ</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">長野県大町市</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">大町市は長野県の北西部、鹿島槍ヶ岳や爺ヶ岳、蓮華岳など３，０００ｍ級の北アルプスの麓に位置する、人口約25,000人の自然豊かなまちです。<br/>
+　黒部ダムでも有名な世界有数の山岳観光ルートである、立山黒部アルペンルートの長野県側の玄関口であるとともに、北アルプス登山の拠点としても多くの観光客が訪れます。<br/>
+　市北部には、木崎湖・中綱湖・青木湖と三つの湖が連なる仁科三湖があり、夏のアウトドアや青木湖での幻想的なホタル観賞クルーズ、ワカサギ釣りなどが楽しめるほか、犀川でのラフティングや国営アルプスあづみの公園大町・松川地区での自然体験、冬のスキーなど、四季を通じて自然の魅力を体感できます。<br/>
+　また、北アルプスの山々の恵みである良質な湧水に恵まれ、水資源を活かしたそばや米などの食はもちろん、地酒や地ビールも楽しむことができます。<br/>
+</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">大町山岳博物館にはたびたびお伺いし、ライチョウが元気に過ごしている様子を拝見させていただいております。いつまでも彼らが健やかに生活でき、ゆくゆくは北アルプスをはじめとする本来の生息地での数の増加に寄与できることを願っています。</p>
+<p class="gcf-bx-message__date">2024年5月8日 17:03</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">ライチョウを保護し、日本の高山の環境を守り、次世代につなげることは地球を守ることと同等と考えます。今年、来年の大きなプロジェクトを心から応援しています。微力ながらエサ代にしていただければと思います。スタッフの方たちも頑張ってください。</p>
+<p class="gcf-bx-message__date">2024年5月6日 18:35</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">SNSで山岳博物館のことを知りました。ささやかですが動物保護など活動に役立てば幸いです。</p>
+<p class="gcf-bx-message__date">2024年6月2日 18:51</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">昨年の夏、ライチョウ見に行きました。快適な環境で過ごせるよう願っています。</p>
+<p class="gcf-bx-message__date">2024年5月28日 6:19</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">未来の世代になってもライチョウと共に在ることを願って寄付致します。</p>
+<p class="gcf-bx-message__date">2024年5月15日 11:55</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">ライチョウ保護　ありがとうございます<br/>
+頑張ってください</p>
+<p class="gcf-bx-message__date">2024年5月13日 7:02</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">instaの発信が楽しみです。</p>
+<p class="gcf-bx-message__date">2024年4月29日 22:05</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">応援しています。</p>
+<p class="gcf-bx-message__date">2024年4月29日 21:12</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">ライチョウ大好きです！</p>
+<p class="gcf-bx-message__date">2024年4月29日 9:25</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">小さな時から行ったことのある思い入れの詰まった博物館です。難しいライチュウの飼育これからも応援しています。</p>
+<p class="gcf-bx-message__date">2024年4月28日 20:47</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">大町市の方々や自然に、いつもパワーをいただいています。これからも素晴らしい自然と動物たちを保護する活動を支援したいです。</p>
+<p class="gcf-bx-message__date">2024年4月28日 18:54</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">昔小学生の頃、山岳博物館の友の会みたいなのの会員でした。懐かしいです。雷鳥プロジェクト頑張ってください！</p>
+<p class="gcf-bx-message__date">2024年4月28日 8:08</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/2899">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+<div class="payment-method">
+<p>・クレジットカード払い</p>
+</div>
+<div class="payment-method">
+<p>・Amazon Pay</p>
+</div>
+<div class="payment-method">
+<p>・PayPay</p>
+</div>
+<div class="payment-method">
+<p>・d払い</p>
+</div>
+<div class="payment-method">
+<p>・au PAY</p>
+</div>
+<div class="payment-method">
+<p>・楽天ペイ</p>
+</div>
+<div class="payment-method">
+<p>・メルペイ</p>
+</div>
+<div class="payment-method">
+<p>・あと払い（ペイディ）</p>
+</div>
+<div class="payment-method">
+<p>・PayPal</p>
+</div>
+<div class="payment-method">
+<p>・auかんたん決済</p>
+</div>
+<div class="payment-method">
+<p>・ソフトバンクまとめて支払い</p>
+</div>
+<div class="payment-method">
+<p>・ネットバンク支払い</p>
+</div>
+<div class="payment-method">
+<p>・コンビニ支払い</p>
+</div>
+<div class="payment-method">
+<p>・ペイジー支払い</p>
+</div>
+<div class="payment-method">
+<p>・郵便振替</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">長野県大町市の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/20212/33?from=2&amp;gcf_project_id=2899"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,668,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g2899,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

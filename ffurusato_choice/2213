@@ -1,0 +1,2288 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/2213" />
+
+<title>【養鶏産業支援】鳥インフルエンザから養鶏のまちを守りたい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="【養鶏産業支援】鳥インフルエンザから養鶏のまちを守りたい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/2213" />
+<meta property="og:description" content="令和4年11月17日に今季1例目の鳥インフルエンザ発生が確認され、農家さんが愛情をこめて育ててきた約12万羽の採卵鶏が殺処分されました。出水市は鶏卵の産出額が全国トップの一大生産地です。市内では約290万羽の採卵鶏を飼養しています。しかしながら、1例目以降も立て続けに発生し、12月13日現在、計9例、約120万羽が殺処分の対象となりました。また、鳥インフルエンザの発生により、周辺地域では、一定期間鶏や卵等の移動が禁止・制限され、農家だけでなく鶏卵処理施設、鶏卵等を使用する加工施設等の経営にも大きな影響を与えています。さらに、養鶏産業への風評被害も懸念されています。通常、人が鶏肉や鶏卵を食べて鳥インフルエンザに感染することはなく、加熱すれば感染性はなくなります。また、感染した鶏肉等が市場に出回ることはありません。私たちは、正しい情報の発信に努めていますが、鳥インフルエンザが発生すると、やはり不安の声が寄せられます。出水市では、これ以上の感染拡大をなんとしても防ぎたいとの思いで、国や県、関係団体と連携し、24時間体制で防疫対策に取り組んでいます。皆様におかれましても、農家さんや養鶏産業に関わる方々の思い、そして本市の取組にご理解いただき、ご支援くださいますようお願いいたします。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221216/d_50c4a04fd68488930748dcb316b028196c4a0bd9.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221216/d_50c4a04fd68488930748dcb316b028196c4a0bd9.jpg" />
+<meta property="twitter:title" content="【養鶏産業支援】鳥インフルエンザから養鶏のまちを守りたい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="令和4年11月17日に今季1例目の鳥インフルエンザ発生が確認され、農家さんが愛情をこめて育ててきた約12万羽の採卵鶏が殺処分されました。出水市は鶏卵の産出額が全国トップの一大生産地です。市内では約290万羽の採卵鶏を飼養しています。しかしながら、1例目以降も立て続けに発生し、12月13日現在、計9例、約120万羽が殺処分の対象となりました。また、鳥インフルエンザの発生により、周辺地域では、一定期間鶏や卵等の移動が禁止・制限され、農家だけでなく鶏卵処理施設、鶏卵等を使用する加工施設等の経営にも大きな影響を与えています。さらに、養鶏産業への風評被害も懸念されています。通常、人が鶏肉や鶏卵を食べて鳥インフルエンザに感染することはなく、加熱すれば感染性はなくなります。また、感染した鶏肉等が市場に出回ることはありません。私たちは、正しい情報の発信に努めていますが、鳥インフルエンザが発生すると、やはり不安の声が寄せられます。出水市では、これ以上の感染拡大をなんとしても防ぎたいとの思いで、国や県、関係団体と連携し、24時間体制で防疫対策に取り組んでいます。皆様におかれましても、農家さんや養鶏産業に関わる方々の思い、そして本市の取組にご理解いただき、ご支援くださいますようお願いいたします。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,601,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="2213" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">【養鶏産業支援】鳥インフルエンザから養鶏のまちを守りたい！</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">【養鶏産業支援】鳥インフルエンザから養鶏のまちを守りたい！</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1025">災害&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221216/d_50c4a04fd68488930748dcb316b028196c4a0bd9.jpg" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E3%80%90%E9%A4%8A%E9%B6%8F%E7%94%A3%E6%A5%AD%E6%94%AF%E6%8F%B4%E3%80%91%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6%E3%81%8B%E3%82%89%E9%A4%8A%E9%B6%8F%E3%81%AE%E3%81%BE%E3%81%A1%E3%82%92%E5%AE%88%E3%82%8A%E3%81%9F%E3%81%84%EF%BC%81&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F2213">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">4,621,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 92.4%;"></div>
+<p class="gcf-cht-detail-bar__number">92.4%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">5,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">92.4</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">350</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>鹿児島県出水市（かごしまけん いずみし）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="2213" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+<li>
+<a class="js-modal-not-available-in-mobile-app-trigger i-arrow" href="#" data-modal-id="contact">お問い合わせ先</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2022年12月19日～2023年3月18日（90日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1030" class="sorting-list__item">防災・公衆衛生</a></li><li><a href="/gcf/project/tag/1034" class="sorting-list__item">食</a></li><li><a href="/gcf/project/tag/1035" class="sorting-list__item">山・農業</a></li><li><a href="/gcf/project/tag/1044" class="sorting-list__item">働き方・雇用</a></li><li><a href="/gcf/project/tag/1056" class="sorting-list__item">災害</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1088" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_9.png 1x, /gcf/images_cf/sdg/sdg_icon_9@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_9.png" alt="SDGアイコン" decoding="async" />9.産業と技術革新の基盤をつくろう</a></li><li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li><li><a href="/gcf/project/sdgs/1094" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_15.png 1x, /gcf/images_cf/sdg/sdg_icon_15@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_15.png" alt="SDGアイコン" decoding="async" />15.陸の豊かさも守ろう</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="2213" class="gcf-nv-tab__button js-tab">進捗情報
+<span class="gcf-nv-tab__button-progress-number">1</span>
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">鹿児島県出水市</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221214/o_15f51fce0fd8173097e4d7ba654dc17f60d75522.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">令和4年11月17日に今季1例目の鳥インフルエンザ発生が確認され、農家さんが愛情をこめて育ててきた約12万羽の採卵鶏が殺処分されました。<br/>
+<br/>
+出水市は鶏卵の産出額が全国トップの一大生産地です。市内では約290万羽の採卵鶏を飼養しています。しかしながら、1例目以降も立て続けに発生し、12月13日現在、計9例、約120万羽が殺処分の対象となりました。<br/>
+<br/>
+また、鳥インフルエンザの発生により、周辺地域では、一定期間鶏や卵等の移動が禁止・制限され、農家だけでなく鶏卵処理施設、鶏卵等を使用する加工施設等の経営にも大きな影響を与えています。<br/>
+<br/>
+さらに、養鶏産業への風評被害も懸念されています。通常、人が鶏肉や鶏卵を食べて鳥インフルエンザに感染することはなく、加熱すれば感染性はなくなります。<br/>
+また、感染した鶏肉等が市場に出回ることはありません。私たちは、正しい情報の発信に努めていますが、鳥インフルエンザが発生すると、やはり不安の声が寄せられます。<br/>
+<br/>
+出水市では、これ以上の感染拡大をなんとしても防ぎたいとの思いで、国や県、関係団体と連携し、24時間体制で防疫対策に取り組んでいます。<br/>
+<br/>
+皆様におかれましても、農家さんや養鶏産業に関わる方々の思い、そして本市の取組にご理解いただき、ご支援くださいますようお願いいたします。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221216/gpfd_25a657b0966d4cebb24e15b05798eb0ffc54fe50.jpg" />
+</figure>
+<h3 class="gcf-ttl-h3">鳥インフルエンザによって、出水市内の養鶏農家さんに大きな影響がありました。</h3>
+<p class="gcf-txt-article">令和4年11月17日に今季1例目の鳥インフルエンザが発生。<br/>
+その後も立て続けに発生し、12月13日現在、農家さんが愛情をこめて育ててきた採卵鶏の約120万羽が殺処分の対象となりました。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">周辺地域への影響も。</h3>
+<p class="gcf-txt-article">鳥インフルエンザの発生は、発生農場だけではなく、周辺地域でも、一定期間鶏や卵等の異動が禁止・制限されます。<br/>
+農家さんだけではなく、鶏卵処理施設や加工施設もその対象となり、施設などの経営にも大きな影響を与えています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">風評被害も懸念されています。</h3>
+<p class="gcf-txt-article">通常、人が鶏肉や鶏卵を食べて鳥インフルエンザに感染することはなく、加熱により感染性はなくなります。また、感染した鶏肉等が市場に出回ることはありません。養鶏がさかんな本市では、正しい情報の発信に努めていますが、やはり不安の声が寄せられます。</p>
+<h3 class="gcf-ttl-h3">これ以上の感染拡大防止のために取り組んでいること。</h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221214/gpfd_48b9b7e938ae15a62e38b80d4fee74df449bcecc.jpg" />
+</figure>
+<p class="gcf-txt-article">出水市では、これ以上の感染拡大をなんとしても防ぎたいとの思いで、国や県、関係団体と連携し、24時間体制で防疫対策に取り組んでいます。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">寄附金の使い道</h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">皆様からいただいた寄付金は、車両消毒や、市内養鶏農家への防疫資材の配布、愛がん鳥飼養者への消毒液の配布など、各種防疫対策事業に活用させていただきます。<br/>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<p class="gcf-txt-article">皆様におかれましても、農家さんや養鶏産業に関わる方々の思い、そして本市の取組にご理解いただき、ご支援くださいますようお願いいたします。</p>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/5653305/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221213/pd_b6148a6e79fa7cbd76a90b44c1e4df5dd4fa2eb0.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i701 ≪ふるさと納税限定セット！≫マイメロディとクロミコラボ上生菓子セット(計6個) 出水市 特産品 お菓子 菓子 和菓子 スイーツ あんこ キャラクター オリジナル プレゼント ギフト 贈り物 【リッチモン松元】</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2022年12月09日00時00分～2025年03月31日23時59分</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、2ヵ月以内の発送</p>
+</div>
+<p class="goods-col_textinfo pc">出水市の返礼品人気上位の和菓子からサンリオとのコラボのキャラクターのスイーツが登場！マイメロディ、クロミと、ファンシーな雰囲気のハートやリボンをモチーフにしたお菓子！プレゼントにも、自分用にも◎
+マイメロ、クロミの上生菓子と、ファンシーな雰囲気のハートやリボンをモチーフにした上生菓子のセットが登場しました。ご自分用にもプレゼントにもピッタリ。
+上生菓子のおいしさはそのままに、見た目でもより楽しんでいただける逸品です。ＳＮＳ映えも間違いなし！
+【注意事項】
+・解凍後は冷蔵庫で保管し、お早めにお召し上がりください。
+※解凍後の再冷凍はお控えください。
+・画像はイメージです。ひとつひとつ手作りでお届けするため、実物と異なる場合があります。
+ふるさと納税 出水市 特産品 お菓子 菓子 和菓子 スイーツ あんこ キャラクター オリジナル プレゼント ギフト 贈り物 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4823916/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240517/pd_9843d1ef4d86d9b8556587520724165806247d30.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i283 鹿児島限定！本格芋焼酎特撰5種セレクト飲み比べセット＜900ml×5本＞ 酒 芋焼酎 焼酎 アルコール 飲みくらべ 詰め合わせ 宅飲み 家飲み プレゼント【酒舗三浦屋】</h4>
+<p class="goods-col_price inline">17,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、10日以内の発送になります。
+(長期休暇、お盆、年末年始を除く) スピード配送便のため、お申し込み後のキャンセル・配送先情報の変更はできない場合もございます。ご了承くださいませ。</p>
+</div>
+<p class="goods-col_textinfo pc">鹿児島限定品の中でも特に珍しい焼酎のみ詰合せ。
+プレゼントにも喜ばれます♪
+鹿児島県内限定販売の芋焼酎5種類の飲み比べセット。
+900mlボトルが5種類、5本入りとなっております。
+数ある鹿児島限定の芋焼酎の中でも特に生産量が少なく珍しい物を5種類セレクト。
+「酔々(よいよい)」
+…鹿児島県産の良質なさつま芋(コガネセンガン)を使用し、昔ながらのかめ壺にて仕込み、さらに長期間に渡り貯蔵し柔らかな口当たりに仕上げております。
+「織鶴(おりづる)」
+…鹿児島県産のさつま芋を使用し、仕込み水に蔵元のある高尾野より湧き出る、弱アルカリ性単純水を使用しております。 柔らかく広がりのある香味が特徴です。
+「薩摩乃粋(さつまのいき)」
+…薩摩焼酎の伝統的な製法を守り、鹿児島県産の良質なさつま芋を用いて丁寧に醸されております。バランスよく飲み飽きしない1本です。
+「紫美の峰(しびのみね)」
+…芋焼酎は通常&quot;米麹&quot;を使用しますが、こちらは あえて&quot;麦麹&quot;を使用しています。 ロックや水割りなどで飲む時にさらっとした口当たりです。
+「薩摩娘(さつまっこ)」
+…鹿児島県産の&quot;紅あずま&quot;という品種の紅芋を用いて造られております。華やかな香りがあり、香味のいい仕上がりの紅芋焼酎です。
+【原材料】
+酔々 25度 900ml：さつま芋(鹿児島県産)、米麹
+織鶴 25度 900ml：さつま芋(鹿児島県産)、米麹
+薩摩乃粋 25度 900ml：さつま芋(鹿児島県産)、米麹
+紫美の峰 25度 900ml：さつま芋(鹿児島県産)、麦、米麹、麦麹
+薩摩娘 25度 900ml：さつま芋(鹿児島県産)、米麹
+【注意事項】
+20歳未満の飲酒は法律で禁じられております。
+妊娠中や授乳中の飲酒はお控えください。
+お酒は楽しく適量を。
+【ギフト対応可】
+ギフト対応いたします。
+送付先を宛名としてお送りいたします。
+熨斗・ギフト対応をご希望の場合は備考欄にご記載ください。
+納期は1か月以内の発送となります。配送日のご要望を承ることはできませんので、余裕を持ってご寄附をお願いいたします。
+※ふるさと納税の表記は入りません。
+ふるさと納税 出水市 特産品 酒 芋焼酎 焼酎 アルコール 飲みくらべ 詰め合わせ 宅飲み 家飲み プレゼント</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/5557794/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221024/pd_54d1503b26462b501d9caee54ab7d76d7caf134b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i670 南国元気鶏むね肉(300g×12パック・計3.6kg) 肉 鶏肉 鳥肉 小分け ムネ チキン 国産 から揚げ チキンカツ 冷凍 南国元気鶏【マルイ食品(鹿児島)】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、2ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">＜養鶏の専門農協！マルイ農協グループ＞国産だから安心安全の鶏肉！唐揚げやチキンカツ、クリーム煮にも♪
+小分けパックで使いやすい！調理しやすい切り身タイプのムネ肉！
+抗生物質や合成抗菌剤を添加しない飼料で育てた安全で高品質なマルイの「南国元気鶏」鶏むね肉を調理しやすく食べやすい切身にしました。
+「南国元気鶏」のむね肉は、味の濃厚さと後味のキレが特徴です。
+ムダがなく美味しい状態で利用できる300ｇのパックが１２袋入り。
+唐揚げやチキンカツ、クリーム煮等いろんな料理で活きる素材です。
+【注意事項】
+1.保存温度が保たれない場合賞味期限が短くなります。
+2.解凍後は賞味期限にかかわらずお早めに御使用下さい。
+3.十分に熱を通してお召し上がりください。
+ふるさと納税 出水市 特産品 肉 鶏肉 鳥肉 小分け ムネ チキン 国産 から揚げ チキンカツ 冷凍 南国元気鶏</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/5557795/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221024/pd_68a1ba0fcae5568ef82990368d9b8fa5e4f6ce81.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i671 南国元気鶏人気商品詰合せ(もも肉・ムネ肉・手羽元・合計3kg) 肉 鶏肉 鳥肉 詰め合わせ セット 食べくらべ 食べ比べ 小分け モモ ムネ 手羽元 チキン 国産 冷凍 南国元気鶏【マルイ食品(鹿児島)】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">＜養鶏の専門農協！マルイ農協グループ＞国産だから安心安全！人気の鶏肉3種を食べ比べ！
+小分けパック＆切り身だから使いやすい！マルイの若鶏もも肉、むね肉、手羽もとの3種セット！
+抗生物質や合成抗菌剤を添加しない飼料で育てた安全で高品質なマルイの「南国元気鶏」。
+他に比べコクやうま味が強く後味がすっきりして食べ飽きないもも肉切身4Ｐ、
+味の濃厚さと後味にキレがあるのが特徴のむね肉切身4Ｐ、
+骨付き肉の旨味が活きる手羽もと2Ｐの３種類をセットにしました。
+ムダがなく美味しい状態で利用できる300ｇパックです。
+【注意事項】
+1.保存温度が保たれない場合賞味期限が短くなります。
+2.解凍後は賞味期限にかかわらずお早めに御使用下さい。
+3.十分に熱を通してお召し上がりください。
+ふるさと納税 出水市 特産品 肉 鶏肉 鳥肉 詰め合わせ セット 食べくらべ 食べ比べ 小分け モモ ムネ 手羽元 チキン 国産 冷凍 南国元気鶏</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4921806/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201027/pd_32237357750a4fa95449f034338a5966d3d2fb28.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i326 《業務用・訳あり》Newポークウインナー(1kg×3P・計3kg) ウインナー 豚肉 国産 肉加工品 訳アリ簡易包装 業務用 おかず お弁当 晩御飯【ナンチク】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、3ヵ月以内の発送になります。</p>
+</div>
+<p class="goods-col_textinfo pc">＜合計3kg＞そのまま焼いておつまみに、お料理に使っておかずに！簡易包装でお届け！
+おかずやお弁当に大活躍の国産豚肉使用のウィンナーソーセージ！
+ポークウインナー合計3kgでお届けします。
+そのままでも美味しく召し上がれますが、ボイルするかあるいはフライパン等で軽く炒めますと、よりいっそう美味しく召し上がれます。
+※冷凍でお届け致します。
+※製造の都合上、霜がついていることがございます。味・品質には問題ございませんのでご了承くださいませ。
+【原材料】
+原材料は商品に表示（※詳しくはお問い合わせください。）
+ふるさと納税 出水市 特産品 ウインナー 豚肉 国産 肉加工品 訳アリ簡易包装 業務用 おかず お弁当 晩御飯</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4921807/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230913/pd_13d5512027acdaa5a3e55bcb1df7b0656603fc6a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i327 《業務用・訳あり》焼豚 (約900g×2P) 焼き豚 チャーシュー 国産 豚肉 肉加工品 訳アリ 業務用 醤油ベース じっくり調理 サラダ ラーメン チャーハン 料理 具材 【ナンチク】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、3ヵ月以内の発送になります。</p>
+</div>
+<p class="goods-col_textinfo pc">ジューシーな旨味は様々な料理にマッチします♪
+国産豚肉を醤油ベースの調味料で味付けし焼き上げました。
+マイルドな食感と豚肉の旨味をお楽しみいただけます。サラダや麺類、チャーハンの具材など様々な料理でお楽しみください。
+【原材料】原材料は商品に表示　（※詳しくはお問い合わせください。）
+ふるさと納税 出水市 特産品 焼き豚 チャーシュー 国産 豚肉 肉加工品 訳アリ 業務用 醤油ベース じっくり調理 サラダ ラーメン チャーハン 料理 具材 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4723446/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230905/pd_db933cf4c4aef4f5badd87efd7e6ff107af540e9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i218 鹿児島県産！黒毛和牛の究極の手ごねハンバーグ(100g×7個) 4～5等級の100％国産ハンバーグ！国産牛肉だから安心安全！今夜の夕食に簡単調理！ ハンバーグ 牛肉 黒毛和牛 100％ 国産 冷凍 おかず 手ごねハンバーグ 安心安全 簡単調理 【スーパーよしだ】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">あふれる肉汁！お子様が大好きな美味しい牛肉使用のハンバーグ！
+鹿児島県産黒毛和牛4～5等級100%のハンバーグステーキです。あふれる肉汁をぜひかみしめていただきたい一品です。
+【原材料】
+牛肉(鹿児島県産和牛）、たまねぎ、たまご、網脂、生パン粉、塩こしょう／ビタミンC、イーストフード、（一部に小麦・たまご・大豆を含む）
+ふるさと納税 出水市 特産品 ハンバーグ 牛肉 黒毛和牛 100％ 国産 冷凍 おかず 手ごねハンバーグ 安心安全 簡単調理 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4784760/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230905/pd_fa5269ceb74671f912d7eab200d482bf11484a28.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i245 【訳あり】鹿児島県産！黒毛和牛の究極の手ごねハンバーグ(100g×8個) ハンバーグ 牛肉 黒毛和牛 100％ 保存料 無添加 国産 冷凍 おかず 手ごねハンバーグ 安心安全 簡単調理【スーパーよしだ】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">4～5等級の100％国産ハンバーグ！
+あふれる肉汁！お子様が大好きな美味しい牛肉使用のハンバーグ！
+鹿児島県産黒毛和牛4～5等級100%のハンバーグステーキです。あふれる肉汁をぜひかみしめていただきたい一品です。
+※【訳あり】ご自宅用エコパッケージのため。
+【原材料】
+牛肉(鹿児島県産和牛）、たまねぎ、たまご、網脂、生パン粉、塩こしょう／ビタミンC、イーストフード、（一部に小麦・たまご・大豆を含む）
+ふるさと納税 出水市 特産品 ハンバーグ 牛肉 黒毛和牛 100％ 保存料 無添加 国産 冷凍 おかず 手ごねハンバーグ 安心安全 簡単調理</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/5343838/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240314/pd_e8bc8b2753d6892421279872d0325f1c0a2fe644.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i579 ＜訳あり＞(網脂なし)鹿児島県産黒毛和牛の究極の手ごねハンバーグ(100g×9個・計900g) ハンバーグ 牛肉 黒毛和牛 100％ 国産 冷凍 おかず エコパッケージ 小分け 手ごねハンバーグ 安心安全 簡単調理 【スーパーよしだ】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">あふれる肉汁！お子様が大好きな美味しい牛肉使用のハンバーグ！
+4～5等級の国産牛肉100％使用のハンバーグ！
+鹿児島県産黒毛和牛4～5等級100%のハンバーグステーキです。あふれる肉汁をぜひかみしめていただきたい一品です。
+自宅で使いやすい1個ずつ小分け包装しておりますので、ささっと調理できます。冷蔵庫で1日解凍後、軽く牛脂をしいてそのおままフライパンで焼いてください。
+網脂が苦手という方のためにご準備しました。
+※【訳あり】ご自宅用エコパッケージのため、訳ありとなります。
+【原材料】
+牛肉(鹿児島県産和牛)、たまねぎ、たまご、生パン粉、塩こしょう／ビタミンC、イーストフード、（一部に小麦・たまご・大豆を含む）
+ふるさと納税 出水市 特産品 ハンバーグ 牛肉 黒毛和牛 100％ 国産 冷凍 おかず エコパッケージ 小分け 手ごねハンバーグ 安心安全 簡単調理 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/5140701/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221102/pd_ff6115f164608acab6a665e8bdd514ad2b6d431a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i505 鹿児島県産うなぎ蒲焼2尾セット(約140g×2・計約280g) うなぎ 鰻 ウナギ 2尾 蒲焼き 国産 鹿児島県産 焼きたて 生産量日本一 真空パック おかず 晩御飯 特別な日 土用の丑の日【薩摩川内鰻】</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">うなぎ生産量日本一の鹿児島県産の鰻！焼きたての国産ウナギ蒲焼きをご家庭で
+ふっくらやわらか。『過熱水蒸気』で焼いた鰻の蒲焼き！真空パックでお届け
+厳選した鹿児島産の鰻を使用。
+焼き工程ではまず初めに備長炭に近い波長特性を持つ電気ヒーターとガスを併用しゆっくり丁寧に焼き上げています。
+次にじっくり蒸し上げる事で、身が崩れるほどのふわっふわな食感に仕上げます。そして業界では初となる過熱水蒸気システムを採用。水蒸気で焼く事で、従来の鰻の蒲焼きでは味わえない程の、ふっくら柔らかな身にしていきます。
+最後にタレ付け焼き(蒲焼)を4回繰り返すことでふっくら柔らかんで濃厚な味の鰻の蒲焼きとなっています。
+【原材料】
+うなぎ蒲焼：うなぎ（鹿児島県）、しょうゆ（小麦・大豆を含む）、みりん、砂糖、でん粉
+添付蒲焼のたれ（さんしょう付）：たれ（しょうゆ（小麦・大豆を含む、国内製造）、水飴、砂糖、醗酵調味料/カラメル色素、調味料（アミノ酸等）、V、B1）、さんしょう(さんしょう)
+ふるさと納税 出水市 特産品 うなぎ 鰻 ウナギ 2尾 蒲焼き 国産 鹿児島県産 焼きたて 生産量日本一 真空パック おかず 晩御飯 特別な日 土用の丑の日</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/5140702/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221102/pd_9f157ea7e3c151f61634a8f9ad7e457260cbd1f2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i506 鹿児島県産うなぎ蒲焼3尾セット(約140g×3・計約420g) うなぎ 鰻 ウナギ 3尾 蒲焼き 国産 鹿児島県産 焼きたて 生産量日本一 真空パック おかず 晩御飯 特別な日 土用の丑の日 【薩摩川内鰻】</h4>
+<p class="goods-col_price inline">22,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">うなぎ生産量日本一の鹿児島県産の鰻！焼きたての国産ウナギ蒲焼きをご家庭で
+ふっくらやわらか。『過熱水蒸気』で焼いた鰻の蒲焼き！真空パックでお届け
+厳選した鹿児島産の鰻を使用。
+焼き工程ではまず初めに備長炭に近い波長特性を持つ電気ヒーターとガスを併用しゆっくり丁寧に焼き上げています。
+次にじっくり蒸し上げる事で、身が崩れるほどのふわっふわな食感に仕上げます。
+そして業界では初となる過熱水蒸気システムを採用。水蒸気で焼く事で、従来の鰻の蒲焼きでは味わえない程の、ふっくら柔らかな身にしていきます。
+最後にタレ付け焼き(蒲焼)を4回繰り返すことでふっくら柔らかんで濃厚な味の鰻の蒲焼きとなっています
+【原材料】
+うなぎ蒲焼：うなぎ（鹿児島県）、しょうゆ（小麦・大豆を含む）、みりん、砂糖、でん粉
+添付蒲焼のたれ（さんしょう付）：たれ（しょうゆ（小麦・大豆を含む、国内製造）、水飴、砂糖、醗酵調味料/カラメル色素、調味料（アミノ酸等）、V、B1）、さんしょう(さんしょう)
+ふるさと納税 出水市 特産品 うなぎ 鰻 ウナギ 3尾 蒲焼き 国産 鹿児島県産 焼きたて 生産量日本一 真空パック おかず 晩御飯 特別な日 土用の丑の日</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/5537990/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221102/pd_4d003ba60733068f44c71925128dfb4958f0f602.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i661 鹿児島県産うなぎ有頭白焼き2尾セット(約136g×2・計約272g) うなぎ 鰻 ウナギ 2尾 白焼き 国産 鹿児島県産 焼きたて 生産量日本一 真空パック おかず 晩御飯 特別な日 土用の丑の日 【薩摩川内鰻】</h4>
+<p class="goods-col_price inline">16,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">＜うなぎ生産量日本一の鹿児島県＞【毎月数量限定】山葵や柚子胡椒を付けてお楽しみください
+素材本来の味を楽しめる！国産ウナギ白焼をご家庭で
+厳選した鹿児島産の鰻を使用。
+焼き工程ではまず初めに備長炭に近い波長特性を持つ電気ヒーターとガスを併用しゆっくり丁寧に焼き上げています。
+次にじっくり蒸し上げる事で、身が崩れるほどのふわっふわな食感に仕上げます。
+白焼きですので、素材本来の味を楽しむことが出来ます。山葵や柚子胡椒を付けてお召し上がりください。
+【原材料】
+うなぎ(鹿児島県)
+ふるさと納税 出水市 特産品 うなぎ 鰻 ウナギ 2尾 白焼き 国産 鹿児島県産 焼きたて 生産量日本一 真空パック おかず 晩御飯 特別な日 土用の丑の日</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/5537991/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20231101/pd_caa0fd570b965538493cd153a60cd13477c57be8.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i662 九州産きざみうなぎ(80g×5袋・計400g) 厳選した国産鰻使用！ うなぎ 鰻 ウナギ 蒲焼き 国産 きざみうなぎ 一口サイズ 鹿児島県産 焼きたて 生産量日本一 真空パック おかず 晩御飯 特別な日 土用の丑の日【薩摩川内鰻】</h4>
+<p class="goods-col_price inline">17,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">厳選した国産鰻使用！ふっくら柔らかなウナギ蒲焼きをご家庭で
+一口カットで食べきりサイズ！小分けパックだから使いやすい！
+厳選した九州産の鰻を使用。
+焼き工程ではまず初めに備長炭に近い波長特性を持つ電気ヒーターとガスを併用しゆっくり丁寧に焼き上げています。
+次にじっくり蒸し上げる事で、身が崩れるほどのふわっふわな食感に仕上げます。
+そして業界では初となる過熱水蒸気システムを採用。水蒸気で焼く事で、従来の鰻の蒲焼きでは味わえない程の、ふっくら柔らかな身にしていきます。
+最後にタレ付け焼き(蒲焼)を4回繰り返すことでふっくら柔らかで濃厚な味の鰻の蒲焼きとなっています。
+それを1口サイズにカットする事で子供から大人まで幅広い層から人気の高い商品となっています。
+【原材料】
+きざみうなぎ：うなぎ（九州産）、しょうゆ（小麦・大豆を含む）、砂糖、果糖ブドウ糖液糖、焼酎甲類、みりん、水飴／カラメル色素、調味料（アミノ酸等）、酒精、増粘剤（加工デンプン、増粘多糖類）
+添付蒲焼のたれ：しょうゆ（小麦・大豆を含む、国内製造）、水飴、砂糖、醗酵調味料/カラメル色素、調味料（アミノ酸等）、V.B1
+添付山椒：山椒
+ふるさと納税 出水市 特産品 うなぎ 鰻 ウナギ 蒲焼き 国産 きざみうなぎ 一口サイズ 鹿児島県産 焼きたて 生産量日本一 真空パック おかず 晩御飯 特別な日 土用の丑の日</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/5105234/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230711/pd_fdc01c545e04142549980d27c23c674c3ac798de.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i486 マルイの人気冷凍食品の詰め合せ(6種・計1.5kg超)オムレツや唐揚げ、チキンカツやナゲットなどお弁当のおかずに♪今夜の夕食に♪ 冷凍食品 冷凍 おかず チキン南蛮 オムレツ 唐揚げ チキンカツ ナゲット ササミフライ お弁当 夕食 簡単調理 国産 お手軽 【マルイ食品】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>・ミニオムレツ(ミートソース入)：小麦、卵、大豆、鶏肉、豚肉、(米)
+・国産若鶏甘酢唐揚げ：小麦、ごま、大豆、鶏肉、りんご、(米)
+・プチササミフライ(チーズ入り)：小麦、乳、大豆、鶏肉、りんご、(米)
+・チキン南蛮：小麦、大豆、鶏肉、りんご、（米）
+・国産鶏カツレツカレー味：小麦、乳、大豆、鶏肉、りんご、（米）
+・国産チキンのナゲット：小麦、大豆、鶏肉、豚肉、りんご、（米）</p>
+</div>
+<p class="goods-col_textinfo pc">＜養鶏の専門農協！マルイ農協グループ＞国産だから安心安全！レンジやフライパン等で簡単調理の冷凍食品♪
+レンジやフライパン等で簡単に調理できる人気の冷凍食品を揃えました。普段のおかずとしても、贈り物としても喜ばれています。
+ふるさと納税 出水市 特産品 冷凍食品 冷凍 おかず チキン南蛮 オムレツ 唐揚げ チキンカツ ナゲット ササミフライ お弁当 夕食 簡単調理 国産 お手軽 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4788125/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200123/pd_1cdc7e1e9fef589b5e91f6a25e11e2ad900f5d18.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i246 季節の上生菓子セット(10個) お菓子 和菓子 生菓子 四季 ギフト 贈り物 和スイーツ お祝い 個包装 冷凍 【リッチモン松元】</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、2ヵ月以内の発送になります。</p>
+</div>
+<p class="goods-col_textinfo pc">鹿児島県出水市より四季折々の上生菓子をお届け！
+四季を感じる和菓子は贈り物・ギフトにもピッタリ！
+出水の特産みかん、冬の風物詩である鶴を中心に、季節の上生菓子を揃えました。みかん餡や抹茶餡も地元産の物を使用しています。
+※新型コロナウイルス感染症の拡大防止に伴う影響により、
+　飲食店の休業等で流通先が減少し、在庫を抱えています。ふるさと納税を通じてご支援をお願いいたします。
+【原材料】砂糖、白生あん、小豆、白玉粉、山芋、水飴、米粉、寒天、トレハロース、着色料
+ふるさと納税 出水市 特産品 お菓子 和菓子 生菓子 四季 ギフト 贈り物 和スイーツ お祝い 個包装 冷凍 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/5604055/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230118/pd_296667ba54cb46f3732bee5f3247c7dcd4d8d262.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i686 選べるサイズ！医療用サージカルマスク(計180枚・30枚入り×6箱・不織布) レギュラー スモール 大人用 ふつう 小さめ JIS規格取得 使い捨て ウイルス飛沫 かぜ 花粉 ハウスダスト PM2.5 消耗品 個包装 衛生的 日用品 国産 日本製【株式会社KOC】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1か月以内の発送になります。
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">衛生的な個包装で持ち運びにも便利！耳が痛くなりにくい、安心安全の国内製造 JIS規格取得マスク
+ウイルス飛沫・かぜ・花粉・ハウスダスト・PM2.5の予防にも
+個包装のため、衛生的で持ち運びにも便利。
+耳ゴムに太めの丸ゴムを使用し、長時間使用時の耳の痛みを軽減。
+【サイズ】
+レギュラーサイズかスモールサイズかお選びください。
+ふるさと納税 出水市 特産品 レギュラー スモール 大人用 ふつう 小さめ JIS規格取得 使い捨て ウイルス飛沫 かぜ 花粉 ハウスダスト PM2.5 消耗品 個包装 衛生的 日用品 国産 日本製</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4970249/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201102/pd_14ca657d3be2344e4d0c9537d649958d3c5855a0.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i384 A5等級鹿児島県産黒毛和牛赤身スライス(計600g)　200gずつの小分けパックで使い勝手抜群の牛肉！ 肉 牛肉 黒毛和牛 国産 鹿児島県産 赤身 スライス 小分け すき焼き すきやき しゃぶしゃぶ 冷凍 【カミチク】</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年で申し込みを受付しております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>3ヵ月以内の発送になります。</p>
+</div>
+<p class="goods-col_textinfo pc">すき焼きやしゃぶしゃぶにおすすめ！
+最高ランクA5等級のみを使用した鹿児島県産黒毛和牛の赤身スライス。
+あっさりとした赤身を中心としたスライスは脂身が苦手な方も美味しく召し上がれます。
+すき焼きやしゃぶしゃぶはもちろん、生卵にくぐらせた焼きすきもオススメです。
+また、赤身肉は低カロリー・低糖質・高たんぱくであり、鉄分やビタミンBも豊富で女性の健康や美容を守る強い味方と言われています。
+[ご注意]
+※過熱しすぎると固くなりますのでご注意ください。
+※パッケージは変更になる場合があります
+ふるさと納税 出水市 特産品 肉 牛肉 黒毛和牛 国産 鹿児島県産 赤身 スライス 小分け すき焼き すきやき しゃぶしゃぶ 冷凍 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/368481/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230929/pd_a21d01f6a4d7c7126ff5fb3d27b3e18067fe4d3c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i018 安心安全の国産鶏肉！南国元気鶏セット(5種・計1.55kg) 鹿児島 鶏肉 チキン ささみ ムネ肉 ミンチ 冷凍 唐揚げ チャーハン 親子丼 調理 【マルイ食品】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">＜養鶏の専門農協！マルイ農協グループ＞
+モモ肉やムネ肉、ミンチなど唐揚げ、チャーハンや親子丼に♪
+「南国元気鶏」とは、マルイ農協の組合員が育てた若鶏(ブロイラー)です。ワクチンを投与して飼育し、ひなから出荷まで全飼育期間、抗生物質や合成抗菌剤を添加しない飼料で育てました。肉質はやわらかくて、大変おいしいと評判です。「南国元気鶏」の各部位をバラ凍結しました。様々な料理にご利用いただけます。
+【原材料】鶏肉
+ふるさと納税 出水市 特産品 鹿児島 鶏肉 チキン ささみ ムネ肉 ミンチ 冷凍 唐揚げ チャーハン 親子丼 調理 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/368480/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190924/pd_1a2cfc4ec39ef9694fa1cf810542c293ea7b7cdb.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i019 マルイのたまごスープ(30食)お湯を注ぐだけで本格的なタマゴスープ！ふわふわ玉子とコクのあるスープ！ たまご 卵 スープ 鶏ガラ 鶏がらスープ 時短 フリーズドライ 長期保存 お弁当と一緒 お手軽 ストック 【マルイ食品】</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">＜養鶏の専門農協！マルイ農協グループ＞安心安全のたまごスープ♪鶏ガラのきいた人気の美味しいスープ
+お湯を注ぐだけで本格的なたまごスープが出来上がります。ふわふわたまごとコクのあるスープがおいしいと大人気です。
+【原材料】
+鶏卵（国産）、チキンブイヨン、チキンエキス、デキストリン、でん粉、しょうゆ、食塩、こんぶエキス調味料、米醸造調味料、しいたけエキス調味料、香辛料、具（かまぼこ、わかめ、ねぎ）／調味料（アミノ酸等）、酸化防止剤（ビタミンＥ）、ベニコウジ色素、カロチン色素、（一部にかに・小麦・卵・乳成分・大豆・鶏肉・ゼラチンを含む）
+ふるさと納税 出水市 特産品 たまご 卵 スープ 鶏ガラ 鶏がらスープ 時短 フリーズドライ 長期保存 お弁当と一緒 お手軽 ストック </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4870274/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200609/pd_6518faf84d4a69e505d137743c54c66a1f8e6a33.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i295 マルイのたまごスープ(50食)お湯を注ぐだけで本格的なタマゴスープ！ふわふわ玉子とコクのあるスープ！ スープ 卵 たまご たまごスープ レトルト 本格的 簡単調理 アウトドア キャンプ 非常食 お弁当 朝ごはん お昼ご飯 晩御飯 数量限定 【マルイ食品】</h4>
+<p class="goods-col_price inline">16,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">＜養鶏の専門農協！マルイ農協グループ＞安心安全の卵スープ♪鶏ガラのきいた人気の美味しいスープ！
+マルイ農協で生産したたまごと、マルイ食品で製造した鶏ガラスープを原料に使用しています。
+お湯を注ぐだけで本格的なたまごスープが出来上がります。ふわふわたまごとコクのあるスープがおいしいと大人気です。
+【原材料】
+鶏卵（国産）、チキンブイヨン、チキンエキス、デキストリン、でん粉、しょうゆ、食塩、こんぶエキス調味料、米醸造調味料、しいたけエキス調味料、香辛料、具（かまぼこ、わかめ、ねぎ）／調味料（アミノ酸等）、酸化防止剤（ビタミンＥ）、ベニコウジ色素、カロチン色素、（一部にかに・小麦・卵・乳成分・大豆・鶏肉・ゼラチンを含む）
+ふるさと納税 出水市 特産品 スープ 卵 たまご たまごスープ レトルト 本格的 簡単調理 アウトドア キャンプ 非常食 お弁当 朝ごはん お昼ご飯 晩御飯 数量限定 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4870171/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200609/pd_39224cb11d52ea5837796341e917d51cb6fc88ed.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i296 たまご屋さんのふんわりオムレツ(256g×30パック・計7.68kg)鹿児島県産たまごと国産鶏肉・野菜使用！お弁当などのおかずに オムレツ 卵 たまご 鶏肉 野菜 国産 冷凍 おかず 冷凍食品 簡単調理 レンジでチン お弁当 朝ごはん お昼ご飯 晩御飯 【マルイ食品】</h4>
+<p class="goods-col_price inline">22,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>小麦、卵、大豆、鶏肉、（米）</p>
+</div>
+<p class="goods-col_textinfo pc">＜養鶏の専門農協！マルイ農協グループ＞国産だから安心安全！レンジで温めるだけの簡単調理♪
+鹿児島県産たまごと国産鶏肉・野菜を使ったミニオムレツです。かつおだしを加えた液卵で具材を包み、強火でふんわりやわらかな食感に焼き上げました。
+冷めてもやわらかく、電子レンジで温めるだけの手軽さなので、毎日のお弁当作りはもちろん、朝食のおかずや1品足りない時のお助けおかずとしてもおすすめします。
+※段ボールでの発送になります。ギフト対応はできません。
+【原材料】
+原材料は商品に表示（※詳しくはお問い合わせください。）
+ふるさと納税 出水市 特産品 オムレツ 卵 たまご 鶏肉 野菜 国産 冷凍 おかず 冷凍食品 簡単調理 レンジでチン お弁当 朝ごはん お昼ご飯 晩御飯 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4870176/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230417/pd_7c1c81bb71e6d9ff5805ef7ce0d337ffb5c5b268.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i297 国産チキンナゲット(465g×16パック・計7.44kg)国産若鶏のムネ肉とササミを使用！お弁当のおかずやおやつ・おつまみに！ チキン ナゲット 鶏肉 ムネ肉 ササミ 簡単調理 冷凍 おかず 冷凍食品 お弁当 おつまみ お惣菜 【マルイ食品】</h4>
+<p class="goods-col_price inline">22,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>小麦、大豆、鶏肉、豚肉、りんご、（米）</p>
+</div>
+<p class="goods-col_textinfo pc">＜養鶏の専門農協！マルイ農協グループ＞国産だから安心安全！レンジで温めるだけの簡単調理♪
+国産若鶏のムネ肉とササミを使用したやわらかなチキンナゲットです。
+レンジで温めるだけでお召し上がりいただけます。
+おやつやおつまみ、お弁当にと色々使えて、お子さんにも大人気です！
+卵・乳は使用しておりません。
+※段ボールでの発送になります。ギフト対応はできません。
+【原材料】
+原材料は商品に表示（※詳しくはお問い合わせください。）
+ふるさと納税 出水市 特産品 チキン ナゲット 鶏肉 ムネ肉 ササミ 簡単調理 冷凍 おかず 冷凍食品 お弁当 おつまみ お惣菜 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4870185/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200609/pd_726f2bfabb66fe38c934ccf346a6c92226623f11.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i298 チキン南蛮(60g×50枚・計3kg)国産若鶏のササミ使用！お弁当のおかずや夕食に！ チキン 南蛮 鶏肉 ササミ 冷凍 おかず 簡単調理 お弁当 夕食 おつまみ トッピング お惣菜 【マルイ食品】</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、2ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>小麦、大豆、鶏肉、（米）</p>
+</div>
+<p class="goods-col_textinfo pc">＜養鶏の専門農協！マルイ農協グループ＞国産だから安心安全！サラダやうどんのトッピングなどに♪
+国産若鶏のササミをサクサクの天玉衣で包みました。
+フライやフライパンで揚げ焼きにして、サラダやうどんのトッピングとして、また、お好みのタレやソースでお召し上がりいただけます。
+50枚入りのため、お届け後保存される場合は、ジッパー付きの袋に小分けにして冷凍庫で保管してください。
+※タレはついておりません。
+※段ボールでの発送になります。ギフト対応はできません。
+【原材料】
+原材料は商品に表示（※詳しくはお問い合わせください。）
+ふるさと納税 出水市 特産品 チキン 南蛮 鶏肉 ササミ 冷凍 おかず 簡単調理 お弁当 夕食 おつまみ トッピング お惣菜 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4870249/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200609/pd_4945cfccd9c85dc4967828b409ed2560d3f92737.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i299 南国元気鶏手羽元(1kg×8パック・計8kg)バラバラの状態で急速凍結しているから使いやすい鶏肉！ 肉 鶏肉 鳥肉 手羽元 チキン 国産 冷凍 南国元気鶏 急速凍結 【マルイ食品】</h4>
+<p class="goods-col_price inline">21,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">《毎月数量65セット限定》＜養鶏の専門農協！マルイ農協グループ＞国産だから安心安全！便利な冷凍肉(手羽もと)をお届け
+南国元気鶏の手羽元を使いやすさを重視し、必要な分だけ取り出せるよう、バラバラの状態で急速凍結した便利な冷凍肉です。
+1袋に1kg入った徳用サイズで、グリルやスープや煮ものなど野菜と一緒の煮込み料理におすすめします。
+※段ボールでの発送になります。ギフト対応はできません。
+ふるさと納税 出水市 特産品 肉 鶏肉 鳥肉 手羽元 チキン 国産 冷凍 南国元気鶏 急速凍結 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4870250/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221118/pd_18c5222c4c82349f6976a511d478a4dc0faa9d36.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i300 南国元気鶏ムネ肉(500g×20パック・計10kg) 肉 鶏肉 鳥肉 ムネ チキン 国産 冷凍 南国元気鶏 急速凍結 蒸し鶏 とり天 【マルイ食品】</h4>
+<p class="goods-col_price inline">31,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">《毎月数量50セット限定》＜養鶏の専門農協！マルイ農協グループ＞国産だから安心安全！便利な冷凍肉(むね肉)をお届け
+バラバラの状態で急速凍結しているから使いやすい！蒸し鶏やとり天などにおすすめの鶏肉
+南国元気鶏のムネ肉を使いやすさを重視し、必要な分だけ取り出せるよう、バラバラの状態で急速凍結した便利な冷凍肉です。
+脂肪が少なく、しっとりやわらかな食感で蒸し鶏やとり天などにおすすめします。
+※段ボールでの発送になります。ギフト対応はできません。
+ふるさと納税 出水市 特産品 肉 鶏肉 鳥肉 ムネ チキン 国産 冷凍 南国元気鶏 急速凍結 蒸し鶏 とり天 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4870251/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221118/pd_f32b209b9a26121fb5176661855a80409a1738d1.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i301 南国元気鶏ミンチ(500g×15パック・計7.5kg)便利な小分けパック！ 肉 鶏肉 鳥肉 ひき肉 挽肉 挽き肉 チキン 国産 冷凍 南国元気鶏 ハンバーグ つみれ 【マルイ食品】</h4>
+<p class="goods-col_price inline">28,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">《毎月数量65セット限定》＜養鶏の専門農協！マルイ農協グループ＞国産だから安心安全！チャックシール袋入り♪
+鶏肉のモモ肉ムネ肉をミンチにしてバラバラの状態で急速凍結！
+南国元気鶏のモモ・ムネ肉をミンチにして、バラバラの状態で急速冷凍した、便利な冷凍ミンチ肉です。
+チャックシール袋入りで、凍ったまま必要な分だけ取り出せます。
+牛肉や豚肉のミンチと比べてあっさりしていますが、コクと旨みがあり、ハンバーグやつみれにおすすめです。
+※段ボールでの発送になります。ギフト対応はできません。
+ふるさと納税 出水市 特産品 肉 鶏肉 鳥肉 ひき肉 挽肉 挽き肉 チキン 国産 冷凍 南国元気鶏 ハンバーグ つみれ </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4870257/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221118/pd_060fd9f4017d589cd4c2d57cf4e9d15e90d49195.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i302 ＜発送月が選べる！＞南国元気鶏ササミ(300g×30パック・計9kg)鶏肉のササミはあっさりヘルシーな味わい！使いやすいようバラバラの状態で急速凍結！鶏肉 鳥肉 とり肉 ささみ 鳥ささみ 南国元気鶏 ヘルシー ダイエット 国産 九州産 急速冷凍 小分け お取り寄せグルメ 【マルイ食品】</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、2か月以内の発送になります。</p>
+</div>
+<p class="goods-col_textinfo pc">《毎月数量35セット限定》＜養鶏の専門農協！マルイ農協グループ＞国産だから安心安全！サラダや和え物に♪
+使いやすいようバラバラの状態で急速凍結！
+南国元気鶏のササミを使いやすさを重視し、必要な分だけ取り出せるよう、バラバラの状態で急速凍結した、便利な冷凍肉です。
+ササミは脂肪分が少なく、あっさりヘルシーな味わいです。サラダや和え物におすすめします。
+※段ボールでの発送になります。ギフト対応はできません。
+ふるさと納税 出水市 特産品 鶏肉 鳥肉 とり肉 ささみ 鳥ささみ 南国元気鶏 ヘルシー ダイエット 国産 九州産 急速冷凍 小分け お取り寄せグルメ </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/5220832/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210930/pd_38a3bd847694612c44494531b4fd61655825c69e.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i555 かきたまごのおみそ汁(24食) 味噌汁 お味噌汁 卵 たまご フリーズドライ 簡単調理 非常食 アウトドア キャンプ お手軽 数量限定 【マルイ食品】</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>(米)</p>
+</div>
+<p class="goods-col_textinfo pc">マルイ農協で生産した卵を使用した味噌汁！お湯を注ぐだけで簡単調理！
+お湯を注ぐだけで手軽にできる、かきたまごのお味噌汁です。ふんわりとした卵の食感をお楽しみください。
+※熱湯の取り扱いには十分ご注意ください。
+※内袋開封後は、1回で使い切ってください。
+【原材料】
+米みそ(国内製造)、鶏卵、ねぎ、かつお風味調味料、魚介エキス、還元水あめ、乾燥わかめ、かつお節粉末、でん粉、乾燥ねぎ／調味料(アミノ酸等)、増粘多糖類、酸化防止剤(ビタミンE)、カロチン色素、（一部に小麦・卵・乳成分・さば・大豆・鶏肉を含む）
+ふるさと納税 出水市 特産品 味噌汁 お味噌汁 卵 たまご フリーズドライ 簡単調理 非常食 アウトドア キャンプ お手軽 数量限定 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/5220833/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210930/pd_c92f930ba327cf6a6e5f9562c7b1604fa13aedba.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i556 たまごスープとかきたまごのおみそ汁2種セット(計27食) 味噌汁 お味噌汁 スープ 卵 たまご フリーズドライ 簡単調理 非常食 アウトドア キャンプ お手軽 数量限定【マルイ食品】</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>(米)</p>
+</div>
+<p class="goods-col_textinfo pc">マルイ農協で生産した卵を使用したスープと味噌汁！お湯を注ぐだけで簡単調理！
+お湯を注ぐだけで手軽にできます。
+マルイ農協で生産した卵を使用。ふんわりとした卵の食感をお楽しみください。
+※熱湯の取り扱いには十分ご注意ください。
+※内袋開封後は、1回で使い切ってください。
+【原材料】
+たまごスープ：鶏卵(国産)、チキンブイヨン、チキンエキス、デキストリン、でん粉、しょうゆ、食塩、こんぶエキス調味料、米醸造調味料、しいたけエキス調味料、香辛料、具(かまぼこ、わかめ、ねぎ)／調味料(アミノ酸等)、酸化防止剤(ビタミンＥ)、ベニコウジ色素、カロチン色素、（一部にかに・小麦・卵・乳成分・大豆・鶏肉・ゼラチンを含む）
+かきたまごのおみそ汁：米みそ(国内製造)、鶏卵、ねぎ、かつお風味調味料、魚介エキス、還元水あめ、乾燥わかめ、かつお節粉末、でん粉、乾燥ねぎ／調味料(アミノ酸等)、増粘多糖類、酸化防止剤(ビタミンE)、カロチン色素、（一部に小麦・卵・乳成分・さば・大豆・鶏肉を含む）
+ふるさと納税 出水市 特産品 味噌汁 お味噌汁 スープ 卵 たまご フリーズドライ 簡単調理 非常食 アウトドア キャンプ お手軽 数量限定</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4723444/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210215/pd_39ff3a728b1c97259c4a888a6ca690486ba1a668.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i216 鹿児島県産！黒毛和牛シャトーブリアン(300g以上) 牛肉 肉 黒毛和牛 国産 フィレ肉 シャトーブリアン 希少 希少部位 絶品 安心安全 冷凍 【スーパーよしだ】</h4>
+<p class="goods-col_price inline">48,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、2ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">黒毛和牛肉4～5等級品をお届け！国産牛肉だから安心安全！普段の食卓に贅沢を！
+自信を持ってお出しできる黒毛和牛肉のフィレ肉！希少部位！やわらかく絶品！
+当社担当者がこれなら！という自信をもてる鹿児島県産黒毛和牛4-5等級商品をご提供いたします。
+【原材料】鹿児島産黒毛和牛　シャトーブリアン（フィレ肉）
+ふるさと納税 出水市 特産品 牛肉 肉 黒毛和牛 国産 フィレ肉 シャトーブリアン 希少 希少部位 絶品 安心安全 冷凍 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4723447/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20191009/pd_3bdf8f794a9a93687a8b6c0fd1818a8b50be68b2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i219 国産豚肉使用！手作り餃子100個セット(10個×10パック） 餃子 ぎょうざ 冷凍 おかず 豚肉 国産 手作り おつまみ 晩御飯 焼くだけ 簡単調理 安心安全 【スーパーよしだ】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">具材は全て安心安全な国産！一つ一つ手作り！ビールのお供に相性抜群！
+国産豚肉ミンチをつくるところから手作り、具材はすべて国産。
+【原材料】キャベツ、餃子の皮(小麦粉、小麦蛋白、コーンスターチ、食塩)、豚挽肉、ラード、食用なたね油、こいくちしょうゆ、塩こしょう、にんにく、にら、砂糖、塩、XO醤(XOベース(なたね油、にんにく、シャロット、その他)、砂糖、ブランデー、オニオンペースト、その他)／酸化防止剤(V.E)、酒精、ソルビット、トレハロース、乳酸、調味料(アミノ酸等)、着色料(カラメル)、甘味料(ステビア、サッカリンNa、甘草)、保存料(パラオキシ安息香酸)、シリコーン、(一部に小麦・牛肉・大豆・豚肉を含む)
+ふるさと納税 出水市 特産品 餃子 ぎょうざ 冷凍 おかず 豚肉 国産 手作り おつまみ 晩御飯 焼くだけ 簡単調理 安心安全 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4723449/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20191219/pd_5da30bebd6e48a0bf609a6f0f3826957106333bc.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i221 国産いずみどり使用！いずみどりささみチーズ入りフライを計15枚(3枚入×5パック) 揚げ物 冷凍 おかず ささみ 鶏肉 チーズ お弁当 ビール 晩御飯【スーパーよしだ】</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">ささみとチーズが絶妙！一度食べたらやみつきになる美味しさ！
+ビールとの相性抜群！チーズも贅沢に使用！晩御飯のおかずにも大活躍！
+ふるさと出水の味、いずみどり使用のささみフライ、チーズも贅沢に使った逸品。一度食べたらやみつきになる美味しさ！生を真空冷凍にしてお届けします。
+【原材料】
+鶏ささみ、ナチュラルチーズ、食用菜種油、卵、生パン粉、打ち粉、塩コショウ／加工澱粉、セルロース、トレハロース、調味料(アミノ酸等)、糊料(キサンタン)、乳化剤、着色料(クチナシ)、V.C、イーストフード、シリコーン、香料、酸味料、酒精、(一部に小麦・卵・乳成分・大豆・鶏肉を含む)
+ふるさと納税 出水市 特産品 揚げ物 冷凍 おかず ささみ 鶏肉 チーズ お弁当 ビール 晩御飯 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/231177/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190917/pd_c5a08fb2ff9c8f87bdff4a4872d668ad90cfaa56.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i035 神酒造の飲み比べ「千鶴・いも神・もみじのしずく・飛来」(各1800ml×4本)本場鹿児島の芋焼酎！代表銘柄の千鶴をはじめ、さつま芋の甘みと上品な香りとすっきりとした後味！ お酒 焼酎 芋焼酎 一升瓶 アルコール 飲み比べ お湯割り ロック 水割り 家飲み 宅飲み 【神酒造】</h4>
+<p class="goods-col_price inline">28,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">＜創業明治5年＞鹿児島の出水の蔵元の自信作を飲み比べ！手づくりへのこだわりのつまった芋焼酎をご家庭で！
+千鶴は創業以来、「神焼酎」から「千鶴」と名をかえて現在に至る代表銘柄です。明治五年以来使い続ける甕にて仕込みます。深みのあるコクとさらりとした甘さです。
+元禄十年、薩摩に伝来した甘藷(※さつまいも)。芋への感謝とこだわりを織り交ぜながら厳選された原材料から造られる「いも神」。「千鶴」の原酒に減圧蒸留機で蒸留した麦焼酎をブレンドすることで華やかな香りと甘みだけを巧みに引き出しました。
+厳選された黄金千貫のみを使い創業明治５年より、こだわりの甕仕込み「もみじのしずく」。和水に温泉水を使用することで、深みのある味わいと香り、ふくらみのある甘味が特徴の本格芋焼酎です。
+「飛来」は出水の米、出水の芋、出水の湧水と蔵すべて「出水」にこだわりました。さつまいもの甘みと上品な香りとすっきりとした後味です。
+鹿児島県の北部に位置する出水市にある小さな蔵元です。創業は明治五年。当時より使い続けている和甕にて、すべての一次仕込みを行っています。また、昔ながらの伝統製法「手づくり」の造りにも力を入れ、こだわりの焼酎づくりにて、地域の皆様のご要望に応じた焼酎つくりも行っています。古来より出水地方には冬期になると、シベリアより一万羽を超える鶴が飛来することから、代表銘柄は「千鶴(ちづる)」と名づけられました。
+【原材料】
+・千鶴(1800ml)：さつまいも・米麹
+・いも神(1800ml)：さつまいも・麦・米麹・麦麹
+・もみじのしずく(1800ml)：さつまいも・米麹
+・飛来(1800ml)：さつまいも・米麹)
+【注意事項】
+20歳未満の飲酒は法律で禁じられております。
+妊娠中や授乳中の飲酒はお控えください。
+お酒は楽しく適量を。
+ふるさと納税 出水市 特産品 お酒 焼酎 芋焼酎 一升瓶 アルコール 飲み比べ お湯割り ロック 水割り 家飲み 宅飲み </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4702746/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20191002/pd_05745a22b90a71ba8d0bacb25af25645bd0de140.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i175 いずみどり熟成柿酢仕立て(180g×6袋・計1kg超)鹿児島県出水市産の鶏肉を醤油と無添加柿酢を使ったタレに漬け込みました！おかず・おつまみに！ いずみどり 鶏肉 柿酢 醤油 無添加 柿酢 おかず おつまみ 和風ハム 惣菜 加工食品 【西尾】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">鹿児島新加工食品コンクール特別賞受賞！
+鹿児島県出水市で飼育された「いずみどり」むね肉を工場直送で仕入れ、加熱処理後、鹿児島独特の甘い醤油と、柿が自然発酵しただけの無添加「柿酢」を使ったタレに漬け込みました。
+和風ハムの感覚で、そのままスライスして食べられます。マヨネーズ・からし・タルタルソース・わさびマヨネーズ等つけると、お好みの味が楽しめます。
+【原材料】鶏肉、醤油、砂糖、柿酢
+ふるさと納税 出水市 特産品 いずみどり 鶏肉 柿酢 醤油 無添加 柿酢 おかず おつまみ 和風ハム 惣菜 加工食品 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4840905/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200427/pd_0ee06449b0d7384e04dec46fdc2b9ab26e27d9ab.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i284 鹿児島県産鶏肉！モモ・手羽元詰め合わせ(計6kg)！モモ肉2kg(2kg×1袋)、手羽元4kg(2kg×2袋) 肉 鶏肉 国産 もも肉 手羽元 詰め合わせ 詰合せ 唐揚げ ソテー 鶏料理 【スーパーよしだ】</h4>
+<p class="goods-col_price inline">16,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">からあげやソテーに！安全安心のとり肉をお届けします。
+からあげに最適なお肉(鶏肉)のセット！
+オリジナルブレンドの配合飼料を食べて育ち、温度管理された室内で処理された安全安心の鶏肉をお届けします。
+【原材料】モモ肉、手羽元
+ふるさと納税 出水市 特産品 肉 鶏肉 国産 もも肉 手羽元 詰め合わせ 詰合せ 唐揚げ ソテー 鶏料理 </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4882808/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200630/pd_8c1d811916bfbc1105ebe5c19f65e824331d284c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i307 ≪4等級以上≫鹿児島県産黒毛和牛ロースステーキ(計約800g・約200g×4枚)と国産生ハム切り落とし(75g×2P) 牛肉 黒毛和牛 ロース ステーキ ハム 生ハム 国産 詰め合わせ セット サラダ おつまみ 【ナンチク】</h4>
+<p class="goods-col_price inline">42,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、3ヵ月以内の発送になります。</p>
+</div>
+<p class="goods-col_textinfo pc">＜数量限定！ステーキ＆生ハムが合計950g！＞4等級以上の黒毛和牛のロースステーキと使いやすい生ハムをご家庭で♪
+日本一となった鹿児島の牛肉とサラダにおつまみに大活躍の生ハム！
+全国和牛能力共進会にて優勝を果たした、鹿児島県が誇る鹿児島黒毛和牛のロースステーキです。
+その中でも鹿児島黒毛和牛の上物と言われる4等級以上にこだわりました。
+きめ細やかな美しい霜降りとまろやかなコクと旨味、とろける食感をお楽しみください。
+生ハムは安心安全の国産豚肉を使用しています。
+サラダやおつまみとしてはもちろん、生ハムのしゃぶしゃぶとしてもお楽しみください。
+【原材料】
+原材料は商品に表示（※詳しくはお問い合わせください。）
+ふるさと納税 出水市 特産品 牛肉 黒毛和牛 ロース ステーキ ハム 生ハム 国産 詰め合わせ セット サラダ おつまみ </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4891291/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200713/pd_6b03c3439b1465e05fda8ff0fe5ceffbbbba66ee.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i312 チーズまん(20個セット)チョコチップ入りのビスケット生地でゴロッと大きいチーズクリームを包んだ洋風饅頭！ギフト・贈り物にも お菓子 菓子 チーズ 洋菓子 和菓子 まんじゅう お菓子 スイーツ 個包装 チョコチップ ビスケット生地 チーズクリーム 洋風饅頭 ギフト 贈り物 おやつ 【菓匠田中】</h4>
+<p class="goods-col_price inline">14,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">テレビ番組でも紹介されました！
+焼きたてを急速冷凍！地元で長年愛されるチーズ饅頭をお届け
+チョコチップ入りのビスケット生地でゴロッと大きいチーズクリームを包んだ風味豊かな洋風饅頭です。焼きたてを急速冷凍してお送りいたします。
+※お召し上がりの際は箱から出して袋に入ったままの状態で、2時間半～3時間常温で解凍されてからお召し上がりください。
+【原材料】
+小麦粉、砂糖、植物性油脂（大豆を含む）、卵、バター、チョコレート、ナチュラルチーズ、生クリーム、アーモンドパウダー、膨張剤（小麦、バター、乳製品を含む）
+ふるさと納税 出水市 特産品 お菓子 菓子 チーズ 洋菓子 和菓子 まんじゅう お菓子 スイーツ 個包装 チョコチップ ビスケット生地 チーズクリーム 洋風饅頭 ギフト 贈り物 おやつ </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/4921809/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20201027/pd_0ac70adacc0a83812ac162c58c8fe82e16592dc7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i329 《業務用・訳あり》恵みウインナー(1kg×2P・計2kg) ウインナー ウィンナーソーセージ 豚肉 国産 簡易包装 業務用 冷凍 おかず お弁当 晩御飯 おつまみ 【ナンチク】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、3ヵ月以内の発送になります。</p>
+</div>
+<p class="goods-col_textinfo pc">≪合計約2kg≫国産豚を使用した香ばしいジューシーなウインナー！子どものおかずに、大人のおつまみに♪冷凍で保存も安心
+国産豚を使用し、独特の風味を効かせパリッとふわっとジューシーに仕上げました。
+ナンチク人気No.1の「恵みウインナー」をお楽しみください。
+※冷凍でお届け致します。
+※製造の都合上、霜がついていることがございます。味・品質には問題ございませんのでご了承くださいませ。
+【原材料】
+原材料は商品に表示（※詳しくはお問い合わせください。）
+ふるさと納税 出水市 特産品 ウインナー ウィンナーソーセージ 豚肉 国産 簡易包装 業務用 冷凍 おかず お弁当 晩御飯 おつまみ </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/5108425/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240423/pd_b701b5fb41ba95087bbc763004ead0edaf971ad9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i490 鹿児島県産赤鶏さつま！サラダチキンバラエティーセット合計9袋(1パック140g) 鶏肉 国産 チキン サラダチキン 鶏肉 鳥肉 とり肉 赤鶏 国産 鹿児島県産 詰め合わせ セット 安心安全 ダイエット 健康 ヘルシー 柚子胡椒 レモン【鹿児島サンフーズ】</h4>
+<p class="goods-col_price inline">14,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">赤鶏さつまの熟成むね肉が堪能できるサラダチキンバラエティーセット♪
+赤鶏さつま はすべて鹿児島県の大自然の中で、おいしさと安心、安全にこだわって自社で育てた「赤鶏さつま」100％です。
+赤鶏さつまのむね肉は熟成させている為、その熟成肉を使用したサラダチキンは、おいしさが違います！ 赤鶏さつまのサラダチキンはパサパサしません。
+赤鶏さつまの素材の良さを引き出す独自の製法により、 しっとりやわらかくジューシーに仕上げました。スライスして、サラダなどとお召し上がりください。
+セット内容、（プレーン・レモン・柚子胡椒）
+解凍方法：冷蔵庫でゆっくり解凍していただくと、より一層おいしく召し上がれます。
+【原材料】
+▼赤鶏さつまのサラダチキン
+鶏肉(鹿児島県産)、食用油脂、食塩/増粘剤(加工デンプン)、pH調整剤、調味料(有機酸等)、焼成Ca、(一部に鶏肉を含む)
+▼赤鶏さつまのサラダチキン(レモン風味)
+鶏肉(鹿児島県産)、調味料【食用油脂、食塩、その他】、食用油脂、食塩/加工デンプン、pH調整剤、調味料(アミノ酸等)、乳化剤、香料、焼成Ca、カロチノイド色素、(一部に鶏肉を含む)
+▼赤鶏さつまのサラダチキン(柚子胡椒味)
+鶏肉(鹿児島県産)、たれ【柚子果皮、醸造酢、食塩、柚子果汁、唐辛子】、食用油脂、食塩/加工デンプン、pH調整剤、調味料(アミノ酸等)、焼成Ca、香料、増粘剤(キサンタン)、(一部に鶏肉を含む)
+ふるさと納税 出水市 特産品 鶏肉 国産 チキン サラダチキン 鶏肉 鳥肉 とり肉 赤鶏 国産 鹿児島県産 詰め合わせ セット 安心安全 ダイエット 健康 ヘルシー 柚子胡椒 レモン
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/5477885/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220714/pd_2da8a97cc515e0495c4b2d63a930f7e50cb6b729.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i614 《訳あり・不揃い》鹿児島県産赤鶏さつま鶏むね肉(3kg・10袋以上) 鶏肉 鳥肉 とり肉 赤鶏 ムネ むね肉 国産 鹿児島県産 訳アリ 小分け 計3kg 料理 1枚ずつ 数量限定【鹿児島サンフーズ】</h4>
+<p class="goods-col_price inline">13,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">鹿児島県の大自然の中でおいしさと安心、安全にこだわった鶏肉！
+1枚ずつ小分け冷凍されているから便利！
+赤鶏さつま はすべて鹿児島県の大自然の中で、おいしさと安心、安全にこだわって自社で育てた「赤鶏さつま」100％です。
+1枚あたりのサイズが不揃いですが、品質と味は正規品と同等です。1枚ずつ小分け冷凍されているため、必要な時に必要な分だけ使えて便利。
+＜解凍方法＞
+冷蔵庫でゆっくり解凍してからの調理をオススメします。 解凍後はお早めに調理して、お召し上がりください。
+【注意事項】
+※加熱後お召し上がりください。
+ふるさと納税 出水市 特産品 鶏肉 鳥肉 とり肉 赤鶏 ムネ むね肉 国産 鹿児島県産 訳アリ 小分け 計3kg 料理 1枚ずつ 数量限定</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/5588719/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221102/pd_d437a6f7a649cdf72072c4f63059ba18c8bc166a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i681 《毎月数量限定》日本一ジェラート詰め合わせセット(全6種) アイス ジェラート スイーツ デザート 詰め合わせ セット シャインマスカット メロン ブルーベリー 知覧 紅茶 しろくま 黒糖 塩キャラメル ギフト お土産 贈り物【スイートスイーツ】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">鹿児島の素材を使ったジェラートギフト!
+2022年日本ジェラートマエストロコンテストで日本一に輝いた職人が作るジェラートをお届けします。
+人気のジェラートと、出水市の季節の素材をふんだんに使ったジェラートの６個入。
+素材の味を一番活かせる方法で一つ一つ手造りしました。
+【出水の宝石シャインマスカット】
+出水産のシャインマスカットを一粒づつ丁寧に皮むきし、手作りシロップと合わせて爽やかなジェラートに仕上げました。
+【出水のうちののメロン】
+完熟メロンをたっぷりと使用した風味豊かなメロンジェラート。出水産のうちののメロン使用。
+【出水のブルーベリーフロマージュ】
+フロマージュブランと合わせたブルーベリージェラート。チーズのコクとブルーベリーのほどよい酸味がベストマッチ。出水産のブルーベリーを使用
+【知覧紅茶のフルーツティー】
+知覧の紅茶べにふうきに奄美のマンゴーやパッション、屋久島たんかんを使用した2022ジェラートコンテスト優勝賞品　
+【南のしろくま】
+練乳をたっぷり使い鹿児島の白くまイメージして、なめらかなジェラートをお作りしました。
+【黒糖塩キャラメル】
+徳之島産の純黒糖をキャラメルにしてミルクジェラートを作りました。
+ 
+保存方法：-18℃以下で保存してください。
+※一度解凍したら、再冷凍はご遠慮ください。
+ふるさと納税 出水市 特産品 アイス ジェラート スイーツ デザート 詰め合わせ セット シャインマスカット メロン ブルーベリー 知覧 紅茶 しろくま 黒糖 塩キャラメル ギフト お土産 贈り物</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/5646087/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20221222/pd_11954e7fe77782b4b1d4974805a5e409d625cddd.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i700 《業務用・訳あり》選べる2種！ヒマラヤ岩塩ピンク(5kg) 岩塩 塩 調味料 しお 保存料不使用 無添加 天然 パウダータイプ グレインミルタイプ 料理 バスソルト 入浴 普段使い ギフト 贈り物【エストーン】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<p class="goods-col_textinfo pc">最高品質のソルティースマイルの奇跡の天然無添加岩塩！バスソルトにも！
+多くの飲食店・ホテルも愛用中！焼肉・天ぷら・おにぎり・サラダにも！化学原料・着色料・香料・保存料不使用！入浴の際にも
+楽天岩塩ランキング1位多数獲得！
+約3億8千年前に自然に出来た奇跡の岩塩です。
+良質なミネラルをバランスよく含み、まろやかな味わいで素材の旨味を引き立てます。
+焼肉・天ぷら・おにぎり・サラダなんにでも合います！！
+無添加で天然なので子供にも安心。多くの飲食店・ホテルでも愛用されております。
+＜訳ありの理由＞
+業務用・簡易包装のため。厚手のビニール袋に入れお届けいたします。
+品質に問題はございません。
+多くの飲食店・ホテル・個人のお客様に食用など様々な目的でご利用頂いております。
+【原材料】
+ヒマラヤ岩塩
+【保存方法】
+湿度、匂いの少ない場所で密封し保管してください。
+ふるさと納税 出水市 特産品 岩塩 塩 調味料 しお 保存料不使用 無添加 天然 パウダータイプ グレインミルタイプ 料理 バスソルト 入浴 普段使い ギフト 贈り物</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/5652100/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240122/pd_812462b6e895f59d487348f4604be04e3d2c2e58.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i703 《簡易包装・訳あり》国産豚小間切れ(計3kg・250g×12パック) 豚肉 国産 こま切れ 小分け 訳アリ 簡易包装 料理 カレー 炒め物 おかず 【まつぼっくり】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、2か月以内の発送になります。</p>
+</div>
+<p class="goods-col_textinfo pc">清らかな水、厳選した餌を食べて育った肉と脂のバランスのとれた豚肉です。豚肉を使用し、炒め物、焼きそば、カレー等、色々な料理に最適な商品です。
+【訳ありの理由】
+簡易包装でお送りする規格外のお礼の品となっております。予めご了承くださいませ。
+【原材料】国産豚小間切れ
+ふるさと納税 出水市 特産品 豚肉 国産 こま切れ 小分け 訳アリ 簡易包装 料理 カレー 炒め物 おかず </p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/46208/5662504/32">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20230301/pd_c64b535ef65d653551ee13d8ee95b34abda783d0.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">i710 《毎月数量限定》出水の鶏飯セット(4食分) 鶏飯 郷土料理 鶏ガラ 鶏肉 元気鶏 セット 晩御飯 軽食 夜食 簡単調理 ご当地グルメ お取り寄せ グルメ【味処 心】</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、1ヵ月以内の発送
+※年末年始(11月～1月頃)のご寄附については、表記の納期よりお届けまでお時間をいただくことがございます。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※乳・卵・小麦粉を扱っている施設で加工しています。</p>
+</div>
+<p class="goods-col_textinfo pc">24時間手間暇かけた黄金色のスープが自慢！トッピングもいい味出してます！お夜食や軽食に！
+スープ・トッピングに使用している「元気鶏」はもちろん出水産です。
+出荷数日本一を誇る鶏卵は錦糸卵に使用してあります。
+トッピングの具材も地産地消にこだわり、おとうが愛情込めて手作りしてます。
+美味しい召し上がり方法は、トッピング・スープ共に自然解凍もしくは流水解凍後、トッピングは暖かいご飯の上に乗せます。
+スープは鍋で沸騰しない程度に温めて、具材を乗せたご飯の上からかけていただくと美味しく召し上がれます。
+ふるさと納税 出水市 特産品 鶏飯 郷土料理 鶏ガラ 鶏肉 元気鶏 セット 晩御飯 軽食 夜食 簡単調理 ご当地グルメ お取り寄せ グルメ</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<ul class="gcf-lst-bx" id="progress_list">
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年04月13日 15:31</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">皆様のご支援　ありがとうございました。</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">令和４年１１月１７日から１か月間で立て続けに９例発生し、約１２０万羽の鶏が殺処分されるなど、出水市の養鶏業に過去最悪の被害をもたらした高病原性鳥インフルエンザは、ガバメントクラウドファンディングでご支援をいただいた方々をはじめ、多くの皆様にご協力をいただき、令和５年１月１５日に終息を迎え、鶏肉や卵の移動・出荷制限は解除されました。<br/>
+しかしながら、被害農家の経営の復旧にはまだまだ時間を要し、幸いにも被害が無かった養鶏農家でも鶏肉や鶏卵を食べることにより鳥インフルエンザウイルスが人に感染することはないにも関わらず、一部の消費者の感情的な行動が起こす風評被害による買い控えや品不足と飼料価格の高騰も相まって鶏卵価格は過去最高水準で推移するなど苦悩は続いています。<br/>
+このような中、令和５年５月２０日（土）、２１日（日）に出水市の畜産業を盛り上げるためのイベントを開催します。（詳細が決まり次第、出水市ホームページでお知らせします。）ぜひ、こちらのイベントにもお越しいただき、出水市を元気にする一助をいただければ幸いです。<br/>
+出水市は鶏卵産出額全国一位の誇りを胸に、皆様にご協力をいただきながら関係者一丸となって養鶏業を守り続けることをお約束します。これからも出水市をよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="2077" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="2077">1</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="2077">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2213%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+</ul>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">鹿児島県出水市</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">鹿児島県出水（いずみ）市は、鹿児島県北西部の八代海に面した出水平野に位置する温暖な気候、広大で肥沃な平野、豊かな水と緑、海・山の自然環境に恵まれたまちです。<br/>
+市には、毎年一万羽を超えるツルが飛来する世界的な越冬地(国の特別天然記念物に指定)や江戸時代、要衝の地として薩摩藩最大の外城が置かれた、出水麓武家屋敷群(国の重要店頭的建造物保存地区に選定)などを有しており、往時の面影が今も残る「ツルと歴史のまち」です。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>申し込み後の内容変更・寄附金受領証明書・ワンストップ特例申請書</h3>
+<p>TEL：099-208-0360<br/>
+MAIL：izumi@lrinc.jp</p>
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</section>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">鹿児島県出水市の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/46208/32?from=2&amp;gcf_project_id=2213"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,601,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g2213,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

@@ -1,0 +1,1563 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/670" />
+
+<title>小さな動物園「わんぱーくこうちアニマルランド」の動物たちを津波から守るため、「避難棚」を作りたい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="小さな動物園「わんぱーくこうちアニマルランド」の動物たちを津波から守るため、「避難棚」を作りたい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/670" />
+<meta property="og:description" content="南海トラフ地震が起きたとき、わんぱーくこうちアニマルランドは津波に沈みます。逃げることも逃がすこともできない動物たちを津波から守りたい。今できることは何か？と考え、このプロジェクトを立ち上げました。ライオン、ジャガー、ツキノワグマの展示スペースに、津波避難棚の設置を行います。彼らの住むアニマルギャラリーの津波浸水は最大約2.7mと予想されています。今回のプロジェクトでは、猛獣の展示スペース内の高さ3m以上の場所に避難棚を設置し、津波が来た場合に動物たちが逃げる場所をつくります。--------【引き続きご支援をよろしくお願いいたします！】開始4日目の10月20日夕方，目標金額の100万円を達成することができました。アニマルランドのスタッフ一同，感謝の気持ちで胸がいっぱいです。本当にありがとうございました。これもひとえに，皆さまがわんぱーくこうちアニマルランドの動物たちに関心を持ってくださり，命を守りたいという熱い思いを寄せていただいた結果だと思います。なお，引き続き寄附の受付を行っております。いただいたご寄附は動物たちの生活環境を向上させるために活用いたします。皆さまからのご支援に込められた熱い思いを励みに，より一層愛される動物園を目指しますので，更なるご支援をよろしくお願いいたします。--------" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20191015/s_fdfad1ab5f301274412c4d2092e84db021ddf700.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20191015/s_fdfad1ab5f301274412c4d2092e84db021ddf700.jpg" />
+<meta property="twitter:title" content="小さな動物園「わんぱーくこうちアニマルランド」の動物たちを津波から守るため、「避難棚」を作りたい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="南海トラフ地震が起きたとき、わんぱーくこうちアニマルランドは津波に沈みます。逃げることも逃がすこともできない動物たちを津波から守りたい。今できることは何か？と考え、このプロジェクトを立ち上げました。ライオン、ジャガー、ツキノワグマの展示スペースに、津波避難棚の設置を行います。彼らの住むアニマルギャラリーの津波浸水は最大約2.7mと予想されています。今回のプロジェクトでは、猛獣の展示スペース内の高さ3m以上の場所に避難棚を設置し、津波が来た場合に動物たちが逃げる場所をつくります。--------【引き続きご支援をよろしくお願いいたします！】開始4日目の10月20日夕方，目標金額の100万円を達成することができました。アニマルランドのスタッフ一同，感謝の気持ちで胸がいっぱいです。本当にありがとうございました。これもひとえに，皆さまがわんぱーくこうちアニマルランドの動物たちに関心を持ってくださり，命を守りたいという熱い思いを寄せていただいた結果だと思います。なお，引き続き寄附の受付を行っております。いただいたご寄附は動物たちの生活環境を向上させるために活用いたします。皆さまからのご支援に込められた熱い思いを励みに，より一層愛される動物園を目指しますので，更なるご支援をよろしくお願いいたします。--------" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,521,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="670" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">小さな動物園「わんぱーくこうちアニマルランド」の動物たちを津波から守るため、「避難棚」を作りたい！</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">小さな動物園「わんぱーくこうちアニマルランド」の動物たちを津波から守るため、「避難棚」を作りたい！</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1026">動物&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20191008/d_aae28d00876c7b7ae2dcbb462469b970401f73f5.jpg" alt="main_img" decoding="async" />
+<img class="gcf-lyt-detail__complete" src="/gcf/images_cf/icon_goal_brown.png" alt="達成" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E5%B0%8F%E3%81%95%E3%81%AA%E5%8B%95%E7%89%A9%E5%9C%92%E3%80%8C%E3%82%8F%E3%82%93%E3%81%B1%E3%83%BC%E3%81%8F%E3%81%93%E3%81%86%E3%81%A1%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E3%80%8D%E3%81%AE%E5%8B%95%E7%89%A9%E3%81%9F%E3%81%A1%E3%82%92%E6%B4%A5%E6%B3%A2%E3%81%8B%E3%82%89%E5%AE%88%E3%82%8B%E3%81%9F%E3%82%81%E3%80%81%E3%80%8C%E9%81%BF%E9%9B%A3%E6%A3%9A%E3%80%8D%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%9F%E3%81%84%EF%BC%81&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F670">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">3,274,722</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph2" style="width: 327.4%;"></div>
+<p class="gcf-cht-detail-bar__number">327.4%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">1,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">327.4</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">232</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>高知県高知市（こうちけん こうちし）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="670" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2019年10月17日～2019年12月16日（61日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1029" class="sorting-list__item">インフラ・交通・施設</a></li><li><a href="/gcf/project/tag/1030" class="sorting-list__item">防災・公衆衛生</a></li><li><a href="/gcf/project/tag/1056" class="sorting-list__item">災害</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li><li><a href="/gcf/project/sdgs/1092" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_13.png 1x, /gcf/images_cf/sdg/sdg_icon_13@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_13.png" alt="SDGアイコン" decoding="async" />13.気候変動に具体的な対策を</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="670" class="gcf-nv-tab__button js-tab">進捗情報
+<span class="gcf-nv-tab__button-progress-number">5</span>
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">高知県高知市</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20191009/o_db9c19177991ea19f6b203ad5deaf8406b41a3ad.png" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">南海トラフ地震が起きたとき、わんぱーくこうちアニマルランドは津波に沈みます。逃げることも逃がすこともできない動物たちを津波から守りたい。今できることは何か？と考え、このプロジェクトを立ち上げました。<br/>
+<br/>
+ライオン、ジャガー、ツキノワグマの展示スペースに、津波避難棚の設置を行います。<br/>
+彼らの住むアニマルギャラリーの津波浸水は最大約2.7mと予想されています。今回のプロジェクトでは、猛獣の展示スペース内の高さ3m以上の場所に避難棚を設置し、津波が来た場合に動物たちが逃げる場所をつくります。<br/>
+<br/>
+--------<br/>
+【引き続きご支援をよろしくお願いいたします！】<br/>
+<br/>
+開始4日目の10月20日夕方，目標金額の100万円を達成することができました。<br/>
+<br/>
+アニマルランドのスタッフ一同，感謝の気持ちで胸がいっぱいです。本当にありがとうございました。これもひとえに，皆さまがわんぱーくこうちアニマルランドの動物たちに関心を持ってくださり，命を守りたいという熱い思いを寄せていただいた結果だと思います。<br/>
+<br/>
+なお，引き続き寄附の受付を行っております。いただいたご寄附は動物たちの生活環境を向上させるために活用いたします。<br/>
+<br/>
+皆さまからのご支援に込められた熱い思いを励みに，より一層愛される動物園を目指しますので，更なるご支援をよろしくお願いいたします。<br/>
+--------</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">動物たちを津波から守りたい！</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">ライオン・ジャガー・ツキノワグマの展示スペースに避難棚を作る</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190930/gpfd_bc31e916b7ed04a4a9fda19bfadf040176dc13f6.jpg" />
+<figcaption class="lyt-image__caption">避難棚設置を待つ動物たち</figcaption>
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191011/gpfd_290267ce4acb7d3c33d90535d0497ed049666701.jpg" />
+<figcaption class="lyt-image__caption">遠足や校外学習、高齢者の憩いの場としても愛されています。</figcaption>
+</figure>
+<p class="gcf-txt-article">アニマルランドは、昭和25年から『お城の動物園』として親しまれていた高知市立動物園が、高知市制100周年記念事業としてできた公園『わんぱーくこうち』内に移転して開園しました。<br/>
+平成5年、今から26年前のことです。<br/>
+ライオン、ジャガー、ツキノワグマ、スマトラトラ等の猛獣や、ウサギ、モルモットなどのふれあい動物、バードハウスの鳥たちやアニマルギャラリーのサルたちなどを飼育展示しています。<br/>
+入場無料のこじんまりとした動物園ですが、ギュッとつまった内容で開園以来、市民の皆様や県外のお客様にも親しんでいただいております。<br/>
+<br/>
+そんな『わんぱーくこうちアニマルランド』ですが、実は高知港の目の前にあります。<br/>
+こんなに海に近い動物園は全国的にもほとんど例がありません。<br/>
+忘れられない、あの2011年3月11日、東日本大震災で発生した津波被害の恐ろしさを目の当たりにし、私たちは思いました。<br/>
+<br/>
+「その時、飼育動物たちに何ができるのだろうか…」と。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191002/gpfd_1b4fbcbdc4691b871efdc3e65d9991a1f81c68e9.jpg" />
+<figcaption class="lyt-image__caption">浦戸湾に面し、高知港が目の前の立地。</figcaption>
+</figure>
+<p class="gcf-txt-article">備蓄部屋に動物たちの餌を準備し、発災事後に必要と思われる物品もそろえてきました。<br/>
+でもそれは動物たちが津波から生き残らなくては何の意味もないのです。<br/>
+<br/>
+津波から動物たちの命を守ろうと思えば、動物園自体を高台に移転する必要があります。<br/>
+でもそれには莫大な費用と時間がかかります。<br/>
+<br/>
+もし明日南海トラフ地震が発生したら？<br/>
+発災時、津波が襲ってきたそのとき、猛獣たちは逃げることができません。<br/>
+決して逃がすわけにはいかないのです。<br/>
+<br/>
+今、私たちに出来ること。<br/>
+それは予想される津波の高さの2.7m以上の場所に、逃げられる場所を作ることです。<br/>
+昨年度はスマトラトラの津波避難棚の設置を行いました。<br/>
+そして今年度、ライオンとジャガー、ツキノワグマの避難棚をつくるために、皆様のご協力をお願いすることになりました。<br/>
+アニマルランドの動物たちのために、ご支援よろしくお願いいたします。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">津波から逃げられる高さに避難棚を作る</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">ライオン・ジャガー・ツキノワグマも生き延びるために</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191001/gpfd_18eda0e4cf08bb5848f715776a5a6bdb3c2c958c.jpg" />
+<figcaption class="lyt-image__caption">昨年度初めてトラ舎に設置された避難棚。上部２段が新設です。</figcaption>
+</figure>
+<p class="gcf-txt-article">上の写真が昨年度初めてトラ舎に設置された避難棚です。<br/>
+（3段あるうちの一番下の段は元々あったものです。）<br/>
+<br/>
+今回ご支援いただくプロジェクトでは<br/>
+<br/>
+・ライオン、ジャガー、ツキノワグマの猛獣展示スペース内に<br/>
+・3ｍの高さに避難棚本体と<br/>
+・そこに上るための踏み台を<br/>
+<br/>
+それぞれ作製し、設置します。<br/>
+写真と同じような津波避難棚を3基製作し、設置するのです。<br/>
+<br/>
+高い場所にくつろぐことのできるスペースを作ることは、動物たちの飼育環境をよりよくする「環境エンリッチメント」にもつながります。<br/>
+<br/>
+動物たちを津波から守るプロジェクト第一弾として、昨年度スマトラトラの展示スペースに避難棚を設置しました。<br/>
+スマトラトラのアカラは、臆病な性格のため『怖がって上がってくれないのではないか？』と心配しました。<br/>
+でもそれは杞憂でした。<br/>
+気持ちの良い季節には、アカラが避難棚の上で風を受けてくつろぐ姿が見られます。<br/>
+きっと高いところから見下ろす方が気持ちがいいのでしょうね。<br/>
+<br/>
+この様に、被災後だけでなく普段から動物が利用できるのも良い点だと思います。<br/>
+いつも使っていて「安心できる場所」と動物たちが思ってくれれば、いざという時もきっとそこに逃げてくれるでしょう。</p>
+<h3 class="gcf-ttl-h3">■南海トラフ巨大地震は明日起きるかもしれない</h3>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">だからこそ、早期の設置を目指したい！</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">【事業実施のスケジュール】<br/>
+・2020年1月～3月　避難棚製作、設置工事実施<br/>
+・2020年4月～ 　　 避難棚完成おひろめ会実施予定<br/>
+<br/>
+【寄附金の使い道】<br/>
+・ライオン、ジャガー、ツキノワグマの展示スペースに設置する避難棚製作・設置費用の一部<br/>
+設置予定金額の400万円のうち100万円を今回のクラウドファンディングで寄附をお願いします。<br/>
+<br/>
+※目標金額以上の寄附を頂いた場合、飼育動物たちの生活環境の向上を図るための費用として、アニマルランドで活用させていただきます。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191001/offd_052d0ce5ff8047b61f318e31f0986940e3868c15.jpg" alt="だからこそ、早期の設置を目指したい！" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">ブリーディングローンをご存知ですか？</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">『希少な動物を絶やさず増やしていくために、動物園や水族館同士で動物を貸したり借りたりするブリーディングローンという制度をつくり、協力して種の保存を実行しています。 希少な動物は、個人や動物園・水族館の持ち物ではなく、世界共通の財産であるという考えに基づいています。ブリーディングローンの実施により、希少動物のペア飼育や群飼育が進み、たくさんの動物が繁殖に成功しています。（日本動物園水族館協会サイトより）』<br/>
+<br/>
+当園には他の動物園からお預かりしてる動物たちがいます。<br/>
+ジャガーのココは大阪市天王寺動物園から。<br/>
+スマトラトラのアカラは仙台市立八木山動物公園から。<br/>
+<br/>
+これは希少な動物の保護のため、また近親交配を避けるため、そしてワシントン条約による野生生物の取引規制、高額過ぎて新たな動物が購入できない、などさまざまな諸問題を解決するために行われている取り組みです。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191001/offd_051d4532b04ed49fb14e54e5964bf738da4f9d00.jpg" alt="ブリーディングローンをご存知ですか？" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">アニマルランドのなかまたち</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">津波避難棚の設置を待つ猛獣たちをご紹介</span></h3>
+<h3 class="gcf-ttl-h3">■ライオンのオス　キズナ（8歳）山口県秋吉台サファリランド生まれ</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190927/gpfd_2778ab30140faa9086756a79111fa0569ff03aac.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">キズナは生後3か月の頃に山口県からアニマルランドにやってきました。<br/>
+まだ小さかったため、当時担当していた職員が親代わりになって育てました。<br/>
+なので150㎏の巨体になった今でも、その職員には「オォン」と鳴いて甘えるそうです。<br/>
+たてがみも揃った立派な体に似合わず気の小さいキズナ。<br/>
+寝る部屋にある天井の遠赤外線ヒーターの赤い光が怖いのか、なかなか入ってきてくれない時があり、飼育担当者を困らせています。<br/>
+<br/>
+そんなキズナですが、実はしっぽに悲しい秘密があります。<br/>
+ぜひアニマルランドへ来て確認してください。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">■ライオンのメス　サン（14歳）和歌山県アドベンチャーワールド生まれ</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191003/gpfd_ff844135dadbccfa18d5b2d4cda5a3c0ce018503.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">和歌山県のアドベンチャーワールドでのもともとの名前はフォルテ（音楽用語で「大きく」「強く」の意味）でした。<br/>
+当園に来た時に飼育担当者が名前をサンと変えました。<br/>
+<br/>
+でもフォルテという名前は「名は体を表す」だったのだ、と今は思うのです。<br/>
+メスだけどかなりの骨太で標準より大柄！<br/>
+とにかくよく食べる！<br/>
+<br/>
+大きく、そして強くなりました。<br/>
+かかあ天下です。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">■ジャガーのオス　ルモ（12歳）ドイツ生まれ</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190927/gpfd_99da359811c361931a46661b83e720f72def9911.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">ドイツ・バイエルン州ミュンヘンのヘラブルン動物園生まれ。<br/>
+以前テレビ番組にジャガーの男前代表として取り上げられたことがあります。<br/>
+穏やかな性格です。<br/>
+<br/>
+ココが当園に来る前は、日本のジャガーの未来を担うべく他園に婿入りしていた時期もありました。<br/>
+残念ながらそこでは子供ができませんでしたが、環境が良かったのか相性が良かったのか、当園に帰って来てからココとの間に2頭の子宝に恵まれました。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">■ジャガーのメス　葉月ココ（5歳）大阪市天王寺動物園生まれ</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190927/gpfd_5a5974f558fc0c36a701db97867490074a506a94.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">なにわ生まれのシャープなお顔の美人さん。<br/>
+大阪市天王寺動物園からお預かりしています。<br/>
+<br/>
+一昨年、初産にもかかわらずオスのハクを無事育てあげました。<br/>
+今年の3月に2回目の出産でリンドを授かり、現在子育て奮闘中です。<br/>
+ハクの時は過保護なところもありましたが、リンドはのびのびと育てている様子。<br/>
+肝っ玉母さんになりつつあります。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">■ジャガーのオス　リンド（0歳）わんぱーくこうちアニマルランド生まれ</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191010/gpfd_8534dfd48f0385567bf765fb37144bac03afbfeb.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">ちょっと色が薄くて毛が大人より長く、まだまだこどもらしい姿をしています。<br/>
+来園者の皆様の投票により、リンドという名前が決まりました。<br/>
+（「リンド」とはジャガーの生息地であるブラジルの公用語ポルトガル語で「美しい」「かっこいい」の意味）<br/>
+<br/>
+これからどんどん大きくなり、1歳を過ぎればアニマルランドから旅立っていくでしょう。<br/>
+それまで、たくさんのかわいらしくやんちゃな姿を見せてくれると思います。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">■ツキノワグマのオス　ワカ（推定年齢25歳）和歌山県生まれ</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191002/gpfd_66a890f62c7518d8c3afa9c2e84e52d8cb1083a7.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">もともと野生で暮らしていたワカは、人里に出てきてドラム缶罠で捕まりました。<br/>
+一度は奥山放獣されたにもかかわらず、しばらくして再度捕まりました。<br/>
+<br/>
+危険なクマとして殺処分されてもおかしくない状況でしたが、縁あってアニマルランドにやってきて23年がたちます。<br/>
+野生の個体だけあって、若かりし頃は展示スペース破壊未遂事件（鉄板で補強済み）を起こしたり、知らない間に骨折していたり（手の甲だったので処置できないまま完治）、いろいろやらかしてくれました。<br/>
+<br/>
+近頃ではすっかり好々爺然としております。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">事業に携わる方の思い</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">高知市みどり課アニマルランド園長　吉澤 未来</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190927/gpfd_28787ffdf401f40ddecc642c53f448fd4f38924b.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">このページを読んでくださってありがとうございます。<br/>
+<br/>
+地震が起きた時、私たちは高い場所に逃げることが出来ます。<br/>
+でもアニマルランドの飼育動物たちを連れて逃げることは出来ません。<br/>
+　<br/>
+私たちの最終目標は、動物園が津波被害を受けない場所への移転です。<br/>
+高知市みどり課ではアニマルランド再整備計画研究会を発足させ、今後アニマルランドをどうするかの検討を進めています。<br/>
+しかしその実現には時間もお金もかかります。すぐに出来ないことは明らかです。<br/>
+<br/>
+津波避難棚を設置し、そこに猛獣たちが逃げればきっと津波から助かるでしょう。<br/>
+まず動物を救う第一歩として、このプロジェクトを成功させたいのです。<br/>
+まずは第一歩。<br/>
+これが成功すれば、第2、第3のプロジェクトを進めることが出来るかもしれません。<br/>
+<br/>
+そのためにも<br/>
+　どうか、動物たちのためにあなたの力を貸してください。<br/>
+　どうか、彼らの命を救うために手助けしてください。<br/>
+　ご協力よろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">高知市みどり課アニマルランド 猛獣飼育担当職員　山本 將充</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191002/gpfd_6b0b4a2be02668e643506db82d86213ca807dde9.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">近い将来、南海トラフ地震が起こることが予測されています。<br/>
+26年前に今の場所に移転してきた「わんぱーくこうちアニマルランド」は高知市桟橋通という場所にあります。<br/>
+港が目の前です。<br/>
+海から近いため、南海トラフ地震が発生した場合、津波による被害も大きくなると思われます。<br/>
+そのため、津波が発生した場合に動物の命を守ることが必要になります。<br/>
+<br/>
+昨年動物たちの命を津波から守るプロジェクトの第1弾として，スマトラトラ展示スペースに避難棚が設置されました。<br/>
+この避難棚があれば、津波が発生した場合にスマトラトラが避難することにより、命を失わずに済みます。<br/>
+<br/>
+現在、避難棚があるのがスマトラトラ展示スペースのみです。<br/>
+津波が来ても逃げることができない，逃がすことができないライオン、ジャガー、ツキノワグマの展示スペースにも避難棚の設置がどうしても必要です。<br/>
+このプロジェクトを実施し、なんとかして動物の命を守りたいです。<br/>
+みなさまのご協力をお願いします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">寄附者のみなさまへ</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190927/gpfd_80b7bf3a89b328be5181261e51ef4b2388ead5fe.jpg" />
+</figure>
+<p class="gcf-txt-article">アニマルランドの動物たちを気にかけてこのページをご覧になってくださっているみなさま、ありがとうございます。<br/>
+今回のプロジェクトについては、様々なご意見があると思います。<br/>
+ぜひアニマルランドに聞かせてください。<br/>
+みなさんのご意見が、これからのアニマルランドをつくる助けになります。<br/>
+<br/>
+そして動物たちに、ぜひ会いに来てください。<br/>
+ここにこうして動物たちがいる以上、彼らが生き延びるために私たちが今できることに精いっぱい取り組みます。<br/>
+アニマルランドのなかまたち、みんなでご来園をお待ちしております。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190927/gpfd_3a3276cb1e3b637fe1715a7e4852ec12acec7c4d.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">お礼の品をご紹介</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">完成おひろめ会にご招待</span></h3>
+<p class="gcf-txt-article">ご寄附いただいた全ての皆さまに、感謝の気持ちを込めたお礼状とオリジナルポストカードをお送りします。<br/>
+<br/>
+また、1万円以上ご寄附くださった方は、先着100組様に2020年4月以降に開催予定の避難棚完成おひろめ会で、通常なら入ることのできない猛獣の展示スペースに入って、避難棚を間近にご覧いただけます。<br/>
+（もちろん猛獣はバックヤードにいますので、ご安心を！）<br/>
+<br/>
+開催日、時刻など詳細を記した入場整理券を、お礼状とともにお届けします（※1万円以上ご寄附の先着100組様のみ）。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/39201/4731468/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20191008/pd_de4bcf41afdeab363202ea5e6a390abdf1fc80f7.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">【先着100組】「避難棚」完成おひろめ会にご招待</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<p class="goods-col_textinfo pc">2020年4月以降に開催予定の避難棚完成おひろめ会で、通常なら入ることのできない猛獣の展示スペースに入って、避難棚を間近にご覧いただけます。（もちろん猛獣はバックヤードにいますので、ご安心を！）
+開催日、時刻などの詳細を記した入場整理券を、お礼状とともにお届けします</p>
+</div>
+</a>
+</li>
+</ul><ul class="goods_list">
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<ul class="gcf-lst-bx" id="progress_list">
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2020年03月31日 15:35</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">津波避難棚完成のご報告</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200331/t_bf90a4c5773a5595421809c151dbfc3706c03851.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">皆さまのご支援のおかげで，ライオン，ジャガー，ツキノワグマの３つの展示スペース内にとうとう津波避難棚が完成しました！<br/>
+<br/>
+ライオンたちは新しい施設に面食らった様子でしたが，メスのサンはさっそくスロープを上っていきました。ただ，ライオンはもともと高所を利用する生きものではありません。サンが棚に上るまでに何日もかかりました。こんな高い場所にいるライオンはなかなか見ることは出来ないと思います。キズナは棚に上がろうとしません。下からサンのことを眺めて「オン…オン…」と鳴いています。<br/>
+<br/>
+ジャガーのリンドとココ親子は，いつもと様子が違う展示場に戸惑っていたようですが，すぐに新しい遊び場と認識してくれたようです。ルモにいたっては，まるで最初から知っていたかのように，なんのためらいもなく棚に上がりました。その後，リンドとココ親子は毎日活用していますが，ルモはあまり上がりません。一回確認して満足したのでしょうか。案外保守的な性格のようです。<br/>
+<br/>
+ツキノワグマのワカも，設置当初はあまり興味を示しませんでしたが，数日たつと休憩場所として気に入ってくれたようです。上の段で寝ている姿が見られるようになりました。高齢なので無理せずに，いざ！という時には利用してくれたらと思います。<br/>
+<br/>
+今後も動物たちのために何ができるか考え，一つでも実現していくことが皆様の熱い思いに答えることと信じて，頑張ります。<br/>
+今回のクラウドファンディングを良きご縁とし，末永くアニマルランドを見守っていただけたら幸いです。キズナ，サン，ルモ，ココ，リンド，ワカに代わりまして，御礼申し上げます。<br/>
+本当にありがとうございました。これからもアニマルランドと，アニマルランドの動物たちをよろしくお願いいたします。<br/>
+<br/>
+アニマルランド　園長　吉澤　未来<br/>
+スタッフ一同</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-info__image">
+<div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200331/1_e467517cba77811c1a7ae5e910a5366afb6f9aed.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200331/1_e467517cba77811c1a7ae5e910a5366afb6f9aed.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200331/2_f0e8530e6d01bf83860f56377ccf0a16f5adc93d.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200331/2_f0e8530e6d01bf83860f56377ccf0a16f5adc93d.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200331/3_cc5e24b05430b1caa62e89bc4478c5c535ad4d97.png"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200331/3_cc5e24b05430b1caa62e89bc4478c5c535ad4d97.png" /></a>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="523" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="523">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="523">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F670%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2019年12月18日 09:46</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">ありがとうございました！</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20191218/t_a8bf875831b3f9d6972fed22af02a63dc4f74906.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">プロジェクトへの寄附募集は，61日間で230名の方から300万円を超えるご支援をいただき，終了しました。<br/>
+<br/>
+ふるさとチョイスのサイトからご支援，応援メッセージをお寄せくださったみなさまのご厚意に心よりお礼申し上げます。<br/>
+また，インターネットが使えないという方々も数多く直接アニマルランドに足を運んでくださり，ご支援いただきましたことをここにご報告させていただくとともに，重ねてお礼申し上げます。<br/>
+本当にありがとうございました。<br/>
+<br/>
+現在は避難棚の設計が完了しており，１月からは棚本体を工場で製作，塗装し，３月からは休園日ごとに現場での組み立てを行う予定です。３月末の完成を目指し作業を進めています。<br/>
+設置工程につきましても引き続きこちらで進捗報告していきますので，どうぞよろしくお願いします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="406" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="406">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="406">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F670%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2019年12月05日 12:00</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">みんなで力をあわせて</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20191205/t_9fc29a8524c7150e986e99cf639da47da610dd14.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">今日は避難棚の設置のために手続きを進めている高知市役所みどり課からお伝えします。<br/>
+発注のためには，図面の作成や入札による業者の決定など多くの作業が必要で，その業務は，アニマルランドの職員ではなく，「みどり課」の職員が行います。<br/>
+現在は12月中の業者決定に向けて作業の大詰め。<br/>
+作業を担当する職員だけでなく，みどり課の職員も動物たちを守るため，がんばっています。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="391" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="391">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="391">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F670%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2019年11月05日 11:55</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">避難棚のこと</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20191105/t_d88c7919f8d745cb376c72bfc04e5277092afa41.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">進捗報告をご覧いただき，ありがとうございます。<br/>
+10月20日に目標金額を達成してからも，連日多くのあたたかいご支援をいただいており，アニマルランドのスタッフ一同，感謝感謝の毎日です。<br/>
+<br/>
+さて，今日は今回のプロジェクトで製作する避難棚について，お伝えしたいと思います。<br/>
+スタッフが上がっているのが昨年度，一足早く製作・設置されたスマトラトラのアカラの展示スペースの避難棚です。<br/>
+一番下の段はもともとあったものですが，木製のため，かなりボロボロです。<br/>
+上の２段が新設された避難棚ですが，こちらは合成木材と鉄骨でできており，ゾウが乗っても大丈夫かも?!<br/>
+（※かつて，高知城に高知市立動物園があった頃には，ゾウがいたことをご存知の方もいらっしゃるかもしれません。でも残念ながら，現在のアニマルランドにゾウはいません…）<br/>
+<br/>
+アカラはひょいっと飛び上がりますが，スタッフはよいしょよいしょっと一番上の段まで登り，アカラと同じ視点で見降ろしてみた風景が左下の写真です。<br/>
+アカラのお気に入りの場所で、３ｍの高さはかなり遠くまで見渡せます。<br/>
+<br/>
+ちなみにバックヤード側の建物屋上から展示スペースを昼間に見降ろしたのが右下の写真。<br/>
+檻と体のトラジマが重なって写真ではわかりにくいですが，アカラが最上段に写っています。<br/>
+「シャーッ！」と威嚇されています。<br/>
+見下ろすなよー！という感じでしょうか。<br/>
+*************************************************<br/>
+また，これからもアニマルランドのことをお伝えしていきます。<br/>
+引き続きご寄附も受け付けておりますので，ご支援よろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-info__image">
+<div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20191105/1_d98ba3fc00f161ae6d7f20e4e64936f81ebea0ce.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20191105/1_d98ba3fc00f161ae6d7f20e4e64936f81ebea0ce.jpg" /></a>
+</div><div class="lyt-image">
+<a class="boxer" target="_blank" href="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20191105/2_d72319640f99551244115c1963b5647f8ccbd596.jpg"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20191105/2_d72319640f99551244115c1963b5647f8ccbd596.jpg" /></a>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="368" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="368">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="368">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F670%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2019年10月21日 10:53</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">目標の100万円！達成しました。</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20191021/t_a5fca6009fcca8cdecc7a7b73b7a9e26539ae63f.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">開始４日目の10月20日夕方，目標金額の100万円を達成することができました。<br/>
+アニマルランドのスタッフ一同，感謝の気持ちで胸がいっぱいです。本当にありがとうございました。<br/>
+これもひとえに，皆さまがわんぱーくこうちアニマルランドの動物たちに関心を持ってくださり，命を守りたいという熱い思いを寄せていただいた結果だと思います。<br/>
+<br/>
+なお，引き続き寄附の受付を行っております。いただいたご寄附は動物たちの生活環境を向上させるために活用いたします。<br/>
+皆さまからのご支援に込められた熱い思いを励みに，より一層愛される動物園を目指しますので，更なるご支援をよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="356" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="356">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="356">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F670%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+</ul>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">高知県高知市</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">北には急峻な四国山地，南は東西に広がる海岸線から雄大な太平洋を一望できる高知市は，清流・鏡川の源流域から河口までの流域全体が一つの市域に含まれ，山，川，海の豊かな自然の恵みを受けて発展してきました。<br/>
+郷土の英傑・坂本龍馬やエネルギッシュなよさこい祭り，園芸野菜や果物，新鮮な魚介類など多彩な食材を提供する街路市や豪快な皿鉢料理に代表される「おきゃく（宴会）」など，飾らないおもてなし文化が根付いた（夜も）にぎやかな街です。<br/>
+高知市で，「景色」と「食」，そしてざっくばらんな気質の土佐人との交流を楽しんでみませんか。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">高知県高知市の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/39201/31?from=2&amp;gcf_project_id=670"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,521,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g670,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

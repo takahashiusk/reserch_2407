@@ -1,0 +1,1107 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/52" />
+
+<title>ふるさと納税で、教育機会に恵まれない子ども達を支援しよう！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="ふるさと納税で、教育機会に恵まれない子ども達を支援しよう！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/52" />
+<meta property="og:description" content="長野県軽井沢町にある全寮制国際高校、インターナショナルスクール・オブ・アジア軽井沢（略称 ISAK：アイザック）は、日本をはじめ世界数十カ国から「より良い世界を創りたい」という志を持った高校生を受け入れています。私たちは、「あらゆる環境の子どもたちが、良い教育を受ける権利がある」という建学の精神のもと、約5割の生徒に返済不要の奨学金を提供しています。実は、この奨学金の原資の半分以上が、「ふるさと納税」によるご寄附です。皆さまの税金が、世界中の子ども達に教育の機会を与え、ここ日本で、私たちの未来を担うチェンジメーカーを育成します。ご協力のほど、よろしくお願いいたします！" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20151104/d_971c42498db993924a5a474859acc272c6574eda.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20151104/d_971c42498db993924a5a474859acc272c6574eda.jpg" />
+<meta property="twitter:title" content="ふるさと納税で、教育機会に恵まれない子ども達を支援しよう！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="長野県軽井沢町にある全寮制国際高校、インターナショナルスクール・オブ・アジア軽井沢（略称 ISAK：アイザック）は、日本をはじめ世界数十カ国から「より良い世界を創りたい」という志を持った高校生を受け入れています。私たちは、「あらゆる環境の子どもたちが、良い教育を受ける権利がある」という建学の精神のもと、約5割の生徒に返済不要の奨学金を提供しています。実は、この奨学金の原資の半分以上が、「ふるさと納税」によるご寄附です。皆さまの税金が、世界中の子ども達に教育の機会を与え、ここ日本で、私たちの未来を担うチェンジメーカーを育成します。ご協力のほど、よろしくお願いいたします！" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,199,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="52" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">ふるさと納税で、教育機会に恵まれない子ども達を支援しよう！</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">ふるさと納税で、教育機会に恵まれない子ども達を支援しよう！</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1018">子ども・教育&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20151104/d_971c42498db993924a5a474859acc272c6574eda.jpg" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E7%B4%8D%E7%A8%8E%E3%81%A7%E3%80%81%E6%95%99%E8%82%B2%E6%A9%9F%E4%BC%9A%E3%81%AB%E6%81%B5%E3%81%BE%E3%82%8C%E3%81%AA%E3%81%84%E5%AD%90%E3%81%A9%E3%82%82%E9%81%94%E3%82%92%E6%94%AF%E6%8F%B4%E3%81%97%E3%82%88%E3%81%86%EF%BC%81&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F52">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">18,479,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 61.5%;"></div>
+<p class="gcf-cht-detail-bar__number">61.5%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">30,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">61.5</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">220</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>長野県軽井沢町（ながのけん かるいざわまち）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="52" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2015年11月6日～2015年12月31日（56日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1033" class="sorting-list__item">子ども・教育</a></li><li><a href="/gcf/project/tag/1038" class="sorting-list__item">観光・PR</a></li><li><a href="/gcf/project/tag/1043" class="sorting-list__item">グローバル化</a></li><li><a href="/gcf/project/tag/1051" class="sorting-list__item">不平等・格差</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1083" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_4.png 1x, /gcf/images_cf/sdg/sdg_icon_4@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_4.png" alt="SDGアイコン" decoding="async" />4.質の高い教育をみんなに</a></li><li><a href="/gcf/project/sdgs/1089" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_10.png 1x, /gcf/images_cf/sdg/sdg_icon_10@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_10.png" alt="SDGアイコン" decoding="async" />10.人や国の不平等をなくそう</a></li><li><a href="/gcf/project/sdgs/1096" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_17.png 1x, /gcf/images_cf/sdg/sdg_icon_17@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_17.png" alt="SDGアイコン" decoding="async" />17.パートナーシップで目標を達成しよう</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="52" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">長野県軽井沢町</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20151023/o_f76dc466f2ff0e8ccc6cbaf99c02906096c223b6.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">長野県軽井沢町にある全寮制国際高校、インターナショナルスクール・オブ・アジア軽井沢（略称 ISAK：アイザック）は、<br/>
+日本をはじめ世界数十カ国から、ハングリー精神旺盛で、「より良い世界を創りたい」という志を持った高校生を受け入れています。<br/>
+私たちは、「あらゆる環境の子どもたちが、良い教育を受ける権利がある」という建学の精神のもと、<br/>
+約5割の生徒に返済不要の奨学金を提供しています。<br/>
+実は、この奨学金の原資の半分以上が、「ふるさと納税」によるご寄附です。<br/>
+皆さまの税金が、世界中の子ども達に教育の機会を与え、ここ日本で、私たちの未来を担うチェンジメーカーを育成します。<br/>
+ご協力のほど、よろしくお願いいたします！<br/>
+<br/>
+尚、皆さまからいただいたご寄附を１円でも多く奨学金として使わせていただきたく、「お礼の品」は特にお送りさせていただいておりません。ただ、メールアドレスを私共に公開していただいた方には、四半期に一度ほどのニュースレターをお送りすると同時に、年に一度「ふるさと奨学生からのお礼の声」を届けさせていただきます。お一人おひとりのお気持ちを、すべて子どもたちの可能性に掛けることをお約束いたします。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article">
+<div class="gcf-bx-fill grayBox680imgBody clearfix">
+<p class="mT-05"><strong>目次</strong></p>
+<ul class="mT-05 mB10 mL20">
+<li><a href="#isak1"><span class="gcf-txt-link" style="color: #009143;">「世界を変革できる人」を育てる全寮制国際高校ISAK開校</span></a></li>
+<li><a href="#isak2"><span class="gcf-txt-link" style="color: #009143;">50%以上の生徒に奨学金を支給する理由</span></a></li>
+<li><a href="#isak3"><span class="gcf-txt-link" style="color: #009143;">ISAK設立の背景　〜「教育機会の不均等を解消したい」小林りんの想い</span></a></li>
+<li><a href="#isak4"><span class="gcf-txt-link" style="color: #009143;">「ふるさと納税」の支援を受けて学ぶ留学生たちの声</span></a></li>
+<li><a href="#isak5"><span class="gcf-txt-link" style="color: #009143;">未来を担うチェンジメーカーが、ここ日本から</span></a></li>
+</ul>
+</div>
+</p>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div id="isak1">&nbsp;</div></p>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">「世界を変革できる人」を育てる<br/>
+全寮制国際高校ISAK開校</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190417/gpfd_215a2ac72b9e19bde9994819d8a5e07ea30bef06.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><p>日本初の全寮制国際高等学校、<a title="ISAK" href="https://isak.jp/jp/" target="_blank"><span style="color: #009143;">インターナショナルスクール・オブ・アジア軽井沢</span></a>（略称ISAK：アイザック）は、2014年8月、長野県軽井沢に開校しました。開校2年目を迎えた今、世界29カ国の多様な環境で育った98名の高校1・2年生が、同じ屋根の下で寝食、学びを共にしています。（7割は海外からの留学生、3割が日本人。） ISAKは、世界の様々な境遇の若者を受け入れ、より良い社会のために変革を起こす「チェンジメーカー」を育てることをミッションに掲げています。<br/> 社会問題、技術革新、あらゆることが国境を超えて起こりつつある昨今、それぞれが情熱を注げる分野において自分の強みを活かし、価値観の異なる仲間とも手を携えて、社会にポジティブなインパクトを与えられる若者を育成しています。</p></p>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190417/gpfd_70864489c05e11e2571762c30a2f9d9ec4b318fd.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div id="isak2">&nbsp;</div></p>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">50%以上の生徒に奨学金を支給する理由</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190417/gpfd_cf6013c8ed22466228769ebf1847ed8b2908d3de.jpg" />
+</figure>
+<p class="gcf-txt-article">ISAKでは、50%以上の生徒（日本人も含む）に、返済不要の全額または部分奨学金を支給しています。そして、この奨学金の原資となっているのは、ISAKのミッションを信じてくださる多くのご支援者の方々からのご寄付、その7割が、「ふるさと納税」を通じたご支援によるものです。<br/>
+<br/>
+私たちは、どんな境遇に生まれた子どもにも、平等に良い教育を受けるチャンスが与えられるべきであると信じています。しかし、これほど高い奨学金比率にこだわるのは、経済的に困難な子どもたちのためだけではありません。国籍だけでなく、育った環境、経験、価値観が異なる者同士が共同生活を送る教育環境を創ることで、自分と常識の違う相手を受け入れ、尊重しながら、共に新たな価値を創造していける人材を育てたいと願っているのです。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190417/gpfd_3f0815d14616662f0c3781f9c7fd7984813f669b.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div id="isak3">&nbsp;</div></p>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">ISAK設立の背景　〜「教育機会の<br/>
+不均等を解消したい」小林りんの想い</span></h2>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><p>この学校を立ち上げたのは、元ユニセフ勤務の<a href="https://isak.jp/jp/about/history/" target="_blank"><span style="color: #009143;">「小林りん」</span></a>という女性です。（現ISAK代表理事。２児の母。）　ISAK設立に繋がった小林の原体験は、２つあります。</p></p>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190417/gpfd_5dea66c3f710b4726634c0b7eedc8e3208fa95a6.jpg" />
+</figure>
+<h3 class="gcf-ttl-h3">留学先の高校で目の当たりにした<br/>
+「教育を受けられる」ことは決して当たり前ではないという現実</h3>
+<p class="gcf-txt-article">小林は高校時代、全額奨学金を得てカナダの全寮制インターナショナルスクールに留学しました。 当時、全世界から集まった高校生と共同生活を送る中、あるメキシコ人のクラスメートの実家を訪ねる機会に恵まれます。母国においては「中流家庭だ」と言う彼女の兄弟3人は、皆とても優秀であるにも関わらず経済的な理由で高校には進学できておらず、機械工などの仕事についていました。彼女だけが、運良く奨学金付きの寄宿学校に留学し、学ぶ機会を得ることができたのです。この時小林は、「学校に行ける」ことは決して当たり前ではないのだと、痛烈に実感しました。</p>
+<h3 class="gcf-ttl-h3">教育を通じて社会を変えたいという気持ちの芽生え</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2--reverse">
+<div class="lyt-image2__content">
+<p class="gcf-txt">やがて大学で開発経済学を学び、スタンフォード大学で国際教育政策学を修了した小林は、国連児童基金（ユニセフ）の職員として、フィリピンに赴任しました。３年間ストリートチルドレンの非公式教育に携わるなか、どれほど彼らの識字率を上げたとしても、社会のシステム自体が変わらなければ貧困はなくならないということを学びます。</p>
+</div>
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190417/gpfd_c9ee93d50bb074e407f658966a5d15e9cabb08b4.jpg" />
+</div>
+</div>
+</div>
+<p class="gcf-txt-article">この二つの体験を通じて小林は、社会を変革することが出来る、「真のチェンジメーカーを育成すること」、そしてポテンシャルのある生徒であれば幅広く門戸を開き、教育機会の不均等を解消することこそが、自身に与えられた使命であるとの考えに至ったのです。<br/>
+2009年に学校の設立準備財団を立ち上げて以来、紆余曲折を経ながら6年の歳月をかけ、たくさんの方々のご支援のおかげで、昨年ISAKを開校しました。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div id="isak4">&nbsp;</div></p>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">「ふるさと納税」のご支援を受けて学ぶ<br/>
+留学生たちの声</span></h2>
+<p class="gcf-txt-article">現在ISAKでは、半数以上の生徒が「ふるさと納税」を通じたご支援のおかげで学んでいます。在校生を無事卒業させるのはもちろん、来年以降入試を受ける世界中の子どもたちの一人でも多くに就学のチャンスを与えられるよう、どうかご協力のほどよろしくお願い致します！<br/>
+ご支援いただいている生徒たちの声を、一部ご紹介します。</p>
+<h3 class="gcf-ttl-h3">ヒマンシュ（ネパール出身・１期生）</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190417/gpfd_d430d0620fbfefb5d60454cba18fd06b0d36bb50.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">ISAKに入って、ソマリアなど世界の様々な地域からきた仲間と出会い、メディアを通じたニュースではわからないような、リアルなストーリーを沢山聞くことができました。今年、自分にとって大きな変化のきっかけになったのは、母国ネパールの大地震による被災地域（特に援助の手が届きにくい地方）を支援するプロジェクトを立ち上げたことです。立ち上げ当初は、今思えば目標も小さく、どこかに「僕達は生徒だから」とか「大人の手助けがないと」といった気持ちがありました。でも、実際にクラウドファンディング等で資金を集め、夏休みには現地に入ってボランティアをし、現地の復興に携わる医療団体や学校と連携して復興援助を進める中で、「自分達はもっと出来る」という自信が芽生えていったんです。今までも能動的だったし、自信もあったと思うけど、このプロジェクトを通して自分の可能性がもっともっと広がっていることに気付きました。今は「もっと出来る」という確信に変わっています。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">マーシャル（パキスタン出身・2期生）</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190417/gpfd_536e580a3e579fcf4cdb35be72ff136df84c5faa.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">本当にこの学校に入れて良かったです。パキスタンで通っていた学校の授業は、生徒が理解しているかは関係なく、ただ暗記するだけの授業だったけど、ISAKは違います。特に英文学の授業が楽しい！今は歌の歌詞を分析して、その歌が生み出す社会的価値を考えています。 ISAKはLeadershipのプログラムが特徴的だと思う。その影響なのか、様々なバックグランドの生徒が集まっているのに、皆フレンドリーで誰とでも話す。この雰囲気がとても好きです。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">アイサッタ（シエラレオネ出身・2期生）</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190417/gpfd_a81c409e2693400f6e51eee070f5d737b071e944.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">2014年にISAKのサマースクールに参加した後、世界の見え方が変わりました。参加する前は、自分と違う意見を持つ人々は『敵』とみなしていました。でも、ISAKでリーダーシップの授業を受けてからは、異なる意見を持つ人に対して、その意図は何だろう、その人はどういう立場からそう主張しているのか、に意識を向けるようになりました。さらにISAKは私に、率直に自分の想いを伝える勇気と、プレゼン能力を与えてくれました。自分の夢に向けた第一歩を、ここで踏みださせたと思います。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">ジャスラージ（マレーシア出身・2期生）</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HWySh8soPZA?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div id="isak5">&nbsp;</div></p>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">将来アジアで活躍するチェンジメーカーが<br/>
+ここ日本から</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190417/gpfd_7e1c0a86571397fa2999cbae6fa862c50a3bdee2.jpg" />
+</figure>
+<p class="gcf-txt-article">アジア太平洋地域を中心に世界から集まる留学生たちと、日本の生徒たちが互いに刺激し合いながら学ぶ中で、将来社会に変革を起こすチェンジメーカーが、この軽井沢の地から、そして日本から、巣立ってほしいと強く願っています。<br/>
+いずれは、ISAKで育ったリーダーが、世界中の様々な地域や分野で抱える問題を、自らの手で解決していって欲しい。そのための優れた教育機会を、社会的、経済的バックグラウンドに関わらず、多くの子どもたちに提供したい。そんな私たちISAKの夢を、ここにいる未来を担う若者たちの夢を、ご支援いただけましたら幸いです。<br/>
+　</p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://isak.jp/jp/">＞ISAKウェブサイト 　https://isak.jp/jp/</a></p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.facebook.com/ISAK.jp">＞ISAKフェイスブック 　https://www.facebook.com/ISAK.jp</a></p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://instagram.com/isak_japan_official/">＞ISAKインスタグラム 　https://instagram.com/isak_japan_official/</a></p>
+<h3 class="gcf-ttl-h3">【学校概要】</h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190417/gpfd_8a5e5a8b6f818ff5705d452817eb38300de31443.jpg" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190417/gpfd_769602a631b290853799cfba2296a23cd79b5755.jpg" />
+</figure>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">【必ずご確認ください】年末年始の取り扱いについて</span></h2>
+<p class="gcf-txt-article">平成28年度の税控除は平成27年1月～12月のご寄附が対象になり、年内のご入金が必要です。お早めの手続きをよろしくお願いいたします。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190417/gpfd_1af8b829a67a9717ed0214736c724ce29cc1edb9.jpg" />
+</figure>
+<p class="gcf-txt-article">※それ以降のお申し込みは、平成28年の寄附扱いとなりますのでご注意ください。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">長野県軽井沢町</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__image"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20151015/m_2342524aff8e12672fae2991035d831c37172616.jpg" /></div>
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">長野県軽井沢町は、「日本の屋根」といわれるように標高の高い山々がそびえ、美しい景観ときれいな空気、雄大な山々をもつ県として広く知られております。また、日本アルプスや世界的に有名なニホンザルの地獄谷野猿公苑などを有し、県の面積の2割以上が自然公園に指定されるなど豊かな自然環境にもめぐまれています。1998年の冬季オリンピック競技の開催地でもあり、ウィンタースポーツのメッカとしても知られています。<br/>
+軽井沢は19世紀後半より国内外から多くの観光客を惹きつけてきました。標高の高い冷涼な高原地帯に位置しているために夏は避暑地として、また年間を通してハイキング、サイクリング、テニス、ゴルフなどアウトドアを楽しめるリゾート地として多くの人に愛されています。また、軽井沢は夏・冬両オリンピックの競技を開催した世界で唯一の街でもあり、今では世界級のアイスアリーナにて国際カーリング選手権を開催し、世界各地のアスリートが訪れます。アウトドアのみならず、上質な温泉、グルメ、ショッピングを楽しめる観光スポットとしても多くの人を惹きつけています。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">Good luck to ISAK and the future global leaders!<br/>
+<br/>
+....That you are here—that life exists and identity,<br/>
+<br/>
+That the powerful play goes on, and you may contribute a verse.<br/>
+<br/>
+From &quot;（O Me! O Life!）By Walt Whitman &quot;</p>
+<p class="gcf-bx-message__date">2015年12月18日 18:23</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">教育のダイバーシティを目指すうえで，非常にアクティブな取り組みと思いました。初めてのプロジェクト応援ですが，これからも継続してみなさんの成長と発展とご活躍を見守りたいと思います。軽井沢という自然豊かな環境で，自然の恩恵を受けた豊かな人としてご活躍されることを願います。よろしくお願いします。</p>
+<p class="gcf-bx-message__date">2015年12月12日 12:19</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text"> 日本では国際化やグローバル化が強調されていますが、日本や外国に対する深い洞察を欠いた表面的なものにとどまっているような気がしてなりません。ＩＳＡＫから異なる文化や考え方に共感できる国際人が巣立っていくことを期待しています。それから、学校の近くでお見かけする生徒のみなさんがとても礼儀正しいのでいつも感心しています。</p>
+<p class="gcf-bx-message__date">2015年12月6日 22:27</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">「すべての子供たちに平等な教育機会を与える」という意義は沢山の人が共感すると思います。しかし、ほとんどの人が私も含めて「思うだけ」です。それを実際にチェンジさせていくべく、実践される姿勢を深く尊敬します。<br/>
+是非とも、志ある若者が地域を、国を、世界をより良くしていくリーダーとなってくれる事を期待しています。</p>
+<p class="gcf-bx-message__date">2015年11月18日 17:23</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">ＩＳＡＫの継続的な教育を応援しています</p>
+<p class="gcf-bx-message__date">2015年12月24日 8:50</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">教育の機会均等はとても重要なことですので賛同致します。是非、よい環境でよい教育を提供して下さい。応援しています。</p>
+<p class="gcf-bx-message__date">2015年12月24日 0:14</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">ISAKの取り組みを応援しています。<br/>
+</p>
+<p class="gcf-bx-message__date">2015年12月22日 6:14</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">私も田舎の高校出るのに奨学金支援いただいて、<br/>
+就職してから返済しました。学ぶ機会が多くの若者に与えられ若者たちの可能性が発揮され社会に役立ってほしいです。特に外資系のＩＴ会社にいたのでグローバルな人との交流は、若い時に特に大切と思います。皆様が無事に学業を修了されることを期待しております。</p>
+<p class="gcf-bx-message__date">2015年12月20日 14:58</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">私の孫も来年海外に留学します。日本でも海外留学生の方が日本の事を学んでいただけるのは嬉しいです。良い留学体験をしてください。</p>
+<p class="gcf-bx-message__date">2015年12月20日 12:39</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">取り組みを心から応援したいと思います。<br/>
+ほんのわずかですが、ずっと続けていきたいと思っています。</p>
+<p class="gcf-bx-message__date">2015年12月19日 4:21</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">どの国に産まれ、どんな親に関わらず、子どもが学ぶこと知ることの機会が与えられることを望みます。<br/>
+ここにたどり着く事が困難な子どもたちにも、国内外問わず同様な場があるような社会になって欲しい、と一親として願います。</p>
+<p class="gcf-bx-message__date">2015年12月18日 22:45</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">貴校の存在を初めて知りました。このような学校が当たり前に運営できる世の中になれば良いと思いました。<br/>
+少額ですが、応援させてください。</p>
+<p class="gcf-bx-message__date">2015年12月17日 22:22</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">数年前、学校設立以前、雑誌GOETHEでのインタビュー記事を見て、切り抜きをし、その後どのようになっているのかずっと気になっていました。<br/>
+微力ながらこのような形で応援させていただけることをとてもうれしく思っています。<br/>
+教育は力だと思います。今後の益々の発展を心よりお祈り申し上げます。</p>
+<p class="gcf-bx-message__date">2015年12月14日 23:24</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">昔から大好きな軽井沢にこのような学校があることを知り、心ばかりですが応援させて頂きます。<br/>
+この子供達が本を読み、考えることが、将来の世界、アジアを明るくすることに繋がるのであれば何よりです。<br/>
+仕事柄、アジアに行くことが多く、アジアの中の日本の在り方について良く考えさせられます。その国に行き、実際にその国の人と触れ合い感じたことの方が、「その国の教科書」よりも強い印象となります。運営に際しご苦労もきっとたくさんお有りかと存じますが、子供達が日本で教育を受けて良かったと思えるよう、これからもがんばってください。</p>
+<p class="gcf-bx-message__date">2015年12月14日 10:50</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">日本で世界のことを勉強して、日本を好きになってその上で日本に足りないことや日本がすべきことを提言していただけると嬉しく思います。世界で活躍できる人材になって下さい。</p>
+<p class="gcf-bx-message__date">2015年12月14日 4:03</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">この試みに賛同します。</p>
+<p class="gcf-bx-message__date">2015年12月13日 23:17</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">皆さんの取り組みに共感します。<br/>
+少子高齢化が避けられない今、子供たちが<br/>
+日本にとどまらず、世界の中で生きていくことは<br/>
+避けられません。<br/>
+どこの国の人とも気後れせずに付き合える日本人、<br/>
+日本に親近感を持ってくれる外国人、ともにたくさん増えていくとよいと思います。<br/>
+応援しています。</p>
+<p class="gcf-bx-message__date">2015年12月13日 20:26</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">生徒の皆さんの役に立てればこんなに嬉しいことはありません。子どもたちの可能性が開花されることを願っています。</p>
+<p class="gcf-bx-message__date">2015年12月13日 13:02</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">私も子どもが生まれてから子どもたちの教育環境がとても気になるようになりました。<br/>
+たくさんの子どもたちがより良い教育を受けられるよう頑張ってください。</p>
+<p class="gcf-bx-message__date">2015年12月13日 12:27</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">すばらしい取り組みだと思います。<br/>
+勉強が好きな子が、好きなだけ勉強できる環境があれば<br/>
+世の中のためにもなると思います。</p>
+<p class="gcf-bx-message__date">2015年12月12日 15:10</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/52">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">長野県軽井沢町の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/20321/2?from=2&amp;gcf_project_id=52"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月11日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,199,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g52,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

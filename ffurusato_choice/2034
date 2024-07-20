@@ -1,0 +1,1826 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/2034" />
+
+<title>みんなで「つくる」、大川原高原観光プロジェクト！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="みんなで「つくる」、大川原高原観光プロジェクト！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/2034" />
+<meta property="og:description" content="　本村は県都、徳島市の隣にある徳島県唯一の村であり、令和4年3月より新ロゴマークと『さち香る風の谷』をキャッチコピーとして村のイメージ戦略を開始しました。　取り組みの一環である景観づくりのひとつとして、四国八十八景に認定されている、本村最高峰の山、旭ヶ丸(1,019m)にある大川原高原を再整備し、より多くの人が集まり魅了するような場所にしていきたいと計画しました。　今回のプロジェクトでは、大川原高原を沢山の観光客が訪れる観光地としてだけではなく、①食べる、②学ぶ、③眺めるの３つのテーマから体験いただける場へと生まれ変わります。　ご寄附いただいた方には寄付金額に応じて返礼品をお送り致しますとともに、ポストカードを送付させていただきますので、みなさんからのたくさんのご協力をお待ちしています。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221021/d_c8632cfc9623fef238cc05d8fd38000a61f50181.png" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221021/d_c8632cfc9623fef238cc05d8fd38000a61f50181.png" />
+<meta property="twitter:title" content="みんなで「つくる」、大川原高原観光プロジェクト！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="　本村は県都、徳島市の隣にある徳島県唯一の村であり、令和4年3月より新ロゴマークと『さち香る風の谷』をキャッチコピーとして村のイメージ戦略を開始しました。　取り組みの一環である景観づくりのひとつとして、四国八十八景に認定されている、本村最高峰の山、旭ヶ丸(1,019m)にある大川原高原を再整備し、より多くの人が集まり魅了するような場所にしていきたいと計画しました。　今回のプロジェクトでは、大川原高原を沢山の観光客が訪れる観光地としてだけではなく、①食べる、②学ぶ、③眺めるの３つのテーマから体験いただける場へと生まれ変わります。　ご寄附いただいた方には寄付金額に応じて返礼品をお送り致しますとともに、ポストカードを送付させていただきますので、みなさんからのたくさんのご協力をお待ちしています。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,591,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="2034" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">みんなで「つくる」、大川原高原観光プロジェクト！</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">みんなで「つくる」、大川原高原観光プロジェクト！</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1020">観光・PR&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221021/d_c8632cfc9623fef238cc05d8fd38000a61f50181.png" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E3%80%8C%E3%81%A4%E3%81%8F%E3%82%8B%E3%80%8D%E3%80%81%E5%A4%A7%E5%B7%9D%E5%8E%9F%E9%AB%98%E5%8E%9F%E8%A6%B3%E5%85%89%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%EF%BC%81&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F2034">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">1,274,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 25.4%;"></div>
+<p class="gcf-cht-detail-bar__number">25.4%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">5,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">25.4</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">60</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>徳島県佐那河内村（とくしまけん さなごうちそん）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="2034" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2022年11月1日～2023年1月29日（90日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1028" class="sorting-list__item">まちづくり・コミュニティ</a></li><li><a href="/gcf/project/tag/1035" class="sorting-list__item">山・農業</a></li><li><a href="/gcf/project/tag/1038" class="sorting-list__item">観光・PR</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1087" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_8.png 1x, /gcf/images_cf/sdg/sdg_icon_8@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_8.png" alt="SDGアイコン" decoding="async" />8.働きがいも経済成長も</a></li><li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="2034" class="gcf-nv-tab__button js-tab">進捗情報
+<span class="gcf-nv-tab__button-progress-number">1</span>
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">徳島県佐那河内村</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20221102/o_a9df3a56d9ff19e77809efa3a6ee42d73b76c955.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">　本村は県都、徳島市の隣にある徳島県唯一の村であり、令和4年3月より新ロゴマークと『さち香る風の谷』をキャッチコピーとして村のイメージ戦略を開始しました。<br/>
+　取り組みの一環である景観づくりのひとつとして、四国八十八景に認定されている、本村最高峰の山、旭ヶ丸(1,019m)にある大川原高原を再整備し、より多くの人が集まり魅了するような場所にしていきたいと計画しました。<br/>
+　今回のプロジェクトでは、大川原高原を沢山の観光客が訪れる観光地としてだけではなく、①食べる、②学ぶ、③眺めるの３つのテーマから体験いただける場へと生まれ変わります。<br/>
+　ご寄附いただいた方には寄付金額に応じて返礼品をお送り致しますとともに、ポストカードを送付させていただきますので、みなさんからのたくさんのご協力をお待ちしています。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">つくる大川原高原プロジェクト</span></h2>
+<h3 class="gcf-ttl-h3">大川原高原について</h3>
+<p class="gcf-txt-article">　佐那河内村を代表する観光スポットとして、大川原高原があります。徳島市内からおよそ１時間の場所に約３万本の紫陽花が植えられており、７月上旬からの１ヶ月間は、県内外から多くの観光客がやってきます。また、高原から見る360°のパノラマの絶景は、晴れた日には紀伊半島まで見渡すことができ、夜の星空は手が届きそうなほど輝いて見えます。<br/>
+　眺望以外にも、尾根に沿って立ち並ぶ風車や放牧されている牛、周囲に広がる自然を身近に感じることができるほか、サイクリングやハイキングのコースとしても大きな可能性を秘めている場所になっています。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221021/gpfd_15ddf9dbf08ddda5c2bb2f2744c23162f158f5f6.png" />
+</figure>
+<p class="gcf-txt-article">　しかし、ほとんどの観光客は紫陽花の時期に集中しており、残念ながら通年して訪れる観光客はまばらとなっています。観光の内容についても、景色を観て帰る…といったように、滞在時間が短く、大川原高原の持つ魅力を十分に活かしきれていないのが現状です。</p>
+<h3 class="gcf-ttl-h3">「つくる大川原高原プロジェクト」とは</h3>
+<p class="gcf-txt-article">　「つくる高原プロジェクト」は、大川原高原を大勢の人が訪れる観光地にするというものではありません。<br/>
+　大川原高原の自然や景観を残しつつ、魅力的な場所にすることで、本当の佐那河内村ファンになってもらい、ファンのみなさまやこれからファンになってくれるみなさま、そして、地元の人が何度も訪れ、ゆっくり、ゆったり滞在できる場所づくりをめざしています。<br/>
+　そのための仕組みとして、３つのことに取り組んでいくことを考えています。<br/>
+<br/>
+①高原で食べる「場」をつくる<br/>
+②高原で学ぶ　「場」をつくる<br/>
+③高原で眺める「場」をつくる<br/>
+<br/>
+　「つくる」をコンセプトに、広い大川原高原に「食べる場をつくる」、「星などの学び場をつくる」、「眺める場をつくる」など、美しい高原を少しずつつくっていくことで、様々な滞在の仕組みが生まれ、佐那河内村ならではの滞在観光がつくられていくことを目標としています。<br/>
+　佐那河内村を好きになった人や地元の人が何度訪れ、ゆっくり滞在できるスポットづくりにご協力ください。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221028/gpfd_62a1717262d0ec6d1d630763694bb1de6c4f42b4.png" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221115/gpfd_749cafbd5ade649e9880039b89720af19ddf0461.png" />
+<figcaption class="lyt-image__caption">ポストカード(裏面)</figcaption>
+</figure>
+<h3 class="gcf-ttl-h3">結びに</h3>
+<h4 class="gcf-ttl-h4">佐那河内村長　岩城 福治</h4>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20221021/gpfd_50bfcfa6b6a3e6148c7d416930659152d69e7fea.png" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">　<br/>
+<br/>
+　今回、この企画を提案したのは、「佐那河内村のことを知ってもらいたい！」「ファンになってもらいたい！」という想いからです。<br/>
+　本村自慢の返礼品を手に取ってもらうのはもちろんのこと、みなさまのお力も借りて「つくる」大川原高原にお越しいただければ幸いです。</p>
+</div>
+</div>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/5415177/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240108/pd_272524a51a0774d5c37279b8c86afdf69824998d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0600]”清流と寒暖差が生む”村自慢の「棚田米」 5kg　 ※10月頃から発送　</h4>
+<p class="goods-col_price inline">11,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2024年12月31日まで</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>10月頃から発送します。
+</p>
+</div>
+<p class="goods-col_textinfo pc">佐那河内村の府能、奥野々、和協地区に点在する標高300メートル前後の棚田で生産される「ヒノヒカリ」です。
+水持ちの良い粘土質の赤土層で、稲作に適したミネラルを多く含む田で栽培される米は、甘みと香りに優れていると好評です。
+※画像はイメージです。
+※令和6年度産ヒノヒカリ
+※出荷前に精米を行い発送いたします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/5415178/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240108/pd_f90c8ca87818393c41a973578ae1148937316557.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0599]&quot;清流と寒暖差が生む”村自慢の「棚田米」10kg　 ※10月頃から発送</h4>
+<p class="goods-col_price inline">17,500円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2024年12月31日まで</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>10月頃から発送します。
+</p>
+</div>
+<p class="goods-col_textinfo pc">佐那河内村の府能、奥野々、和協地区に点在する標高300メートル前後の棚田で生産される「ヒノヒカリ」です。
+水持ちの良い粘土質の赤土層で、稲作に適したミネラルを多く含む田で栽培される米は、甘みと香りに優れていると好評です。
+※画像はイメージです。
+※令和6年度産ヒノヒカリ
+※出荷前に精米を行い発送いたします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/5484808/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240108/pd_3d39750bb710b4469d104c92696e0e59312567c2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0637]『数量限定』手間いらず・無洗米10kg(令和6年産)　※9月下旬頃から発送　</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2024年12月31日まで</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>9月下旬頃から発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">澄んだ水と緑あふれる佐那河内村で、農家さんが愛情込めて育ています。
+品種はミルキークイーン、やわらかさともっちり食感が特徴。冷めても美味しい、おにぎりやお弁当にオススメです。
+米とぎの手間が省ける便利な無洗米でお届けします。
+※画像はイメージです。
+※令和6年産・佐那河内産米
+※出荷前に精米いたします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/5484809/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240108/pd_53067829242d2d459402893c79a5c51903a85a91.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0636]『数量限定』手間いらず・無洗米5kg(令和6年産)　※9月下旬頃から発送　</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2024年12月31日まで</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>9月下旬頃から発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">澄んだ水と緑あふれる佐那河内村で、農家さんが愛情込めて育ています。
+品種はミルキークイーン、やわらかさともっちり食感が特徴。冷めても美味しい、おにぎりやお弁当にオススメです。
+米とぎの手間が省ける便利な無洗米でお届けします。
+※画像はイメージです。
+※令和6年産・佐那河内産米
+※出荷前に精米いたします。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4829129/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240412/pd_3e6fe1db0a3b6e9411a38f5b4915d28e9a03a639.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0349]丹精込めて育てました！マルチみかん「うまか」　※11月中旬頃から発送　※離島不可</h4>
+<p class="goods-col_price inline">9,500円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2024年12月8日まで</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>11月中旬頃から発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">樹の下をシートマルチで被覆し、降雨を遮断して土壌水分をコントロールすることで、糖度の高いみかんが栽培できます。
+愛情たっぷり育てました！！ぜひご賞味ください。
+※画像はイメージです。
+※専用の化粧箱にてお届けいします。写真参照。
+※天候や発育によりお届けが遅れる、又は早まることがあります。
+※賞味期限内にお受け取りいただけなかった場合、自動的に事業所へ返送されます。その際の再送は致しません。
+※賞味期限内にお受け取りいただいても、お問い合わせ(傷み等品質に関する事項)が期限を過ぎた場合は対応致しかねます。予めご了承ください。
+※自然のものですので、味にもバラつきがございございます。酸味につきましても個人差がありますので、返品・交換はお受け出来ません。
+※離島(沖縄本島は除く）への配送不可。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4829130/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240412/pd_1b37f38006e63ced733a6bf86200dfecc70bf760.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0350]2箱セット　マルチみかん 「うまか」　※11月中旬頃から発送　※離島不可</h4>
+<p class="goods-col_price inline">13,500円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2024年12月8日まで</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>11月中旬頃から発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">樹の下をシートマルチで被覆し、降雨を遮断して土壌水分をコントロールすることで、糖度の高いみかんが栽培できます。
+愛情たっぷり育てました！！ぜひご賞味ください。
+※画像はイメージです。
+※専用の化粧箱にてお届けいします。写真参照。
+※天候や発育によりお届けが遅れる、又は早まることがあります。
+※賞味期限内にお受け取りいただけなかった場合、自動的に事業所へ返送されます。その際の再送は致しません。
+※賞味期限内にお受け取りいただいても、お問い合わせ(傷み等品質に関する事項)が期限を過ぎた場合は対応致しかねます。予めご了承ください。
+※自然のものですので、味にもバラつきがございございます。酸味につきましても個人差がありますので、返品・交換はお受け出来ません。
+※離島(沖縄本島は除く）への配送不可。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4920330/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240226/pd_435bebb437be6e9cda6897bddc68f183f1a2c684.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0360]蔵出し熟成みかん『極』　※2025年2月中旬頃から発送　※離島不可</h4>
+<p class="goods-col_price inline">9,500円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2025年1月12日まで</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>2025年2月中旬頃から3月初旬頃まで</p>
+</div>
+<p class="goods-col_textinfo pc">大川原高原のふもとにある清流と自然の村で、約50年も前から丹精込めて育てている絶品の晩生温州ミカン。
+収穫されたミカンは1個ずつ大事に貯蔵庫で寝かせて(保管して)熟成。
+ほどよい甘みと酸味の調和がとれた頃に出庫され、皆様の元に届くことになります。ぜひご賞味下さい。
+※画像はイメージです。
+※専用の化粧箱にてお届けいします。写真参照。
+※天候や発育によりお届けが遅れる、又は早まることがあります。
+※賞味期限内にお受け取りいただけなかった場合、自動的に事業所へ返送されます。その際の再送は致しません。
+※賞味期限内にお受け取りいただいても、お問い合わせ(傷み等品質に関する事項)が期限を過ぎた場合は対応致しかねます。予めご了承ください。
+※自然のものですので、味にもバラつきがございございます。酸味につきましても個人差がありますので、返品・交換はお受け出来ません。
+※離島(沖縄本島は除く）への配送不可。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4920331/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240226/pd_e03d360c1dd3bcbf0e6fe1e91abb9f82d8b73b7d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0361]２箱セット　蔵出し熟成みかん『極』 ※2025年2月中旬頃から発送　※離島不可</h4>
+<p class="goods-col_price inline">13,500円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2025年1月12日まで</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>2025年2月中旬頃から3月初旬頃まで</p>
+</div>
+<p class="goods-col_textinfo pc">大川原高原のふもとにある清流と自然の村で、約50年も前から丹精込めて育てている絶品の晩生温州ミカン。
+収穫されたミカンは1個ずつ大事に貯蔵庫で寝かせて(保管して)熟成。
+ほどよい甘みと酸味の調和がとれた頃に出庫され、皆様の元に届くことになります。ぜひご賞味下さい。
+※画像はイメージです。
+※専用の化粧箱にてお届けいします。写真参照。
+※天候や発育によりお届けが遅れる、又は早まることがあります。
+※賞味期限内にお受け取りいただけなかった場合、自動的に事業所へ返送されます。その際の再送は致しません。
+※賞味期限内にお受け取りいただいても、お問い合わせ(傷み等品質に関する事項)が期限を過ぎた場合は対応致しかねます。予めご了承ください。
+※自然のものですので、味にもバラつきがございございます。酸味につきましても個人差がありますので、返品・交換はお受け出来ません。
+※離島(沖縄本島は除く）への配送不可。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4956895/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240226/pd_0510f370550577fd0c2410df9d9f8860b6f22a7c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0457]熟成「福」みかん　※2025年2月初旬頃から発送　※離島不可</h4>
+<p class="goods-col_price inline">9,500円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2025年1月12日まで</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>2025年2月初旬頃から発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">12月頃から収穫し、温度や湿度を充分に管理した貯蔵庫で数か月熟成させます。
+皆様のお手元に届く２月頃には、甘みと程よい酸味のバランスの取れた、風味豊かな貯蔵みかんに仕上がっています。
+廣畠さんが丹精込めて育てた熟成『福』みかんを是非ご賞味下さい。
+※画像はイメージです。
+※専用の化粧箱にてお届けいします。写真参照。
+※天候や発育によりお届けが遅れる、又は早まることがあります。
+※賞味期限内にお受け取りいただけなかった場合、自動的に事業所へ返送されます。その際の再送は致しません。
+※賞味期限内にお受け取りいただいても、お問い合わせ(傷み等品質に関する事項)が期限を過ぎた場合は対応致しかねます。予めご了承ください。
+※自然のものですので、味にもバラつきがございございます。酸味につきましても個人差がありますので、返品・交換はお受け出来ません。
+※離島(沖縄本島は除く）への配送不可。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/5026342/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240226/pd_c0f3e46a3797718b8b64c02392712696df261e92.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0478]2箱セット　熟成「福」みかん　※2025年2月初旬頃から発送　※離島不可</h4>
+<p class="goods-col_price inline">13,500円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>2025年1月12日まで</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>2025年2月初旬頃から発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">12月頃から収穫し、温度や湿度を充分に管理した貯蔵庫で数か月熟成させます。
+皆様のお手元に届く２月頃には、甘みと程よい酸味のバランスの取れた、風味豊かな貯蔵みかんに仕上がっています。
+廣畠さんが丹精込めて育てた熟成『福』みかんを是非ご賞味下さい。
+※画像はイメージです。
+※専用の化粧箱にてお届けいします。写真参照。
+※天候や発育によりお届けが遅れる、又は早まることがあります。
+※賞味期限内にお受け取りいただけなかった場合、自動的に事業所へ返送されます。その際の再送は致しません。
+※賞味期限内にお受け取りいただいても、お問い合わせ(傷み等品質に関する事項)が期限を過ぎた場合は対応致しかねます。予めご了承ください。
+※自然のものですので、味にもバラつきがございございます。酸味につきましても個人差がありますので、返品・交換はお受け出来ません。
+※離島(沖縄本島は除く）への配送不可。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/5463312/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220629/pd_5743e10023694708fc1ff502a02252870789808d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0633]阿波の鮎　美味追求　すだち鮎12尾　(冷凍)</h4>
+<p class="goods-col_price inline">16,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">徳島の吉野川と鮎喰川の扇状地に池をつくり四十五年。
+豊富で清例な伏流水を利用し、佐那河内村をはじめ県下で収穫されたすだちから搾った100％天然素材の
+「すだち果汁」、天然発酵のリンゴ酢、ハチミツなど独自に配合された飼料で育てられたすだち鮎。
+天然鮎にも劣らない、美味しく香り高いすだち鮎を是非ご堪能下さい。
+刺身・塩焼き・一夜干し・甘露煮・姿寿司・天ぷら・鮎の南蛮漬けなど、
+さまざまな調理法でお召し上がりいただけます。
+※画像はイメージです。
+※真空パックでお届けします。
+※不在日等がある場合は、お申込み時にお知らせ下さい。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4859556/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240611/pd_43f775892ca70b656d5fd33533afcf887938385c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0410]大川原高原牛　赤身切り落とし　750g　</h4>
+<p class="goods-col_price inline">21,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">徳島県佐那河内村にある標高約1000mの大川原高原で放牧された黒毛和牛を母牛としており、
+年間わずか10頭ほどしか生まれない牛が大川原高原牛です。
+きめ細な肉質に加えて、脂と肉のバランスの良さが大川原高原牛の特徴です。
+お肉をあっさり、さっぱり食べたい方に。赤身ならではの食感やお肉そのものの風味が味わえます。
+※画像はイメージです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4848548/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240611/pd_b8b7875b4ec00e8d162f220bf8bc1272659440c6.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0385]大川原高原牛　赤身モモスライス　500g</h4>
+<p class="goods-col_price inline">20,500円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">徳島県佐那河内村にある標高約1000mの大川原高原で放牧された黒毛和牛を母牛としており、
+年間わずか10頭ほどしか生まれない牛が大川原高原牛です。
+きめ細な肉質に加えて、脂と肉のバランスの良さが大川原高原牛の特徴です。
+お肉をあっさり、さっぱり食べたい方に。赤身ならではの食感やお肉そのものの風味が味わえます。
+※画像はイメージです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4848549/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240611/pd_f8adaba152d9bec0a034b7eb8fee8ba6ea5b9605.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0386]大川原高原牛　赤身・霜降り焼肉　500g 　</h4>
+<p class="goods-col_price inline">20,500円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">徳島県佐那河内村にある標高約1000mの大川原高原で放牧された黒毛和牛を母牛としており、
+年間わずか10頭ほどしか生まれない牛が大川原高原牛です。
+きめ細な肉質に加えて、脂と肉のバランスの良さが大川原高原牛の特徴です。
+お肉をあっさり、さっぱり食べたい方に。赤身ならではの食感やお肉そのものの風味が味わえます。
+※画像はイメージです。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4848550/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240611/pd_d261b583bf4a242911b5b97f61b34ef164f3ac78.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0387]大川原高原牛　赤身モモしゃぶしゃぶ　500g</h4>
+<p class="goods-col_price inline">20,500円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年
+</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">徳島県佐那河内村にある標高約1000mの大川原高原で放牧された黒毛和牛を母牛としており、
+年間わずか10頭ほどしか生まれない牛が大川原高原牛です。
+きめ細な肉質に加えて、脂と肉のバランスの良さが大川原高原牛の特徴です。
+お肉をあっさり、さっぱり食べたい方に。赤身ならではの食感やお肉そのものの風味が味わえます。
+※画像はイメージです。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4848551/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240611/pd_007ab00694dc38dde3adc0d0542684323f9871aa.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0388]大川原高原牛　特選ローススライス　500g</h4>
+<p class="goods-col_price inline">26,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">徳島県佐那河内村にある標高約1000mの大川原高原で放牧された黒毛和牛を母牛としており、
+年間わずか10頭ほどしか生まれない牛が大川原高原牛です。
+きめ細な肉質に加えて、脂と肉のバランスの良さが大川原高原牛の特徴です。
+※画像はイメージです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4848552/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240611/pd_3e43926e4d52329fbfc6341fa254c96ec5c0e6a1.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0389]大川原高原牛　特選ロース焼肉　500g　</h4>
+<p class="goods-col_price inline">26,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">徳島県佐那河内村にある標高約1000mの大川原高原で放牧された黒毛和牛を母牛としており、
+年間わずか10頭ほどしか生まれない牛が大川原高原牛です。
+きめ細な肉質に加えて、脂と肉のバランスの良さが大川原高原牛の特徴です。
+※画像はイメージです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4848553/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240611/pd_e5186e61cd0b16008868c7b3876ec642a8e32546.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0390]大川原高原牛　特選ロースしゃぶしゃぶ　500g　</h4>
+<p class="goods-col_price inline">26,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">徳島県佐那河内村にある標高約1000mの大川原高原で放牧された黒毛和牛を母牛としており、
+年間わずか10頭ほどしか生まれない牛が大川原高原牛です。
+きめ細な肉質に加えて、脂と肉のバランスの良さが大川原高原牛の特徴です。
+※画像はイメージです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4850019/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240611/pd_1a383f75596b790b43d989e199daa936af14cac9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0378]大川原高原牛　赤身モモスライス　1kg 　</h4>
+<p class="goods-col_price inline">34,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">徳島県佐那河内村にある標高約1000mの大川原高原で放牧された黒毛和牛を母牛としており、
+年間わずか10頭ほどしか生まれない牛が大川原高原牛です。
+きめ細な肉質に加えて、脂と肉のバランスの良さが大川原高原牛の特徴です。
+お肉をあっさり、さっぱり食べたい方に。赤身ならではの食感やお肉そのものの風味が味わえます。
+※画像はイメージです。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4850129/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240611/pd_d484725a8001bd7c49a8df4588a7d950c00ae9d9.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0379]大川原高原牛　赤身・霜降り焼肉　1kg 　</h4>
+<p class="goods-col_price inline">34,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">徳島県佐那河内村にある標高約1000mの大川原高原で放牧された黒毛和牛を母牛としており、
+年間わずか10頭ほどしか生まれない牛が大川原高原牛です。
+きめ細な肉質に加えて、脂と肉のバランスの良さが大川原高原牛の特徴です。
+お肉をあっさり、さっぱり食べたい方に。赤身ならではの食感やお肉そのものの風味が味わえます。
+※画像はイメージです。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4850020/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240611/pd_3f939d461a7fd2a66aed4a40356b3514cc3206b3.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0380]大川原高原牛　赤身モモしゃぶしゃぶ　1kg </h4>
+<p class="goods-col_price inline">34,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">徳島県佐那河内村にある標高約1000mの大川原高原で放牧された黒毛和牛を母牛としており、
+年間わずか10頭ほどしか生まれない牛が大川原高原牛です。
+きめ細な肉質に加えて、脂と肉のバランスの良さが大川原高原牛の特徴です。
+お肉をあっさり、さっぱり食べたい方に。赤身ならではの食感やお肉そのものの風味が味わえます。
+※画像はイメージです。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4850021/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240611/pd_ad38a09afc84d438e1f45364257d9af00162748f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0381]大川原高原牛　特選ローススライス　1kg</h4>
+<p class="goods-col_price inline">44,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">大川原高原牛とは徳島県佐那河内村にある標高約1000ｍの大川原高原で放牧された黒毛和牛を母牛として年間わずか１０頭ほどしか生まれない幻の高原牛です。
+きめ細かな霜降りに加えて、脂と肉のバランスの良さを味わえる一品となっています。すき焼き・鍋物でお楽しみください。
+※画像はイメージです。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4850022/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240611/pd_510cb90f434d2593ac005505bc6f33d4434f7876.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0382]大川原高原牛　特選ロース焼肉　1kg　</h4>
+<p class="goods-col_price inline">44,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">徳島県佐那河内村にある標高約1000mの大川原高原で放牧された黒毛和牛を母牛としており、
+年間わずか10頭ほどしか生まれない牛が大川原高原牛です。
+きめ細な肉質に加えて、脂と肉のバランスの良さが大川原高原牛の特徴です。
+※画像はイメージです。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4850023/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240611/pd_32b1ad50b718755127d1cccb8056d5e7189b7b90.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0383]大川原高原牛　特選ロースしゃぶしゃぶ　1kg </h4>
+<p class="goods-col_price inline">44,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">徳島県佐那河内村にある標高約1000mの大川原高原で放牧された黒毛和牛を母牛としており、
+年間わずか10頭ほどしか生まれない牛が大川原高原牛です。
+きめ細な肉質に加えて、脂と肉のバランスの良さが大川原高原牛の特徴です。
+※画像はイメージです。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4848555/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240611/pd_23a757567f18ea1e7f3db381449f43f75a0a290f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0392]大川原高原牛　特選ロースステーキ　1kg(250g×4枚）</h4>
+<p class="goods-col_price inline">51,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">徳島県佐那河内村にある標高約1000mの大川原高原で放牧された黒毛和牛を母牛としており、
+年間わずか10頭ほどしか生まれない牛が大川原高原牛です。
+きめ細な肉質に加えて、脂と肉のバランスの良さが大川原高原牛の特徴です。
+※画像はイメージです。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4848554/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240611/pd_4bd75aad9e52e03fc33035654ca7c9f05e044253.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0391]大川原高原牛　特選ロースステーキ　500g(250g×2枚)　</h4>
+<p class="goods-col_price inline">28,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">徳島県佐那河内村にある標高約1000mの大川原高原で放牧された黒毛和牛を母牛としており、
+年間わずか10頭ほどしか生まれない牛が大川原高原牛です。
+きめ細な肉質に加えて、脂と肉のバランスの良さが大川原高原牛の特徴です。
+※画像はイメージです。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4849462/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240611/pd_9434cdc7a64ddc213d917f37c66892fcdf7b71e5.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0405]大川原高原牛　特選ロース　3kg</h4>
+<p class="goods-col_price inline">120,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">徳島県佐那河内村にある標高約1000mの大川原高原で放牧された黒毛和牛を母牛としており、
+年間わずか10頭ほどしか生まれない牛が大川原高原牛です。
+きめ細な肉質に加えて、脂と肉のバランスの良さが大川原高原牛の特徴です。
+今回はコクのある旨みを兼ね備えた高原牛の特選ロースブロックをご用意しました。
+ステーキはもちろん、薄くスライスしてすき焼きやしゃぶしゃぶでお楽しみ下さい。
+※画像はイメージです。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4864027/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240412/pd_a867d5ebe25c9a976d5b4880ee60fb17087ca476.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0408]阿波鳴食品　昔ながらのエビフライ(天然えび) 　※離島不可</h4>
+<p class="goods-col_price inline">23,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>30日～40日以内に発送いたします。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>※本製造ラインでは、乳・卵・小麦・大豆・ゴマ・アーモンド・えび・イカ・鯖・鮭を含む製品を製造しています。</p>
+</div>
+<p class="goods-col_textinfo pc">創業当初の製法と今も変わりなく、一尾ずつ手作りで作っています。
+こだわりのタレも自家製で地元に愛される味となっています。
+今回は天然のエビを使ってより美味しいエビフライを食卓にお届けします。
+※原材料：天然えび、衣（パン粉、小麦粉、脱脂粉乳、マーガリン、食塩、こしょう、魚醤、酵母エキス、卵、食物油脂）
+※画像はイメージです。
+※離島（沖縄本島は除く）への発送はできません。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4529972/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181126/pd_748e8288449ff2ae7fb22909df6c428c80df0da2.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0255]さくらももいちごジャム200g(瓶)</h4>
+<p class="goods-col_price inline">11,500円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送します。</p>
+</div>
+<p class="goods-col_textinfo pc">さっぱりとした上品な甘さ。そしてまろやかな酸味。
+パッションフルーツがさくらももいちごの甘さを引き立てています。
+透明感のある自然な色合いが綺麗な、フルーティーなジャムです。
+暖かいワッフルにかけたり、水や炭酸水と1:2程度で割って飲んでいただくのもおすすめです。
+※画像はイメージです。
+原材料：さくらももいちご(徳島県佐那河内村産)
+　　　　てんさいグラニュー糖(北海道産)
+　　　　パッションフルーツ(沖縄県産)
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/4529974/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20181113/pd_cbd92d256471be2aa4db607dd00ef38329bc9e7b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0256]さくらももいちごジャム 120g×3個(瓶)</h4>
+<p class="goods-col_price inline">16,500円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>順次発送</p>
+</div>
+<p class="goods-col_textinfo pc">さっぱりとした上品な甘さ。そしてまろやかな酸味。
+パッションフルーツがさくらももいちごの甘さを引き立てています。
+透明感のある自然な色合いが綺麗な、フルーティーなジャムです。
+暖かいワッフルにかけたり、水や炭酸水と1:2程度で割って飲んでいただくのもおすすめです。
+※画像はイメージです。
+原材料：さくらももいちご(徳島県佐那河内村産)
+　　　　てんさいグラニュー糖(北海道産)
+　　　　パッションフルーツ(沖縄県産)</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/36321/5586395/31">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240423/pd_b025704f840e4e03c8101f82dce134a2016aa110.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">[№5852-0652]村のいいとこどり定期便　※北海道・東北（青森県・秋田県・岩手県・山形県・宮城県・福島県）・沖縄・離島への配送不可</h4>
+<p class="goods-col_price inline">85,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_period">定期</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>2月～12月の2ヶ月毎(計6回)のお届けとなります。</p>
+</div>
+<p class="goods-col_textinfo pc">佐那河内村の特産品を年6回お届けします。
+2019年日本ギフト大賞受賞したさくらももいちごをはじめ、清流と寒暖差が生む村自慢の棚田米、大川原高原牛など、厳選した特産品を旬の時期にお届けします。
+10月…棚田米5㎏
+12月…マルチみかん「旨果」2箱セット (20玉～30玉入り)　
+2月…さくらももいちご　4パック入り【冷蔵便】　
+4月…不知火(しらぬい)　デコポン　(18玉～24玉入り)
+6月…大川原高原牛　赤身霜降り焼肉500g【冷凍便】
+8月…昔ながらのエビフライ (8尾入×2P) 【冷凍便】
+※画像イメージです。
+※北海道・東北（青森県・秋田県・岩手県・山形県・宮城県・福島県）・沖縄・離島への配送不可。
+※配送時期は指定できません。(青果物につきましては、配送月の前月に不在日をお知らせ下さい。)
+※青果物は天候や収穫状況等により、お届け開始が遅れる場合がございます。
+※青果物は到着後、お早めにお召し上がり下さい。
+(賞味期限：さくらももいちご…出荷日から約5日、不知火(しらぬい)、旨果…出荷日から約7日、大川原高原牛...冷凍90日、エビフライ...製造日から1年)
+※寄付者様都合にてお受け取りいただけなかった場合、再送は致しませんので予めご了承下さい。
+※ご入金確認後、翌配送月から計6回の配送となります。
+《例》9月ご入金の場合は10月配送分から、10月ご入金の場合は12月配送分からスタートとなります。</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<ul class="gcf-lst-bx" id="progress_list">
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2023年12月27日 13:33</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">ご支援いただき、ありがとうございました。</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">この度は、目標額には届かなかったものの、60名の方からご支援いただけたことを大変うれしく思っております。誠にありがとうございました。<br/>
+今回いただいた寄附金は、大川原高原をゆっくり滞在できるような魅力ある場所にするため、大切に活用させていただきます。<br/>
+令和５年度は、まずは大川原高原ヒルトップハウス内のトイレについて洋式化の改修を行い、現在トイレのバリアフリー化に向けて準備を進めているところです。<br/>
+事業が完了しましたら、改めてご報告させていただきます。<br/>
+<br/>
+引き続き、本村をご支援いただけますようよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="3122" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="3122">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="3122">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F2034%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+</ul>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">徳島県佐那河内村</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">　徳島県佐那河内村は、徳島市の西隣に位置しながらも、山々に囲まれた農村風景を残す地域となっている県内唯一の村です。また、また、吉野川水系の2つの川の流れに沿って主な集落が形成されています。<br/>
+　基幹産業は農業であり、スダチやミカンなどの柑橘類や、「とくしま特選ブランド」に認定されている「さくらももいちご」や「達磨キウイ」など、多様な農作物が生産され、爽やかな風が吹く谷あいの里になります。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">徳島県佐那河内村の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/36321/31?from=2&amp;gcf_project_id=2034"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,591,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g2034,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

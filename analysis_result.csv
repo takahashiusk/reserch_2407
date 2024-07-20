@@ -1,0 +1,28 @@
+                       OLS Regression Results                       
+Dep. Variable:   ,rate of achievement,  R-squared:         ,   0.146
+Model:           ,OLS                ,  Adj. R-squared:    ,   0.099
+Method:          ,Least Squares      ,  F-statistic:       ,   3.082
+Date:            ,Fri, 24 May 2024   ,  Prob (F-statistic):,0.00496 
+Time:            ,17:11:02           ,  Log-Likelihood:    , -107.54
+No. Observations:,   134             ,  AIC:               ,   231.1
+Df Residuals:    ,   126             ,  BIC:               ,   254.3
+Df Model:        ,     7             ,                     ,        
+Covariance Type: ,nonrobust          ,                     ,        
+                     ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+const                ,    0.7032,    0.269,    2.610, 0.010,    0.170,    1.236
+title                ,   -0.0027,    0.007,   -0.414, 0.679,   -0.016,    0.010
+Amount collected     , 1.304e-07, 4.02e-08,    3.241, 0.002, 5.08e-08,  2.1e-07
+target amount        ,-1.056e-09, 8.65e-10,   -1.221, 0.224,-2.77e-09, 6.56e-10
+Number of investors  ,   -0.0002,    0.001,   -0.248, 0.805,   -0.001,    0.001
+returned goods       ,   -0.1362,    0.102,   -1.339, 0.183,   -0.337,    0.065
+caption              ,   -0.0002,    0.000,   -1.803, 0.074,   -0.000, 1.91e-05
+Number of photographs,    0.0242,    0.029,    0.848, 0.398,   -0.032,    0.081
+Omnibus:      ,166.659,  Durbin-Watson:     ,   1.193
+Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,6195.439
+Skew:         , 4.582 ,  Prob(JB):          ,    0.00
+Kurtosis:     ,35.026 ,  Cond. No.          ,3.25e+08
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.25e+08. This might indicate that there are
+strong multicollinearity or other numerical problems.

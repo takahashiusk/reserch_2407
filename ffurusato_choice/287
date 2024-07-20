@@ -1,0 +1,1710 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/287" />
+
+<title>【引き続き支援をお願いします！】被災地や紛争地域で、緊急支援活動を行うプロフェッショナルチームを応援してください！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="【引き続き支援をお願いします！】被災地や紛争地域で、緊急支援活動を行うプロフェッショナルチームを応援してください！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/287" />
+<meta property="og:description" content="「空飛ぶ医師団」は捜索救助チームに医師や看護師が加わり、被災地や紛争後の地域で緊急支援活動を行う日本発のプロフェッショナルチームです。ヘリコプターや佐賀空港に配備している航空機で、現地のパートナーとともに、大規模災害発生後ただちに被災地へ向かいます。一刻も早くひとりでも多くの命を救うため全力で支援を続けます。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20180517/s_207cd2a2a1578c892b4771ce7e51c7e5f92dd130.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20180517/s_207cd2a2a1578c892b4771ce7e51c7e5f92dd130.jpg" />
+<meta property="twitter:title" content="【引き続き支援をお願いします！】被災地や紛争地域で、緊急支援活動を行うプロフェッショナルチームを応援してください！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="「空飛ぶ医師団」は捜索救助チームに医師や看護師が加わり、被災地や紛争後の地域で緊急支援活動を行う日本発のプロフェッショナルチームです。ヘリコプターや佐賀空港に配備している航空機で、現地のパートナーとともに、大規模災害発生後ただちに被災地へ向かいます。一刻も早くひとりでも多くの命を救うため全力で支援を続けます。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,446,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="287" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">【引き続き支援をお願いします！】被災地や紛争地域で、緊急支援活動を行うプロフェッショナルチームを応援してください！</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">【引き続き支援をお願いします！】被災地や紛争地域で、緊急支援活動を行うプロフェッショナルチームを応援してください！</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1025">災害&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20180403/d_86818e9818d11ec483d15874024f6d0605629533.jpg" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E3%80%90%E5%BC%95%E3%81%8D%E7%B6%9A%E3%81%8D%E6%94%AF%E6%8F%B4%E3%82%92%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99%EF%BC%81%E3%80%91%E8%A2%AB%E7%81%BD%E5%9C%B0%E3%82%84%E7%B4%9B%E4%BA%89%E5%9C%B0%E5%9F%9F%E3%81%A7%E3%80%81%E7%B7%8A%E6%80%A5%E6%94%AF%E6%8F%B4%E6%B4%BB%E5%8B%95%E3%82%92%E8%A1%8C%E3%81%86%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%81%E3%83%BC%E3%83%A0%E3%82%92%E5%BF%9C%E6%8F%B4%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%EF%BC%81&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F287">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">1,496,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 14.9%;"></div>
+<p class="gcf-cht-detail-bar__number">14.9%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">10,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">14.9</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">50</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>佐賀県NPO支援（さがけん えぬぴーおーしえん）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="287" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+<li>
+<a class="js-modal-not-available-in-mobile-app-trigger i-arrow" href="#" data-modal-id="contact">お問い合わせ先</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2018年4月10日～2018年9月30日（174日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1030" class="sorting-list__item">防災・公衆衛生</a></li><li><a href="/gcf/project/tag/1047" class="sorting-list__item">健康・医療</a></li><li><a href="/gcf/project/tag/1056" class="sorting-list__item">災害</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1082" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_3.png 1x, /gcf/images_cf/sdg/sdg_icon_3@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_3.png" alt="SDGアイコン" decoding="async" />3.すべての人に健康と福祉を</a></li><li><a href="/gcf/project/sdgs/1085" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_6.png 1x, /gcf/images_cf/sdg/sdg_icon_6@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_6.png" alt="SDGアイコン" decoding="async" />6.安全な水とトイレを世界中に</a></li><li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="287" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">佐賀県NPO支援 × A-PADジャパン</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20180331/o_45bf3c7c026a73eca6f83d07238c1e9c16b56d83.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">「空飛ぶ医師団」は捜索救助チームに医師や看護師が加わり、被災地や紛争後の地域で緊急支援活動を行う日本発のプロフェッショナルチームです。<br/>
+<br/>
+ヘリコプターや佐賀空港に配備している航空機で、現地のパートナーとともに、大規模災害発生後ただちに被災地へ向かいます。一刻も早くひとりでも多くの命を救うため全力で支援を続けます。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">災害発生時、私たちはただちに始動します！</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">応援してください「空から」の支援</span></h3>
+<p class="gcf-txt-article">私たちが航空機を所有し災害支援活動を行うのは、「空から」「いち早く」災害現場に到着することで、救える命が多くあるからです。<br/>
+<br/>
+一人でも多く助けたい。一秒も無駄にはできない。その想いで災害現場に向かいます。私たちの活動へのご支援をどうかよろしくお願い致します。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20180404/gpfd_24ff8cb7d696a3666cab0672ae29dd3e844e69da.jpg" />
+</figure>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">「レスキュー」と「医療」が同時に被災地へ</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">国内初のプロフェッショナルチーム</span></h3>
+<p class="gcf-txt-article">「空飛ぶ医師団」は、医師や看護師の医療従事者と、長年国内外の緊急支援に携わってきたメンバーによって構成されています。<br/>
+<br/>
+災害発生時には、医療従事者を乗せて、ただちにヘリコプターや航空機で被災地に駆けつける国内初の災害緊急支援のプロフェッショナルチームです。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20170829/gpfd_38f9a5dc35027ce477cf3a87e99cb5ae84f9e101.jpg" />
+</figure>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">国内・海外で活動します</span></h3>
+<p class="gcf-txt-article">また、被災者のニーズに基づいた支援物資の配布や、土砂・流木の撤去に必要な資機材、軽トラックの貸し出しなども行っており、「今すぐに必要な支援」を行うことができるよう、平時から活動を続けています。<br/>
+<br/>
+海外でも活動しており、同じように空から被災地や紛争後の地域に向かい、人道支援、救命・救助活動を行っています。<br/>
+<br/>
+海外での支援活動は、アジアのA-PADメンバー国と連携し、人道支援、救命・救助活動を行います。救助のための国を越えた合同訓練も開始しました。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20180404/gpfd_ab02e2ce97e3c4136efa2ee565c42f7910358c63.jpg" />
+</figure>
+<p class="gcf-txt-article">　</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">なぜ空から向かうのか</span></h2>
+<p class="gcf-txt-article">災害時の人命救助における「72時間の壁」に挑むためには、救助に向かう時間を一秒でも短縮しなければなりません。<br/>
+<br/>
+発災直後には悪路や通行止めが発生することが多く、陸路で被災地へ向かうと時間のロスが生じます。<br/>
+<br/>
+救助や支援を求めている方に、いち早くたどり着くには、被災地の道路事情や交通渋滞を避けスピーディに空から向かうのが一番効果的なのです。</p>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-bx-fill grayBox_sp_pc mB20">
+<h4>「72時間の壁」とは</h4>
+人命救助のためには、災害発生から<b>72時間（３日間）が最も大事な時間</b>と言われています。<br/><br/>救出時の生存率は72時間を境に<b>急激に</b>下がるからです。<br/><br/>24時間以内の救出で約90％、48時間以内で約50％の生存率が、<b>72時間を過ぎて96時間になると約５％まで低下</b>します。<br/><br/>生存率が激減する理由は 脱水症状、感覚遮断、クラッシュ症候群によるものが大きく、<br/><br/><b>「72時間以内に救出」</b>し、<b>「医療従事者による適切な処置」</b>を行うことは一人でも多くの命を救うためには欠かせないことなのです。<br/><br/><img style="display: block; margin-left: auto; margin-right: auto;" src="https://img.furusato-tax.jp/img/x/city/files/487/gcf_287_72hour.jpg" alt width="600" height="309" /></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">「72時間」で救出しその場で必要な処置を行う</span></h3>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article">私たちの活動では、<span style="font-weight: 400;">レスキュー</span><span style="font-weight: 400;">捜索救助</span><span style="font-weight: 400;">チーム</span>と医療チームを同時に被災地へ送ることにより、被災地到着後、<b>速やかに人命救助と医療処置</b>を行うことができます。<br/><br/>災害時の救助活動においては、瓦礫の中から人を助け出しても、その場で適切な医療処置が施されなければ、<b>結果的に助けられない</b>こともあります。<br/><br/>反対に医療従事者だけがいても、<b>瓦礫の中で医療処置を行うことはできません</b>。<br/><br/><b>レスキュー捜索救助チームと共に医師たちが一刻も早く災害現場に到着する</b>ことにより、人命救助の可能性は<b>さらに高まるのです</b>。</p>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20170830/gpfd_d82dc90d78d05c167f393a81029773d794e9bf14.jpg" />
+</figure>
+<p class="gcf-txt-article">　</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">「佐賀」を拠点に災害に立ち向かう</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">釜山へのテストフライトを実施しました</span></h3>
+<p class="gcf-txt-article">昨年発足した「空飛ぶ医師団」。有事の際の訓練として、今年の3月には佐賀空港⇔釜山空港間のテストフライトを実施しました。<br/>
+<br/>
+特に海外へ出発する際は、出動決定から、いかに短時間で佐賀空港を離陸し、一刻も早く被災地へ到着できるかが鍵となります。今後も引き続き訓練を続けながら有事に備えます。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20180404/gpfd_dfac60db64810b4565544ad37f15cc05d6d08e4b.jpg" />
+</figure>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">着々と準備を進めています</span></h3>
+<p class="gcf-txt-article">すでに「空飛ぶ医師団」のフライト運航に係る各機関との調整が完了し、飛行訓練、捜索救助訓練が行われていますが、備蓄品の準備も進めています。<br/>
+<br/>
+現在佐賀県内3か所に倉庫を借りて備蓄しています。そのほか、国内外における災害現場での医療活動に必要な医薬品の調達も始めています。<br/>
+<br/>
+拠点である佐賀空港敷地内の倉庫には、感染症発生時に医師が持ち出す緊急備品が備蓄されています。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20180404/gpfd_3e9179b34c2bc353d22edc9c87a1dd469a8c9911.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">コマンダーJA8600機</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">A-PADジャパンの航空機は、国内外の大規模災害に備え佐賀空港に配備しています。佐賀からの飛行時間は仙台まで2.3時間、那覇まで1.7時間、台北まで2.6時間、マニラまで5.6時間。佐賀は比較的災害も少なく、国内外の緊急出動には理想的な立地条件を備えています。<br/>
+<br/>
+機種名：ガルフストリーム・コマンダ695<br/>
+<br/>
+寸度：全幅（52ft 1.47in /15.89 m)<br/>
+　　　全長（42ft 11.72in/13.10m)<br/>
+　　　全高（14ft 11.35in/4.56m）<br/>
+<br/>
+積載量：乗組員１名<br/>
+　　　　旅客（最大）7名<br/>
+　　　　貨物（最大）600lb/272kg<br/>
+<br/>
+飛行時間：佐賀空港から仙台空港まで2.3時間<br/>
+　　　　　佐賀空港から那覇空港まで1.7時間、<br/>
+　　　　　佐賀空港から台北まで2.6時間<br/>
+　　　　　佐賀空港からマニラまで5.6時間</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20180404/offd_4e5cb51d55dc6f642315935ffac2626a1d0322bb.jpg" alt="コマンダーJA8600機" />
+</div>
+</div>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">災害対応を行うチーム</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">「SARチーム（サーチ＆レスキューチーム）」捜索救助チーム</span></h3>
+<p class="gcf-txt-article">「SARチーム（サーチ＆レスキューチーム）」捜索救助チームは専属隊員で構成され、日々訓練を行っており、有事の際速やかに対応できるように備えています。<br/>
+<br/>
+今年2月の台湾地震、また九州北部豪雨（2017年7月）の捜索活動以前にも、熊本地震（2016年4月）、広島土砂災害（2014年8月）、中国雲南省地震（2014年8月）、フィリピン台風（2013年11月）などの出動経験があります。現在は外国人を含む12名でチームが構成されています。<br/>
+<br/>
+海外の災害レスキューチームとの合同訓練や救援能力を競う国内外の大会に参加し、常にレベルアップに努めています。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20180404/gpfd_c6e44622a0841b5c11bec4edd3d41f237a46bba5.jpg" />
+</figure>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3">【黄　春源】捜索救助チーム　リーダー</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20180404/gpfd_7bb4c75fbd50b420b2a271fce983cb4382bea9ef.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">レスキューは命がけの仕事です。日々の訓練を怠ることなく毎日緊張感をもって過ごしています。<br/>
+<br/>
+昨年はスリランカ空軍や台湾の民間レスキュー隊との合同訓練を行いましたが、佐賀大学の医師との連携は人命救助の可能性をさらに広げてくれると確信しています。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3"><br/>
+【竹内　雅人】捜索救助チーム　隊員</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20180404/gpfd_d3c925f5eed4a0f0736020758ab964d34a47633c.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">レスキュー隊の隊員になってから約5年が経ちました。定期的に行っているレスキュー訓練では、救助犬による捜索を主体に、ロープなどを使った救助訓練にも力を入れています。<br/>
+<br/>
+近年では熊本の大地震や九州北部豪雨などの被災地で活動しました。これからも、一人でも多くの被災者の手助けになるために技術の向上を目指します。</p>
+</div>
+</div>
+</div>
+<h4 class="gcf-ttl-h4">　</h4>
+<h3 class="gcf-ttl-h3">【根木　佳織】事務局長</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20180404/gpfd_916a4345b6ac2ffb00ffaadbe0112f3189e1840c.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">緊急災害時の支援活動は、いかに迅速に被災地に入れるかが一つの鍵だと思っています。<br/>
+<br/>
+医療従事者との連携により、一人でも多くの命を救えるようスタッフ一同全力を尽くします。</p>
+</div>
+</div>
+</div>
+<h4 class="gcf-ttl-h4">　</h4>
+<h3 class="gcf-ttl-h3">【岸川　いづみ】コーディネーター</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20180404/gpfd_f0fa7655a315b585528a5e7420b16fac1153dab4.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">国内外のどこかで大規模災害が発生すると、瞬時にメンバー間で情報を共有し状況の把握を行います。<br/>
+<br/>
+空飛ぶ医師団を影で支え、「空飛ぶ医師団」が一刻も早く被災地に向かうことができるよう努めます。</p>
+</div>
+</div>
+</div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">佐賀大学医学部附属病院　高度救命救急センター</span></h3>
+<p class="gcf-txt-article">緊急時に即座に対応できる医療専門家チームです。発動指令から短時間で医療従事者がレスキューチームに合流し、被災地へ派遣されます。日本の高い医療知識や技術を、一刻を争う緊急事態に最大限に活かします。</p>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3">【阪本　雄一郎　先生】ドクター／ドクターチーム　リーダー</h3>
+<p class="gcf-txt-article">（佐賀大学医学部救急医学講座教授、佐賀大学医学部附属病院　高度救命救急センター長）</p>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2--reverse">
+<div class="lyt-image2__content">
+<p class="gcf-txt">佐賀大学の高度救命救急センター長及び医学部の教授として、日々の仕事は、病院でのカンファから始まり、臨床、会議、学会活動等々多忙を極めています。<br/>
+ドクターヘリも活用した救急医療というのは24時間、365日地域の皆さまを守っている仕事ですが、佐賀を拠点に災害時の緊急対応をする「空飛ぶ医師団」には、佐賀大学として大いに貢献できると考え、国内外の緊急支援に協力させて頂くことにしました。</p>
+</div>
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20180404/gpfd_cbef00563db2b1c6dc01da4f08a037dc3589500a.jpg" />
+</div>
+</div>
+</div>
+<h4 class="gcf-ttl-h4">　</h4>
+<h3 class="gcf-ttl-h3">【永嶋　太　先生】ドクター</h3>
+<p class="gcf-txt-article">（佐賀大学医学部附属病院　高度救命救急センター　副センター長）</p>
+<p class="gcf-txt-article">日常は救急患者様の救急診療・手当に加えて、防ぎうる外傷死をなくすべく、患者様が病院に搬送されてくる前から開始するドクターヘリやドクターカーによる病院前外傷診療、手術、集中治療を一分一秒途切れなく連携して行う体制づくりと教育、また凝固測定機器を駆使した血液凝固の研究を行っています。<br/>
+「空飛ぶ医師団」は被災地での仕事になりますが、特に外傷外科医としての知識・経験・技術を最大限に役立てたいと考えています。</p>
+<h4 class="gcf-ttl-h4">　</h4>
+<h3 class="gcf-ttl-h3">【八幡　真由子　先生】ドクター</h3>
+<p class="gcf-txt-article">（佐賀大学医学部附属病院　高度救命救急センター　医師）</p>
+<p class="gcf-txt-article">災害医療の現場の多くは過酷なものであり、そこで医療を行うにあたっては高い集中力と体力、精神力が求められます。<br/>
+救急医として日々の診療の中で培った技術や知識・経験をそうした場面で生かすことができるよう、日頃からオン・オフをうまく切り替えながら仲間とともに出動に備えています。</p>
+<p class="gcf-txt-article">　</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">活動実績</span></h3>
+<p class="gcf-txt-article"><br/>
+・ 2018年2月　台湾地震被災者緊急支援<br/>
+・ 2017年7月　九州北部豪雨被災者緊急支援、2018年3月現在支援継続中。<br/>
+・ 2016年4月　熊本地震被災者支援<br/>
+・ 2015年 　　ネパール地震被災者支援<br/>
+・ 2014年 　　フィリピン台風ハグピートに対する緊急支援<br/>
+・ 2013年 　　フィリピン台風ハイエンに対する緊急支援<br/>
+・ 2013年 　　インドネシア・ジャカルタにおける洪水支援<br/>
+・ 2013年 　　インドネシア洪水支援</p>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">皆様に支援いただく寄附金の使い道</span></h3>
+<p class="gcf-txt-article">緊急時のレスキュー隊や医療チームの派遣費用、医療資機材の準備、日々の訓練、航空機のメンテナンスなど、緊急支援活動には多岐にわたる費用が必要です。<br/>
+<br/>
+迅速に被災地へ向かい一人でも多くの命を救うために、皆様からの寄付金は効果的・効率的に活用します。<br/>
+<br/>
+私たちは一人でもたくさんの命を救えるよう、「空飛ぶ医師団」の体制を整え、災害大国日本で来たるべきその時に備えます。</p>
+<p class="gcf-txt-article">　</p>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">「佐賀県」を拠点に災害に立ち向かいます</span></h2>
+<h3 class="gcf-ttl-h3"><br/>
+皆様のご支援をよろしくお願い致します</h3>
+<p class="gcf-txt-article">佐賀県庁とA-PADジャパンは国内外の災害時において行政や企業、NPO、医療機関と連携して支援にあたります。一刻も早く、一人でも多くの命を救うため、ご支援宜しくお願い申し上げます。<br/>
+<br/>
+SNSで最新の活動情報も発信しています。「いいね！」や「フォロー」も支援となりますので、是非よろしくお願い致します。</p>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div style="text-align: center;"><iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FAsiaPacificAlliance%2F&amp;tabs=timeline&amp;width=350&amp;height=450&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false&amp;appId" width="350" height="450" frameborder="0" scrolling="no"></iframe></div></p>
+</div>
+<div class="exlink01 mT8 text-right txt-link"><a target="_blank" class="inline i-arrow" href="http://a-padj.org/index.html">A-PADジャパンとは？</a></div><div style="clear: both;"></div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">このプロジェクトのお礼の品をご紹介</span></h3>
+<p class="gcf-txt-article"> </p>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4442974/203">
+<div class="goods-col_img">
+<img width="195" height="121" class="genteiImg" alt="チョイス限定" src="/gcf/images/icon_gentei_gold.png" decoding="async" />
+<img src="https://img.furusato-tax.jp/img/x/product/details/20180626/pd_e7b5cd5caa88958eff3ec45c09f1d979dd94b425.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">発芽玄米黒豆味噌と佐賀ん牛汁6個セット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※年末年始は通常より2週間程度配送期間を多くいただいております。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に公益社団法人Civic Forceをお選びいただき、1万円以上のご寄附をいただいた方
+■発芽玄米黒豆味噌
+佐賀県産佐賀びよりの玄米を発芽させた麹と佐賀県久保田町の黒豆を使用。風味豊かな発芽玄米の麹と黒豆のハーモニーから生み出されたコクの効いたお味噌です。お味噌汁の他、マヨネーズと練り合わせて野菜スティックのディップやお料理の隠し味としても大変好評です。北島みそ醤油店の一押しのお品です。
+■佐賀ん牛汁（味噌汁）
+佐賀県産黒毛和牛入りのフリーズドライ味噌汁です、具材はこだわりの牛肉、ねぎ、ゴボウ、キャベツ、油揚げ、人参等が入っており味噌は当店自慢の合わせ味噌を使用。お湯を注ぐだけで、栄養価も高く、風味豊かな佐賀牛の味が楽しめます。是非ご賞味ください。
+提供：北島みそ醤油店</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/217471/203">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20170906/pd_6a037f1c54a9bb52d98990feeef2d5823352bc62.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有明の風 3種セットA</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後から14日前後で発送
+※12月、1月、年末年始はお申し込みが集中するため、通常より1～2週間程度配送期間を多くいただいております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>・本商品は「乳糖」を含む製品を製造しているラインで製造しています。原材料の海苔はエビ、カニの生息する海域で採取してます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に公益社団法人Civic Forceをお選びいただき、1万円以上のご寄附をいただいた方
+口どけがよく香り高い、口に入れたらトロっと溶ける、旨みたっぷりな初摘み海苔を使用してます。
+色々な味がバラエティにお楽しみいただけます。塩のり、めんたい塩のり、コラーゲンの３種セット。
+塩のりに使用している塩はミネラル豊富な優しい塩加減の自然海塩「石垣の塩」を使用。
+コラーゲンは海洋性のコラーゲンにこだわり焼き上げました。
+製造・提供：有明の風（佐賀市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/419013/203">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20171116/pd_1e77daaf001b83716c2efaf23844cfb78eccddab.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">さがほのか ギフトイチゴ 12個</h4>
+<p class="goods-col_price inline">25,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>随時</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>１月4日～3月31日
+※年末年始は通常より2週間程度配送期間を多くいただいております。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に公益社団法人Civic Forceをお選びいただき、2万5千円以上のご寄附をいただいた方
+佐賀県いちご農家の大粒の『さがほのか』をご賞味ください。期間限定商品です。
+さがほのかは甘味と酸味のバランスが良いいちごです。
+大玉40ｇ以上をお届けします。
+生産者：香月農園（神埼市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/418972/203">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20171116/pd_25ecc5a30fd694378f3accf89397bd2dec028d64.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">いちご「さがほのか」280gｘ４パック</h4>
+<p class="goods-col_price inline">25,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>随時</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>１月4日～3月31日
+※年末年始は通常より2週間程度配送期間を多くいただいております。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に公益社団法人Civic Forceをお選びいただき、2万5千円以上のご寄附をいただいた方
+佐賀県いちご農家の大粒『さがほのか』をご賞味ください。期間限定商品です。さがほのかは甘味と酸味のバランスが良いいちごです。
+生産者：香月農園（神埼市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/217490/203">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210126/pd_cd180a543521607619a58bc5c62035d81592cffd.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">佐賀牛肩ロースしゃぶしゃぶ（３万円コース） </h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>随時</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時
+※年末年始は通常より2週間程度配送期間を多くいただいております。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に公益社団法人Civic Forceをお選びいただき、3万円以上のご寄附をいただいた方
+肥沃な大地で育った和牛の最高峰「佐賀牛」（※）。
+恵まれた自然環境の中で、肥育農家の細やかな飼養管理と、良質肉牛生産にかける農家の情熱が育てたのが「佐賀牛」です。
+良質で安全な粗飼料（わら等）、資質の良い素牛（もとうし）肥育農家の卓越した飼養技術、ゆかたな自然環境、これらの条件があいまって、肉質が全国でトップクラスの「佐賀牛」が育てられます。
+その「佐賀牛」をしゃぶしゃぶ用でご用意しました。濃厚な美味しさと、とろける食感をご堪能ください。
+※日本食肉協会の定める規格
+生産者：弥川畜産</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/217472/203">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220930/pd_75ea66158e3245d6673c72ca285e22b7cb3e83ab.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有明の風　バラエティB</h4>
+<p class="goods-col_price inline">25,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後から14日前後で発送
+※12月、1月、年末年始はお申し込みが集中するため、通常より1～2週間程度配送期間を多くいただいております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>・本返礼品は「乳糖、小麦、えび、大豆、鶏肉」を含む製品を製造しているラインで製造しています。原材料の海苔はエビ、カニの生息する海域で採取してます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に公益社団法人Civic Forceをお選びいただき、2万5千円以上のご寄附をいただいた方
+口どけがよく香り高い、サクっとした食感。口に入れたらトロっと溶ける、旨みたっぷりな初摘み海苔を使用してます。
+色々な味がバラエティにお楽しみいただけます。
+塩のり、めんたい塩のり、コラーゲン塩のりなどに使用している塩はミネラル豊富な優しい塩加減の自然海塩「石垣の塩」を使用。
+コラーゲンは海洋性のコラーゲンにこだわり1枚1枚丁寧に焼き上げました。
+海苔は栄養豊富です。ごはんのお供、お子様のおやつ、お酒のおつまみにお楽しみいただけます。
+製造・提供：有明の風（佐賀市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/217480/203">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190806/pd_e99c76b3c5d88a2a7696a9d1f98b742a0a5e8b59.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">佐賀県産 北村さんのお米「神の力」（玄米）1kg</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時
+※年末年始は通常より2週間程度配送期間を多くいただいております。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に公益社団法人Civic Forceをお選びいただき、3万円以上のご寄附をいただいた方
+30年間、農薬も肥料も使わない栽培方法で育てた「こしひかり」です。
+通常市場には流通していない貴重なお米「神の力」。
+佐賀県特別栽培認証取得、そして農水省の厳しい検査で合格した佐賀市在住の北村さんの、自然の恵みを生かしたお米です。
+記念日や大切な方への贈り物として大変喜ばれております。
+桐箱入り、紫の風呂敷包でお届けします。
+生産者：自然栽培園北村（佐賀市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/217481/203">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190806/pd_559cf5bc7e3fca69f76bad33c5e388763cb585cc.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">佐賀県産 北村さんのお米「神の力」（白米）1kg</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時
+※年末年始は通常より2週間程度配送期間を多くいただいております。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に公益社団法人Civic Forceをお選びいただき、3万円以上のご寄附をいただいた方
+30年間、農薬も肥料も使わない栽培方法で育てた「こしひかり」です。
+通常市場には流通していない貴重なお米「神の力」。
+佐賀県特別栽培認証取得、そして農水省の厳しい検査で合格した佐賀市在住の北村さんの、自然の恵みを生かしたお米です。
+記念日や大切な方への贈り物として大変喜ばれております。
+桐箱入り、紫の風呂敷包でお届けします。
+生産者：自然栽培園北村</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/222910/203">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220930/pd_594ebbe914904f3beeb4c10bdbd4c96886b4039b.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有明の風 大パック4種セットC</h4>
+<p class="goods-col_price inline">22,000円</p><br class="sp" />
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後から14日前後で発送
+※12月、1月、年末年始はお申し込みが集中するため、通常より1～2週間程度配送期間を多くいただいております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>・本返礼品は「乳糖」を含む製品を製造しているラインで製造しています。原材料の海苔はエビ、カニの生息する海域で採取してます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に公益社団法人Civic Forceをお選びいただき、2万2千円以上のご寄附をいただいた方
+口どけがよく香り高い、サクとした食感。口に入れたらトロっと溶ける旨みたっぷりな初摘み海苔を使用してます。
+色々な味がバラエティにお楽しみいただけます。
+塩のり、めんたい塩のりなどに使用している塩はミネラル豊富な優しい塩加減の自然海塩「石垣の塩」を使用し、1枚1枚丁寧に焼き上げました。
+海苔は栄養豊富です。ごはんのお供、お子様のおやつ、お酒のおつまみにお楽しみいただけます。
+製造・提供：有明の風（佐賀市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/222916/203">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20220930/pd_ad8b0de04bd437abc441f01d9a99c9c7c5a6e938.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有明の風　のり・佃煮ボトルDセット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>随時</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後から14日前後で発送
+※12月、1月、年末年始はお申し込みが集中するため、通常より1～2週間程度配送期間を多くいただいております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>・めんたい塩のりは「乳」、のり佃煮の醤油に「小麦、大豆」が含まれます
+・本商品は「乳糖」を含む製品を製造しているラインで製造しています。原材料の海苔はエビ、カニの生息する海域で採取してます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に公益社団法人Civic Forceをお選びいただき、3万円以上のご寄附をいただいた方
+口どけがよく香り高い初摘み海苔を使用。
+●塩のり、めんたい塩のりに使用している塩はミネラル豊富な優しい塩加減の自然海塩「石垣の塩」を使用しています。
+●のり佃煮【果肉梅入り】は上質の一番摘みのりを贅沢に使用、梅は佐賀県産の有機栽培の梅果肉を入れてます。
+●のっけのり（ふりかけ）は初摘み海苔とごまに梅味とあっさり食べられ、ごはんのお供の他、パスタ、サラダ等にトッピングして料理のアクセントに…食パンにバターマヨネーズを塗りのっけのりをふりかけトーストなど、お子様からご年配の方まで美味しくいただけます。
+製造・提供：有明の風（佐賀市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/374419/203">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20170930/pd_00791485f87c91f0c509949db7fd723e87db49e4.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有明の風　焼のりセットE</h4>
+<p class="goods-col_price inline">26,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後から14日前後で発送
+※12月、1月、年末年始はお申し込みが集中するため、通常より1～2週間程度配送期間を多くいただいております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>・本返礼品は「乳糖」を含む製品を製造しているラインで製造しています。原材料の海苔はエビ、カニの生息する海域で採取してます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に公益社団法人Civic Forceの支援をお選びいただき、2万6千円以上のご寄附をいただいた方
+口どけが良く香り高い、初摘み海苔の美味しさそのものを堪能できる旨みたっぷりの『焼きのり』を一枚一枚丁寧に焼き上げています。
+深い旨みとパリっとした食感は、佐賀有明海産の初摘みならではの美味しさです。
+旨みたっぷりの佐賀海苔はごはんのお供の他、手巻きやサラダ、パスタのトッピング、焼いたトーストにバターを塗り海苔を載せても又一味違って美味しくいただけます。
+お子様からご年配の方まで美味しくいただけます。
+製造・提供：有明の風（佐賀市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/374423/203">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20170930/pd_2a0349c82084b35b38db01e11314d6fe3c204976.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有明の風　焼のり5袋セットF</h4>
+<p class="goods-col_price inline">25,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>随時</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後から14日前後で発送
+※12月、1月、年末年始はお申し込みが集中するため、通常より1～2週間程度配送期間を多くいただいております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>・本返礼品は「乳糖」を含む製品を製造しているラインで製造しています。原材料の海苔はエビ、カニの生息する海域で採取してます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に公益社団法人Civic Forceをお選びいただき、2万5千円以上のご寄附をいただいた方
+口どけが良く香り高い、初摘み海苔の美味しさそのものを堪能できる旨みたっぷりの『焼きのり』を一枚一枚丁寧に焼き上げています。
+深い旨みとパリっとした食感は、佐賀有明海産の初摘みならではの美味しさです。
+旨みたっぷりの佐賀海苔はごはんのお供の他、手巻きやサラダ、パスタのトッピング、焼いたトーストにバターを塗り海苔を載せても又一味違って美味しくいただけます。
+お子様からご年配の方まで美味しくいただけます。
+製造・提供：有明の風（佐賀市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/217491/203">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210126/pd_ad1c912da426ccb2751030c6ffceedc6b16ca201.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">佐賀牛ステーキ（5万円コース） </h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時
+※年末年始は通常より2週間程度配送期間を多くいただいております。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に公益社団法人Civic Forceをお選びいただき、5万円以上のご寄附をいただいた方
+「佐賀牛」は、日本最上級の等級格付けを誇る、国産黒毛和牛です。
+（社）日本格付協会の定める厳格な基準で選ばれており、その品質は全国に数多くある銘柄牛のなかでもトップクラスの肉質等級5と4、BMS７以上。
+キメの細かな美しい霜降りは、「艶さし」と呼ばれ、全国のグルメや高級料理店で、貴重な美味として愛されています。
+今回は厚めに260gでカットしました。口に入れた瞬間の溢れる肉汁と、とろけるような食感をご堪能ください。
+生産者：弥川畜産</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/222932/203">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20170930/pd_6e5e2614e5511dbc0e6b7a870f1222ed77a8bb75.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有明の風 焼のり10袋セットG</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後から14日前後で発送
+※12月、1月、年末年始はお申し込みが集中するため、通常より1～2週間程度配送期間を多くいただいております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>・本返礼品は「乳糖」を含む製品を製造しているラインで製造しています。原材料の海苔はエビ、カニの生息する海域で採取してます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に公益社団法人Civic Forceをお選びいただき、5万円以上のご寄附をいただいた方
+口どけがよく香り高い、初摘み海苔の美味しさそのもの口どけが良く香り高い、初摘み海苔の美味しさそのものを堪能できる旨みたっぷりの『焼きのり』を一枚一枚丁寧に焼き上げています。
+深い旨みとパリっとした食感は、佐賀有明海産の初摘みならではの美味しさです。
+旨みたっぷり栄養豊富な佐賀海苔はごはんのお供の他、手巻きやサラダ、パスタのトッピング、焼いたトーストにバターを塗り海苔を載せても又一味違って美味しくいただけます。
+お子様からご年配の方まで美味しくいただけます。
+製造・提供：有明の風（佐賀市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/217492/203">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210126/pd_a9b01307a6257ed8c00cd3ae011f0406de6f44ce.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">佐賀牛ステーキ、佐賀牛ロースすき焼き（8万円コース） </h4>
+<p class="goods-col_price inline">80,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時
+※年末年始は通常より2週間程度配送期間を多くいただいております。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に公益社団法人Civic Forceをお選びいただき、8万円以上のご寄附をいただいた方
+「佐賀牛」は、日本最上級の等級格付けを誇る、国産黒毛和牛です。
+（社）日本格付協会の定める厳格な基準で選ばれており、その品質は全国に数多くある銘柄牛のなかでもトップクラスの肉質等級５と４、BMS７以上。
+キメの細かな美しい霜降りは、「艶さし」と呼ばれ、全国のグルメや高級料理店で、美味として愛されています。
+今回は、大満足のステーキとすき焼きのセットです。とろける食感、コクと甘味を存分にご堪能ください。
+生産者：弥川畜産</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/217493/203">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210126/pd_e01ca6e7e68d883ac318ffec1ec8932a53557759.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">佐賀牛ステーキ、佐賀牛ロースすき焼き、佐賀牛ハンバーグ、佐賀牛ローストビーフセット(10万円コース)</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_frozen">凍</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>随時
+※年末年始は通常より2週間程度配送期間を多くいただいております。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に公益社団法人Civic Forceをお選びいただき、10万円以上のご寄附をいただいた方
+「佐賀牛」は、日本最上級の等級格付けを誇る、国産黒毛和牛です。
+（社）日本格付協会の定める厳格な基準で選ばれており、その品質は全国に数多くある銘柄牛のなかでもトップクラスの肉質等級５と４、BMS７以上。
+キメの細かな美しい霜降りは、「艶さし」と呼ばれ、全国のグルメや高級料理店で、美味として愛されています。
+佐賀牛のステーキ、すき焼き、ハンバーグ、ローストビーフの４点セットで大満足していただけると思います。
+舌の上でとろける柔らかさ、甘みとコクのある美味しい「佐賀牛」をご賞味ください。
+生産者：弥川畜産（多久市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/374427/203">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20170930/pd_711adc08a1f43a9d2e8c4fd62365bf1e08fd5810.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有明の風　プレミアム焼のり14袋セットH</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後から14日前後で発送
+※12月、1月、年末年始はお申し込みが集中するため、通常より1～2週間程度配送期間を多くいただいております。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>・本商品は「乳糖」を含む製品を製造しているラインで製造しています。原材料の海苔はエビ、カニの生息する海域で採取してます。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に公益社団法人Civic Forceをお選びいただき、10万円以上のご寄附をいただいた方
+旨味が強く香り高い佐賀有明海産初摘み海苔のなかでも “プレミアム焼のり”は、海苔の旨味と香りが際立つ選び抜かれた佐賀のりです。
+サクっとした食感、口に入れたら旨みが広がりトロっと溶ける味わい。美味しい海苔で食べる手巻き寿司はおススメです。
+生産地からの直送だからこそお届けできるお品です。
+製造・提供：有明の風（佐賀市）</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">佐賀県NPO支援</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">佐賀県のふるさと納税は、皆様が支援したい佐賀県内のNPO等を指定して寄附することができます。<br/>
+いただいたご寄附は、その額の95%をNPO等にお渡ししており、NPO等の大きな課題の一つである資金調達を可能にします。<br/>
+佐賀県は、この仕組みによりNPO等が自ら考え行動する自発の地域づくりの促進を応援しています。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">皆様方の活動により救える命が増えるんですよね。<br/>
+応援します！</p>
+<p class="gcf-bx-message__date">2018年9月30日 1:23</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">微力ながら応援させていただきます。</p>
+<p class="gcf-bx-message__date">2018年9月14日 1:36</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">微力ながら、プロジェクト応援します❗<br/>
+暑い日が続きますが、お身体に気を付けて頑張って下さい❗<br/>
+</p>
+<p class="gcf-bx-message__date">2018年9月12日 6:31</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">ふるさと納税が返礼品合戦になっている中、こうした公共のために役に立つ納税方法があり心強いです。自分の税金の一部をより希望する方法で使ってもらえて何より。皆様の活動を少しでも応援できればと思います。</p>
+<p class="gcf-bx-message__date">2018年8月14日 23:33</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">素晴らしい活動だと思います。 ぜひ頑張っていただきたいです。</p>
+<p class="gcf-bx-message__date">2018年6月28日 20:46</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">国内外の災害に対応するチームの皆様と、それを支援する佐賀県の取り組みに共感致しました。僅かながら支援させていただきます。<br/>
+<br/>
+</p>
+<p class="gcf-bx-message__date">2018年4月11日 19:04</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">応援しています。</p>
+<p class="gcf-bx-message__date">2018年9月11日 23:01</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">応援しています。</p>
+<p class="gcf-bx-message__date">2018年8月27日 17:18</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">応援しています<br/>
+頑張ってください。</p>
+<p class="gcf-bx-message__date">2018年8月21日 13:55</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/287">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>申し込み後の内容変更・寄附金受領証明書・ワンストップ特例申請書</h3>
+<p>お申込み後の内容変更・寄附金受納証明書・ワンストップ特例申請書については、県民協働課にて対応いたします。<br/>
+<br/>
+【2018年の寄附お申込の受付期間について】<br/>
+　◆郵便振替：2018年12月12日(水)まで（2018年12月31日17時までの決済完了分までを2018年のご寄附として処理いたします）<br/>
+　◆クレジットカード決済：2018年12月31日23時59分までに決済完了頂いたご寄附は、2018年分として処理いたします。<br/>
+　※どちらの決済方法につきましても、お早目の決済完了をお勧めいたします。<br/>
+<br/>
+【お問合せ先】<br/>
+佐賀県 県民協働課 CSO活動支援担当<br/>
+TEL： 0952-25-7374<br/>
+メール：furusato-npo@pref.saga.lg.jp <br/>
+(閉庁時にいただいたメールの対応は新年1月4日以降となります)<br/>
+※佐賀県庁は12月28日～新年1月3日まで閉庁いたします。通常よりもお問合せ対応にお時間をいただく場合がありますことを予めご了承ください。<br/>
+<br/>
+【ワンストップ特例申請のお届けについて】<br/>
+ワンストップ特例申請書を希望される方は、決済の1～2週間後程度で佐賀県県民協働課より郵送いたします。<br/>
+12月28日～12月31日までに決済いただいた場合は、2019年1月4日から順次郵送いたしますが、お急ぎの方は下記リンクよりワンストップ特例申請書をダウンロードいただき、ご郵送をお願いいたします。<br/>
+◆佐賀県ふるさと納税ワンストップ特例申請用紙ダウンロードPDF<br/>
+（記入例あり）<br/>
+https://www.cso-portal.net/【様式・記入例】ワンストップ特例申請書.pdf<br/>
+<br/>
+【ワンストップ特例申請書 郵送先】<br/>
+〒840-8570　佐賀県佐賀市城内1丁目1-59 <br/>
+　　　　　　 佐賀県県民協働課 ふるさと納税担当 宛<br/>
+（封筒脇に「ワンストップ特例申請書在中」とお書き添えください）<br/>
+※ワンストップ特例申請書・ご本人確認書類・マイナンバー確認書類等、申請内容に不備がないか封入前に必ずご確認ください。</p>
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</section>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">佐賀県NPO支援の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/41001/203?from=2&amp;gcf_project_id=287"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月11日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,446,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g287,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

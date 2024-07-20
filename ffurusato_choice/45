@@ -1,0 +1,1259 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/45" />
+
+<title>教育で地域を活性化する ～白馬高校魅力化プロジェクト～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="教育で地域を活性化する ～白馬高校魅力化プロジェクト～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/45" />
+<meta property="og:description" content="オリンピック選手や地域で活躍する人材を数多く輩出してきた白馬高校は、生徒数の減少から統廃合の対象となりました。白馬村では、地域資源を活用した教育環境の整備・充実を地域の魅力の一つとして捉え、平成28年度から「国際観光科」を新設し、生徒を全国募集し、公営塾の運営、教育寮の整備・運営など、様々な魅力づくりに取り組みます。これからの社会を担う生徒たちの可能性を最大限に広げるため、全国の皆さまのご支援をよろしくお願いいたします。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20160314/d_cdd0adbc38609905786e2f877319338d81660f3b.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20160314/d_cdd0adbc38609905786e2f877319338d81660f3b.jpg" />
+<meta property="twitter:title" content="教育で地域を活性化する ～白馬高校魅力化プロジェクト～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="オリンピック選手や地域で活躍する人材を数多く輩出してきた白馬高校は、生徒数の減少から統廃合の対象となりました。白馬村では、地域資源を活用した教育環境の整備・充実を地域の魅力の一つとして捉え、平成28年度から「国際観光科」を新設し、生徒を全国募集し、公営塾の運営、教育寮の整備・運営など、様々な魅力づくりに取り組みます。これからの社会を担う生徒たちの可能性を最大限に広げるため、全国の皆さまのご支援をよろしくお願いいたします。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,199,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="45" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">教育で地域を活性化する ～白馬高校魅力化プロジェクト～</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">教育で地域を活性化する ～白馬高校魅力化プロジェクト～</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1018">子ども・教育&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20160314/d_cdd0adbc38609905786e2f877319338d81660f3b.jpg" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E6%95%99%E8%82%B2%E3%81%A7%E5%9C%B0%E5%9F%9F%E3%82%92%E6%B4%BB%E6%80%A7%E5%8C%96%E3%81%99%E3%82%8B%20%EF%BD%9E%E7%99%BD%E9%A6%AC%E9%AB%98%E6%A0%A1%E9%AD%85%E5%8A%9B%E5%8C%96%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%EF%BD%9E&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F45">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">17,435,500</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 58.1%;"></div>
+<p class="gcf-cht-detail-bar__number">58.1%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">30,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">58.1</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">560</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>長野県白馬村（ながのけん はくばむら）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="45" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2015年9月1日～2016年3月31日（213日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1033" class="sorting-list__item">子ども・教育</a></li><li><a href="/gcf/project/tag/1043" class="sorting-list__item">グローバル化</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1083" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_4.png 1x, /gcf/images_cf/sdg/sdg_icon_4@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_4.png" alt="SDGアイコン" decoding="async" />4.質の高い教育をみんなに</a></li><li><a href="/gcf/project/sdgs/1096" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_17.png 1x, /gcf/images_cf/sdg/sdg_icon_17@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_17.png" alt="SDGアイコン" decoding="async" />17.パートナーシップで目標を達成しよう</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="45" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">長野県白馬村</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20150813/o_dd72be6634f1bc3f39819738d8f30410c0bad382.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">今回のクラウドファウンディングは、「白馬高校」を支援するプロジェクトです。<br/>
+オリンピック選手や地域で活躍する人材を数多く輩出してきた白馬高校ですが、生徒数の減少により統廃合の対象となりました。<br/>
+平成28年度より、観光分野をはじめとした様々な分野で主体的に活躍できる人材の育成を目指す学科「国際観光科」を新設し、全国から生徒を募集します。<br/>
+公営塾の運営、教育寮の整備・運営など、様々な魅力づくりに取り組みます。地域づくりは人づくり。これからの社会を担う生徒たちの可能性を最大限に広げるため、全国の皆さまのご支援をよろしくお願いいたします。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="mB20">
+<p>【お知らせ】<br/> <span class="gcf-txt-link"><a href="#hakuba6">11/12：宿泊補助券+リフト券がセットになった「白馬ウィンターセット」の受付開始！</a></span><br/> <span class="gcf-txt-link"><a href="#hakuba6">10/1：白馬産の新米入荷！お礼の品でお取り扱い開始しました。</a></span><br/> <span class="gcf-txt-link"><a href="#hakuba5">10/1：インタビュー動画を掲載いたしました。</a></span><br/> <img src="https://www.furusato-tax.jp/images/keisen.gif" alt width="679" height="1" /></p>
+</div>
+<div class="gcf-bx-fill grayBox680imgBody clearfix">
+<p class="mT-05"><strong>今回のプロジェクトの詳細</strong></p>
+<ul class="mT-05 mB10 mL20">
+<li><span class="gcf-txt-link"><a href="#hakuba1">公営塾「しろうま學舎」が開講しました</a></span></li>
+<li><span class="gcf-txt-link"><a href="#hakuba2">世界を魅了する自然環境で、｢生きた英語」と「これからの観光」を学ぶ</a></span></li>
+<li><span class="gcf-txt-link"><a href="#hakuba3">白馬高校『国際観光科』新設の経緯</a></span></li>
+<li><span class="gcf-txt-link"><a href="#hakuba4">地域として支援する魅力づくりの内容</a></span></li>
+<li><span class="gcf-txt-link"><a href="#hakuba5">白馬高校生徒と、取り組みを応援する地域のみなさまからのメッセージ</a></span></li>
+<li><span class="gcf-txt-link"><a href="#hakuba6">白馬村のお礼の品の一部を紹介します！</a></span></li>
+</ul>
+</div></p>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div id="hakuba1">&nbsp;</div></p>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">公営塾「しろうま學舎」が開講しました</span></h2>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2--reverse">
+<div class="lyt-image2__content">
+<p class="gcf-txt">平成２８年度の「国際観光科」新設に先駆け、生徒数増加に向けた白馬高校の魅力向上策の一つ「公営塾」が、同校敷地内に開講しました。塾の運営費は地元の白馬村と小谷村の両村が負担するとともに運営にも深く関わり、地域ぐるみで支えていき、同校再生に向けた取り組みがいよいよスタートしました。 <br/>
+<br/>
+公営塾が設置されたのは同校の旧合宿所で、「しろうま學舎」と命名。<br/>
+平日の放課後と土曜日に、英語、国語、社会、数学などを教え、英検や漢検などの資格取得も支援します。原則として生徒の習熟度に合った個別指導を行います。<br/>
+また、タブレットを用いた学習サービスを導入し、映像教材や電子版の問題集などを活用し、タブレットを使用しながら学習。今後、電子黒板も導入する予定です。</p>
+</div>
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190418/gpfd_f55902329f79cc565564b22b56dc4724f2f6b1dc.jpg" />
+</div>
+</div>
+</div>
+<p class="gcf-txt-article">公営塾の初年度の運営費は約８００万円で、白馬、小谷両村が負担します。１１月までは生徒たちに体験してもらうため、無料で開放しますが、以降は曜日や時間、受講内容に関わらず一律３千円程度を徴収。受講者は同校の生徒のうち、１学年１５人ずつの計４５人程度を目標に募集します。<br/>
+<br/>
+また、来年３月には理科などを教えられる公営塾の講師として、地域おこし協力隊をもう１人採用する予定です。さらに非常勤講師として、地域に住む外国人に英会話の指導をしてもらうことも検討しています。<br/>
+<br/>
+開講式であいさつした白馬村の下川正剛村長は「これまでは大学などへの進学を希望する生徒が村外の高校に通う例が多かった。白馬高校の魅力を高めて生徒たちの夢の実現をサポートしていきたい」と強調しました。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190418/gpfd_937aa13c5f1582bbf8f93c012a870f9428d3e821.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div id="hakuba2">&nbsp;</div></p>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">世界を魅了する自然環境で、<br/>
+｢生きた英語」と「これからの観光」を学ぶ</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190418/gpfd_99b58c3e4b355209681519b66320ec7368608473.jpg" />
+</figure>
+<h4 class="gcf-ttl-h4">数々のオリンピック選手を輩出してきた白馬高校が統廃合の対象に</h4>
+<p class="gcf-txt-article">白馬高校はスキーの強豪校として全国に名を馳せ、これまでに上村愛子さんや渡部暁斗選手など数多くのオリンピック選手を輩出してきましたが、少子化の進行と共に年々生徒数が減少し、統廃合の対象となりました。</p>
+<h4 class="gcf-ttl-h4">地域から高校がなくなる＝急激に高齢化・過疎化が進行する</h4>
+<p class="gcf-txt-article">高校が無くなると、人口流出や高齢化・過疎化は急激に進行します。白馬村では、教育環境の整備・充実を地域の魅力の一つとして捉え、白馬高校が地域住民に愛される魅力的な学校であり続けるために、地域ぐるみで高校を支援することを長野県に申し入れました。 長野県は地域の要望に応じ、平成28年度から高校では珍しいコミュニティ・スクールとして県と地域が一体となって学校を運営するとともに、地域資源を活用して「国際観光科」を新設し、生徒を全国から募集することになりました。</p>
+<h4 class="gcf-ttl-h4">『国際観光科』新設で高校の魅力アップを目指す！しかし、昨年の震災で財政が厳しい状態</h4>
+<p class="gcf-txt-article">受験指導やキャリア教育を行う公営塾の運営や、全国から生徒を受け入れるための寮の整備・運営など、村として高校の魅力化を支援するための費用が必要となります。昨年の震災の復旧に多額の費用がかかったこともあり、村の財政は厳しい状況となっています。これからの社会を担う生徒たちの可能性を最大限に広げるため、ふるさと納税で全国の皆様からのご支援をお願いします。<br/>
+　</p>
+<div class="exlink01 mT8 text-right txt-link"><a target="_blank" class="inline i-arrow" href="http://www.nagano-c.ed.jp/hakubahs/">＞白馬高校：http://www.nagano-c.ed.jp/hakubahs/</a></div><div style="clear: both;"></div>
+<div class="exlink01 mT8 text-right txt-link"><a target="_blank" class="inline i-arrow" href="http://www.vill.hakuba.lg.jp/high-school/index.html">＞白馬高校魅力化プロジェクト：http://www.vill.hakuba.lg.jp/high-school/index.html</a></div><div style="clear: both;"></div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div id="hakuba3">&nbsp;</div></p>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">白馬高校『国際観光科』新設の経緯</span></h2>
+<h3 class="gcf-ttl-h3">地域における白馬高校の重要性</h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190418/gpfd_13a4f10aabab5f4a2108697eef800d5901a5a303.jpg" />
+</figure>
+<p class="gcf-txt-article">白馬高校は、白馬村・小谷村の地域に存在する唯一の高校として、これまで多くの生徒を輩出してきました。<br/>
+もし白馬高校が廃校となってしまった場合、遠方の学校への通学もしくは下宿になってしまう為、経済的にも時間的にも生徒・保護者の大きな負担となります。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190418/gpfd_09e14d9a4ecc227972cf294ca944dca61eff6fb8.jpg" />
+</figure>
+<p class="gcf-txt-article">さらに、地域高校である白馬高校の存続は、白馬村・小谷村の「地域としての存続」にも関わる大きな問題です。<br/>
+子どもを安心して通学させられる高校がない地域は、子どもを育てる環境が良いとは言えないため、人口流出が止まらず、少子高齢化・過疎化が急速に進行すると言われています。</p>
+<h4 class="gcf-ttl-h4">逆に、地域に魅力的な高校が存在すれば、その教育環境を目的としたIターン・Uターンも増加し、人や物が交流するようになり、地域を活性化することができます。</h4>
+<h3 class="gcf-ttl-h3">白馬高校を存続させるために</h3>
+<p class="gcf-txt-article">長野県教育委員会は地域ぐるみの支援に応じる形で、平成28年4月に国際観光科を新設し、生徒を全国募集することを決定しました。<br/>
+さらに、全国でも初となる「自治体首長が委員として学校運営に参画するコミュニティ・スクール」となります。 白馬村・小谷村では、「地域に根差しながらも世界に通用するグローカル人財づくり」を目指し、地域の資源や人材を活用しながら、地元の子どもたちも他地域の子どもたちも「入学したい！」と思うような魅力ある学校づくりを支援します。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190418/gpfd_dcfc7593fe283848bb1977c867bbee8285c0cb28.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div id="hakuba4">&nbsp;</div></p>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">地域として支援する魅力づくりの内容</span></h2>
+<h3 class="gcf-ttl-h3">（１）公営塾の運営</h3>
+<p class="gcf-txt-article">学校での授業に加え、さらに深く学べるよう、放課後や土曜日に公営の塾を開設します。<br/>
+変革する大学受験にも対応できるよう実力のあるスタッフを揃え、希望する道に進めるよう生徒一人ひとりを丁寧に指導します。<br/>
+また、定住している外国人を講師に招き、英会話能力を確実に習得するとともに、ゼミ形式のキャリア教育にも力を入れ、生徒自身が設定した課題を掘り下げるプロジェクト学習に取り組みながら、自己分析・自己表現やコミュニケーション能力など今後必要とされる力を伸ばします。</p>
+<h3 class="gcf-ttl-h3">（２）寮の整備・運営</h3>
+<p class="gcf-txt-article">既存の宿泊施設を購入して一部を改修した上で、単なる生活の場ではなく全人教育を行う「教育寮」を運営します。<br/>
+全国から集まった仲間と共同生活をすることで「気づき」のきっかけや「知」の共有機会を設け、様々な価値観に触れながら個性を尊重し合うことで規律や協調性を育みます。</p>
+<h3 class="gcf-ttl-h3">（３）キャリア教育の充実</h3>
+<p class="gcf-txt-article">各界の著名人によるグローバル講演会や「みらい協育サポーター」登録企業による講師派遣・職場体験・コラボ企画など、実社会の現場を体感することで、「学ぶこと」や「働くこと」の意義を考え、「自分らしい生き方」を見出すきっかけをつくります。</p>
+<h3 class="gcf-ttl-h3">（４）留学の支援</h3>
+<p class="gcf-txt-article">国際観光地白馬で身に付けた英語力を世界に飛び出して実践するとともに、異国の地でコミュニケーションを取ることにより自分の殻を破り大きく成長することができます。<br/>
+白馬高校では一人でも多くの生徒に留学の機会を提供できるよう、国や地域の制度を最大限活用しながら、留学費用の補助も実施していきます。</p>
+<h3 class="gcf-ttl-h3">（５）ICT教育の推進</h3>
+<p class="gcf-txt-article">タブレット端末や電子黒板などを活用し、プロジェクト学習や反転授業など、生徒のやる気と能力を引き出す学習を支援します。<br/>
+また、学習記録や校外記録など日々の積み重ねをデータとして可視化することで、達成感や自尊心を育みます。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div id="hakuba5">&nbsp;</div></p>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">白馬高校生徒と、取り組みを応援する<br/>
+地域のみなさまからのメッセージ</span></h2>
+<h3 class="gcf-ttl-h3">廃校の危機から母校の存続を願う<br/>
+白馬高校の生徒のみなさま</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7NEkYpsZyg?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+<h4 class="gcf-ttl-h4">――白馬村（白馬高校）の魅力は？</h4>
+<p class="gcf-txt-article">「自分はスキーとマウンテンバイクをやっていて、白馬は日本で一番の練習環境がある最高の場所です。もし白馬高校がなくなってしまったら、スキーだけなら他県でもできますが、自転車もとなると、白馬だけなのでかなり困ります。白馬村には良いコーチがいっぱいいるので安心して練習できるのが魅力です。」<br/>
+<br/>
+「自然が豊かで、夜も星が綺麗。都会に住んでたらわからない自然の大切さがある。」<br/>
+<br/>
+「人数が少ないのでクラスだけでなく学年を超えて仲が良いです。みんな元気がある。昔からのスキーをしてる友達も先輩後輩関係なく仲良くしてます。」</p>
+<h4 class="gcf-ttl-h4">――国際観光科設立について</h4>
+<p class="gcf-txt-article">「白馬高校がグローバルになっていく感じ。他県からも色んな人が来るので村おこし的にも頑張って欲しいです。」<br/>
+<br/>
+「白馬村には外国人の方が多いので、新しい科が出来るのは良いと思います。自分も英語が好きだけどあまり話せないので、もっとみんなが話せるようになり国際的な学校になってくれるといいです。」</p>
+<h3 class="gcf-ttl-h3">白馬村に移住してきた子育て世代として応援<br/>
+草本朋子さん（自営業）</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZsCfX0bFT3U?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+<h4 class="gcf-ttl-h4">――白馬村の魅力は？</h4>
+<p class="gcf-txt-article">「大自然だと思います。北アルプスがそびえ、麓には田んぼが広がっている、日本の伝統的な風景と雄大な山々が一緒に見える場所はとても珍しいと思います。」</p>
+<h4 class="gcf-ttl-h4">――白馬村の気に入ったところ</h4>
+<p class="gcf-txt-article">「最初にきた時に日本にこんな景色があるんだってびっくりしました。こういうところで子育てができたらきっと幸せな子供に育つんじゃないかと思い、そういう意味で魅力を感じて移住してきました。」</p>
+<h4 class="gcf-ttl-h4">――実際に移住されてどうですか？</h4>
+<p class="gcf-txt-article">「子供は本当に幸せに育ってくれていて、これ以上の環境はないなと思っています。白馬の良い所は、外から来た人も受け入れてくれる土地柄。都会から移住してこられる方、オーストラリアなど海外からも来られる方も多いんですけれど、みんなうまく調和を保って楽しく暮らしていけています。」</p>
+<h4 class="gcf-ttl-h4">――このプロジェクトに参加しようと思ったきっかけは？</h4>
+<p class="gcf-txt-article">「白馬に惹かれて移住してきたので、できればずっとここで子供を育てていきたいと思っています。せっかくある地元の高校がなくなるのは勿体無いことですし、逆にこんな素敵な場所に学校があるんだから全国、世界から学びたいって人が集まって来るべき所だと思います。もし私になにかできることがあればお手伝いができたらと思い参加させていただきました。」</p>
+<h3 class="gcf-ttl-h3">高校生をキラキラさせたい！孫ターンの村役場職員<br/>
+渡邉宏太さん（白馬高校魅力化プロジェクト）</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4riuiCNf-n0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+<h4 class="gcf-ttl-h4">――白馬村の魅力は？</h4>
+<p class="gcf-txt-article">「四季の豊かさを存分に感じられるところです。春は残雪とともに花が沢山咲いて、夏は緑が綺麗、秋は紅葉し、冬は雪が積もって一面真っ白になる。色を毎日感じながら、生活できるのはとても大きい魅力です。<br/>
+もうひとつは、いろんな人が村にいること。元々ずっと村に住んでいる人ですとか、移住して来た人も色んなジャンルで活躍されてた方がいらっしゃいますし、そういう方が少しずつ繋がって、色々な取組みが進んでいく所がこの村の良いところだと思います。」</p>
+<h4 class="gcf-ttl-h4">――白馬高校のプロジェクト</h4>
+<p class="gcf-txt-article">「中学を卒業して多くの生徒が村外に出てしまっている現状の中で、なるべく白馬村のことを知ってもらって愛着を持ってもらうことで、一旦都市部に出たとしてもゆくゆくは白馬に帰ってきて『白馬に恩返しするんだ』って子供を少しでも増やしたいという思いがあります。ここで勉強する生徒に少しでも良い教育が提供できればと思い、一生懸命取り組んでいます。」</p>
+<h4 class="gcf-ttl-h4">――今後の方向性、『教育』について</h4>
+<p class="gcf-txt-article">「人口減少、高齢化はある程度止めなければならないという中で、『教育』というのはかなり重要なキーワードになると思っています。『教育』を地域の魅力のひとつとして、白馬で子育てをしたいと思ってもらえる教育プログラムを作っていきたいと思っています。」</p>
+<h3 class="gcf-ttl-h3">ご自身も白馬高校出身<br/>
+白馬村 下川村長（白馬村役場）</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6isNndqTx-w?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+<h4 class="gcf-ttl-h4">――昨年11月に起こった地震の被害について</h4>
+<p class="gcf-txt-article">「被災してからもうすぐ一年になりますが、まだまだ復旧段階です。村道、農地、上下水道の被害は甚大でしたが、ようやく復旧、復興に向かって工事が進みだした所です。被災され仮設住宅で避難されている方々が一日も早く元の生活に戻れるよう願っています。」<br/>
+<br/>
+「村の西側の観光地の方はほとんど被害に合わなかったことと、被災地で一人も死者が出なかったということが不幸中の幸いです。地域の方のコミュニティーがしっかりしていたため皆で声を掛け合って助け合いました。」</p>
+<h4 class="gcf-ttl-h4">――国際観光科の設立について</h4>
+<p class="gcf-txt-article">「地域に子どもたちがいなくなると、過疎化に拍車がかかります。今まで伝統のある、小谷、白馬の地域高校として、どうしても高校だけはなんとか存続していきたいと、県の方にお願いをしました。全国から募集するとなると、寮の確保が必要になり、両村でお金を出し合って取り組んでいます。<br/>
+ソチオリンピックでは、白馬高校出身のスキーの代表選手が5人も出場したのは全国広しと行ってもここ白馬村だけです。今後は『国際観光科』の設立により、スキーばかりではなく、環境のよい白馬村で勉強していただくため公営塾を設置します。白馬高校を卒業した後、将来良い教育を受け、大学をでたら地元に帰ってきてもらい、地元観光産業の一翼を担ってもらうのを願っています。」</p>
+<h4 class="gcf-ttl-h4">――寄附者へのメッセージ</h4>
+<p class="gcf-txt-article">「歴史のある白馬高校、全国からスキーや登山をされた方が大勢いらっしゃいますが、『白馬が好き』『白馬の世話になった』という方々も含めて、白馬高校の全国募集、国際観光学科の取り込みを始めますので、ぜひご支援いただければと思っております。」</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div id="hakuba6">&nbsp;</div></p>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">白馬村のお礼の品の一部を紹介します！</span></h2>
+<h3 class="gcf-ttl-h3">【NEW!!】ウィンターシーズン到来、チケットセット受付開始！</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2--reverse">
+<div class="lyt-image2__content">
+<p class="gcf-txt">白馬村周辺地域でのウィンタースポーツが存分に楽しめるチケットセットが、クラウドファウンディング限定で受付開始です。<br/>
+白馬村観光局加入の宿で使える「宿泊補助券」16,000円分と、白馬村周辺11スキー場共通で使える「1日リフト券」を4枚セットにした、ペア宿泊とウィンタースポーツを2日間満喫できるセットです。</p>
+</div>
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190418/gpfd_d9167d6c3b379711a40e65cd55ef141bd626b73e.jpg" />
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">【内容】</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">・宿泊補助券：16,000円分<br/>
+・HAKUBA VALLEY 11スキー場共通リフト1日：4枚分</p>
+</div>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">白馬の自然が育てたおいしいお米<br/>
+　　4品種のお米を4回に分けて配送します！</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2--reverse">
+<div class="lyt-image2__content">
+<p class="gcf-txt">認定農業者が白馬のおいしい水と空気で育んだ、「コシヒカリ」「ゆめしなの」「あきたこまち」「ミルキークイーン」の4種類のお米を各10kgずつお贈りします。<br/>
+食べ比べてそれぞれのお米の個性をお楽しみください。<br/>
+（※ご指定が無い場合、1ヵ月に10kgずつを目安に発送します。）<br/>
+<br/>
+10月1日より、平成27年度 白馬産新米入荷しました！<br/>
+10月1日以降にお申し込みされた方は、<br/>
+4種の白馬産新米を順次お届け致します！</p>
+</div>
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190418/gpfd_e344bbdf889d4b3efb4f132304bc125b09fe0c32.jpg" />
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">【内容】</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">4万円の寄附 　: <br/>
+白馬産米4種食べ比べセット 合計40kg【新米！】<br/>
+<br/>
+1万円の寄附 　: <br/>
+白馬産コシヒカリ 10kg【新米！】<br/>
+白馬産ゆめしなの 10kg【新米！】<br/>
+白馬産あきたこまち 10kg【新米！】<br/>
+白馬産ミルキークイーン 10kg【新米！】（品切れ中）<br/>
+<br/>
+【注意事項】<br/>
+※白馬産米4種食べ比べセットについて<br/>
+ミルキークイーンは平成27年産が在庫切れとなりましたので、平成28年産収穫までお待ちいただくか、他の3種から代替の1品をお選びいただくことになります。<br/>
+ご指定が無い場合にはミルキークイーンに限り平成28年産収穫後の発送となりますので、平成27年産の3種を希望される方はその旨をお申し出ください。</p>
+</div>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">ウィンターシーズンだけじゃない、<br/>
+　　『春夏秋冬』一年中魅力満載の白馬を楽しめる宿泊補助券！</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2--reverse">
+<div class="lyt-image2__content">
+<p class="gcf-txt">季節によって様々な顔を見せる白馬の自然。<br/>
+これからの季節のオススメは、秋の終わりの初雪の降る頃、白馬村では初雪の白色、紅葉の赤色、針葉樹の緑色の三色からなる｢白馬三段紅葉｣が見られることがあります。その風景は幻想的で、緑・紅葉・雪を同時に見ていると、まるで日本の四季が同時に訪れたような光景を目にする事が出来ます。大自然が作りだす美しい秋の奇跡をお楽しみ下さい。<br/>
+※見頃：10月中下旬〜11月上旬の初冠雪後</p>
+</div>
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190418/gpfd_93f0a7ee19eb2fe9cd5c402d644a613fa3bd9b96.jpg" />
+</div>
+</div>
+</div>
+<p class="gcf-txt-article">白馬村観光局に加入している約300軒の宿泊施設の中からお好きな宿をお選びいただき、宿泊料金のうち補助券としてご利用いただくことができる宿泊補助券をプレゼントいたします。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190418/gpfd_9ff8f3aadeb8bdd92ac0fbaf96df3fd7779622a3.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">【内容】</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">宿泊補助券<br/>
+　1万円の寄附：3,000円分の宿泊補助券<br/>
+　3万円の寄附：10,000円分の宿泊補助券<br/>
+　6万円の寄附：20,000円分の宿泊補助券<br/>
+　10万円の寄附：33,000円分の宿泊補助券<br/>
+　30万円の寄附：100,000円分の宿泊補助券<br/>
+<br/>
+【注意事項】<br/>
+※有効期限は発行日から1年間です。</p>
+</div>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">ウィンタースポーツを楽しむ<br/>
+　　白馬村周辺のスキー場で共通で使えるリフト券をお礼の品でお送りします！</h3>
+<p class="gcf-txt-article">かつて冬季オリンピックの会場にもなった白馬のゲレンデを思いっきり楽しめる共通リフト券をお礼の品でお送りします。<br/>
+昨年度よりも使用できるスキー場が増え、なんと11ヶ所のゲレンデで使用できるようになりました！30万円のご寄附でシーズン中、何回も使い放題のシーズンパスもご用意しております。<br/>
+<br/>
+利用可能スキー場：白馬さのさか・白馬五竜・Hakuba47・白馬八方尾根・白馬岩岳・栂池高原・白馬乗鞍・白馬コルチナ・鹿島槍・爺ガ岳・ヤナバ</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190418/gpfd_8b4fda2b09edeec5da07ea4ad5e3b676db03a378.jpg" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">【内容】</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">HAKUBA VALLEY 11スキー場共通リフト1日<br/>
+　2万円の寄附：リフト1日券 1枚<br/>
+　6万円の寄附：リフト1日券 3枚<br/>
+　10万円の寄附：リフト1日券 5枚<br/>
+　30万円の寄附：リフト券 シーズンパス<br/>
+<br/>
+【注意事項】<br/>
+白馬村・小谷村・大町市の11スキー場共通のリフト1日券です。<br/>
+※2015-2016シーズンのみ有効です。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"></p>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">長野県白馬村</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__image"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20150828/m_acb6569d0909ec6509d966a10a6d81295989e442.jpg" /></div>
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">白馬村（はくばむら）は、長野県北西部に位置する北安曇郡の村。北アルプスの麓にあり、夏は登山、冬はスキーの観光客が訪れ、避暑地として知られる。単体のスキー場としては国内最大規模の八方尾根スキー場があり、長野オリンピックの会場にもなった。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">白馬高校の国際観光科に期待しています。<br/>
+質の高い公営塾、全国から集まった生徒を受け入れる教育寮、地域資源を活用したカリキュラムなど、素晴らしい取組みだと思います。<br/>
+「観光の村」だけでなく「教育の村」へ。さらなる発展を応援します！</p>
+<p class="gcf-bx-message__date">2015年12月29日 19:30</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">白馬高校が、全国の地方部の高校に夢を与える存在になりますように。</p>
+<p class="gcf-bx-message__date">2015年9月12日 8:19</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">海外では一流校が地方で勉学に集中する環境を作ってます。ただ、純粋培養になると、日本人の場合弱くなる傾向があるので、早い時期から人格形成に力を入れてください。期待します</p>
+<p class="gcf-bx-message__date">2015年9月5日 15:24</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">未来を担う子供達のために使ってください。地域差で子供達の未来が変わることのない社会を願います。</p>
+<p class="gcf-bx-message__date">2015年9月1日 13:32</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">教育は日本にとってとても大事なことだと思うので、応援します！</p>
+<p class="gcf-bx-message__date">2016年3月31日 22:20</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">地元の人に愛されるように頑張れ^_^</p>
+<p class="gcf-bx-message__date">2016年3月31日 21:38</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">教育、人財育成、魅力のある街になってください。<br/>
+</p>
+<p class="gcf-bx-message__date">2016年3月31日 17:26</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">白馬高校が存続できるよう、ぜひ魅力的な活動よろしくお願い致します。<br/>
+スキー名門校が廃校になるのは寂しい限りです。<br/>
+白馬はスキーでかなりお世話になりました。<br/>
+札幌転勤となり、ここ数年行けてませんが、また機会がありましたら、行きたいです。<br/>
+スキー場の活性化にも期待したいです。</p>
+<p class="gcf-bx-message__date">2016年3月29日 23:15</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">10数年前に何度か療養を兼ねてリゾートバイトしていました。<br/>
+私にとっての故郷、白馬の景色が大好きです。<br/>
+プロジェクト応援しています。</p>
+<p class="gcf-bx-message__date">2016年3月29日 23:06</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">白馬村の自然はぜひとも守って欲しい。未来を築く若い人たちが定住できる村にしてほしい。</p>
+<p class="gcf-bx-message__date">2016年3月26日 9:31</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">長野県に以前勤務していました。白馬村の良さは、一度訪れた方ならわかると思います。オリンピック選手も輩出した名門・白馬高校の存続に向け、少しでもお役に立てれば幸いです。</p>
+<p class="gcf-bx-message__date">2016年3月24日 14:37</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">青春時代を過ごした第二の故郷です。病気がちの私を大自然と、白馬の人情が救ってくれました。<br/>
+今でも、森の中の彫刻展、キャンプをした思い出、オリンピック、丸山ケルンや白馬岳からのヘリコプタースキーが人生の思い出になっています。<br/>
+温泉に入り、猿倉で取ったキノコ鍋を食べた思い出が、鮮明に思い出されます。<br/>
+いずれ孫を連れてスキーに行くのが楽しみです。<br/>
+<br/>
+ガンバレ白馬(^O^)</p>
+<p class="gcf-bx-message__date">2016年3月22日 13:54</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">家族で白馬に1度行ってから、白馬村に虜です。<br/>
+スキーがメインですが、夏もお邪魔して町の美しさや大自然を毎年満喫しています。<br/>
+大自然を抱いた美しい村のさらなる活性化をご期待しています。</p>
+<p class="gcf-bx-message__date">2016年3月22日 9:57</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">上村愛子選手のファンでした。白馬高校頑張れ！</p>
+<p class="gcf-bx-message__date">2016年3月20日 22:52</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">毎年白馬村でスキーを楽しんでいます。<br/>
+スキー活性化にも白馬高校を盛り上げてスキー人口を増やせるよう頑張って下さい。</p>
+<p class="gcf-bx-message__date">2016年3月20日 15:18</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">若い頃、登山・スキー・散策と大変お世話になりました。美しい自然 及び白馬の皆様の人情は、古稀を過ぎた今でも懐かしい・温かい想い出です。地域の礎である白馬高校の発展を祈念致します。</p>
+<p class="gcf-bx-message__date">2016年3月18日 15:10</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">白馬に数年に一度遊びに行きます。<br/>
+美しい自然に癒されます。<br/>
+ずっと続くように地元に残る若い世代が増えることを希望します。</p>
+<p class="gcf-bx-message__date">2016年3月16日 12:18</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">ふるさとの危機に少しでも応援できたらと思いました。<br/>
+白馬がんばれ！</p>
+<p class="gcf-bx-message__date">2016年3月14日 19:02</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">東京で行われたふるさと納税のイベントで、白馬高校のことを知りました。日本の未来を担う子供たちのため、頑張ってください。</p>
+<p class="gcf-bx-message__date">2016年3月13日 22:02</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">自然を大切にしながら夢を発信してください！</p>
+<p class="gcf-bx-message__date">2016年3月13日 19:10</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/45">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">長野県白馬村の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/20485/2?from=2&amp;gcf_project_id=45"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月11日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,199,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g45,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

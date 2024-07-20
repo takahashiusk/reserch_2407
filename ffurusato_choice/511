@@ -1,0 +1,1220 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/511" />
+
+<title>大阪イチ便利な里山より、「里山」+「シェアリングエコノミー」で人生のチャレンジの土台を創り上げたい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="大阪イチ便利な里山より、「里山」+「シェアリングエコノミー」で人生のチャレンジの土台を創り上げたい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/511" />
+<meta property="og:description" content="大阪府豊能町は、大阪の中心地梅田から電車で約50分の自然豊かな町ですが、人口減少と少子高齢化が全国平均より早いペースで進んでいます。このため、豊能町では、地域ぐるみの定住化促進や、本町の地場産業の中核でもあり、貴重な財産である農業の活性化のために観光と連携した取り組みなどを行っております。本プロジェクトの舞台となる「里山ベース ハナビ」は、大阪最北端の駅「妙見口駅」から徒歩6分、築100年越えの古民家を活用した住める・泊まれる・遊べるシェア古民家です。「里山ベース ハナビ」を運営している合同会社エンカレッジライフの鶴田さんは、古民家を活用したキャリア形成型里山シェアハウスを始め、地域のハードと若者のソフトを繋げる地域活性化×ソーシャルビジネスプラットフォームの1つとして経済圏を生成したいという夢を持っていて、近い価値観を持つ住民同士で事業を展開し、シェアハウス住民が個性を活かし、仕事に変える挑戦をしています。豊能町は、人と人のつながり、農業と観光の連携などを実現するプロジェクトであると確信し、鶴田さんを「豊能町ふるさと起業家」に認定し、ふるさと納税を活用したクラウドファンディングを実施することになりました。夢を実現するため、住める・泊まれる・遊べるシェア古民家「里山ベース ハナビ」のゲストハウス本格開業・容量拡張の大規模修繕、独自ブランドの立ち上げに向けて、ご支援よろしくおねがいいたします。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20190116/d_e4eec57e10f87f36ef864f5ba9998f456c5b9623.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20190116/d_e4eec57e10f87f36ef864f5ba9998f456c5b9623.jpg" />
+<meta property="twitter:title" content="大阪イチ便利な里山より、「里山」+「シェアリングエコノミー」で人生のチャレンジの土台を創り上げたい！｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="大阪府豊能町は、大阪の中心地梅田から電車で約50分の自然豊かな町ですが、人口減少と少子高齢化が全国平均より早いペースで進んでいます。このため、豊能町では、地域ぐるみの定住化促進や、本町の地場産業の中核でもあり、貴重な財産である農業の活性化のために観光と連携した取り組みなどを行っております。本プロジェクトの舞台となる「里山ベース ハナビ」は、大阪最北端の駅「妙見口駅」から徒歩6分、築100年越えの古民家を活用した住める・泊まれる・遊べるシェア古民家です。「里山ベース ハナビ」を運営している合同会社エンカレッジライフの鶴田さんは、古民家を活用したキャリア形成型里山シェアハウスを始め、地域のハードと若者のソフトを繋げる地域活性化×ソーシャルビジネスプラットフォームの1つとして経済圏を生成したいという夢を持っていて、近い価値観を持つ住民同士で事業を展開し、シェアハウス住民が個性を活かし、仕事に変える挑戦をしています。豊能町は、人と人のつながり、農業と観光の連携などを実現するプロジェクトであると確信し、鶴田さんを「豊能町ふるさと起業家」に認定し、ふるさと納税を活用したクラウドファンディングを実施することになりました。夢を実現するため、住める・泊まれる・遊べるシェア古民家「里山ベース ハナビ」のゲストハウス本格開業・容量拡張の大規模修繕、独自ブランドの立ち上げに向けて、ご支援よろしくおねがいいたします。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,521,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="511" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">大阪イチ便利な里山より、「里山」+「シェアリングエコノミー」で人生のチャレンジの土台を創り上げたい！</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">大阪イチ便利な里山より、「里山」+「シェアリングエコノミー」で人生のチャレンジの土台を創り上げたい！</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1021">新産業・地域創生&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20190116/d_e4eec57e10f87f36ef864f5ba9998f456c5b9623.jpg" alt="main_img" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E5%A4%A7%E9%98%AA%E3%82%A4%E3%83%81%E4%BE%BF%E5%88%A9%E3%81%AA%E9%87%8C%E5%B1%B1%E3%82%88%E3%82%8A%E3%80%81%E3%80%8C%E9%87%8C%E5%B1%B1%E3%80%8D%2B%E3%80%8C%E3%82%B7%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A8%E3%82%B3%E3%83%8E%E3%83%9F%E3%83%BC%E3%80%8D%E3%81%A7%E4%BA%BA%E7%94%9F%E3%81%AE%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%AE%E5%9C%9F%E5%8F%B0%E3%82%92%E5%89%B5%E3%82%8A%E4%B8%8A%E3%81%92%E3%81%9F%E3%81%84%EF%BC%81&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F511">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">1,276,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph" style="width: 25.5%;"></div>
+<p class="gcf-cht-detail-bar__number">25.5%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">5,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">25.5</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">37</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>大阪府豊能町（おおさかふ とよのちょう）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="511" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2019年1月28日～2019年4月27日（90日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1028" class="sorting-list__item">まちづくり・コミュニティ</a></li><li><a href="/gcf/project/tag/1029" class="sorting-list__item">インフラ・交通・施設</a></li><li><a href="/gcf/project/tag/1039" class="sorting-list__item">起業</a></li><li><a href="/gcf/project/tag/1040" class="sorting-list__item">移住定住</a></li><li><a href="/gcf/project/tag/1054" class="sorting-list__item">自然・環境</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1087" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_8.png 1x, /gcf/images_cf/sdg/sdg_icon_8@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_8.png" alt="SDGアイコン" decoding="async" />8.働きがいも経済成長も</a></li><li><a href="/gcf/project/sdgs/1088" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_9.png 1x, /gcf/images_cf/sdg/sdg_icon_9@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_9.png" alt="SDGアイコン" decoding="async" />9.産業と技術革新の基盤をつくろう</a></li><li><a href="/gcf/project/sdgs/1090" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_11.png 1x, /gcf/images_cf/sdg/sdg_icon_11@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_11.png" alt="SDGアイコン" decoding="async" />11.住み続けられるまちづくりを</a></li><li><a href="/gcf/project/sdgs/1094" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_15.png 1x, /gcf/images_cf/sdg/sdg_icon_15@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_15.png" alt="SDGアイコン" decoding="async" />15.陸の豊かさも守ろう</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="511" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">大阪府豊能町×合同会社エンカレッジライフ</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20181227/o_26f465c644db223a58c9ecb2e5e03d1b97b2c8a9.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">大阪府豊能町は、大阪の中心地梅田から電車で約50分の自然豊かな町ですが、人口減少と少子高齢化が全国平均より早いペースで進んでいます。<br/>
+このため、豊能町では、地域ぐるみの定住化促進や、本町の地場産業の中核でもあり、貴重な財産である農業の活性化のために観光と連携した取り組みなどを行っております。<br/>
+<br/>
+本プロジェクトの舞台となる「里山ベース ハナビ」は、大阪最北端の駅「妙見口駅」から徒歩6分、築100年越えの古民家を活用した住める・泊まれる・遊べるシェア古民家です。「里山ベース ハナビ」を運営している合同会社エンカレッジライフの鶴田さんは、古民家を活用したキャリア形成型里山シェアハウスを始め、地域のハードと若者のソフトを繋げる地域活性化×ソーシャルビジネスプラットフォームの1つとして経済圏を生成したいという夢を持っていて、近い価値観を持つ住民同士で事業を展開し、シェアハウス住民が個性を活かし、仕事に変える挑戦をしています。<br/>
+<br/>
+豊能町は、人と人のつながり、農業と観光の連携などを実現するプロジェクトであると確信し、鶴田さんを「豊能町ふるさと起業家」に認定し、ふるさと納税を活用したクラウドファンディングを実施することになりました。<br/>
+夢を実現するため、住める・泊まれる・遊べるシェア古民家「里山ベース ハナビ」のゲストハウス本格開業・容量拡張の大規模修繕、独自ブランドの立ち上げに向けて、ご支援よろしくおねがいいたします。<br/>
+<br/>
+※いただきました個人情報は、大阪府豊能町から寄附先の起業家へ提供させていただきます。 本事業について、起業家から寄附者の方へ直接ご連絡をする場合がありますので、予めご了承ください。<br/>
+※目標金額に達しなかった場合、集まった寄附額を起業家へ交付します。 <br/>
+※関係機関と調整の上、事業を進めます。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-bx-fill grayBox_sp_pc mB30 ">
+<h4 class="gcf-bx-fill__title"><span style="color: #006b3e;">このクラウドファンディングは『ふるさと納税』対象事業です！</span></h4>
+<p class="gcf-txt">ふるさと納税とは、自治体への寄附金のことです。個人が2,000円を超える寄附を行ったときに住民税のおよそ2割程度が還付、控除される制度です。</p>
+<p class="gcf-txt"><span class="gcf-txt-link"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></span><br/> <span class="gcf-txt-link"><a href="/example.html" target="_blank">私はふるさと納税をいくらできる？（寄附金控除額のめやす） </a></span><br/> <span class="gcf-txt-link"><a href="/gcf/about" target="_blank">ふるさとチョイスのガバメントクラウドファンディングについて</a></span></p>
+</div></p>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">本当に豊かな暮らしを実現させるために</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">『大阪イチ便利な里山を人生の挑戦のベースにしたい』</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181227/gpfd_bff097d1a3f7b19cd7d036b8d393acb4f0cf13ac.jpg" />
+</figure>
+<p class="gcf-txt-article">こんにちは、合同会社エンカレッジライフの鶴田勇気と申します。 <br/>
+<br/>
+私は、大阪府東大阪市出身、通信キャリアのエンジニアを経て、2017年にブログマーケティング事業・ファイナン シャルコンサルティング事業で独立致しました。<br/>
+新しく里山シェアハウスを行いたいと構想を練っていたところ、「トヨノノドリーム※」の企画を知り応募をしたのが今回のプロジェクトのきっかけです。<br/>
+<br/>
+「トヨノノドリーム」による支援や地元の方の協力を受け、大阪イチ便利な里山にある築100年超えの古民家「里山ベース ハナビ」はシェアハウス・ゲストハウス・イベントスペースとして2018年6月より運営を開始する事が出来ました。<br/>
+<br/>
+この度里山ベース ハナビは、更なる繁栄を目指し、ゲストハウスとしても利用できるシェア古民家として、大規模修繕をいたします。また、独自ブランドの立ち上げも行い、2019年春のグランドオープンを目指して、クラウドファンディングを実施します！</p>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">※「トヨノノドリーム」とは</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">豊能町では、かなえたい夢がある方や新たなことにチャレンジしたいと思っている方の、大きなアイデアから小さなアイデアまで実行に移すための支援を行う「トヨノノドリーム」を実施しました。「トヨノノドリーム」は、これまでの”助成金”といった支援の形ではなく、夢を実現するためのアドバイス、仲間づくり、情報発信など様々なかたちで夢を支援する仕組みです。「里山ベース ハナビ」は、外部有識者等による審査を経て採択されました。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190405/gpfd_032d618810e2e24d4572537e1e6fc6fef01981c6.jpg" />
+</figure>
+<p class="gcf-txt-article">この「里山ベース ハナビ」を立ち上げた想いは、鶴田の人生が凝縮された「自分の個性を信じ切る勇気を灯したい」と言う言葉に在ります。元々、私はいわゆる普通のサラリーマンで両親の借金返済を機にお金の勉強をし、スキルも人脈も何も無い所から独立致しました。 <br/>
+両親は「知らない、分からない、やっても無駄」が口癖で、新しい事に挑戦したり何かをする為に努力や勉強をするという事をしてこなかった結果、60歳を超えて仕事もクビになり、体も悪くして、人生を諦めながら日々の時間を過ごしたのです。<br/>
+<br/>
+健康を害し、何かをする意志も無く、お金も無い人の末路は本当に悲惨なもので、誰かに助けてもらいながらでないと生きる事が出来ない人になっていた事が一番悔しく悲しかった。<br/>
+失敗と言うのは何かをミスする事では無く、「自分を信じ切る事が出来ず何も挑戦しない事」だと、親の背中を見て学びました。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181227/gpfd_dfd1caf9b6981f8e56dada50996973fdfdd5a08a.jpg" />
+</figure>
+<p class="gcf-txt-article">私は、自分の人生の幅を広げるには、自ら興味のある事にどんどんチャレンジを行い、成功も失敗も繰り返しながら量をこなして初めて奥行きのある人間になると思ってます。<br/>
+ミスなく成功する人間はいないので、とにかくチャレンジする量を増やす事。<br/>
+<br/>
+そして、その自分だからこそ興味のある事、好きな事が個性であって、自らが生きてきた人生の歴史こそが自分の個性の塊。<br/>
+その人生のアップダウンを全て含んだ歩みだからこそ伝えられる事があり、その人だからこそ届けられる価値があり、貴方だからこそ助けられる人が必ずいるのです。<br/>
+その個性の塊である、自分の人生を信じ切り、自分だから出来るこそが必ずあると勇気を持ってチャレンジし続ける人を増やしたい。<br/>
+<br/>
+キャリア形成型のシェアハウスが出きればそんな土台作りが出来ると考えて、今の「里山ベース ハナビ」は在ります。<br/>
+<br/>
+想いのたけを込めた長文のプロジェクトページですが、最後まで読んで頂けると幸いです。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">キャリア形成型のシェアハウス「里山ベース ハナビ」</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181227/gpfd_be011a4a565e6c213b473d33f98898fc09f81b0e.jpg" />
+</figure>
+<p class="gcf-txt-article">大阪の中心地より電車で約50分、駅から徒歩6分で来れる自然豊かな里山の環境で、空き家であった大きな古民家を活用したシェアハウスに住む事で生きるコストを落とし、エネルギッシュな様々な価値観の人と触れ合いながら、自然あふれる環境で心身共に健康に暮らす事で人生のチャレンジの土台を作れると信じています。<br/>
+<br/>
+「里山ベース ハナビ」は、日々、自分たちの手で古民家の修繕をしたり、色んなイベントの様子をSNSで情報発信し続けてきて、2018年12月現在、一切広告費を使わずに古民家の5部屋は満室、更にもう1件をシェアハウスで運営し始めて、全部で9人の方が住んでくれるまで賑わってきました。<br/>
+何とかここまで素人ながらリノベーションを頑張ってきましたが、延床380m2もある大きな古民家は本格的にプロの手で改修が必要な箇所も多くあります。<br/>
+<br/>
+また、この度、シェアハウスに加えてゲストハウスとしても利用できるシェア古民家として、ゲストハウス本格開業・容景拡張の大規模修繕に加えて、独自ブランドの立ち上げを行い、2019年春のグランドオープンを目指してクラウドファンディングにて資金を募ることにいたしました。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">『里山＋シェアリングエコノミーによる可能性』</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190116/gpfd_052042bf41c9f17a4aeecd52c058e46c4d4a3cfd.jpg" />
+</figure>
+<p class="gcf-txt-article">リモートワーク、ノマドワーカーなど、テクノロジーの進歩により、時間と場所に囚われずに仕事が出来る人が増えてきた現代。都会への人口一極集中、営業ノルマに追われる競争社会、高騰する地価。<br/>
+そんな今だからこそ、里山が熱いのです。<br/>
+<br/>
+自然あふれる場所に来て、心が洗われる気持ちになるのであれば、暮らしに自然があった方が良いに違いない。<br/>
+日本古来の暮らしが根付いている里山で、自然に溶け込む古き良き暮らしに新しいシェアリングエコノミーのテクノロジーを組合せ、古くて新しいライフスタイルに可能性を感じて事業を展開しております。</p>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">・古民家ホームシェアリング</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">里山の空き家を活用してシェアして住む事で、都会で生きるよりも圧倒的に安いコストで暮らす事が出来ます。<br/>
+また、都会で心を病んでしまう人も相当数いますが、自然あふれる環境で綺麗な空気・美味しい水・太陽の光を浴びて健康的な暮らしをすれば、悪くなるはずがありません。<br/>
+更には前向きなエネルギーを持った人達が集まる事で、人と情報が集まる場所となり、出会いが増える事で成長が加速する。<br/>
+心身共に健康に暮らして、生きるコストを落として自分の好きな事にチャレンジを出来る土台作りとして、古民家ホームシェアリングは大きな役割を担っております。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">・古民家ゲストハウス</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">築100年越えの古民家、自然あふれる里山暮らしは日本の多くの人にとって非日常体験が出来る場所となっています。<br/>
+非日常体験に加えて、里山ベース ハナビの住民が増えて盛り上がる事で住民の友達が色んな所から遊びに来てくれて、そこから更に関係人口が増えて住民や遊びに来る人が増える好循環が生まれます。<br/>
+今の時代、里山はエンターテイメントなのです。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">・里山アクティビティ</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">大阪の中心地、梅田から電車で50分、駅から徒歩6分の好立地だからこそ車が無い人でもふらっと遊びに来れるアクセス環境で、非日常体験を活かした里山ならではのアクティビティを仕掛けております。<br/>
+今後は誰でも体験出来るアクティビティに限らず、里山の遊休資産を活用して初期コストを抑えてワクワクする事業を展開できる仲間をどんどん増やしていきたいと思ってます！<br/>
+里山で生きる人が増えれば、更に話題性が増し、どんどん面白い人が集まるコミュニティとなるので、どんどん遊びに来てください！</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div style="text-align: center;"><iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsatoyama.base.hanabi%2Fvideos%2F314697149167842%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div></p>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">2019年の春、シェア古民家　グランドオープン！</span></h2>
+<p class="gcf-txt-article">古民家に暮らして1周年でのグランドオープンを目指してます！</p>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">事業実施のスケジュール</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">≪スケジュール≫<br/>
+2018年6月　里山ベースハナビ運営開始<br/>
+2018年12月～2019年3月　ふるさと納税でのクラウドファウンディングで資金集め<br/>
+2019年4月　リノベーション工事開始<br/>
+2019年6月　里山ベースハナビ　グランドオープン(住み始めてちょうど1年)<br/>
+2019年7月　里山アクティビティ本格始動<br/>
+<br/>
+≪収支計画≫<br/>
+目標金額5,000,000円<br/>
+◆必要な金額の内訳<br/>
+　床下修繕工事費用　670,000円<br/>
+　ホームシェアリング部リフォーム費用　4,000,000円<br/>
+　蔵修繕費用　150,000円<br/>
+　シャワーブース設置工事費用　1,200,000円<br/>
+　合計　6,020,000円<br/>
+　自己資金　1,020,000円</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20181227/offd_bc2f1f6fb331017802fcf06814e47ffdebb7f235.jpg" alt="事業実施のスケジュール" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">地域を変えるのはヨソモノ・若者・バカモノ</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">里山をアップデートして、真の豊かさを！</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190109/gpfd_c7c28cc33289f94c395807de0d2f4112c8d3af9d.jpg" />
+</figure>
+<p class="gcf-txt-article">現在、豊能町は人口20,000人弱の町で、大阪の北部にあります。大阪市内から電車でも車でも一時間以内の距離に有りながらも、昔ながらの里山風景が残っている貴重な場所なのですが、大阪の中でもまだまだ知名度が低い町です。<br/>
+<br/>
+昔ながらの里山の風景と、バブルの頃に出来たニュータウンの2つの顔を持っており、ニュータウンに家を買った家族の子供世代がそのまま家を出て帰ってこない為、人口流出スピードは全国平均の5倍、合計特殊出生率は全国ワースト3位、昼夜間人口比率は全国ワースト2位という厳しい状況にあります。<br/>
+<br/>
+しかし、都会への一極集中による通勤電車や家賃の高騰で疲弊している人が多い現代社会、大阪の中心から電車で約50分で来れる立地で、駅から徒歩圏内で住める里山は、凄く貴重な存在です。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190109/gpfd_d86099d322dcc29dfab86758f5bf6b7e23df1413.jpg" />
+</figure>
+<p class="gcf-txt-article">地元の方も初めは若い人が大きくて古い家に1人で住みだして大丈夫か？という状態でしたが、人が出ていくばかりの里山に新しく人が入ってくることは有難い事に嬉しく思っていただき、色々な協力をしていただきき今日まで来ております。<br/>
+<br/>
+地域で活動している若い事業者に協力関係ができて盛り上がり、外から色んな人が来ることで地域が活気づき、若い力を活用して様々なお困りごとを解決できたりと、助けられながらも地域に協力ができ始めています。<br/>
+<br/>
+現在は住民が9人まで増えましたが、今後もシェアハウスの数を増やして、3年以内に100人の規模まで増やすことができたらもっともっと面白い事が出来ると思ってます！</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">事業に携わる方の思い</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">古民家シェアハウス住民　嶋田 加奈さん</span></h3>
+<h3 class="gcf-ttl-h3">■ハナビとの出会いで大きく人生が変わった私</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190121/gpfd_3464fcb02222a1ff2fb8ca47f51c8ebf94f6ba02.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">私は去年の10月から里山ベースハナビの住人になりました！<br/>
+直前まで小学校の先生をしてましたが、心労がたたり先生自身が不登校になってしまったのです・・・。<br/>
+校区に入るだけで涙が溢れて体調不良になる事もありましたが、ハナビの自然あふれる環境・昔懐かしい古民家の情景、そして何よりも集まる人の温かさで人間らしさを取り戻す事ができ、自分の心に従い学校の先生を辞めてハナビに引越してきました！<br/>
+<br/>
+元々、小笠原諸島、屋久島、礼文島や海外を旅したり、ユースホステルでヘルパー等をしていて、人と話したり料理を作ってもてなす事が大好きでして、日々沢山の人が集まるハナビでおもてなし甲斐のある日々を送ってます(笑)<br/>
+<br/>
+今は豊能町でアルバイトをしつつ、ハナビに来て頂ける方のおもてなしをするお仕事をしてて、今後はアルバイトに行かずに生計を立てれるようにしていきたいので、日々試行錯誤中です。<br/>
+皆さんも一度遊びに来てくださいね！</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">トキオカデザイン代表　時岡 佑太さん</span></h3>
+<h3 class="gcf-ttl-h3">■地方創生の鍵は人が集まる場所づくり</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190121/gpfd_63efc9e611119c6bb1b0f499930f2fa7e7981d46.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">はじめまして。トキオカデザイン代表の時岡佑太です。<br/>
+里山ベース ハナビには、コンセプトデザイン・ロゴデザイン等、理念の部分からデザインを任せて頂きました。<br/>
+<br/>
+私は福井県のおおい町と言う、人口8,000人程のちいさな町の出身です。まさに人口減少の波を肌で感じています。自分の持っているスキルを使い地方活性化に携わることはできないかと考えていたところ、鶴田さんにお声かけ頂き、理念に共感してデザインという面でお手伝いをしております。<br/>
+<br/>
+初めてハナビを訪れたのは昨年7月。その時は住んでいる皆さまもまだ4名でした。あれからたった半年で住む方・関わる人も増え続け、訪れる度にパワーアップしているハナビを見ると、刺激と希望の両方を受けます。<br/>
+<br/>
+今回、ふるさと納税を活用して里山×ソーシャルビジネスでの地方活性化に取り組む鶴田さんの動きは、今後の地方創生の1つのロールモデルとなると感じています。鶴田さん、応援しています！</p>
+</div>
+</div>
+</div>
+<div class="exlink01 mT8 text-right txt-link"><a target="_blank" class="inline i-arrow" href="https://tokioka.design/">トキオカデザイン公式HP：https://tokioka.design/</a></div><div style="clear: both;"></div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">豊能町の隣、能勢町のUターン農家　元古 隆博さん</span></h3>
+<h3 class="gcf-ttl-h3">■人を繋ぐ拠点は地域に好循環を生み出す</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190121/gpfd_7826d0e4c0f523cbc86e21219f78670b4283bde3.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">2018年から豊能町の隣にある、地元の能勢町に戻り農家をしている元古隆博と申します。<br/>
+僕は農業を通して地域を盛り上げ、地元を離れた人が戻ってきたい場所作りがしたいと考えてます。<br/>
+農薬・化学肥料を使わない野菜作りを目指してても、どうしても交通の便が問題になり困っていた時に鶴田さんに出会いました。<br/>
+そこから、やりたいと思っていた農業体験イベントも開催でき、日本各地から様々な人が集まるハナビで色んな価値観の方と出会う事で僕も刺激を頂いてます。<br/>
+ハナビが地元の人と外の人を繋ぐ拠点として機能している事は、地方に住む人間としては豊能町だけにとどまらず、近隣自治体にも良い循環を作れる存在になれると確信しています。<br/>
+今年はハナビに宿泊して能勢に農業体験するツアーもやりたいと思っているので、一緒に面白い事をどんどん仕掛けていきたいですね！<br/>
+鶴田さん、期待してますよ～！</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">長野県佐久市コワーキングスペースiitoco!　江原 政文さん</span></h3>
+<h3 class="gcf-ttl-h3">■「移働」はローカルの暮らしをアップデートする</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190121/gpfd_2fab9735b0a5236b323fb6e9cc243399c78aaa4a.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">私は、人口10万人都市の長野県佐久市でコワーキングスペースiitoco!!を運営している江原政文です。<br/>
+豊能町のプロジェクトページに何故長野県の人が？と感じる方も多いと思いますが、私が普段行っている場所に囚われずに移動しながら働く「移働」の最中に鶴田さんと出会ったのがきっかけでした。<br/>
+また、ハナビは現在はシェアハウスを柱として運営しておりますが、 暮らしと仕事の境目を取っ払い、住む場所にとらわれる事無く人間の 可能性にチャレンジすると言うのは、僕も非常に共感するところです。<br/>
+今後は全国各地の拠点同士が繋がり、お互いの成功と失敗を共有する事で、ローカルが互いに豊かになる事が大切と考えるので、長野県から鶴田さんの動きを期待を込めてウォッチしております！</p>
+</div>
+</div>
+</div>
+<div class="exlink01 mT8 text-right txt-link"><a target="_blank" class="inline i-arrow" href="https://www.iitoco.jp/">コワーキングスペースiitoco!!：https://www.iitoco.jp/</a></div><div style="clear: both;"></div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">豊能町</span></h3>
+<h3 class="gcf-ttl-h3">■たくさんの笑顔が生まれる豊かな暮らしの実現できるまちに </h3>
+<p class="gcf-txt-article">豊能町の最大の課題は、全国平均より早いペースで進んでいる人口減少と少子高齢化です。このため、豊能町では、地域ぐるみの定住化促進や、本町の地場産業の中核でもあり、貴重な財産である農業の活性化のために観光と連携した取り組みなどを行っております。<br/>
+<br/>
+本プロジェクトは、まさに人と人のつながり、農業と観光の連携などを実現するプロジェクトであると確信し、代表の鶴田さんを豊能町ふるさと起業家に認定し、ふるさと納税を活用したクラウドファンディングを実施することになりました。<br/>
+地域に根差した里山ベース ハナビに住む人・泊まる人・遊びに来る人が集まり、たくさんの笑顔が生まれることを期待しています。<br/>
+<br/>
+自然豊かな豊能町での本当に豊かな暮らしを実現できる取り組みに、ご協力を賜れば幸いです。どうぞよろしくお願いいたします。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">新着情報はSNSでも発信中！</span></h3>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div style="text-align: center;"><iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fsatoyama.base.hanabi%2F&amp;tabs=timeline&amp;width=340&amp;height=500&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId" width="340" height="500" frameborder="0" scrolling="no"></iframe></div></p>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">お礼の品一覧</span></h3>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">大阪府豊能町</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__image"><img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20181227/m_33c7dfb515e2a6703da0fe5354e206c472cc4202.jpg" /></div>
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">大阪府北部に位置する豊能町は、大阪府内でありながら、山に囲まれた冷涼な気候が特徴です。昔ながらののどかな里山、四季折々の自然の風景を楽しめます。また、高山地区はキリシタン大名「高山右近」の生誕地としても知られており、ゆかりの史跡も残されています。<br/>
+<br/>
+◆町公認「トヨノノレポーター」が豊能町の魅力を発信中！<br/>
+「トヨノノPORTAL」<br/>
+https://toyonono-portal.jp/</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">日本の良き里山文化を楽しめる場所に大きな期待をしています。幸せで穏やかで笑顔のたくさんある暮らしができる素晴らしい地域です。若い人たちとますます一緒に盛り上げてくださいね。</p>
+<p class="gcf-bx-message__date">2019年2月6日 21:22</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">頑張ってー！応援してるよー！そして泊りに行かせてー！（笑）</p>
+<p class="gcf-bx-message__date">2019年3月26日 23:56</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">日本家屋の底力を見させていただきたいです！</p>
+<p class="gcf-bx-message__date">2019年3月26日 20:42</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">鶴田さん頑張ってください！！！応援してますーーー！！！</p>
+<p class="gcf-bx-message__date">2019年3月26日 17:35</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">鶴田さん応援してまーす！</p>
+<p class="gcf-bx-message__date">2019年3月26日 12:14</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">鶴田くん！！応援してるよーー！！！挑戦の場作りに期待！！</p>
+<p class="gcf-bx-message__date">2019年3月14日 17:57</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">こんなに近い里山、本当に素敵です。</p>
+<p class="gcf-bx-message__date">2019年3月12日 12:35</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">里山の生活はエネルギーや食料の問題が解決できるので、本当の豊かさの中で安心して暮らせる。</p>
+<p class="gcf-bx-message__date">2019年3月11日 20:43</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">良きチャレンジ！頑張ってください！</p>
+<p class="gcf-bx-message__date">2019年2月18日 15:55</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">社会全体が変化していく中で、地方も多様化する必要があると思われます。<br/>
+地方である特徴を活かした活性化に期待します。</p>
+<p class="gcf-bx-message__date">2019年2月12日 21:01</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">古くて新しいライフスタイルの可能性にわくわくします。<br/>
+鶴田さんの挑戦を応援したいと思います。</p>
+<p class="gcf-bx-message__date">2019年1月30日 22:59</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">鶴田さんの活動は非常に社会的価値があると思い支援させて頂きます。応援しています。</p>
+<p class="gcf-bx-message__date">2019年1月28日 15:19</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/511">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">大阪府豊能町の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/27321/16?from=2&amp;gcf_project_id=511"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,521,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g511,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

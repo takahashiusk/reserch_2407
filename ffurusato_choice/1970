@@ -1,0 +1,1214 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/1970" />
+
+<title>iPS細胞による再生医療等の技術開発応援プロジェクト ～ふるさと納税型クラウドファンディング～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="iPS細胞による再生医療等の技術開発応援プロジェクト ～ふるさと納税型クラウドファンディング～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/1970" />
+<meta property="og:description" content="世界中の病気や怪我に苦しむ人々のために、iPS細胞(*1)技術の研究開発を加速させる事業、ならびに様々な分野における社会課題の解決を図る事業に対し、これまでに引き続き、全国の皆様からご寄附を募ります。いただいた寄附金は、京都大学iPS細胞研究財団（iPS財団）(*2)ならびに、(一社)京都スマートシティ推進協議会（スマートシティ推進協議会）(*3)を通じて有効に活用させていただきます。皆様からの温かいご支援を心からお願い申し上げます。○寄附受付期間：2022/10/3～2022/12/31○目標金額：2,200万円（iPS財団1,500万円、スマートシティ推進協議会700万円） （参考）R3年度実績：iPS財団へ47,880千円、スマートシティ推進協議会へ4,982千円 R2年度実績：iPS財団へ37,920千円、スマートシティ推進協議会へ5,837千円 ご寄附の申込方法は下記をご参照の上、お手続き下さい。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20220912/d_cadd8e7c7cf90da866a9a19aff5a4c65d2954a6c.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20220912/d_cadd8e7c7cf90da866a9a19aff5a4c65d2954a6c.jpg" />
+<meta property="twitter:title" content="iPS細胞による再生医療等の技術開発応援プロジェクト ～ふるさと納税型クラウドファンディング～｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="世界中の病気や怪我に苦しむ人々のために、iPS細胞(*1)技術の研究開発を加速させる事業、ならびに様々な分野における社会課題の解決を図る事業に対し、これまでに引き続き、全国の皆様からご寄附を募ります。いただいた寄附金は、京都大学iPS細胞研究財団（iPS財団）(*2)ならびに、(一社)京都スマートシティ推進協議会（スマートシティ推進協議会）(*3)を通じて有効に活用させていただきます。皆様からの温かいご支援を心からお願い申し上げます。○寄附受付期間：2022/10/3～2022/12/31○目標金額：2,200万円（iPS財団1,500万円、スマートシティ推進協議会700万円） （参考）R3年度実績：iPS財団へ47,880千円、スマートシティ推進協議会へ4,982千円 R2年度実績：iPS財団へ37,920千円、スマートシティ推進協議会へ5,837千円 ご寄附の申込方法は下記をご参照の上、お手続き下さい。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,577,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="1970" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">iPS細胞による再生医療等の技術開発応援プロジェクト ～ふるさと納税型クラウドファンディング～</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">iPS細胞による再生医療等の技術開発応援プロジェクト ～ふるさと納税型クラウドファンディング～</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1022">健康・福祉&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20220912/d_cadd8e7c7cf90da866a9a19aff5a4c65d2954a6c.jpg" alt="main_img" decoding="async" />
+<img class="gcf-lyt-detail__complete" src="/gcf/images_cf/icon_goal_brown.png" alt="達成" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=iPS%E7%B4%B0%E8%83%9E%E3%81%AB%E3%82%88%E3%82%8B%E5%86%8D%E7%94%9F%E5%8C%BB%E7%99%82%E7%AD%89%E3%81%AE%E6%8A%80%E8%A1%93%E9%96%8B%E7%99%BA%E5%BF%9C%E6%8F%B4%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%20%EF%BD%9E%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E7%B4%8D%E7%A8%8E%E5%9E%8B%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%EF%BD%9E&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F1970">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">25,439,600</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph2" style="width: 115.6%;"></div>
+<p class="gcf-cht-detail-bar__number">115.6%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">22,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">115.6</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">201</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>京都府（きょうとふ）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="1970" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2022年10月3日～2022年12月31日（90日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1041" class="sorting-list__item">技術革新/イノベーション</a></li><li><a href="/gcf/project/tag/1047" class="sorting-list__item">健康・医療</a></li><li><a href="/gcf/project/tag/1049" class="sorting-list__item">福祉・障がい</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1082" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_3.png 1x, /gcf/images_cf/sdg/sdg_icon_3@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_3.png" alt="SDGアイコン" decoding="async" />3.すべての人に健康と福祉を</a></li><li><a href="/gcf/project/sdgs/1088" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_9.png 1x, /gcf/images_cf/sdg/sdg_icon_9@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_9.png" alt="SDGアイコン" decoding="async" />9.産業と技術革新の基盤をつくろう</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="1970" class="gcf-nv-tab__button js-tab">進捗情報
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">京都府×(公財)京都大学iPS細胞研究財団</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20220912/o_b317e489f92f4796d5a35c2caa779fa4f8af9822.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">世界中の病気や怪我に苦しむ人々のために、iPS細胞(*1)技術の研究開発を加速させる事業、ならびに様々な分野における社会課題の解決を図る事業に対し、これまでに引き続き、全国の皆様からご寄附を募ります。<br/>
+<br/>
+いただいた寄附金は、京都大学iPS細胞研究財団（iPS財団）(*2)ならびに、(一社)京都スマートシティ推進協議会（スマートシティ推進協議会）(*3)を通じて有効に活用させていただきます。<br/>
+皆様からの温かいご支援を心からお願い申し上げます。<br/>
+<br/>
+○寄附受付期間：2022/10/3～2022/12/31<br/>
+○目標金額：2,200万円（iPS財団1,500万円、スマートシティ推進協議会700万円） <br/>
+<br/>
+（参考）<br/>
+R3年度実績：iPS財団へ47,880千円、スマートシティ推進協議会へ4,982千円 <br/>
+R2年度実績：iPS財団へ37,920千円、スマートシティ推進協議会へ5,837千円 <br/>
+<br/>
+ご寄附の申込方法は下記をご参照の上、お手続き下さい。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<p class="gcf-txt-article">ご寄附の申込方法は下記をご参照の上、お手続き下さい。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20211228/gpfd_1a5bd452131684979ea33300a1a0c9b489ecedb3.png" />
+</figure>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.pref.kyoto.jp/sangyo-sien/ipscf.html#r04">プロジェクトの概要・チラシ等（京都府HP)</a></p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="http://www.pref.kyoto.jp/sangyo-sien/ipscf.html#onestop">ふるさと納税ワンストップ特例制度(申告手続きの簡素化）について（京都府HP）</a></p>
+<p class="gcf-txt-article">※本社所在地が京都府外の企業の場合、寄附額の最大9割の税軽減効果がある「企業版ふるさと納税」の活用が可能です。</p>
+<p class="gcf-txt-article">※いただいた寄附金を少しでも多く事業の支援に活用させていただくため、今回のプロジェクトでは返礼品を用意しておりませんので、ご了承願います。</p>
+<p class="gcf-txt-article">※振込によるご寄付のお問い合わせについては、令和4年12月20日（火）16時までです。</p>
+<div class="gcf-lyt-detail__block -simulation">
+<h4 class="gcf-simulation__title">ふるさと納税で<br class="sp" />このプロジェクトを応援しよう！</h4>
+<p class="gcf-txt mT8 mB8">ふるさと納税とは、ふるさとや応援したい自治体に寄付できる制度です。<br/>控除上限額内の2,000円を超える部分について、所得税や住民税の還付・控除が受けられます。</p>
+<p class="txtlink-right"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></p>
+<div class="gcf-simulation-easysimulater">
+<p class="gcf-simulation-easysimulater__title">控除上限額かんたんシミュレーション</p>
+<div class="gcf-simulation-easysimulater__box js-easysimulater-box">
+<div class="gcf-simulation-easysimulater-form">
+<div class="-family">
+<label>
+<select class="js-easysimulater-key2">
+<optgroup>
+<option value>家族構成は？</option>
+<option value="1">1. 夫婦と子供がいる場合</option>
+<option value="2">2. 夫婦で配偶者控除がある場合</option>
+<option value="3">3. 単身もしくは夫婦(配偶者控除がない)の場合</option>
+<option value="4">4. 年金収入者の場合</option>
+</optgroup>
+</select>
+</label>
+</div>
+<div class="-income">
+<label>
+<select class="js-easysimulater-key1">
+<optgroup>
+<option value>年収は？</option>
+<option value="1">150万円</option>
+<option value="2">200万円</option>
+<option value="3">300万円</option>
+<option value="4">400万円</option>
+<option value="5">500万円</option>
+<option value="6">600万円</option>
+<option value="7">700万円</option>
+<option value="8">800万円</option>
+<option value="9">900万円</option>
+<option value="10">1,000万円</option>
+<option value="11">1,500万円</option>
+<option value="12">2,000万円</option>
+<option value="13">3,000万円</option>
+<option value="14">5,000万円</option>
+<option value="15">1億円</option>
+</optgroup>
+</select>
+</label>
+</div>
+</div>
+<p class="gcf-simulation-easysimulater__result">結果：<span class="gcf-simulation-easysimulater__result-amount js-easysimulater-result"><span>-</span>円</span></p>
+<p class="txtlink-right"><a href="/example.html" target="_blank">より詳しくシミュレーションをする</a></p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">１．寄附金の使い道</span></h2>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">再生医療分野の研究開発・事業化支援や社会課題の解決を目指すスタートアップ支援に活用させていただきます。</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">（公財）京都大学iPS細胞研究財団への支援　　 1,500万円<br/>
+（一社）京都スマートシティ推進協議会への支援　　700万円<br/>
+<br/>
+※集まった寄附金額に関わらず、本事業に活用させていただきます。</p>
+</div>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">(1) iPS財団（理事長 山中 伸弥）への支援</h3>
+<p class="gcf-txt-article">「再生医療をいかに良心的な価格で実現するか」<br/>
+<br/>
+iPS財団の理事長として山中伸弥が取り組んでいる大きな課題です。<br/>
+iPS財団は、再生医療の産業化に必須となる次のような技術をAI（人工知能）なども駆使して確立し、他の研究機関や製薬企業、ベンチャー企業に橋渡ししていきます。<br/>
+<br/>
+　・少量・多品種のmy iPSを低コストで製造する技術<br/>
+　・安定した品質の細胞を効率的に製造する技術<br/>
+　・細胞の安全性や品質を評価・管理する技術<br/>
+<br/>
+近年、先端的な医療には数千万円から1億円以上の治療費がかかるケースも出てきています。iPS細胞技術による治療を「みんなが受けられる医療」にするために、iPS財団が基盤となる技術を確立して企業に渡したい。iPS細胞による再生医療に多くの企業が挑戦して成功し、再生医療が産業として発展する状況をつくりたいのです。<br/>
+<br/>
+そして、病気や怪我に苦しむ患者さんに新しい治療法を届けるということが、ひいては、日本全体にとって、京都ならではの新たな産業振興のきっかけにも繋がると考えています。</p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.cira-foundation.or.jp/j/">iPS財団HP</a></p>
+<h3 class="gcf-ttl-h3">(2) 様々な社会課題の解決に取り組むスタートアップ企業への支援</h3>
+<p class="gcf-txt-article">様々な社会課題の解決に向け、AIやIoT等のスマート技術の研究開発を行うスタートアップ企業を（一社）京都スマートシティ推進協議会を通じて支援することで、京都のイノベーションの加速化を促進します。</p>
+<h4 class="gcf-ttl-h4">＜注釈＞</h4>
+<p class="gcf-txt-article"> (*1)iPS細胞<br/>
+2006年に誕生した新しい多能性幹細胞で、創薬や再生医療の実現等に重要な役割を果たすと期待されている。</p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.cira-foundation.or.jp/j/research-institution/ips-stock-project/#overview">iPS細胞ストックプロジェクト</a></p>
+<p class="gcf-txt-article">(*2)(公財)京都大学iPS細胞研究財団（iPS財団）<br/>
+iPS細胞(*1)の製造や品質評価などの技術を産業界へと「橋渡し」する機能を担うため、京都大学iPS細胞研究所（CiRA）から一部の機能を分離する形で2019年9月6日に設立され、2020年4月1日に公益認定されたもの。その中心である細胞調製施設（FiT）では、安全性の高いiPS細胞を製造・備蓄し、全国の研究者や企業に提供。<br/>
+</p>
+<p class="gcf-txt-article">(*3) (一社)京都スマートシティ推進協議会<br/>
+平成30年9月27日に設立。ICT等の最新技術を用いることにより、都市・地域の機能やサービスを効率化・高度化し、生活の利便性や快適性を向上させるとともに、持続的に発展する新たな社会システムとイノベーションを創出し、スマートシティを実現することを目指しています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">２．これまでご支援いただいた寄付金の活用例</span></h2>
+<p class="gcf-txt-article">皆様からのご支援が、以下のような活動を支える力となっています。</p>
+<h3 class="gcf-ttl-h3">(1) iPS細胞の研究・実用化の進捗</h3>
+<p class="gcf-txt-article">様々な疾患の臨床研究や治験等のためにiPS細胞ストックを提供し、提供先の企業・研究機関と協働して、1日も早い実用化を目指しています。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220927/gpfd_12313e3cc72a814896b3846f79938608a62b6a33.jpg" />
+<figcaption class="lyt-image__caption">各研究機関で進められているiPS細胞ストックを利用した臨床研究・治験</figcaption>
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">① ストック由来角膜細胞シート移植完了　視力回復を確認</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">2022年4月、大阪大学が行うヒトiPS細胞由来の角膜上皮を4名の患者さんに移植する臨床研究が完了。<br/>
+本研究では、iPS財団のiPS細胞ストックから作製された角膜細胞のシートが、重い目の病気である角膜上皮幹細胞疲弊症の患者さんに移植された。　<br/>
+手術後1年間経過観察を実施し、白内障を併発して評価が難しかった1名を除く3名において視力が大きく改善、最も効果が大きかった患者さんは0.15の視力が0.7まで改善された、と大阪大学より報告された。<br/>
+また、移植に伴う拒絶反応やiPS細胞の腫瘍化は4名全員で確認されていない。<br/>
+今後も国の承認を目指し、研究が継続される予定。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">② iPS細胞から血小板を量産する技術で、輸血製剤の開発や、血小板減少症の治験を実施中（(株)メガカリオン）</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">輸血に必要な血小板をiPS細胞から作製し、安定供給することで献血不足の解消につながる技術を開発中。血小板が不足し、正常に止血できなくなる血小板減少症の患者への治療としても期待されることから、現在、iPS財団等と連携の上、治験が進められている。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220927/offd_a7ae8eecfa84056f6b2665a7ff741fa047b8cfc6.jpg" alt="② iPS細胞から血小板を量産する技術で、輸血製剤の開発や、血小板減少症の治験を実施中（(株)メガカリオン）" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">③ このほか、指定難病や新型コロナウイルス感染症などの疾患研究に当財団のiPS細胞を提供中</p>
+</div>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">(2) 京都のバイオベンチャーによるiPS細胞の実用化に向けた研究開発の促進等</h3>
+<p class="gcf-txt-article">再生医療等の実用化に向けて、京都のバイオベンチャーの研究開発が進んでいます。</p>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">① HiLung(株) （ハイラング）　ヒトiPS肺細胞で「すべての人に健やかな呼吸を」</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">肺炎・肺がんなどの呼吸器疾患で苦しむ多くの方を救うため、ヒトの肺細胞を大量製造し、肺の病気の研究や治療薬候補の効果予測を行う、精巧かつ汎用性の高い &quot;ミクロンサイズのシミュレーター&quot; として応用・事業化。当社の提供する &quot;iPS肺細胞&quot; は新型コロナウイルスや今後の世界的流行を起こしうるウイルス感染の研究や創薬をはじめ、世界中で活用されている。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220927/offd_ad1a99605b3e43f0a2eb1e157a5e7f18bd3d7b8f.jpg" alt="① HiLung(株) （ハイラング）　ヒトiPS肺細胞で「すべての人に健やかな呼吸を」" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">② リバーセル（株）　がん細胞やウイルスを殺すキラーT細胞を、汎用性の高い即納型T細胞製剤として提供</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">独自技術（特許取得）により、他家iPS細胞から高品質なキラーT細胞の作製に成功。大量培養・冷凍保存により自家移植に比較して短時間・低コスト・安定品質を目指しつつ、各種感染症への適応拡大も計画。<br/>
+2024年度には急性骨髄性白血病に対する医師主導型治験を開始する予定。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220927/offd_e94ce289bff6dc063581a474c4074c569a5ba968.jpg" alt="② リバーセル（株）　がん細胞やウイルスを殺すキラーT細胞を、汎用性の高い即納型T細胞製剤として提供" />
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">③ サイアス（株）　iPS細胞からがん抑制等に有効な免疫細胞を作製、がん免疫療法の治験に向け技術を確立</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">血液がんや固形がん等の患者にむけて、元気な免疫細胞を大量に再生し、繰り返し投与することで治療を目指す、個別化された免疫療法の開発を進めている。すでに製法は確立され、動物実験での薬効確認も終え、臨床試験の開始に向けた準備が着実に進んでいる。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220927/offd_36042388fcff9e8b9e90d164904ec5bb2f113ae0.jpg" alt="③ サイアス（株）　iPS細胞からがん抑制等に有効な免疫細胞を作製、がん免疫療法の治験に向け技術を確立" />
+</div>
+</div>
+</div>
+</div>
+<p class="gcf-txt-article">このほか、妊婦のうつ病予防、認知症の予兆検知、教育格差の解消など、様々な社会課題を先端技術を用いて解決するスタートアップも支援しています。</p>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">④ （株）Famileaf（ファミリーフ）　ヘルスデータをアプリで管理し、健康的なマタニティライフを支援</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">妊婦の約4割の方が妊娠合併症を発症し、産後の女性の約1～2割がうつ病に罹患すると言われており、病気の予防や健康増進、地域全体での見守りが社会課題となっています。<br/>
+京都大学発のベンチャーである当社は、妊婦健診では捉えきれない家庭での体調記録を促すとともに、パートナーの妊娠生活への関心を高めます。<br/>
+また、京都大学や協力企業と周産期に関するコンソーシアムを形成し、産後うつの予測因子を解明することなどを目指しています。<br/>
+現在、妊婦向け体調管理アプリ「hug+u（はぐゆー）」をApp Store・Google Playから配信中。2022年中に機能を大幅にアップデートする予定です。</p>
+</div>
+<div class="gcf-lyt-image__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20220927/offd_5b2423afd240c0486eba304f670a90e696e8e68b.jpg" alt="④ （株）Famileaf（ファミリーフ）　ヘルスデータをアプリで管理し、健康的なマタニティライフを支援" />
+</div>
+</div>
+</div>
+</div>
+<p class="gcf-txt-article">京都府ではこれまでからライフサイエンス分野の事業支援に取り組んできました。（以下の企業は京都府ホームページに掲載しているものであり参考です。）</p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.pref.kyoto.jp/sangyo-sien/company/mican.html">マイキャン・テクノロジーズ（株）</a></p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.pref.kyoto.jp/sangyo-sien/company/thyas.html">サイアス（株）</a></p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.pref.kyoto.jp/sangyo-sien/company/rebirthel.html">（株）リバーセル</a></p>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">～これまで、ご寄附いただいた方による応援メッセージ（抜粋）～<br/>
+ご寄附いただいた皆さま、温かいメッセージをありがとうございます。</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">「素晴らしいプロジェクトだと思います。」<br/>
+「社会的意義の大きな取組ですね！」<br/>
+「難病等で苦しむ人の光となりますように、これからも応援しております」<br/>
+「病気で苦しむ多くの人のためにiPS細胞研究が益々発展することを願っております。」<br/>
+「自治体主導で迅速に研究を支援する取組み、非常に意義があると思います」</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">３．ご挨拶</span></h2>
+<h3 class="gcf-ttl-h3">「最適なiPS細胞技術を、良心的な価格で届ける」<br/>
+iPS財団　理事長　山中伸弥</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210928/gpfd_0784e3001064feff4d7109245cda7bf2fb1a33ed.png" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">科学技術の進歩によりここ数十年で医学研究は大きく進みました。<br/>
+その一方で、今もなお多くの患者さんが、治せない病気やケガで苦しんでおられます。<br/>
+<br/>
+こうした状況への解決策の一つが、iPS細胞を使用した再生医療の実用化です。<br/>
+現在、国内の大学・企業により、目の難病、パーキンソン病、心臓病など複数の病気で、新しい治療法の開発に向けた臨床研究や治験が進められています。<br/>
+<br/>
+iPS財団は、iPS細胞による新しい治療法を必要とする人なら誰でも受けられる社会の実現を目指し、2019年に設立されました。品質の保証されたiPS細胞を製造し、臨床研究や治験に取り組む大学・企業に良心的な価格で提供することで、産業界へと橋渡しを行っております。<br/>
+<br/>
+私たちの研究グループが、ヒトiPS細胞樹立成功を発表してから15年。iPS細胞を活用した再生医療の実用化は、マラソンで言えば中間地点に達しました。ここからが正念場です。<br/>
+<br/>
+西脇隆俊知事をはじめとする京都府の皆様のご協力により、昨年度に続き、ふるさと納税でのご支援が実現しました。多くの方々にiPS細胞の実用化への道を伴走していただける仕組みが整いましたこと、心より感謝申し上げます。<br/>
+皆さまのあたたかいご支援を、どうぞよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">京都府知事　西脇隆俊</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20210928/gpfd_afc8840afb7b2a8f2a25d229cbbf73caea51bffa.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">これまで多くの皆様から温かなご支援を賜りましたこと、心より感謝申し上げます。おかげさまで、iPS細胞を使った再生医療実用化への支援等、有効に活用させていただくことができました。<br/>
+<br/>
+依然として、有効な治療法がない難病を抱えた方やドナー不足で臓器移植が受けられず苦しんでおられる方が、世界に大勢いらっしゃいます。<br/>
+また、新型コロナウイルス感染症の拡大などにより、私たちの暮らしは一変し、これまで当たり前であったことが通用しなくなっています。今こそ人類の叡智を結集し、私たちの生命や社会全体に関わる諸課題の解決が求められています。<br/>
+<br/>
+こうした様々な課題に対し、日本が誇るiPS細胞に関する先端研究やその実用化に挑戦している研究者や企業、あるいは、スマート技術を切り口に、真の全体最適を実現すべく奮闘している起業家等を応援するため、今年度も、広く国民の皆様にご支援を募りたく存じます。<br/>
+皆様の温かいご支援を心からお願い申し上げます。</p>
+</div>
+</div>
+</div>
+<p class="gcf-txt-article">＜本プロジェクトへの申込にかかる個人情報の取扱について＞<br/>
+1.　お寄せ頂いた個人情報は、寄附申込先の自治体等が寄附金の受付、入金、受領証明書発行に係る確認・連絡、本事業に関するご報告や関連事業のご案内等に利用するものであり、それ以外の目的で使用するものではありません。<br/>
+2.　本事業による寄附を活用する組織の1つである（公財）京都大学ｉＰＳ細胞研究財団からのお礼・報告等のために、「申込者情報」及び「寄附情報」等を同財団へご共有させていただきます。</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<p>現在進捗情報はありません。</p>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">京都府</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text"></p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">病気で苦しむ多くの人の救いになりますように。</p>
+<p class="gcf-bx-message__date">2022年12月27日 11:50</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">実用化に向けて頑張ってください。</p>
+<p class="gcf-bx-message__date">2022年12月25日 13:52</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">日本の医療の発展を願っております！</p>
+<p class="gcf-bx-message__date">2022年12月20日 7:09</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">iPS細胞研究の成果が一日も早く治療に役立つことを願います。</p>
+<p class="gcf-bx-message__date">2022年12月13日 21:12</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">若年性パーキンソン病患者です。研究ありがとうございます。<br/>
+一日も早く患者に治療が届けていただきたく微力ながら寄付いたします。研究者の皆さまよろしくお願いします。</p>
+<p class="gcf-bx-message__date">2022年11月8日 14:04</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">私自身難病を患っています。病気で苦しむ人の希望になりますよう</p>
+<p class="gcf-bx-message__date">2022年11月2日 15:54</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">医療技術の目覚ましい進歩には驚かされております。子供を最先端生殖医療技術で授かりました。<br/>
+IPS細胞が沢山の患者さんを救う医療技術となりますことを応援しております。</p>
+<p class="gcf-bx-message__date">2022年10月15日 6:25</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">日本の誇る最先端の医療で、世界中の人を救ってください！！</p>
+<p class="gcf-bx-message__date">2022年10月3日 13:02</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">社会的意義の大きな取組ですね！　病気の方をはじめ、iPS細胞技術が「誰もが受けられる治療」になり、世界を救うことを願っています！</p>
+<p class="gcf-bx-message__date">2022年10月3日 10:49</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">体を形成している総てって、あって当たり前ではなく、あって奇跡。なんですよね。突然それを喪失した時、自分にできることはメンタルを立て直すことが精いっぱい。そのメンタルの先にこの機関があるんです。宜しくお願いいたします。</p>
+<p class="gcf-bx-message__date">2022年12月25日 12:28</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">山中先生をTVで何度か拝見しました。私も少しでも関わりたいと思いました。</p>
+<p class="gcf-bx-message__date">2022年12月22日 12:47</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">京大病院の小児科で息子2人を育てて頂きました。感謝しかありません。<br/>
+息子達の病気の課題は継続中ですが、少しでも先生方のお役に立てれば幸いです。<br/>
+いつもありがとうございます。</p>
+<p class="gcf-bx-message__date">2022年12月22日 11:11</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">iPS細胞の進化で、一人でも多くの方が救われますよう、心より願っております。</p>
+<p class="gcf-bx-message__date">2022年12月18日 22:49</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">IPS細胞の研究開発に少しでもお役に立てれば幸いです。</p>
+<p class="gcf-bx-message__date">2022年12月18日 10:16</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">引き続き、応援しています。</p>
+<p class="gcf-bx-message__date">2022年12月17日 21:57</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">私は透析患者です。<br/>
+近い未来、IPS細胞で透析患者が減ることを祈っています</p>
+<p class="gcf-bx-message__date">2022年12月14日 13:41</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">頑張ってください。</p>
+<p class="gcf-bx-message__date">2022年11月12日 16:16</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/1970">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">京都府の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/26000/34?from=2&amp;gcf_project_id=1970"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,577,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g1970,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>

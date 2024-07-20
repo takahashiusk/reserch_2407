@@ -1,0 +1,2690 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
+<link rel="canonical" href="https://www.furusato-tax.jp/gcf/792" />
+
+<title>実現まであと少し！不治の病「1型糖尿病」を根治する研究をご支援ください｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」</title>
+<meta name="description" content="自治体が行うクラウドファンディングが、ガバメントクラウドファンディング。 運営母体はすべて自治体という安心感。 自治体を支援する寄付金でふるさと納税（翌年の住民税が一部控除）対象となり、お礼の特産物が送られてきたり、被災地支援もできるなど、選べる税金の使い道。" />
+
+<meta property="og:title" content="実現まであと少し！不治の病「1型糖尿病」を根治する研究をご支援ください｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="og:url" content="https://www.furusato-tax.jp/gcf/703" />
+<meta property="og:description" content="わたしたち日本IDDMネットワークは、不治の病“１型糖尿病”の患者・家族を支援する認定NPO法人です。１型糖尿病は原因不明で主に子どもが発症し、生涯にわたって毎日数回の注射又はポンプによるインスリン補充が欠かせない病で、日本では年間1000人から2000人が発症するといわれています。「一生治らない」という1型糖尿病患者・家族の絶望を“希望”にかえるため、日本IDDMネットワークは1型糖尿病の根絶（＝根治+治療+予防）を目指す研究を支援しています。" />
+<meta property="og:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20191031/s_6b15fcfb8822869e1e07c3f77df412b3112e6f35.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ふるさとチョイス" />
+
+<meta property="fb:app_id" content="926859327331909" />
+<meta property="article:publisher" content="https://www.facebook.com/furusatotax/" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@furusatotax" />
+<meta property="twitter:creator" content="@furusatotax" />
+<meta property="twitter:image" content="https://img.furusato-tax.jp/img/x/gcf/project/forms/20191031/s_6b15fcfb8822869e1e07c3f77df412b3112e6f35.jpg" />
+<meta property="twitter:title" content="実現まであと少し！不治の病「1型糖尿病」を根治する研究をご支援ください｜ふるさと納税のガバメントクラウドファンディングは「ふるさとチョイス」" />
+<meta property="twitter:description" content="わたしたち日本IDDMネットワークは、不治の病“１型糖尿病”の患者・家族を支援する認定NPO法人です。１型糖尿病は原因不明で主に子どもが発症し、生涯にわたって毎日数回の注射又はポンプによるインスリン補充が欠かせない病で、日本では年間1000人から2000人が発症するといわれています。「一生治らない」という1型糖尿病患者・家族の絶望を“希望”にかえるため、日本IDDMネットワークは1型糖尿病の根絶（＝根治+治療+予防）を目指す研究を支援しています。" />
+
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQGDJWR');/*]]>*/</script>
+
+<link rel="stylesheet" type="text/css" href="/gcf/css/icon-font_gcf.css?1717984030" />
+<link rel="stylesheet" type="text/css" href="/assets/font/muufont.css?1717984028" />
+<link rel="stylesheet" type="text/css" href="/css/gcf/common.css?1717984066" />
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/style.css?1717984064" />
+<link rel="shortcut icon" href="/gcf/images_cf/favicon.ico" />
+<script type="text/javascript" src="/js/vendor.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/gcf/common.js?1717984146"></script>
+<script type="text/javascript" src="/assets/js/gcf/head.js?1717984146"></script>
+<script type="text/javascript" src="/js/common.js?1717984032"></script>
+<script type="text/javascript" src="/js/gcf/common.js?1717984032"></script>
+<script type="text/javascript" src="/gcf/js/favorite.js?1717984030"></script>
+<script type="text/javascript" src="/js/gcf/detail/index.js?1717984032"></script>
+<script type="text/javascript" src="/assets/js/gcf/pages/detail/index.js?1717984146"></script>
+<script type="text/javascript">/*<![CDATA[*/
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33011317-1', 'auto');
+var matches = document.cookie.match(/(?:^|; )M=([-_%0-9a-zA-Z]+)/);
+if (matches !== null) {
+        var comma_match = matches[1].match(/([-_%0-9a-zA-Z]+)%2C([0-9]{4})/);
+        if (comma_match !== null) {
+                ga('set', 'dimension10', comma_match[2]);
+        }
+}
+ga('set', 'dimension1', 'cookie' in document && document.cookie.match(/(^|; )LN?=/) ? 'Logged In' : 'Not Logged In');
+ga('require', 'GTM-KCGFPH3');
+ga('send', 'pageview');
+
+                /*]]>*/</script>
+<script>
+        if (navigator.userAgent.match(/FurusatoChoiceApp/)) {
+            ga('set', 'dimension14', 'FurusatoChoiceApp');
+        } else if (navigator.userAgent.match(/ChoiceNativeIOS/)) {
+            ga('set', 'dimension14', 'ChoiceNativeIOS');
+        } else if (navigator.userAgent.match(/ChoiceNativeAndroid/)) {
+            ga('set', 'dimension14', 'ChoiceNativeAndroid');
+        } else if (navigator.userAgent.match(/ChoiceNative/)) {
+            ga('set', 'dimension14', 'ChoiceNative');
+        } else {
+            ga('set', 'dimension14', '');
+        }
+    </script>
+</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/gcf/pages/detail.css?1717984068" />
+<body>
+<div id="wrap">
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=926859327331909";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));/*]]>*/</script>
+<header class="header-global">
+<div class="header_main">
+<div class="header_row cf">
+<a class="gcf-site-logo" href="/gcf/?header"><img src="/assets/images/logo/gcf-white.svg" alt="ふるさとチョイス ガバメントクラウドファンディング®" decoding="async" /></a>
+<nav class="nav-user gcf-lyt-user">
+<div class="nav-user__wrap">
+<div class="nav-user__label">ふるさと納税ガイド&nbsp;<i class="nav-user__icon icn-arrow2"></i></div>
+<ul class="nav-user__list">
+<li class="nav-user__link"><a class="hover" href="/about?header_guide">ふるさと納税とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/easy_simulation?header_guide">かんたんシミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/simulation?header_guide">控除上限額シミュレーション</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/choice?header_guide">ふるさとチョイスの特長</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/tax_return?header_guide">ふるさと納税確定申告ガイド</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.furusato-tax.jp/feature/a/2022_tax_return?header_guide">チョイススマート確定申告</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/onestop?header_guide">ワンストップ特例制度</a></li>
+<li class="nav-user__link"><a class="hover" href="/about/point?header_guide">ポイント制とは？</a></li>
+<li class="nav-user__link"><a class="hover" href="/feature/a/method_of_payment?header_guide">えらべるお支払い方法</a></li>
+<li class="nav-user__link"><a class="hover" href="https://www.faq.furusato-tax.jp?header_guide" target="_blank">よくある質問</a></li>
+</ul>
+</div>
+<ul class="nav-user__menu">
+<li><a class="nav-user__link on_logout" href="/login?header&amp;backuri=%2Fgcf%2F" style="display: none;"><span class="nav-user__icon _mypage">ログイン</span></a></li>
+<li><a class="nav-user__link on_login" href="/mypage?header" style="display: none;"><span class="nav-user__icon _mypage">マイページ</span></a></li>
+<li class="pc"><a class="nav-user__link" href="/keeplist/gcf?header"><span class="nav-user__icon _favorite">お気に入り</span></a></li>
+<li><a class="nav-user__link" href="/donation/list?header" target="_blank"><span class="nav-user__icon _cart">寄付する</span></a></li>
+<li class="sp"><a class="nav-user__link js-toggle-spMenu" href="#" onclick="ga('send', 'event', 'menu', 'click', 'menu');"><span class="nav-user__icon _menu">メニュー</span></a></li>
+</ul>
+</nav>
+<div class="gcf-bx-header">
+<div class="gcf-search-global">
+<form id="header-search_gcf" class="gcf-search-global__form" action="/gcf/project/" method="GET">
+<input type="text" id="header-search_gcf-text" name="q" class="gcf-search-global__input ui-autocomplete-input" placeholder="プロジェクトをさがす" />
+<input type="submit" id="submit_search" class="gcf-search-global__button" value />
+</form>
+</div>
+<div class="gcf-bx-header__wrap">
+<p class="gcf-bx-header__text">応募寄付総額</p>
+<p class="gcf-bx-header__price">17,770,521,938</p><span class="gcf-bx-header__unit">円</span>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-glonav js-sticky-nav-container">
+<nav class="gcf-nv-global js-sticky-nav" data-flow="fixed">
+<ul class="gcf-lst-global">
+<li><a class="gcf-lst-global__item" href="/gcf/project?header">プロジェクトをさがす</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/messages/list?header">応援メッセージ</a></li>
+<li><a class="gcf-lst-global__item" href="/gcf/about?header">GCF&reg;とは</a></li>
+</ul>
+<ul class="gcf-lst-groupsite">
+<li class="gcf-lst-groupsite__item--choice"><a href="/" target="_blank">ふるさとチョイス</a></li>
+<li class="gcf-lst-groupsite__item--saigai"><a href="/saigai?header" target="_blank">災害支援</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="spMenu service-gcf" id="js-wrap-spMenu" data-service="gcf">
+<button type="button" class="spMenu-bg js-spMenu-bg" aria-label="メニューを閉じる"></button>
+<div class="spMenu-wrap">
+<div class="spMenu-wrap_inner">
+<div class="spMenu-body spMenu-body_main">
+<div class="spMenuMain-head">
+<div class="account-info">
+<span>ようこそ<span class="header-nickname"></span></span>
+<a class="loginlink on_logout" href="/login?sp_menu#login-anchor" style="display:none" target="_blank">ログイン</a>
+<a class="loginlink on_login" href="/logout?sp_menu" style="display:none" target="_blank">ログアウト</a>
+</div>
+<div class="pickup-list">
+<a class="pickup-box" href="/keeplist/gcf?sp_menu" target="_blank">
+<div class="icon icn-heart"></div>
+<div class="text">お気に入り</div>
+</a>
+<a class="pickup-box" href="/about/simulation?sp_menu" target="_blank">
+<div class="icon icn-calc"></div>
+<div class="text -long">控除上限額<span class="-small">シミュレーション</span></div>
+</a>
+<a class="pickup-box on_logout" href="/login?sp_menu#regist" style="display:none" target="_blank">
+<div class="icon mf-register01"></div>
+<div class="text">会員登録</div>
+</a>
+<a class="pickup-box on_login" href="/mypage/contribution/history/list?sp_menu" style="display:none" target="_blank">
+<div class="icon mf-history01"></div>
+<div class="text">寄付履歴</div>
+</a>
+</div>
+<button type="button" class="menu-search js-toggle-spMenu-search" aria-label="検索する">
+<span class="searchText" id="js-dummySearchBox"></span>
+<span class="searchButton icn-search2" aria-hidden="true"></span>
+</button>
+</div>
+<div class="spMenu-service">
+<a class="service-choice" href="/?sp_menu" terget="_blank"><span>ふるさとチョイス</span></a>
+<a class="service-saigai" href="/saigai?sp_menu" terget="_blank"><span>災害支援</span></a>
+</div>
+<ul class="spMenu-list">
+<li>
+<a href="/gcf?sp_menu">ガバメントクラウドファンディング&reg;<br/>トップページ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/project?sp_menu">プロジェクトをさがす</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/messages/list?sp_menu">応援メッセージ</a>
+</li>
+<li>
+<a class="side-link" href="/gcf/about?sp_menu">GCF&reg;とは</a>
+</li>
+<li>
+<a href="https://www.faq.furusato-tax.jp?sp_menu" target="_blank">ふるさと納税のよくある質問</a>
+</li>
+<li>
+<details class="js-details">
+<summary class="inner-link">ふるさと納税ガイド<i class="icn-arrow2" aria-hidden="true"></i></summary>
+<ul class="inner-list">
+<li><a href="/about?sp_menu" target="_blank">ふるさと納税とは？</a></li>
+<li><a href="/about/point?sp_menu" target="_blank">ポイント制とは？</a></li>
+<li><a href="/feature/a/method_of_payment?sp_menu" target="_blank">えらべるお支払い方法</a></li>
+<li><a href="/about/easy_simulation?sp_menu" target="_blank">かんたんシミュレーション</a></li>
+<li><a href="/about/simulation?sp_menu" target="_blank">控除上限額シミュレーション</a></li>
+<li><a href="/about/tax_return?sp_menu" target="_blank">ふるさと納税確定申告ガイド</a></li>
+<li><a href="https://www.furusato-tax.jp/feature/a/2022_tax_return?sp_menu" target="_blank">チョイススマート確定申告</a></li>
+<li><a href="/about/onestop?sp_menu" target="_blank">ワンストップ特例制度</a></li>
+<li><a href="/about/choice?sp_menu" target="_blank">ふるさとチョイスの特長</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="spMenu-body spMenu-body_search">
+<form id="spMenu-search_form" role="search" method="get" action="/gcf/project/">
+<div class="spMenu-search_head">
+<button type="button" class="backbutton icn-arrow2 js-toggle-spMenu-search"><span>戻る</span></button>
+<div class="search-window">
+<div class="search-window__wrap">
+<input id="spMenu-search_text" class="search-window__input" type="text" name="q" autocomplete="off" placeholder="プロジェクトをさがす" />
+<input id="spMenu-search_button" class="hide" type="submit" value="検索" />
+<label for="spMenu-search_button" class="search-window__button"></label>
+<input type="hidden" name="sp_menu" value="1" />
+</div>
+</div>
+</div>
+<div id="js-spMenu-searchHistory-wrap" class="spMenu-search_history" style="display:none">
+<h3>検索履歴</h3>
+<ul id="js-spMenu-searchHistory-list"></ul>
+</div>
+<div class="spMenu-search_footer">
+<input class="footer-button" type="submit" value="検索" />
+</div>
+</form>
+</div>
+</div>
+</header>
+<input type="hidden" id="token_favorite_add" value />
+<input type="hidden" id="token_favorite_remove" value />
+<input type="hidden" id="gcf_project_id" value="703" />
+<input type="hidden" id="donation_flag" value="0" />
+<input type="hidden" id="is_designation_progress" value="0" />
+<div id="main" class="project">
+<div class="nv-bread gcf-lyt-bread inner">
+<ul class="nv-bread__list" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/"><span itemprop="name">TOP</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item" itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+<a class="nv-bread__link" itemprop="item" href="/gcf/history"><span itemprop="name">過去実績</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="nv-bread__item">実現まであと少し！不治の病「1型糖尿病」を根治する研究をご支援ください</li>
+</ul>
+</div>
+<div class="inner gcf-lyt-detail">
+<section class="gcf-lyt-detail__section--head">
+<h1 class="ttl-h1">
+<span class="ttl-h1__text">実現まであと少し！不治の病「1型糖尿病」を根治する研究をご支援ください</span>
+</h1>
+<p class="gcf-lyt-detail__section--head__category">カテゴリー：<a href="/gcf/project/category/1018">子ども・教育&nbsp;</a></p>
+<div class="gcf-lyt-image2">
+<div class="gcf-lyt-image2__image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20191025/d_f32e37e8fd498f1ddcb598b96dbb14c003c280b8.jpg" alt="main_img" decoding="async" />
+<img class="gcf-lyt-detail__complete" src="/gcf/images_cf/icon_goal_brown.png" alt="達成" decoding="async" />
+<ul class="gcf-lst-sns mT24" id="socialbuttons">
+<li>
+<div class="gcf-btn-sns--x">
+<a rel="nofollow" href="https://twitter.com/share?text=%E5%AE%9F%E7%8F%BE%E3%81%BE%E3%81%A7%E3%81%82%E3%81%A8%E5%B0%91%E3%81%97%EF%BC%81%E4%B8%8D%E6%B2%BB%E3%81%AE%E7%97%85%E3%80%8C1%E5%9E%8B%E7%B3%96%E5%B0%BF%E7%97%85%E3%80%8D%E3%82%92%E6%A0%B9%E6%B2%BB%E3%81%99%E3%82%8B%E7%A0%94%E7%A9%B6%E3%82%92%E3%81%94%E6%94%AF%E6%8F%B4%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84&amp;url=https%3A%2F%2Fwww.furusato-tax.jp%2Fgcf%2F703">ポスト</a>
+</div>
+</li>
+
+<li>
+<script type="text/javascript">
+									var url = "https://www.facebook.com/plugins/like.php?href=" + encodeURIComponent(location.href.replace(/\#.*$/, '').replace(/\?.*$/, '')) + "&amp;layout=button&amp;show_faces=false&amp;size=large&amp;action=like&amp;share=true&amp;colorscheme=light";
+									document.write('<iframe src="' + url + '" allowtransparency="true" style="border: medium none ; overflow: hidden; width: 174px; height: 28px; " frameborder="0" scrolling="no"></iframe>');
+								</script>
+</li>
+</ul>
+</div>
+<div class="gcf-lyt-image2__content--reverse">
+<div>
+<div class="gcf-lyt-detail-container">
+<p class="gcf-lyt-detail__price">
+<span class="gcf-lyt-detail__badge">寄付金額</span>
+<span class="gcf-lyt-detail__quantity-container">
+<span class="gcf-lyt-detail__quantity">29,118,000</span><span class="gcf-lyt-detail__text">円</span>
+</span>
+</p>
+<div class="gcf-cht-detail-bar">
+<div class="gcf-cht-detail-bar__graph2" style="width: 145.5%;"></div>
+<p class="gcf-cht-detail-bar__number">145.5%</p>
+</div>
+<p class="gcf-lyt-detail__target-amount">目標金額：<span class="bold">20,000,000</span><span class="bold">円</span></p>
+</div>
+<div class="gcf-lyt-flex mT24">
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">達成率</span></dt>
+<dd>
+<span class="gcf-lyt-detail-total__quantity">145.5</span><span class="gcf-lyt-detail-total__text">%</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">支援人数</span></dt>
+<dd><span class="gcf-lyt-detail-total__quantity">899</span><span class="gcf-lyt-detail-total__text">人</span></dd>
+</dl>
+<dl class="gcf-lyt-detail-total">
+<dt><span class="gcf-lyt-detail-total__title">終了まで</span></dt>
+<dd class="gcf-lyt-detail-total__quantity">受付終了</dd>
+<dd class="deadline"></dd>
+</dl>
+</div>
+<p class="gcf-lyt-detail__pref">
+<span class="txt"><span class="icon-location"></span>佐賀県NPO支援（さがけん えぬぴーおーしえん）</span>
+</p>
+</div>
+<button class="btn-normal--icon gcf-btn-favorite" data-id="703" data-mode="add"><i class="btn-normal__icon icn-heart2"></i><span>お気に入り</span></button>
+<div><a class="gcf-btn-positive is-disable">このプロジェクトは終了しました</a></div>
+<div class="link-box">
+<ul>
+<li>
+<a class="js-modal-trigger i-arrow" href="#" data-modal-id="payment-method">対応している決済方法</a>
+</li>
+</ul>
+</div>
+<p class="mT16">寄付募集期間：2019年11月1日～2020年1月31日（92日間）</p>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">タグ：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list">
+<li><a href="/gcf/project/tag/1033" class="sorting-list__item">子ども・教育</a></li><li><a href="/gcf/project/tag/1047" class="sorting-list__item">健康・医療</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__tags">
+<span class="gcf-lyt-detail__tags-name">SDGs：</span>
+<ul class="gcf-lyt-detail__tags-body sorting-list sorting-list--sdg">
+<li><a href="/gcf/project/sdgs/1082" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_3.png 1x, /gcf/images_cf/sdg/sdg_icon_3@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_3.png" alt="SDGアイコン" decoding="async" />3.すべての人に健康と福祉を</a></li><li><a href="/gcf/project/sdgs/1088" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_9.png 1x, /gcf/images_cf/sdg/sdg_icon_9@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_9.png" alt="SDGアイコン" decoding="async" />9.産業と技術革新の基盤をつくろう</a></li><li><a href="/gcf/project/sdgs/1089" class="sorting-list__item"><img srcset="/gcf/images_cf/sdg/sdg_icon_10.png 1x, /gcf/images_cf/sdg/sdg_icon_10@2x.png 2x" src="/gcf/images_cf/sdg/sdg_icon_10.png" alt="SDGアイコン" decoding="async" />10.人や国の不平等をなくそう</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="col_contents">
+
+<section class="gcf-lyt-detail__section js-tab-container js-modal-toggle-point">
+<div class="gcf-nv-tab-wrapper">
+<div class="gcf-nv-tab">
+<button type="button" class="gcf-nv-tab__button is-active js-tab" id="overview">概要</button>
+<button type="button" id="progress" data-id="703" class="gcf-nv-tab__button js-tab">進捗情報
+<span class="gcf-nv-tab__button-progress-number">7</span>
+</button>
+<button type="button" class="gcf-nv-tab__button js-tab" id="city"><span>自治体情報</span></button>
+</div>
+</div>
+<div class="gcf-nv-tab__content is-active js-tab-content js-toggle-container-sp js-overview-tab">
+<p class="gcf-nv-tab__title">佐賀県NPO支援 × 日本IDDMネットワーク</p>
+<div class="gcf-lyt-image gcf-overview-content">
+<div class="gcf-lyt-image__image"><img src="https://img.furusato-tax.jp/img/x/gcf/project/forms/20191021/o_3a7a92521ff770dd466172ecef53f50f839d38dc.jpg" width="137" alt="プロジェクトオーナー" decoding="async" /></div>
+<div class="gcf-lyt-image__content--reverse -text">
+<p class="gcf-nv-tab__text">わたしたち日本IDDMネットワークは、不治の病“１型糖尿病”の患者・家族を支援する認定NPO法人です。<br/>
+<br/>
+１型糖尿病は原因不明で主に子どもが発症し、生涯にわたって毎日数回の注射又はポンプによるインスリン補充が欠かせない病で、日本では年間1000人から2000人が発症するといわれています。<br/>
+<br/>
+「一生治らない」という1型糖尿病患者・家族の絶望を“希望”にかえるため、日本IDDMネットワークは1型糖尿病の根絶（＝根治+治療+予防）を目指す研究を支援しています。</p>
+</div>
+</div>
+
+<section class="gcf-lyt-detail__section">
+<p class="gcf-txt-article">　</p>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-bx-fill grayBox_sp_pc mB30 ">
+<h4 class="gcf-bx-fill__title"><span style="color: #006b3e;">このクラウドファンディングは『ふるさと納税』対象事業です！</span></h4>
+<p class="gcf-txt">ふるさと納税とは、ふるさとや応援したい自治体に寄附ができる制度のことです。控除上限額内の2,000円を越える部分について所得税や住民税の還付・控除が受けられます。</p>
+<p class="gcf-txt"><span class="gcf-txt-link"><a href="/about.html" target="_blank">ふるさと納税をもっと知る</a></span><br/> <span class="gcf-txt-link"><a href="/example.html" target="_blank">私はふるさと納税をいくらできる？（寄附金控除額のめやす） </a></span></p>
+</div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">不治の病を治したい！着実に進歩を続ける「バイオ人工膵島移植」</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">注射を打たなくてもいい未来を届けたい</span></h3>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article">本プロジェクトは、『1型糖尿病』を根治するための、<b>「バイオ人工膵島移植」</b>の開発研究へ支援を行うものです。<br/><br/><b>「バイオ人工膵島移植」</b>が実現し、『1型糖尿病』が根治可能なものになれば、<b>命を脅かす低血糖症や合併症の恐怖</b>から解放されます。毎日の注射や食事制限からも自由になります。患者家族にとってもこれ以上嬉しいことはありません。<br/><br/>この研究は着実に進歩を続けています。1型糖尿病の患者だけでなく、生活習慣病といわれる糖尿病（2型糖尿病）にも応用が期待されているこの研究に、是非ご支援をお願いいたします。</p>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">「1型糖尿病」ってどんな病気？</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">難病とともに生活をする子どもたちがいます</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe width="680" height="530" src="https://www.youtube.com/embed/3iwtEWD_RUs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article">大人でも嫌な注射を、毎日4～5回打たなければ<b>生きることができない</b>子どもたちがいます。<br/><br/>現在、この『1型糖尿病』を治す方法は確立されておらず、子どもたちは生涯この難病と向き合っていかなければなりません。<br/><br/>しかし、十分な研究費があれば、この病気は<b>治すことができる</b>と言われています。</p>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">「1型糖尿病」と我々の取り組み</span></h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-youtube">
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ffurusatotax%2Fvideos%2F1646917648652999%2F&show_text=0&width=680" width="680" height="530" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+</div>
+</div>
+<p class="gcf-txt-article">※動画内の情報は2017年8月時点の情報です</p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">佐賀県と日本IDDMネットワーク</span></h3>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article">佐賀県と日本IDDMネットワークは、次代の社会を担うすべての子どもたちが健やかに育つ社会を目指し、協働で取組を行っています。<br/><br/>日本IDDMネットワークは1型糖尿病を<b>『治らない』病気から『治る』病気に</b>することを当面の目標に、そして最終ゴールとして、下記の3つ全てを実現（＝根絶）するために、この病気に対して研究支援を行っています。今回のプロジェクトは<b>『根治』</b>に対して支援を行うものです。</p>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190204/gpfd_5d9b9fb68a75b5bd1c443a7e5464cbe1f2e34f17.png" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-bx-fill grayBox_sp_pc mB30 ">
+<h4 class="gcf-bx-fill__title"><span style="color: #006b3e;">このプロジェクトの「社会的インパクト評価」</span></h4>
+<p class="gcf-txt">社会的インパクト評価とは、「事業や活動が、社会にどの程度成果をあげることができたのかを貨幣価値に換算して評価する」ことを指します。<br/><br/>今回支援していただく「バイオ人工膵島移植プロジェクト」を通じて創出される社会的価値の総額(総便益)は、なんと<span style="text-decoration: underline;"><b>約６６８億円</b></span>に相当すると評価されています。<br/><br/>皆さんのふるさと納税が、寄附額以上に社会に影響を与えています。<br/><br/><img style="display: block; margin-left: auto; margin-right: auto;" src="https://img.furusato-tax.jp/img/x/city/files/09367/iddm_sroi_image.png" alt width="100%" /></p>
+<p class="gcf-txt"><span class="gcf-txt-link"><a href="https://www5.cao.go.jp/kyumin_yokin/impact/impact_index.html" target="_blank">社会的インパクト評価について｜内閣府</a></span><br/> <span class="gcf-txt-link"><a href="http://koshaken.pmssi.co.jp/upfile/iddmrevsionreport.pdf" target="_blank">「バイオ人工膵島移植プロジェクト」インパクト評価報告書</a></span></p>
+</div></p>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">根治の実現へ！「バイオ人工膵島移植」の研究</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">1型糖尿病の原因とは</span></h3>
+<p class="gcf-txt-article">1型糖尿病は、インスリン（血糖値を下げるホルモン）を唯一分泌できる「膵島（すいとう）」が破壊されてしまう病気です。破壊されると、再生することがないため、不治の病と言われています。</p>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191024/gpfd_44ed8f49b70610cb843dc66ffdd88d9d160e7121.png" />
+</figure>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">課題がある現在の治療法</span></h3>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article">1型糖尿病の治療法は一般的に2つあります。<br/>ひとつが<b>「インスリンを一生投与し続ける」</b>という方法。もうひとつが<b>「膵島移植」</b>という方法です。</p>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191030/gpfd_ea6c0e84aeb5e59fd737a7c69fe74c8cb8b18c21.png" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article">残念ながら「インスリンを一生投与し続ける」という方法は根治にはつながりません。<br/><br/>1型糖尿病は幼少時に発症することが多い病気です。子どもたちに1年に3000回以上にも及ぶインスリン注射と血糖値測定を今後<b>「一生やらなければならない」</b>というのはあまりに酷です。<br/><br/>しかし、根治が期待できそうな「膵島移植」も次のような課題があります。</p>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><b>1．亡くなった方からの臓器移植のため、移植できる人数が少ない</b><br/><b>2．拒絶反応を抑える免疫抑制剤による副作用が少なからずある</b><br/><b>3．移植をしてもインスリン投与の必要がない期間が長く続かない(3年程度)<br/></b></p>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article">子どもはもちろん、大人も積極的にできる治療法ではありません。<br/>しかし、これらの課題をクリアできる治療法が現在注目されています。<br/>それが今回のプロジェクトで支援ができる<b>「バイオ人工膵島移植」</b>なのです。</p>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">世界も注目する「バイオ人工膵島移植」</span></h3>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article">「バイオ人工膵島移植」とは、無菌状態の環境で育ち、ヒトへの移植に適した清潔なブタから「膵島」を取り出し、免疫抑制膜のカプセルで包んだ「バイオ人工膵島」を移植する治療方法です。<br/><br/>免疫抑制膜のカプセルは、免疫細胞の攻撃から移植した膵島を守るために用いられます。<br/><br/>「ブタの細胞をヒトに！？」と思われるかもしれませんが、実はブタは<b>最もヒトへの臓器移植が期待されている動物</b>です。ブタからの臓器移植は世界中で盛んに研究・注目されています。</p>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191030/gpfd_172ae2971ee1505831e2cb38d8176eb813d7f176.png" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article">現在、ブタ膵島を用いた「バイオ人工膵島移植治療」の研究では、<br/><br/><b>①ヒトに適した「バイオ人工膵島」の開発</b><br/><b>②移植したバイオ人工膵島が長期生着するための研究</b><br/><br/>に注力しています。開発したバイオ人工膵島がヒトに適していなければ、移植はできません。<br/>また、移植部位や方法が適切でないと、移植したバイオ人工膵島がヒトの免疫反応（免疫細胞による攻撃）によって壊されてしまいます。<br/>今回のプロジェクトでは、上の2つに関連した研究を支援します。</p>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">①ヒトに適した「バイオ人工膵島」の開発</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">3年以内の臨床研究開始を目指して</span></h3>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article">この研究では臨床応用可能なレベルの「バイオ人工膵島」そのものの研究開発に注力します。<br/>移植する「バイオ人工膵島」には、十分なインスリン分泌量、長期の生着性（移植された細胞が正常に機能すること）をもたせなければなりません。<br/><br/>また、移植した「バイオ人工膵島」の炎症反応の最小化、免疫反応（免疫細胞からの攻撃）の回避も重要な課題となります。</p>
+</div>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191030/gpfd_1070793b00975ed8f6adc629a951c49581c51bee.png" />
+</figure>
+<h3 class="gcf-ttl-h3">■これまでの研究結果・成果</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191031/gpfd_45d0c18b9cb5abcce9ce5bf1072646d490f50fec.png" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">これまでに、新たに開発している免疫抑制膜のカプセル（免疫細胞隔離能力のある半透膜でできたカプセル）にブタ膵島を封入して移植することにより、糖尿病マウスの血糖値を正常化することに成功しています。最長で７ヶ月以上効果がありました。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">■現在の状況</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191024/gpfd_e15f1eb3305e33eac395afb4e4b6b4f29c6c2e23.png" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">現在のブタ膵島と免疫抑制膜のカプセルの組み合わせでは、効果にばらつきがあります。また、免疫反応・炎症反応・線維化を完全には抑制することができていません。<br/>
+<br/>
+さらに毎回高い効果を示すようにブタ膵島細胞およびカプセルの改良研究を行っていきます。マウスでの効果確認後は 中大動物実験を行う計画です。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">■患者、患者家族、寄附者の方々へ</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191025/gpfd_ec15f32af615e45e9f34f1b30a0c6573f80aeebd.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">近年、「バイオ人工膵島」の研究はとても進歩しています。また臨床応用のための法整備環境も整いつつあり、実現性が増しています。<br/>
+<br/>
+国立国際医療研究センターでは、今までにご支援いただいた研究助成金によってバイオ人工膵島製造用の細胞加工施設が整備されました。また、ブタ膵島を移植用に加工するための基盤技術研究もすすめて参りました。<br/>
+<br/>
+今回お願いする課題は、福岡大学や当センターなどいくつかの施設が参加して、医療用ブタからバイオ人工膵島を製造するためのプロセスのうち、それぞれ研究してきた主な工程の技術をつないで連携し、さらに発展させるものです。重要な実験である動物実験による検証も行います。<br/>
+<br/>
+バイオ人工膵島は3年以内の臨床研究開始を目指しています。道のりは決して容易ではありません。しかし、新しい治療法を待ち望んでいる患者さんがいることを心に刻み、根気よく着実に 研究を進めていき、臨床応用まで達成したいと考えています。<br/>
+<br/>
+<br/>
+霜田　雅之<br/>
+国立国際医療研究センター研究所 膵島移植プロジェクト</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">②移植したバイオ人工膵島が長期生着するための研究</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">これまでの研究成果をつなぎ、迅速な対応を確立</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191025/gpfd_4d9bbef452eb9a091b3ed5bf2c297a5188ece996.png" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article">この研究では、作成された「バイオ人工膵島」を、十分なインスリン分泌量を維持しながら長期間生着するよう移植するために、移植部位や移植方法を研究します。<br/><br/>適切な位置に、適切な方法で移植しなければ、免疫反応（免疫細胞からの攻撃）によって壊されてしまったり、十分な量のインスリンが分泌できなくなってしまいます。</p>
+</div>
+<h3 class="gcf-ttl-h3">■これまでの研究結果・成果</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191025/gpfd_0af113a439dcfc45b02a8b01e143a89eb15897e6.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">バイオ人工膵島はカプセルで膵島を包むために、実際の膵島細胞より大きくなり移植部位には相当の容量が必要となります。<br/>
+<br/>
+この問題を解決するために腹腔内へ移植されますが、この移植法自体がバイオ人工膵島の長期生存を妨げることが判ってきました。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">■現在の状況</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191025/gpfd_5b7198ee60ea931453e90dca36058537d145ce99.png" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">免疫解析の結果、<br/>
+<br/>
+①早期に炎症を及ぼす免疫担当細胞<br/>
+②それらが分泌する細胞間伝達物質を含めた化学物質<br/>
+③ダメージを受けた細胞自体から出る有害物質<br/>
+<br/>
+が、腹腔内に移植されたバイオ人工膵島の長期生着を妨げられていることが分かりました。<br/>
+<br/>
+バイオ人工膵島が腹腔内以外で移植可能な部位を見つけ出し、移植後バイオ人工膵島の長期生着を目指します。</p>
+</div>
+</div>
+</div>
+<h3 class="gcf-ttl-h3">■患者・家族、寄附者の方々へ</h3>
+<div class="gcf-lyt-detail__block">
+<div class="lyt-image2">
+<div class="lyt-image2__image">
+<img alt="写真" src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191025/gpfd_eb8a3318c0b985306c4cac8a4b2ad8ee08d82c39.jpg" />
+</div>
+<div class="lyt-image2__content">
+<p class="gcf-txt">これまでご寄附頂きました研究助成金によって、福岡大学では中大型の動物実験を行い、前臨床試験による申請の準備をすすめています。<br/>
+<br/>
+さらに今回のプロジェクトでは、佐賀県と日本IDDMネットワークによって研究助成を頂いた施設間の導線をつなぐことを目指します。<br/>
+<br/>
+バイオ人工膵島を加工し提供するには、ブタ膵島の摘出・単離、カプセル化加工・培養、感染症検査、そして提供に至る各施設間での迅速な対応を系統的に確立しておく必要があります。<br/>
+<br/>
+加工されたバイオ人工膵島の提供をさらに加速化し、3年以内の提供実現を目指します。<br/>
+<br/>
+<br/>
+小玉　正太<br/>
+福岡大学 基盤研究機関再生医学研究所 所長<br/>
+福岡大学 医学部 再生・移植医学講座／応用再生医療開発講座 主任教授<br/>
+福岡大学病院 再生医療センター長</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">今後の研究開発スケジュールと寄附金の使い道</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191030/gpfd_6bdad28ef2dcb6a17db3deb205ba8c6427e92906.png" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-bx-fill">
+<h4 class="gcf-bx-fill__title">寄附金の使い道</h4>
+<div class="gcf-lyt-image">
+<div class="gcf-lyt-image__content">
+<p class="gcf-txt">■ 大型動物購入費： 600万円<br/>
+■ 管理飼育費： 200万円<br/>
+■ 手術室等施設使用料／手術器具：50万円<br/>
+■ 膵島単離費：100万円<br/>
+■ 投与薬剤：250万円<br/>
+■ 検査試薬・検体輸送量：100 万円<br/>
+■ 検査用機器の充足：200万円<br/>
+■ 各検査系の条件統一（人件費含む）：200万円<br/>
+■ 実際のDPF(国が定める感染症法に基づく特定病原体が存在しない状態)候補ブタ・国内養豚場の検体（主に膵臓）の検査による検査系の微調整と国内ブタの病原体感染状況の把握（人件費・調査費含む）にかかる費用：300万円<br/>
+<br/>
+総計：2000万円<br/>
+<br/>
+※目標額以上の金額が集まった場合は、一日も早い“1型糖尿病の根絶”に向けて他の研究支援に活用させていただきます。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">発症した子どもたちの思い</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191031/gpfd_b5bc413ef4f9f6becff5db01473c5d005ec31ca0.png" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191030/gpfd_90d1c470060e310aec9a85ff79c0d3f11cedf7af.png" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191030/gpfd_7e9e8c37ba22ba7cfa6f3508c816f2ee43a5f956.png" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191030/gpfd_1100f6c897e8047871f48b55b3ba5c908b615050.png" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">子どもたちのお母さんから</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191030/gpfd_3a51f5374d9826041e855f473389972078f8ed31.png" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191030/gpfd_441e716382727d08c894e83061ce5861a60360bc.png" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191030/gpfd_8a4a24518a4a79f3b2d23cbd0450b223fc7ec437.png" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191030/gpfd_7cb9f324dff282d7410604dae0231c4eeaf14071.png" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191030/gpfd_c437fa89c8cf083d3140896b65efbdcb236bfbad.png" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">寄附者の方から</span></h2>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191025/gpfd_fc7d5ab7b3ad4783624e63752e8a940f304f5435.png" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191025/gpfd_10dd003ce54fa501fb03d63a5d35ca04b17a4034.png" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191025/gpfd_213e296d28d41ab9ea991e3efd1ccb09c6c7c8e5.png" />
+</figure>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20191025/gpfd_7b463e97bbd1d951e21b220fd2678dfb62f5e00c.png" />
+</figure>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">日本IDDMネットワークから</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">当たり前の日常生活が送れるように</span></h3>
+<figure class="lyt-image">
+<img src="https://img.furusato-tax.jp/img/x/gcf/project/form/details/20190204/gpfd_1e1d45f1e454674e477b2f356ac38df3262fc438.jpg" />
+</figure>
+<p class="gcf-txt-article">今回のプロジェクトはバイオ人工膵島移植の本体となる重要な研究支援へのお願いです。<br/>
+<br/>
+これまでも多くの皆様からのご支援でバイオ人工膵島移植の要素技術である「移植用ブタの飼育施設」および「移植するブタ膵島の感染症検査技術」の開発、そして2019年の3月には「細胞加工センター（CPC）の建設」が完了しました。<br/>
+<br/>
+そしていよいよ、これらの技術・施設を活用し、バイオ人工膵島移植の臨床応用に向けた本格研究をスタートさせるところまでまいりました。<br/>
+<br/>
+2025年という私たちの掲げた『根治』の目標まで、あと5年です。<br/>
+<br/>
+皆様からの大きなご支援で、全ての1型糖尿病患者とその家族の夢の実現に向けて、最後の大きなハードルを越えさせてください。<br/>
+<br/>
+どうぞよろしくお願いいたします。<br/>
+<br/>
+<br/>
+認定特定非営利活動法人<br/>
+日本IDDMネットワーク<br/>
+理事長　井上 龍夫</p>
+<p class="gcf-txt-article">　</p>
+<h3 class="gcf-ttl-h3">■これまでご支援いただいたガバメントクラウドファンディング</h3>
+<p class="gcf-txt-article">　</p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.furusato-tax.jp/gcf/519">
+▶“不治の病”と生きる子どもたちに“治療”をー針を刺さなくていい日々を届けたいー</a></p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.furusato-tax.jp/gcf/420">▶一生、毎日5回の注射を打たなければならない「不治の病」から子ども達を助けたい </a></p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.furusato-tax.jp/gcf/262">▶こどもたちの「不治の病」を治すために、あなたのご支援が必要です</a></p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.furusato-tax.jp/gcf/224">▶子供達に”不治の病”を発症させない「ワクチン開発」への挑戦</a></p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.furusato-tax.jp/gcf/134">▶難病と闘う子供たち「毎日の治療」に伴う痛みを和らげるため、研究にご支援を</a></p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.furusato-tax.jp/gcf/77">▶子どもたちに注射ではなく「治る未来」を届けたい。</a></p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.furusato-tax.jp/gcf/55">▶難病の子どもたちを治療するために～免疫抑制剤のいらない膵島移植を目指して～</a></p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.furusato-tax.jp/gcf/37">▶難病の1型糖尿病の子どもたちを”治す”研究のために</a></p>
+<p class="mT8 gcf-txt"><a target="_blank" class="inline" href="https://www.furusato-tax.jp/gcf/5">▶ふるさと納税で難病の1型糖尿病が支援できます</a></p>
+<div class="gcf-lyt-detail__block">
+<div class="btn-wrap">
+<a class="btn-positive is-disable">プロジェクトは終了しました</a>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><div class="gcf-txt-link2 center detail_green" style="text-align: center;"><a href="#products_list">お礼の品を選んでこのプロジェクトへ寄附をする</a></div></p>
+</div>
+<p class="gcf-txt-article">　</p>
+<h2 class="gcf-ttl-h2"> <span class="gcf-ttl-h2__text">寄附（ふるさと納税）以外の支援方法</span></h2>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">SNSで応援</span></h3>
+<p class="gcf-txt-article">FacebookやTwitterなど日本IDDMネットワークのSNSアカウントをフォローし、投稿への「いいね」や「シェア」、「リツイート」などで情報拡散にご協力ください。</p>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt-article"><center><iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fjiddm.net%2F&amp;tabs=timeline&amp;width=300&amp;height=470&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId" width="300" height="470" frameborder="0" scrolling="no"></iframe><a class="twitter-timeline" href="https://twitter.com/IDDM_network?ref_src=twsrc%5Etfw" data-width="300" data-height="470">Tweets by IDDM_network</a>
+<script src="https://platform.twitter.com/widgets.js" async charset="utf-8"></script>
+</center></p>
+</div>
+<h3 class="gcf-ttl-h3--border"><span class="gcf-ttl-h3__text">お礼の品をご紹介</span></h3>
+</section>
+<div id="products_list" class="gcf-lyt-detail__block2">
+<ul class="goods_list">
+</ul><ul class="goods_list">
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/93939/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210108/pd_e75f6f1930ab24402c724a89a7f46cd7eca6bb67.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">風の牧場「牛の匠が作る本格カレー」</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から1か月前後で発送（レターパックでお送りします）
+※年末年始、GW、お盆とその前後は配達日指定不可。
+※地域によっては日時指定できないことがあります。 </p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>ピーナッツペースト、りんごピューレ</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、１万円以上のご寄附をいただいた方
+標高400ｍ、多良岳山麓、モーツアルトが流れる牛舎で愛情をかけて育てた自家産牛のお肉を、もっと多くの方々に手軽に味わっていただきたいーーそんな思いで開発を進めました。
+牛肉と牛スジがたっぷり入って食べ応えのある肉の食感と濃厚で複雑な味わい。それでいて、なめらかな口当たりとさっぱりなあと味。ぜひご賞味下さい。
+提供：風の牧場（鹿島市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/461140/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240216/pd_ed7c0283e12eb7200d23afaf47d721ec2b6b5a22.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">大富牧場フライング カウのプリン3 (6個入)</h4>
+<p class="goods-col_price inline">12,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から1か月前後で発送
+※年末年始、GW、お盆とその前後は配達日指定不可。
+※地域によっては日時指定できないことがあります。 </p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>卵・乳</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、1万2千円以上のご寄附をいただいた方
+朝、絞りたての生乳を使い、無添加、無着色、無香料にこだわった人に優しいプリンです。
+65℃の低温殺菌でより自然な風味を残し、ノンホモジナイズなので牛乳が自然にクリーム層とそうでない層に分かれます。
+フライングカウのプリン3は、焼きプリンで熟成式になっています。
+毎日、毎日味が変わります。お好きなタイミングでお楽しみください。
+製造・提供：大富牧場（三養基郡みやき町）
+※誠に申し訳ございませんが、離島への配送は行っていないため、ご了承ください。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4417322/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240104/pd_e87362b1fffc9d2d7442d614935bb34698eb1f97.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ななしま家 「コシヒカリ」5kg</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_message">のし</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から1か月前後で発送
+※年末年始、GW、お盆とその前後は配達日指定不可。
+※地域によっては日時指定できないことがあります。 </p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、1万5千円以上のご寄附をいただいた方
+「コシヒカリ」白米5kgです。
+発送日当日に精米を行います。
+【コシヒカリについて】
+米糖を肥料にして除草は人力と機械で行います。
+さっぱりとしたあと味と粘りが特徴のお米です。
+【ななしま家について】
+米どころ佐賀平野で、昔から「うまいお米」の産地として知られた三日月地区。
+安全・安心でおいしい米づくりに、熱き想いと更なる向上心で栽培に取り組んでいます。
+※お手元に届きましたら、表記してある方法に沿って保管をお願いします。
+提供：有限会社七島農産（佐賀県 小城市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/93940/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210108/pd_8a8f7e15c06e4bb170bc340c79f52a186995cebc.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">風の牧場「牛の匠が作る本格カレー」たっぷりセット</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から1か月前後で発送
+※年末年始、GW、お盆とその前後は配達日指定不可。
+※地域によっては日時指定できないことがあります。 </p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>ピーナッツペースト、りんごピューレ</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、３万円以上のご寄附をいただいた方
+カレーは、標高400ｍ、多良岳山麓、モーツアルトが流れる牛舎で愛情をかけて育てた自家産牛の牛肉と牛スジをたっぷり入れて作ったこだわりのカレーです。
+肉と牛スジがたっぷり入って食べ応え十分な肉の食感と濃厚で複雑な味わい。そしてなめらかな口当たりで後味がすっきりしています。
+【地場産品に該当する理由】
+本格カレー：告示第5条第3号：原材料の仕入から調理、調味、包装等の工程を佐賀県唐津市の宮島醤油株式会社に委託して行っている。
+お米：告示第5条第1号：佐賀県内で生産し、精米した品を佐賀県唐津市の宮島醤油株式会社に委託して包装している。
+提供：風の牧場（鹿島市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4416343/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240104/pd_bd64f950ed9e155e70a0e836ccfff2a8dfa01f93.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ななしま家 「さがびより」5kg×2袋</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>10月31日以前のお申込は、11月中旬以降新米を順次発送いたします。
+10月31日以降のお申込は、決済から1か月前後で発送いたします。
+※年末年始、GW、お盆とその前後は配達日指定不可。
+※地域によっては日時指定できないことがあります。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、3万円以上のご寄附をいただいた方
+【令和6年産新米】「さがびより」10kgです。新米収穫後に11月中旬頃より順次発送となるため、先行予約となります。
+七島農産さんのお米は九州コメサミットの（農薬：栽培期間中不使用）米の部において「優秀賞」に選ばれています。
+【ななしま家について】
+米どころ佐賀平野で、昔から「うまいお米」の産地として知られた三日月地区。
+おいしい米づくりに、熱き想いと更なる向上心で栽培に取り組んでいます。
+【さがびよりについて】
+佐賀で生まれた新品種で、2010年から毎年食味ランキング特Aを獲得しています。
+粒が大きく炊き上がりの艶やかさともっちりとした食感です。
+「佐賀県特別栽培農産物認証」を受けています。
+※お手元に届きましたら、表記してある方法に沿って保管をお願いします。
+提供：有限会社七島農産（佐賀県 小城市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4455563/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240104/pd_8756bc1326daeff59a661b14b4d0797e9d32b25f.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ななしま家 「夢しずく」と「さがびより」各5kg</h4>
+<p class="goods-col_price inline">30,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>10月31日以前のお申込は、11月中旬以降新米を順次発送いたします。
+10月31日以降のお申込は、決済から1か月前後で発送いたします。
+※年末年始、GW、お盆とその前後は配達日指定不可。
+※地域によっては日時指定できないことがあります。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、3万円以上のご寄附をいただいた方
+【令和6年産新米】「さがびより」と「夢しずく」各5kgです。新米収穫後に11月中旬頃より順次発送となるため、先行予約となります。
+発送日当日に精米を行います。
+また、七島農産さんのお米は九州コメサミットの（農薬：栽培期間中不使用）米の部において「優秀賞」に選ばれています。
+【ななしま家について】
+米どころ佐賀平野で、昔から「うまいお米」の産地として知られた三日月地区。
+おいしい米づくりに、熱き想いと更なる向上心で栽培に取り組んでいます。
+【夢しずくについて】
+「夢しずく」は佐賀県の品種です。
+冷めても粘りがあります。独特の甘味ともっちり感のあるお米です。
+「佐賀県特別栽培農産物認証」を受けております。
+【さがびよりについて】
+佐賀で生まれた新品種で、2010年から毎年食味ランキング特Aを獲得しています。
+粒が大きく炊き上がりの艶やかさともっちりとした食感です。
+「佐賀県特別栽培農産物認証」を受けています。
+※お手元に届きましたら、表記してある方法に沿って保管をお願いします。
+提供：有限会社七島農産（佐賀県 小城市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/93941/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210108/pd_0be93a03ff27f414398a539f618e4e2b8e5422ee.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">風の牧場「牛の匠が作る本格カレー」とこだわりお米セット</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から1か月前後で発送
+※年末年始、GW、お盆とその前後は配達日指定不可。
+※地域によっては日時指定できないことがあります。 </p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>ピーナッツペースト、りんごピューレ</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、５万円以上のご寄附をいただいた方
+カレーは、標高400ｍ、多良岳山麓、モーツアルトが流れる牛舎で愛情をかけて育てた自家産牛の牛肉と牛スジをたっぷり入れて作ったこだわりのカレーです。
+お米は、風の牧場の堆肥（有機肥料）を使ったこだわりの「ひのひかり」です。
+【地場産品に該当する理由】
+本格カレー：告示第5条第3号：原材料の仕入から調理、調味、包装等の工程を佐賀県唐津市の宮島醤油株式会社に委託して行っている。
+お米：告示第5条第1号：佐賀県内で生産し、精米した品を佐賀県唐津市の宮島醤油株式会社に委託して包装している。
+提供：風の牧場（鹿島市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/320470/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20200703/pd_eeace68be96e204739b30fcf420d2b20e83f8785.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有田焼 源右衛門窯「染錦水鳥図方皿」</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後、決済から1か月前後で発送
+※年末年始、GW、お盆とその前後は配達日指定不可。
+※地域によっては日時指定できないことがあります。 </p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、10万円以上のご寄附をいただいた方 
+水鳥をモチーフにした可愛らしいデザインです。源右衛門の代表的な梅の絵柄と、水鳥の絵を色鮮やかな濃（だみ）で表現した使い易いお皿です。
+［総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由］
+佐賀県内の伝統工芸品であり、原材料である陶土の仕入れ、成形、素焼き、釉薬掛け、本焼き、検品、梱包までの全ての工程を佐賀県有田内で行うことにより、相応の付加価値が生じているもの。
+製造：源右衛門窯（佐賀県有田町）
+提供：源右衛門窯（佐賀県有田町）／株式会社小島芳栄堂（佐賀県有田町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/459336/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190412/pd_1128c7c33d8cb914efead71bff1188f22634d5dd.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">白いきくらげ「白美茸（はくびたけ）」（乾燥）3袋</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から1か月前後で発送（レターパックプラスにて発送いたします）
+※年末年始、GW、お盆とその前後は配達日指定不可。
+※地域によっては日時指定できないことがあります。 </p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、1万円以上のご寄附をいただいた方
+豊かな自然と歴史・文化の街、唐津市で、農薬を使用せず栽培されています。
+白色でおしゃれに料理を彩り、さらには美容にも活用の幅を広げつつある「白いきくらげ『白美茸(はくびたけ)』」。
+従来の外国産のきくらげに比べ、肉厚でシャキシャキとした歯応え。栄養価が高く、コレステロール分は０。くせがなく、様々な料理にお使いいただけます。
+</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4413938/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240104/pd_4b6eefe77b59e48f9bf02785e9d5ab9b06ddbc1c.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ななしま家 「さがびより」5kg</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>10月31日以前のお申込は、11月中旬以降新米を順次発送いたします。
+10月31日以降のお申込は、決済から1か月前後で発送いたします。
+※年末年始、GW、お盆とその前後は配達日指定不可。
+※地域によっては日時指定できないことがあります。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、1万5千円以上のご寄附をいただいた方
+【令和6年産新米】「さがびより」5kgです。新米収穫後に11月中旬頃より順次発送となるため、先行予約となります。
+白米をご希望の方は、発送日当日に精米を行います。
+【ななしま家について】
+米どころ佐賀平野で、昔から「うまいお米」の産地として知られた三日月地区。
+おいしい米づくりに、熱き想いと更なる向上心で栽培に取り組んでいます。
+【さがびよりについて】
+佐賀で生まれた新品種で、2010年から毎年食味ランキング特Aを獲得しています。
+粒が大きく炊き上がりの艶やかさともっちりとした食感です。
+「佐賀県特別栽培農産物認証」を受けています。
+※お手元に届きましたら、表記してある方法に沿って保管をお願いします。
+提供：有限会社七島農産（佐賀県 小城市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4455559/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240104/pd_2450169681da5783320d9454da88f6e9ea0a5c83.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ななしま家のお米定期便 5kg×3回</h4>
+<p class="goods-col_price inline">45,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_period">定期</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>夢しずく：寄附入金後、随時（配送希望は定期便の開始月をご選択ください）
+さがびより：10月31日以前のお申込は、11月中旬以降新米を順次発送いたします。
+10月31日以降のお申込は、決済から1か月前後で発送いたします。
+配送希望は定期便の開始月をご選択ください。
+※年末年始、GW、お盆とその前後は配達日指定不可。
+※地域によっては日時指定できないことがあります。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、4万5千円以上のご寄附をいただいた方
+お米の定期便です。毎月1回、3か月間お送りします。お米の品種をお選びください。
+・夢しずく5kg　×3回
+※夢しずくは【令和5年度産】のお米です。随時発送となります。
+・さがびより5kg　×3回
+※さがびよりは【令和6年年度産新米】です。新米収穫後に11月中旬頃より順次発送となるため、先行予約となります。ご了承ください。
+発送日当日に精米を行います。
+毎月、月末に発送予定です。
+1回目の発送の際に、今後の発送スケジュールについてご報告いたします。
+【ななしま家について】
+米どころ佐賀平野で、昔から「うまいお米」の産地として知られた三日月地区。
+おいしい米づくりに、熱き想いと更なる向上心で栽培に取り組んでいます。
+【夢しずくについて】
+「夢しずく」は佐賀県の品種です。
+冷めても粘りがあります。独特の甘味ともっちり感のあるお米です。
+「佐賀県特別栽培農産物認証」を受けております。
+【さがびよりについて】
+佐賀で生まれた新品種で、2010年から毎年食味ランキング特Aを獲得しています。
+粒が大きく炊き上がりの艶やかさともっちりとした食感です。
+「佐賀県特別栽培農産物認証」を受けています。
+※お手元に届きましたら、表記してある方法に沿って保管をお願いします。
+提供：有限会社七島農産（佐賀県 小城市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4453619/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210108/pd_e43c8e954631a6be47c83f4a6e154e1054ea8d6f.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有田焼 源右衛門窯「染付梅地紋（梅型）鉢」</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後、1か月前後で発送
+※年末年始、GW、お盆とその前後は配達日指定不可。
+※地域によっては日時指定できないことがあります</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、10万円以上のご寄附をいただいた方
+源右衛門窯を代表する梅地紋の図柄の鉢です。
+いつでも、どんなシーンでも、活躍する器です。お刺身の盛り合わせ等色々ご使用下さい。
+［総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由］
+佐賀県内の伝統工芸品であり、原材料である陶土の仕入れ、成形、素焼き、釉薬掛け、本焼き、検品、梱包までの全ての工程を佐賀県有田内で行うことにより、相応の付加価値が生じているもの。
+製造：源右衛門窯（佐賀県有田町）
+提供：源右衛門窯（佐賀県有田町）／株式会社小島芳栄堂（佐賀県有田町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4455556/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20240104/pd_4c985dc7b79f993ef871fba14a1611d55dfbca8b.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ななしま家のお米定期便 5kg×5回</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_period">定期</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>夢しずく：寄附入金後、随時（配送希望は定期便の開始月をご選択ください）
+さがびより：10月31日以前のお申込は、11月中旬以降新米を順次発送いたします。
+10月31日以降のお申込は、決済から1か月前後で発送いたします。
+配送希望は定期便の開始月をご選択ください。
+※年末年始、GW、お盆とその前後は配達日指定不可。
+※地域によっては日時指定できないことがあります。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、10万円以上のご寄附をいただいた方
+毎月1回、5か月間お送りします。お米の品種をお選びください。
+・夢しずく5kg　×5回
+※「夢しずく」は【令和5年度産】のお米定期便です。随時発送となります。
+・さがびより5kg　×5回
+※「さがびより」は【令和6年年度産新米】のお米の定期便です。新米収穫後に11月中旬頃より順次発送となるため、先行予約となります。ご了承ください。
+発送日当日に精米を行います。
+七島農産さんのお米は九州コメサミットの（農薬：栽培期間中不使用）米の部において「優秀賞」に選ばれています。
+毎月、月末に発送予定です。
+1回目の発送の際に、今後の発送スケジュールについてご報告いたします。
+【ななしま家について】
+米どころ佐賀平野で、昔から「うまいお米」の産地として知られた三日月地区。
+おいしい米づくりに、熱き想いと更なる向上心で栽培に取り組んでいます。
+【夢しずくについて】
+「夢しずく」は佐賀県の品種です。
+冷めても粘りがあります。独特の甘味ともっちり感のあるお米です。
+「佐賀県特別栽培農産物認証」を受けております。
+【さがびよりについて】
+佐賀で生まれた新品種で、2010年から毎年食味ランキング特Aを獲得しています。
+粒が大きく炊き上がりの艶やかさともっちりとした食感です。
+「佐賀県特別栽培農産物認証」を受けています。
+※お手元に届きましたら、表記してある方法に沿って保管をお願いします。
+提供：有限会社七島農産（佐賀県 小城市）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4453621/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210108/pd_0c041a847aedd8febe3177b8cfc3aa6164036f63.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有田焼 源右衛門窯「染錦絵変り手造り湯呑」（5個）</h4>
+<p class="goods-col_price inline">400,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後、1か月前後で発送
+※年末年始、GW、お盆とその前後は配達日指定不可。
+※地域によっては日時指定できないことがあります。 </p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、40万円以上のご寄附をいただいた方
+源右衛門窯らしい染錦で鮮やかな手造り湯呑揃（5個セット）です。お茶.コーヒー.そば猪口として、ご使用下さい。
+［総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由］
+佐賀県内の伝統工芸品であり、原材料である陶土の仕入れ、成形、素焼き、釉薬掛け、本焼き、検品、梱包までの全ての工程を佐賀県有田内で行うことにより、相応の付加価値が生じているもの。
+製造：源右衛門窯（佐賀県有田町）
+提供：源右衛門窯（佐賀県有田町）／株式会社小島芳栄堂（佐賀県有田町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4606597/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211210/pd_f6fb1ae3c3ee45d4552021a49c06eb63fe5f15c3.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">佐賀牛煮込みハンバーグ・佐賀牛スジカレー・イタリアンカレー 手作りセット</h4>
+<p class="goods-col_price inline">20,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から1か月前後で発送
+※土曜、日曜、祭日、年末年始、GW、お盆とその前後は配達日指定不可。
+※地域によっては日時指定できないことがあります。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>卵、大豆、小麦、乳</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、2万円以上のご寄附をいただいた方
+佐賀牛を使った、ひとつひとつ手作りの商品です。
+野菜は唐津産を主に使用しています。保存料は入っていません。
+佐賀牛ハンバーグは、付け合わせの野菜まで味がしみこんでいています。
+佐賀牛スジカレーは、スパイスのきいたカレーになっています。
+イタリアンカレーは野菜も入っており、大人も子どもも楽しめる味です。
+日本各地からご注文いただいています。
+レトルトなので、温めてすぐに食べられるのもうれしい3種セットです。
+イエローキッチンは、障がい者の就労支援施設です。
+1型糖尿病の支援だけでなく、障がいのある方々の支援にも繋がります。
+［総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由］
+佐賀牛煮込みハンバーグ：原材料の仕入れから調理、調味、包装までを佐賀県唐津市の株式会社イエローキッチン内で行った品。
+佐賀牛スジカレー：原材料の仕入れから調理、調味、包装までを佐賀県唐津市の株式会社イエローキッチン内で行った品。
+イタリアンカレー：原材料の仕入れから調理、調味、包装までを佐賀県唐津市の株式会社イエローキッチン内で行った品。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4606347/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20211210/pd_b04521dee3df78616004ce441cdb09a21f43d4fb.png" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">佐賀牛煮込みハンバーグ・佐賀牛スジカレー 手作りレトルト佐賀牛セット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から1か月前後で発送
+※土曜、日曜、祭日、年末年始、GW、お盆とその前後は配達日指定不可。
+※地域によっては日時指定できないことがあります。</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>卵、大豆、小麦、乳</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、１万円以上のご寄附をいただいた方
+佐賀牛を使った、ひとつひとつ手作りのレトルトです。
+野菜は唐津産を主に使用しています。保存料は入っていません。
+佐賀牛スジカレーは、スパイスのきいたカレーになっています。
+日本各地からお取り寄せ承っております。
+イエローキッチンは、障がい者の就労支援施設です。
+1型糖尿病の支援だけでなく、障がいのある方々の支援にも繋がります。
+［総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由］
+原材料の仕入れから調理、調味、包装までを佐賀県唐津市の株式会社イエローキッチン内で行った品。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4614382/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210108/pd_62782b310a008053aff974b51bddc2672e4d35ef.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有田焼 青木清晃作 天目茶盌 「宙」</h4>
+<p class="goods-col_price inline">500,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後、2か月前後で発送
+※年末年始、GW、お盆とその前後は配達日指定不可。
+※地域によっては日時指定できないことがあります。 </p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、50万円以上のご寄附をいただいた方
+有田町で、初めての文化勲章受賞者 故青木龍山氏の孫として生まれた清晃氏の作品です。
+天目釉（ゆう）の中に青い空を模した色鮮やかな釉薬が、その存在を表しています。
+［総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由］
+佐賀県内の伝統工芸品であり、原材料である陶土の仕入れ、成形、素焼き、釉薬掛け、本焼き、検品、梱包までの全ての工程を佐賀県有田内で行うことにより、相応の付加価値が生じているもの。
+提供：株式会社小島芳栄堂（佐賀県有田町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4614383/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210108/pd_8ac99e10be04158225d2a6fbff4f415001bfa79a.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有田焼 青木清晃作 天目「宙」 ぐい呑</h4>
+<p class="goods-col_price inline">50,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+<li class="sendiconlist_item on_deliver">日指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>ご寄附の入金確認後、決済から2か月前後で発送いたします。ご了承ください。
+※年末年始、GW、お盆とその前後は配達日指定不可。
+※地域によっては日時指定できないことがあります。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、5万円以上のご寄附をいただいた方
+有田町で、初めての文化勲章受賞者故青木龍山氏の孫として生まれた清晃氏の作品です。
+天目釉（ゆう）の中に青い空を模した色鮮やかな釉薬が、その存在を表しています。
+［総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由］
+佐賀県内の伝統工芸品であり、原材料である陶土の仕入れ、成形、素焼き、釉薬掛け、本焼き、検品、梱包までの全ての工程を佐賀県有田内で行うことにより、相応の付加価値が生じているもの。
+提供：株式会社小島芳栄堂（佐賀県有田町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4650200/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210108/pd_89dfea84fe2c4a3878cf4f40a90a0195dcf1dc18.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">ミルン牧場 手作りのむヨーグルト＆チーズセット</h4>
+<p class="goods-col_price inline">15,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_cool">蔵</li>
+<li class="sendiconlist_item on_message">のし</li>
+<li class="sendiconlist_item on_deliver">旬指定</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>決済から1か月前後で発送
+※年末年始、GW、お盆とその前後は配達日指定不可。
+※地域によっては日時指定できないことがあります。 </p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>乳</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、1万5千円以上のご寄附をいただいた方
+佐賀県脊振（せふり）山系標高600mの高原にある自然豊かな自社牧場で、おいしい天然水や厳選した草や飼料を食べのびのびと健康に育った牛たちの搾りたて生乳だけを使用した手作りのヨーグルトやチーズです。
+合成着色料や香料、添加剤等も使用しておりません。
+ミルン牧場こだわりの乳製品をどうぞご賞味ください。
+製造/提供：有限会社ミルン牧場(佐賀県神埼市)
+［総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由］
+のむヨーグルト：原材料の仕入れから調理、調味、包装等の全工程を佐賀県神埼市の有限会社ミルン牧場内で行った品
+モッツアレラチーズ：原材料の仕入れから調理、調味、包装等の全工程を佐賀県神埼市の有限会社ミルン牧場内で行った品
+プレーンヨーグルト：原材料の仕入れから調理、調味、包装等の全工程を佐賀県神埼市の有限会社ミルン牧場内で行った品
+チーズ「薫る脊振」：原材料の仕入れから調理、調味、包装等の全工程を佐賀県神埼市の有限会社ミルン牧場内で行った品</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4685830/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210108/pd_bb3922ac37126e7fb97ef82c3eeae2785bd0b020.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">田島柑橘園 みかんとジュース年間定期便</h4>
+<p class="goods-col_price inline">150,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_frozen">凍</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>入金確認後、お申込みいただいたタイミングに合わせてお送りします。
+7月 贅沢搾りジュース５種類 セニョリータ陽子ほか6本セット　　
+8月 冷凍ジュース 150mL×6種類×2本（計12本）
+10月 温州ミカン 5kg
+12月 クレメンテイン 5kg
+1月 ななみちゃん味比べ 5kg</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、15万円以上のご寄附をいただいた方
+田島柑橘園で、丁寧に育てられたみかん。
+田島さんの畑はほかの畑よりも雑草が生い茂っていました。
+すべて手作業で刈り取ります。
+クレメンティンはヨーロッパで好評の柑橘。そのクレメンティンの味と香りに惚れて四十数年。
+完熟で収穫しています。香りがよく甘みと酸味のバランスが良いクレメンティンをお楽しみください。
+ミカンは小さいほど糖度が高く美味しくなります。より美味しくなるまでまってお送り致します。防腐剤も使っておりません。
+製造・加工：合同会社田島柑橘園＆加工所（佐賀県 藤津郡太良町）</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4723933/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20190730/pd_7c4d27e8451d02b8ee17de6dbb25c26faa50dee0.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有明の風 塩のり3袋セット</h4>
+<p class="goods-col_price inline">10,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">アレルギー表示：</span>本お礼の品は「乳糖」を含む製品を製造しているラインで製造しています。
+原材料の海苔はエビ、カニが生息する海域で採取しています。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、1万円以上のご寄附をいただいた方
+海苔漁師こだわりの品。
+口どけがよく香り高い、口に入れたらトロっと溶ける、旨みたっぷりな初摘みの海苔を使用しています。
+塩はミネラルを多く含んだ優しい塩加減。旨みのある自然海塩「石垣の塩」を焼き塩にして海苔の旨みを更に引き出しています。
+小さいお子様からご年配の方までお手軽に楽しみ頂けます。
+・サラダやパスタに散らすとより一層うま味が引き立ちます。
+・お酒のおつまみとしても好評で、特にチーズとの相性はgoodです。
+・JR九州の観光列車「ふたつ星４０４７」では“初摘みプレミアム焼きのり”が車内販売されており、車内で試食体験もできます。
+■塩のり　～選び抜いた石垣の塩～
+初摘み佐賀のりに合う塩を漁師自ら探し求めた、こだわりの塩のり。
+海水から作られたミネラル豊富な自然海塩「石垣の塩」で初摘みのりの美味しさがさらに際立ちます。
+＊本お礼の品は「乳糖」を含む製品を製造しているラインで製造しています。原材料の海苔はエビ、カニが生息する海域で採取しています。
+製造/提供：有明の風(佐賀県佐賀市)
+［総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由］
+原材料の仕入れ、調味、加工、包装等の全工程を佐賀県佐賀市西与賀町の有明の風の工場内で行った品。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4725323/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210111/pd_c6f415306b1aba1d210ff2488f8079f33fa5c09d.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">鍋島緞通 手刺繍鍋島緞通 座布団 蟹牡丹文中心柄 淡紺地（40×40cm）</h4>
+<p class="goods-col_price inline">100,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>随時</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>※すべて手作りのため、お申し込みから4～5カ月いただいています</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき、10万円以上のご寄附をいただいた方
+鍋島緞通を代表する図案である「蟹牡丹」。
+その中央部の牡丹を対角に配置した、密度の高い木綿でできた座布団です。
+※手刺繍製法で作られた緞通となります。
+［総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由］
+原材料の木綿は100％海外産(トルコ産)ですが、製造（織機による織り作業）は全て佐賀県佐賀市にて行われています。
+佐賀県伝統的地場産品指定の品です。</p>
+</div>
+</a>
+</li>
+<li class="goods-col">
+
+<a target="_self" href="/product/detail/41001/4726468/230">
+<div class="goods-col_img">
+<img src="https://img.furusato-tax.jp/img/x/product/details/20210111/pd_a60af5160a60fd0c8f13f995dc4cfb6214b3242c.jpg" alt="サンプル写真" class="goods-col_photo" decoding="async" />
+</div>
+<div class="goods-col_summary">
+<h4 class="goods-col_name">有田焼 柿右衛門窯 蕎麦猪口 大岩梅文 5個セット</h4>
+<p class="goods-col_price inline">600,000円</p><br class="sp" />
+<ul class="sendiconlist">
+<li class="sendiconlist_item on_normal">常温</li>
+<li class="sendiconlist_item on_giftwrap">ギフト包</li>
+<li class="sendiconlist_item on_message">のし</li>
+</ul>
+<div class="box08info02">
+<p class="infocont"><span class="infottl">申込：</span>通年</p>
+</div>
+<div class="box08info03">
+<p class="infocont"><span class="infottl">配送：</span>一つ一つ手作りの為、発送に6ヶ月ほどお時間がかかる場合があります。ご了承ください。</p>
+</div>
+<p class="goods-col_textinfo pc">【対象者の要件】寄附金の使途に認定特定非営利活動法人日本IDDMネットワークをお選びいただき60万円以上のご寄附をいただいた方
+柿右衛門様式の図柄の代表的な岩梅文を描き上げた蕎麦猪口5個揃いの器です。
+手に馴染みやすい形で、御料理の小鉢としても使え、一年を通してご利用いただける蕎麦猪口です。
+［総務省告示第百七十九号第五条に記載されている地場産品基準を満たす理由］
+佐賀県内の伝統工芸品であり、原材料である陶土の仕入れ、成形、素焼き、釉薬掛け、本焼き、検品、梱包までの全ての工程を佐賀県有田内で行うことにより、相応の付加価値が生じているもの。
+製造：柿右衛門窯（佐賀県有田町）
+提供：柿右衛門窯（佐賀県有田町）／株式会社小島芳栄堂（佐賀県有田町）</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="side">
+
+</div>
+</div>
+<div class="gcf-nv-tab__content js-tab-content js-progress-tab">
+<ul class="gcf-lst-bx" id="progress_list">
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2024年04月11日 10:25</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">ブタ膵島移植　臨床研究へ（読売新聞掲載）</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">　2024年4月10日読売新聞の一面に、ご支援をいただいた「バイオ人工膵島移植<br/>
+（膵島補充療法）」の記事が掲載されました。<br/>
+　霜田雅之国立国際医療研究センター・膵島移植企業連携プロジェクト長は「免<br/>
+疫抑制剤を使わないで済む可能性が高く、体への負担も軽い。インスリン注射な<br/>
+しで生活できる治療を目指したい」と語っておられます。<br/>
+　このプロジェクトリーダーである松本慎一神戸大客員教授は、「ブタのインス<br/>
+リンは、薬として広く使われてきた歴史があり、十分な効果が見込まれる」と語っ<br/>
+ておられます。<br/>
+　当方の理事長岩永は「患者は子供の頃からインスリン注射を毎日打たなくては<br/>
+ならず、本人も家族も負担が大きい。いつか治る病気にしてもらいたい」と2025<br/>
+年の実施に向けて大きな期待を寄せています。<br/>
+　研究資金が皆様からのふるさと納税などによる寄付であることにも触れられて<br/>
+います。<br/>
+　詳細は読売新聞をご覧いただければ幸いです。<br/>
+　タイトルは「糖尿病患者にブタの膵臓組織を移植、国際医療研など臨床研究…<br/>
+特殊カプセルに包み拒絶反応を防止」です。<br/>
+　引き続きご支援をよろしくお願い申し上げます。<br/>
+</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="3512" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="3512">1</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="3512">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F703%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2022年08月05日 09:35</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">【記事掲載のお知らせ】バイオ人工膵島移植のCPC（細胞加工施設）をご紹介します。</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20220805/t_5d7367133a0e72da928654684f166ea4acbeabda.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">1型糖尿病根治に最も近いと言われるバイオ人工膵島は「ブタの膵島を特殊なカプセルで包む」という過程が必要であり、その加工を行うのが細胞加工施設（Cell <br/>
+Processing <br/>
+Center、以下CPC）です。多くの方からいただいたご寄付により、2019年3月、国立国際医療研究センター内にCPCを建設することができました。<br/>
+<br/>
+バイオ人工膵島移植にはCPCが必要であること、そこで移植に必要な作業をすることはなんとなくわかっていましたが、実際にどのようなことをするのか、そしてまだ不足しているものがあるのかを、国立国際医療研究センター研究所の霜田雅之先生にうかがいました。<br/>
+<br/>
+ネイル（手袋に穴が開く）やつけまつげ（落ちるとまずい）をしているとCPCには入室できないなど、今まで知らなかった情報も教えていただきました。<br/>
+</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="https://press-iddm.net/other/5783/" target="_blank">記事全文はこちらからご覧ください。</a></li>
+<li class="gcf-txt-link"><a href="https://japan-iddm.net/japanprotocol2025/" target="_blank">バイオ人工膵島移植プロジェクトについてはこちらをご覧ください。</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="1665" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="1665">3</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="1665">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F703%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2022年06月09日 16:15</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">【イベントのご案内】サイエンスフォーラム2022　日帰りで受けられる膵島移植を目指して</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20220609/t_8867e88932207122d2005c14142d443fc0c44217.png" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">多くの皆様にご支援いただいた「バイオ人工膵島移植プロジェクト」は、ついに「治験（臨床研究）」を目指す段階に到達することができました。<br/>
+<br/>
+サイエンスフォーラム2022では、2025年の根治に向けて、そしてさらにその先の“希望する全ての1型糖尿病患者が、日帰りで受けられる膵島移植手術”を目指して、バイオ人工膵島移植実現を目指す研究者からその進捗と思いをお話しいただきます。<br/>
+<br/>
+サイエンスフォーラムは2022年6月18日（土）開催で、お申込みいただいた方は2週間WEBで視聴可能です（オンデマンド配信）。<br/>
+当日参加可能な方も、当日視聴できない方も、ぜひサイエンスフォーラムにお申し込みください。<br/>
+サイエンスフォーラムの見どころ紹介として、研究者の方々による研究の概要紹介も掲載しています。<br/>
+見どころ紹介もぜひご覧ください。<br/>
+<br/>
+URL：<br/>
+▼サイエンスフォーラムの見どころ紹介<br/>
+[https://press-iddm.net/diabetes/iddm/5681/] <br/>
+<br/>
+▼サイエンスフォーラムの詳細・お申込み<br/>
+[https://japan-iddm.net/sympo_2022_tokyo/] <br/>
+</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__block">
+<p class="gcf-txt">関連リンク</p>
+<ul class="mT8">
+<li class="gcf-txt-link"><a href="https://press-iddm.net/diabetes/iddm/5681/" target="_blank">▼サイエンスフォーラムの見どころ紹介</a></li>
+<li class="gcf-txt-link"><a href="https://japan-iddm.net/sympo_2022_tokyo/" target="_blank">▼サイエンスフォーラムの詳細・お申込み</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="1580" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="1580">1</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="1580">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F703%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2020年02月03日 14:58</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">ご支援いただいた皆様へ</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200203/t_240d6749ffbc1caa93555df76981582dc52b3756.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">このたびは「バイオ人工膵島移植プロジェクト」に多大なる研究支援を頂きまして、誠にありがとうございました。心から御礼申し上げます。<br/>
+<br/>
+「バイオ人工膵島移植プロジェクト」は医療用ブタから製造したバイオ人工膵島を、血糖コントロールが難しいインスリン注射が必要な患者さまに1日も早く提供する事が最終目的です。<br/>
+<br/>
+今回の課題は、日本IDDMネットワークによって研究助成を頂いた施設間の導線をつなぎ、連携するプロジェクトです。バイオ人工膵島を提供するには、ブタ膵臓の摘出、膵島の単離、カプセル化加工、培養、感染症検査、移植など各施設間での工程をそれぞれがしっかり行うとともに、全体として連携する必要があります。<br/>
+<br/>
+そんな折に今回のふるさと納税を活用したプロジェクトにより、多くの方々からご寄付を賜り、研究を継続することができるようになりました。<br/>
+<br/>
+当センターは福岡大学と共に実際にバイオ人工膵島移植を行う予定の医療施設です。この度の研究支援を受け、大動物実験をはじめプロジェクトの実現に向けた研究を推し進めます。今後ともご支援宜しくお願い致します。<br/>
+<br/>
+<br/>
+国立国際医療研究センター研究所 <br/>
+膵島移植プロジェクト長<br/>
+霜田　雅之</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="471" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="471">0</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="471">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F703%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2020年02月03日 14:55</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">ご支援いただいた皆様へ</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200203/t_bc289f9062a680ddf3f33927c1b3b5891ea50c0f.png" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">この度は「バイオ人工膵島移植プロジェクト」にさらなる研究支援を頂きまして、誠にありがとうございました。<br/>
+<br/>
+「バイオ人工膵島移植プロジェクト」はバイオ人工膵島を患者さまに一日も早く提供する事が最終目的です。しかしながら、4つの連携施設（福岡大学、国立国際医療研究センター、明治大学、京都府立大学）は各々で提供に向け、いくつもの研究課題を併せ持ち、多層構造でプロジェクトは進行しています。<br/>
+<br/>
+そのため提供に至るロードマップ上、各施設の成果と患者さまへの提供を行うために、導線を繋ぐプロジェクトが必要となっていました。今回のふるさと納税を活用した多くの方々からご寄付を賜り、プロジェクトを継続することができることとなりました。<br/>
+<br/>
+当施設は国立国際医療センターと共に実際にバイオ人工膵島移植を行う医療提供施設です。この度の研究支援を受け、大動物実験をはじめプロジェクトの完結に向けた、更なる研究の加速を図ります。<br/>
+<br/>
+<br/>
+福岡大学基盤研究機関再生医学研究所　所長<br/>
+福岡大学医学部再生・移植医学講座、応用再生医療開発講座 主任教授<br/>
+福岡大学病院再生医療センター　センター長<br/>
+小玉 正太</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="470" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="470">2</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="470">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F703%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2020年02月03日 14:54</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">「バイオ人工膵島移植の臨床応用に向けた本格研究のスタート」へのご支援、ご協力をありがとうございました。</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20200210/t_14dae5900c3fd5af8c0b2bd137b544e937b0911e.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">皆さまのおかげで目標金額2000万円を達成することができました。3ヶ月という短期間で最終的には2900万円を越える大きなご寄付をいただけたことに日本IDDMネットワークを代表して厚くお礼申し上げます。<br/>
+<br/>
+今回のふるさと納税により、これまでの皆さまからのご支援により昨年3月に完成したバイオ人工膵島移植のための鍵となる施設であるCPC（移植するブタの細胞を免疫作用から保護する特殊なカプセルへ加工する施設）を活用して、バイオ人工膵島移植の臨床応用に向けての本格的な研究がスタートできることになりました。<br/>
+<br/>
+研究者とともに一日も早いバイオ人工膵島移植の実用化に向けて頑張ってまいりますので、引き続きよろしくお願い申し上げます。<br/>
+<br/>
+<br/>
+2020年2月1日<br/>
+認定特定非営利活動法人日本ＩＤＤＭネットワーク<br/>
+理事長　井上龍夫<br/>
+</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="469" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="469">1</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="469">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F703%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+<li class="gcf-lst-bx__item">
+<div class="gcf-bx-info">
+<div class="gcf-bx-info__title-wrapper">
+<p class="gcf-bx-info__date txt-sub">2019年12月25日 18:41</p>
+<h3 class="gcf-bx-info__title"><span class="ttl-h3__text">達成のご報告とお礼</span></h3>
+</div>
+<div class="gcf-bx-info__border"></div>
+<div class="gcf-lyt-detail__block">
+<div class="gcf-lyt-detail__top">
+<div class="gcf-lyt-detail__top-image">
+<img alt decoding="async" src="https://img.furusato-tax.jp/img/x/gcf/project/progresses/20191225/t_c8bf96588f32fed7cd47c520ea09eb1926d848c9.jpg" />
+</div>
+<div class="gcf-lyt-detail__top-title">
+<p class="gcf-txt-article">このたびは「バイオ人工膵島移植の臨床応用に向けた本格研究のスタート」へのご支援、ご協力をありがとうございました。<br/>
+<br/>
+皆様のおかげで目標金額2000万円を達成することができました。多くの皆さまからのご支援によりここまで到達できたことに日本IDDMネットワークを代表してお礼を申し上げます。<br/>
+<br/>
+本プロジェクトはヒトではない異種動物（ブタ）の膵島（インスリンを作る膵臓内の細胞・組織）だけを取り出し、ヒトに移植して1型糖尿病の根治を目指す「バイオ人工膵島移植」実現への大きな挑戦です。<br/>
+<br/>
+2019年の3月にはバイオ人工膵島移植のための鍵となる施設CPC（ブタの細胞を移植するにあたって人に悪い影響を及ぼさないよう特殊なカプセルへ加工する施設）が国立国際医療研究センター（東京都）内に完成しました。いよいよ臨床応用に向けての研究が始動します。この画期的な医療技術が実現すれば、1型糖尿病はもちろん将来的には2型糖尿病含めた全ての糖尿病の根治という大きな可能性につながります。<br/>
+<br/>
+今回の目標金額は達成することはできましたが、一日も早い“1型糖尿病の根絶”に向けては、まだまだ資金が必要です。<br/>
+<br/>
+目標額以上のご支援に関しましては、他の研究支援にも活用させていただきますので、引き続きのご支援をよろしくお願い申し上げます。<br/>
+<br/>
+<br/>
+2019年12月25日<br/>
+認定特定非営利活動法人日本ＩＤＤＭネットワーク<br/>
+理事長　井上龍夫</p>
+</div>
+</div>
+</div>
+<div class="gcf-lyt-detail__read-more">
+<span>もっと見る</span>
+<i class="mf-arrow02-down"></i>
+</div>
+</div>
+
+<div class="gcf-lyt-detail_clap-button-wrapper">
+<p class="gcf-lyt-detail_clap-button-annotation">この進捗情報を読んで「エールを送りたい」<br class="sp" />と感じたらぜひ拍手を</p>
+<button data-id="422" class="js-clap-button gcf-lyt-detail_clap-button">
+<p class="gcf-lyt-detail_clap-image">
+<img class="not-clicked-image" src="/assets/images/gcf/pages/detail/clap.svg" alt decoding="async" />
+<img class="clicked-image" src="/assets/images/gcf/pages/detail/clicked-clap.svg" alt decoding="async" />
+</p>
+<p class="gcf-lyt-detail_clap-button-text">拍手する</p>
+<p class="js-clap-number gcf-lyt-detail_clap-number" data-id="422">1</p>
+<span class="gcf-lyt-detail_clap-tooltip">拍手するには<br/>ログインが必要です</span>
+</button>
+<p class="js-cheer-message cheer-message">拍手をありがとうございます。<br/>あなたのエールがプロジェクトの支えになります</p>
+</div>
+
+<div class="gcf-lyt-detail__comment" data-progress-id="422">
+<div class="gcf-lyt-detail__divider"></div>
+
+<div class="gcf-lyt-detail__comment-none">
+<div class="gcf-lyt-detail__comment-none-header">
+<i class="mf-opinion01"></i>
+<p>まだコメントはありません</p>
+</div>
+</div>
+
+
+
+
+<div class="gcf-lyt-detail__comment-not">
+<p>コメントを投稿するには、
+<a href="/login?backuri=%2Fgcf%2F703%23progress">ログイン</a>とプロジェクトへの寄付が必要になります。
+</p>
+</div>
+
+
+</div>
+</li>
+</ul>
+
+</div>
+<div class="gcf-nv-tab__content js-tab-content">
+<p class="gcf-nv-tab__title">佐賀県NPO支援</p>
+<div class="gcf-lyt-image js-toggle-container">
+<div class="gcf-lyt-image__content--reverse">
+<p class="gcf-nv-tab__text">佐賀県のふるさと納税は、皆様が支援したい佐賀県内のNPO等を指定して寄附することができます。 <br/>
+<br/>
+いただいたご寄附は、その額の95%をNPO等にお渡ししており、NPO等の大きな課題の一つである資金調達を可能にします。 <br/>
+<br/>
+佐賀県は、この仕組みによりNPO等が自ら考え行動する自発の地域づくりの促進を応援しています。</p>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</section>
+<form id="productSearchForm" method="GET" action="/gcf/usage">
+<div class="gcf-lyt-side">
+<ul class="gcf-lyt-side__banner">
+<li>
+<h2><a href="/gcf/about" class="cf" onclick="ga('send', 'event', 'linkgcf', '/gcf/about');"><img src="https://img.furusato-tax.jp/img/x/city/files/09367/bnr_about.png" alt="GCFとは？" /></a></h2>
+</li>
+</ul>
+
+<div class="gcf-lyt-side__modal js-message-modal">
+<div class="gcf-lyt-side__modal-inner">
+<h2 class="ttl-side"><i class="ttl-side__icon icn-message"></i><span class="ttl-side__text">このプロジェクトへの応援メッセージ</span></h2>
+<ul>
+<li class="gcf-bx-message">
+<p class="gcf-bx-message__text">私も1型糖尿病です、少しですが支援させて頂きます。</p>
+<p class="gcf-bx-message__date">2020年1月30日 21:08</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">娘が1型糖尿病を2年前に発症しました<br/>
+治療法の研究が進んでいくことに希望を持っています<br/>
+頑張ってください</p>
+<p class="gcf-bx-message__date">2020年1月29日 13:03</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">いつかかならず一型糖尿病が治る日がきますように</p>
+<p class="gcf-bx-message__date">2020年1月27日 20:18</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">寄付額が少なくて申し訳ないですが<br/>
+たくさん働いてまた寄付したいと思います。<br/>
+どうか、これからも私に代わって活動宜しくお願いします。</p>
+<p class="gcf-bx-message__date">2020年1月26日 22:34</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">活動がもっともっと広がる事を願っています。</p>
+<p class="gcf-bx-message__date">2020年1月25日 13:19</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">私は出産の際に一型糖尿病がわかりました。<br/>
+もう大人だったのでこの病気のことを理解することができましたし少し落ち込んだ後受け入れることにしました。何せ子供たちを育てなければいけなかったので覚悟がすぐ決まりました。<br/>
+理解の難しい年齢の子供たちが発症していること<br/>
+本当に親御さんも大変お辛い中の育児だと思います。<br/>
+周りの子とは違う注射生活を余儀なくされる子供たちをどうか救ってあげてください。毎日の管理が少しでも減って命が削られることなくみんなと同じように生きられますようにどうか力を貸してあげてください。</p>
+<p class="gcf-bx-message__date">2020年1月24日 16:23</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">針を刺さない治療が1日も早く実現しますように。</p>
+<p class="gcf-bx-message__date">2020年1月24日 9:58</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">毎年些少ですが応援させてもらっています。病気に苦しんでいる方々のために頑張ってください。</p>
+<p class="gcf-bx-message__date">2020年1月12日 1:00</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">低血糖激減プロジェクト</p>
+<p class="gcf-bx-message__date">2020年1月10日 11:21</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">家族に1型糖尿病患者がいます。<br/>
+老若男女、経済的状況に関わらず、1型糖尿病が根治される日が来ることを願っています。ささやかですが、応援しています。</p>
+<p class="gcf-bx-message__date">2020年1月9日 11:19</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">姪が1型糖尿病です。研究が進み、子供達の苦悩が無くなることを祈っております。</p>
+<p class="gcf-bx-message__date">2020年1月4日 13:43</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">私自身1型です。<br/>
+私は大人になってからの発症で恵まれた環境で過ごしてきたので不便に感じたことはなかったですが、子どもの頃から1型と付き合っている子は大変な思いをされていると思います。<br/>
+今1型で辛い思いをしている子、これから発症する子たちのためにも、いつか治る病気になりますように…！</p>
+<p class="gcf-bx-message__date">2019年12月31日 23:11</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">誰かの心に灯がともりますよう</p>
+<p class="gcf-bx-message__date">2019年12月31日 21:32</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">応援しています。1型糖尿病が治る未来が来るために、未来の人たちのために、今後もがんばってください。</p>
+<p class="gcf-bx-message__date">2019年12月31日 21:14</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">1型糖尿病の根治早期実現に期待しています。</p>
+<p class="gcf-bx-message__date">2019年12月31日 19:07</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">子供の為に頑張ってください！</p>
+<p class="gcf-bx-message__date">2019年12月31日 16:26</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">1日でも早く、治療法が見つかりますように。<br/>
+少しですが応援させていただきます。<br/>
+頑張って下さい。</p>
+<p class="gcf-bx-message__date">2019年12月31日 13:39</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">お役立て頂けましたら幸いです</p>
+<p class="gcf-bx-message__date">2019年12月31日 13:07</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">糖尿病を専門に関わっていますが、Ⅰ型の子ども達で複雑な悩みを持っている子も多々いらっしゃいます。そのような方に少しでも支援になればと思い、昨年に引き続き継続応援していきます。</p>
+<p class="gcf-bx-message__date">2019年12月31日 11:36</p>
+</li><li class="gcf-bx-message">
+<p class="gcf-bx-message__text">少しでも早く実現しますように祈っております。</p>
+<p class="gcf-bx-message__date">2019年12月31日 1:10</p>
+</li>
+</ul>
+<div class="gcf-lyt-side__link"><a href="/gcf/messages/list/703">もっと見る</a></div>
+</div>
+</div>
+
+
+
+<section class="gcf-lyt-side__beginer-guide beginer-guide">
+<h2 class="ttl-side">
+<i class="ttl-side__icon icn-about"></i>
+<span class="ttl-side__text">はじめての方へ</span>
+</h2>
+<ul>
+<li class="beginer-guide_item">
+<a class="hover" href="/about?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさと納税とは</h4>
+<p class="beginer-guide_item_txt">誰もが簡単にふるさと納税できるよう、寄付の仕方や税金控除など仕組みを紹介しています。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/simulation?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">控除金額シミュレーション</h4>
+<p class="beginer-guide_item_txt">ふるさと納税を実質2,000円でするために、あなたの控除上限額を調べてみましょう。</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="/about/choice?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">ふるさとチョイスの特長</h4>
+<p class="beginer-guide_item_txt">57万点以上のお礼の品を紹介する「掲載数No.1※」のふるさと納税総合サイトです。<br/>※2023年9月 JMRO調べ</p>
+</a>
+</li>
+<li class="beginer-guide_item">
+<a class="hover" href="https://www.faq.furusato-tax.jp?for-first" target="_blank">
+<h4 class="beginer-guide_item_title">よくある質問</h4>
+<p class="beginer-guide_item_txt">ふるさと納税制度や寄付の方法、さらにサイトの利用方法まで、あなたの疑問を解決します。</p>
+</a>
+</li>
+</ul>
+</section>
+<button type="button" class="gcf-btn-message js-toggle-modal-btn sp">
+<span class="gcf-btn-message__inner--open">
+<span class="gcf-btn-message__text">応援<br/>メッセージ</span>
+</span>
+<span class="gcf-btn-message__inner--close">
+<span class="gcf-btn-message__text">閉じる</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="payment-method">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">対応している決済方法</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="contact" id="contact" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">お問い合わせ先</p>
+<div class="contact">
+<p>内容によりお問い合わせ先が異なる場合がございます。</p>
+<section>
+<h3>ふるさとチョイスの使い方</h3>
+<p><a href="https://www.faq.furusato-tax.jp/" class="inline">ふるさとチョイスのよくある質問</a>でご案内しています</p>
+</section>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component" data-modal-id="new-year-holiday-delivery">
+<div class="modal-component__overlay"></div>
+<div class="modal-component__container">
+<div class="modal-component__x"></div>
+<div class="modal-component__body -size-m">
+<div class="modal-component__main">
+<div class="modal-component__content">
+<p class="modal-component__title">年末年始の配送</p>
+<div class="new-year-holiday-delivery">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="new-year-holiday-onestop" id="new-year-holiday-onestop" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content" data-switch-id="content">
+<p class="modal-component__title">ワンストップ特例申請書の郵送</p>
+<div class="new-year-holiday-onestop">
+<ul>
+<li>
+<a href="https://www.furusato-tax.jp/about/onestop" target="_blank" class="inline">・ワンストップ特例申請とは</a>
+</li>
+<li>
+<a href="https://www.furusato-tax.jp/img/onestop/onestop_myNumber_form.pdf?20" target="_blank" class="inline not-available-in-mobile-app">・ワンストップ特例申請書ダウンロード</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="modal-component--new__content" data-switch-id="warning">
+<p class="modal-ex-link__text">アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-submit-completed" id="comment-submit-completed" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-submit-completed-modal__content">
+<p class="modal-component__title">コメント投稿をありがとうございます！</p>
+<p class="modal-component__main-title">あなたのその想いが<br/>プロジェクトを動かしています。</p>
+<div class="modal-component__image">
+<img src="/assets/images/gcf/pages/detail/comment-submit-completed.png" alt decoding="async" />
+</div>
+<p>投稿は順次、進捗情報ページへ反映されます。<br/>反映まで数日かかることがあります。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-submit-completed-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="comment-delete-confirm" id="comment-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="comment-delete-confirm">
+<p class="modal-component__title">このコメントを削除してよろしいですか？</p>
+<p>コメントに返信がある場合、返信も全て削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer comment-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-comment-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="reply-delete-confirm" id="reply-delete-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="reply-delete-confirm">
+<p class="modal-component__title">この返信を削除してよろしいですか？</p>
+<p>この返信1件のみが削除されます。</p>
+</div>
+</div>
+<div class="modal-component--new__footer reply-delete-confirm-modal__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">戻る</span></button>
+<button type="button" class="modal-component--new__button gcf-btn-positive js-reply-delete-confirm"><span class="btn-normal__text">削除する</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="donation-type-confirm" id="donation-type-confirm" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-s">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<p class="modal-component__title">佐賀県NPO支援の寄付</p>
+</div>
+<div class="modal-component--new__footer donation-type-confirm-modal__footer">
+<a class="modal-component--new__button gcf-btn-positive" href="/city/donation/41001/230?from=2&amp;gcf_project_id=703"><span class="btn-normal__text">ふるさと納税で寄付する</span></a>
+<a href="#products_list" class="js-btn-close donation-type-confirm-modal__footer-link js-products-anchor">
+<i class="mf-arrow02-right"></i>
+<span>お礼の品を選んで寄付する</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-global footer--gcf">
+<div class="btn-pagetop"><a class="btn-pagetop__link" href="#wrap"><span class="btn-pagetop__text">ページ上部へ</span></a></div>
+<div><a class="pagetop js-pagetop" href="#wrap">▲&nbsp;ページ上部へ戻る</a></div>
+<section class="footer-performance footer-performance--gcf">
+<a href="/gcf/about?gcffooter-belt" class="footer-performance__link">
+<div class="footer-performance__inner">
+<div class="footer-title-logo">
+<h3 class="footer-title-logo__title">
+<span>ふるさとチョイスガバメントクラウドファンディング&reg;の実績</span>
+<small>※2024年06月12日現在</small>
+</h3>
+</div>
+<ul class="footer-performance__list">
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施された<br/>プロジェクト総数</p>
+<div class="achievement">
+<span class="number">2,730</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>実施した<br/>自治体総数</p>
+<div class="achievement">
+<span class="number">660</span>超
+</div>
+</div>
+</li>
+<li>
+<div class="footer-performance__list__achievement">
+<p>ご応募いただいた<br/>寄付総額</p>
+<div class="achievement">
+<span class="money">17,770,521,938</span>円
+</div>
+</div>
+</li>
+</ul>
+</div>
+</a>
+</section>
+<div class="footer-inner">
+<nav class="footer-nav">
+<ul class="gcf-lst-nv">
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/project?gcffooter">プロジェクトをさがす</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/messages/list?gcffooter">応援メッセージ</a></li>
+<li class="gcf-lst-nv__content"><a class="footer-title" href="/gcf/about?gcffooter">GCF&reg;とは</a></li>
+</ul>
+</nav>
+<div class="footer-nav gcf-lyt-footer__nav-list">
+<div class="footer-nav__wrap">
+<h3 class="footer-title">カテゴリー</h3>
+<ul class="gcf-lyt-footer__categories">
+<li><a href="/gcf/project/category/1017">まちづくり</a></li>
+<li><a href="/gcf/project/category/1018">子ども・教育</a></li>
+<li><a href="/gcf/project/category/1019">食・農林水産業・商工業</a></li>
+<li><a href="/gcf/project/category/1020">観光・PR</a></li>
+<li><a href="/gcf/project/category/1021">新産業・地域創生</a></li>
+<li><a href="/gcf/project/category/1022">健康・福祉</a></li>
+<li><a href="/gcf/project/category/1023">伝統・文化・歴史</a></li>
+<li><a href="/gcf/project/category/1024">自然・環境</a></li>
+<li><a href="/gcf/project/category/1025">災害</a></li>
+<li><a href="/gcf/project/category/1026">動物</a></li>
+<li><a href="/gcf/project/category/1027">その他</a></li>
+</ul>
+</div>
+<div class="footer-nav__wrap">
+<h3 class="footer-title">タグ</h3>
+<ul class="gcf-lyt-footer__tags">
+<li><a href="/gcf/project/tag/1028">まちづくり・コミュニティ</a></li>
+<li><a href="/gcf/project/tag/1029">インフラ・交通・施設</a></li>
+<li><a href="/gcf/project/tag/1030">防災・公衆衛生</a></li>
+<li><a href="/gcf/project/tag/1031">ジェンダー</a></li>
+<li><a href="/gcf/project/tag/1032">平和</a></li>
+<li><a href="/gcf/project/tag/1033">子ども・教育</a></li>
+<li><a href="/gcf/project/tag/1034">食</a></li>
+<li><a href="/gcf/project/tag/1035">山・農業</a></li>
+<li><a href="/gcf/project/tag/1036">海・漁業</a></li>
+<li><a href="/gcf/project/tag/1037">森林・林業</a></li>
+<li><a href="/gcf/project/tag/1038">観光・PR</a></li>
+<li><a href="/gcf/project/tag/1039">起業</a></li>
+<li><a href="/gcf/project/tag/1040">移住定住</a></li>
+<li><a href="/gcf/project/tag/1041">技術革新/イノベーション</a></li>
+<li><a href="/gcf/project/tag/1042">エネルギー</a></li>
+<li><a href="/gcf/project/tag/1043">グローバル化</a></li>
+<li><a href="/gcf/project/tag/1044">働き方・雇用</a></li>
+<li><a href="/gcf/project/tag/1045">モノの生産・消費</a></li>
+<li><a href="/gcf/project/tag/1046">経済</a></li>
+<li><a href="/gcf/project/tag/1047">健康・医療</a></li>
+<li><a href="/gcf/project/tag/1048">スポーツ</a></li>
+<li><a href="/gcf/project/tag/1049">福祉・障がい</a></li>
+<li><a href="/gcf/project/tag/1050">貧困</a></li>
+<li><a href="/gcf/project/tag/1051">不平等・格差</a></li>
+<li><a href="/gcf/project/tag/1052">伝統・文化</a></li>
+<li><a href="/gcf/project/tag/1053">歴史</a></li>
+<li><a href="/gcf/project/tag/1054">自然・環境</a></li>
+<li><a href="/gcf/project/tag/1055">自然遺産</a></li>
+<li><a href="/gcf/project/tag/1056">災害</a></li>
+<li><a href="/gcf/project/tag/1057">動物</a></li>
+<li><a href="/gcf/project/tag/1058">その他</a></li>
+</ul>
+</div>
+</div>
+<div class="gcf-lyt-footer__sns">
+<h3 class="footer-title">公式SNSチャンネル</h3>
+<ul>
+<li><a href="https://www.facebook.com/furusatotax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'facebook'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'facebook'});"><img src="/img/icon/sns/white/facebook.svg" alt="facebook" />Facebook</a></li>
+<li><a href="https://line.me/R/ti/p/%40kpm2405v" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'line'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'line'});"><img src="/img/icon/sns/white/LINEat.svg" alt="line@" />LINE@</a></li>
+<li><a href="https://twitter.com/furusato_tax/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'twitter'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'twitter'});"><img src="/assets/images/common/icon/x_white.svg" alt="X" decoding="async" />X（旧Twitter）</a></li>
+<li><a href="https://www.instagram.com/furusato_choice/?gcffooter" target="_blank" onclick="ga('send', 'event', 'sns', 'click', 'instagram'); dataLayer.push({'event':'custom_event', 'event_category':'sns', 'event_action':'click', 'event_label':'instagram'});"><img src="/img/icon/sns/white/Instagram.svg" alt="instagram" />Instagram</a></li>
+</ul>
+</div>
+<div class="gcf-lyt-footer__banner">
+<a href="https://www.furusato-tax.jp/feature/a/furusato-choice_column-vol1" target="_blank">
+<img src="/gcf/images/footer_banner_column.jpg" alt="連載コラム ふるさと納税はガバメントクラウドファンディング&reg;（GCF&reg;）だ！" />
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-button tab">
+<button type="button" id="toggle-view" class="footer-button__link">PC表示に切り替える</button>
+</div>
+<div class="footer-inner">
+<div class="footer-bottom__left">
+<a href="https://www.trustbank.co.jp/" target="_blank"><img class="footer-logo lazyload" src="/assets/images/util/empty.gif" data-src="/img/module/logo_tb_wh.svg" alt="TRUST BANK" /></a>
+<div class="footer-section">
+<ul>
+<li><a href="https://www.furusato-tax.jp/">ふるさとチョイス</a></li>
+<li><a href="/gcf/" target="_blank">ガバメントクラウドファンディング</a></li>
+<li><a href="/saigai/" target="_blank">災害支援</a></li>
+<li><a href="/enterprise/" target="_blank">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="https://yomu.furusato-tax.jp/" target="_blank">読むふるさとチョイス</a></li>
+<li><a href="/kifutabi/" target="_blank">チョイストラベル</a></li>
+<li><a href="/choiceeds/" target="_blank">CHOICEEDS</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<ul>
+<li><a href="/donationtojapan/en/" target="_blank" hreflang="en">Donation to Municipality(外国語寄付受付)</a></li>
+<li><a href="https://www.trustbank.co.jp/tbbase/" target="_blank">TB base</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom__right">
+<div class="footer-sign">
+<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;" style="width:130px; height:66px">
+<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="SSL GMOグローバルサインのサイトシール" onclick="ss_open_profile()" style="cursor:pointer; border:0; width:100%" />
+</div>
+<script defer="defer">
+    window.addEventListener('load', () => {
+      let s = document.createElement('script');
+      s.src = 'https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png';
+      document.body.appendChild(s);
+    });
+  </script>
+</div>
+<a class="footer-privacy" href="https://privacymark.jp/" target="_blank"><img class="lazyload" src="/assets/images/util/empty.gif" data-src="/assets/images/common/privacy_mark.svg" alt="たいせつにします プライバシー" width="60" /></a>
+<p class="footer-sign__text">本サイトでの寄付者様の個人情報はグローバルサインのSSLにより保護しており、グローバルサインの認証情報によりサイトの運営者、企業・組織の法的実在性、物理的実在性を証明しています。</p>
+</div>
+<div class="footer-info">
+<ul>
+<li><a href="https://www.trustbank.co.jp/about/" target="_blank">会社概要</a></li>
+<li><a href="https://www.trustbank.co.jp/newsroom/newsrelease/" target="_blank">ニュースリリース</a></li>
+<li><a href="/agreement/link" target="_blank">リンクについて</a></li>
+<li><a href="/agreement/policy" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://www.trustbank.co.jp/cookie/" target="_blank">クッキーポリシー</a></li>
+<li><a href="/agreement/terms" target="_blank">利用規約・動作環境・商標等</a></li>
+<li><a href="/contact" target="_blank">お問い合わせ</a></li>
+<li><a href="/newstopics/list/notifications" target="_blank">お知らせ</a></li>
+</ul>
+<small>&copy; 2012 TRUSTBANK, Inc. </small>
+</div>
+</div>
+</div>
+<div class="ex-link">
+<div class="modal" style="display: none;">
+<div class="modal_bg js-close-modal"></div>
+<div class="modal_content">
+<h6 class="modal_title">外部サイトへ移動します。</h6>
+<p class="modal_lead"><span class="tab-block">これから先は、ふるさとチョイス外のサイトに移動します。</span><span class="tab-block">宜しければ下記のリンクをクリックしてください。</span></p>
+<a class="inline" target="_blank" href></a>
+<p class="text-center mT24"><a class="btn--brdred js-close-modal">閉じる</a></p>
+</div>
+</div>
+</div>
+<div class="modal-window" id="more_6like">
+<div class="modal-inner">
+<h4 class="modal_title">お気に入り登録数が上限を超えました。会員登録もしくはログインをすることでお気に入り登録数を増やすことが可能です。会員登録もしくはログインをしてください。</h4>
+<p class="text-center"><a class="btn--brdred" href="/user/registration">会員登録はこちら</a></p>
+<div class="text-center"><a class="btn_back-area inline">»&nbsp;閉じる</a></div>
+</div>
+</div>
+<div class="modal-component--new" data-modal-id="not-available-in-mobile-app" id="not-available-in-mobile-app" aria-modal="true" role="dialog">
+<button type="button" class="modal-component--new__overlay"><span>閉じる</span></button>
+<div class="modal-component--new__container">
+<button type="button" class="modal-component--new__x"><span>閉じる</span></button>
+<div class="modal-component--new__body -size-m">
+<p class="modal-component--new__scroll-icon"><span>スクロールできます</span></p>
+<div class="modal-component--new__main">
+<div class="modal-component--new__content">
+<p>アプリでは使用できない機能になります。ブラウザ版からお試しください。</p>
+</div>
+</div>
+<div class="modal-component--new__footer">
+<div class="modal-component--new__button-wrap">
+<button type="button" class="modal-component--new__button btn-normal js-btn-close"><span class="btn-normal__text">閉じる</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="https://log.gs3.goo.ne.jp/js/trust/gssa.js"></script>
+<script>
+//GSSAタグ
+GSSA.set("action",   "click");
+GSSA.set("item",     "g703,1,0");
+GSSA.set("amount",   "0");
+GSSA.send();
+</script>
+</body>
+</html>
